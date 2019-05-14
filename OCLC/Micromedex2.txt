@@ -1,0 +1,6 @@
+Option domaincookieonly
+T Micromedex
+U http://www.thomsonhc.com/micromedex2/librarian
+DJ thomsonhc.com
+Option Cookie
+ProxyHostnameEdit www.thomsonhc.com$ www-thomsonhc-com

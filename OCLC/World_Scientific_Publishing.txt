@@ -1,0 +1,8 @@
+Title World Scientific Publishing (updated 20181130)
+URL https://www.worldscientific.com/
+HJ worldscientific.com
+HJ worldscinet.com
+HJ www.worldscientific.com
+HJ www.worldscinet.com
+DJ worldscientific.com
+DJ worldscinet.com

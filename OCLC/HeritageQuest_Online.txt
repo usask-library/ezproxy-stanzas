@@ -1,0 +1,5 @@
+Title HeritageQuest Online
+URL https://www.heritagequestonline.com
+HJ https://www.heritagequestonline.com
+DJ heritagequestonline.com
+NeverProxy ancestryheritagequest.com

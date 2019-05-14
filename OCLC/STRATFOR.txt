@@ -1,0 +1,4 @@
+Title STRATFOR
+URL https://www.stratfor.com/
+HJ www.stratfor.com
+DJ stratfor.com

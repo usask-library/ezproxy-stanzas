@@ -1,0 +1,9 @@
+Title Royal Aeronautical Society (updated 20170719)
+URL https://www.aerosociety.com/
+HJ aerosociety.com
+HJ https://aerosociety.com
+HJ https://portal.aerosociety.com
+HJ https://www.aerosociety.com
+HJ portal.aerosociety.com
+HJ www.aerosociety.com
+DJ aerosociety.com

@@ -1,0 +1,5 @@
+Title Ebook Central Patron Login
+URL https://ebookcentral.proquest.com/lib/YOURSITE
+HJ http://ebookcentral.proquest.com/lib/YOURSITE
+DJ ebookcentral.proquest.com
+NeverProxy acs.ebookcentral.proquest.com

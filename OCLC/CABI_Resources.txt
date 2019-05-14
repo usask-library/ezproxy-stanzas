@@ -1,0 +1,12 @@
+Title CABI Resources (updated 20180317)
+URL https://www.cabdirect.org/
+HJ https://cabi.org
+HJ https://www.cabi.org
+HJ cabdirect.org
+HJ cabi.org
+HJ https://cabdirect.org
+HJ https://www.cabdirect.org
+HJ www.cabdirect.org
+HJ www.cabi.org
+DJ cabdirect.org
+DJ cabi.org

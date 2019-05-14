@@ -1,0 +1,7 @@
+Title Pronunciator
+URL https://learning.pronunciator.com/getstarted.php?
+library_id=<LIBRARY_ID>
+HJ learning.pronunciator.com
+HJ https://www.pronunciator.com
+HJ www.pronunciator.com
+RedirectSafe pronunciator.com

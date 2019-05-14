@@ -1,0 +1,10 @@
+#
+# Name: English Historical Documents Online (EHD)
+# URL: https://www.englishhistoricaldocuments.com/help-and-information/faqs#access
+#
+HTTPHeader Access-Token
+ProxyHostnameEdit www.englishhistoricaldocuments.com$ www-englishhistoricaldocuments-com
+T English Historical Documents
+U http://www.englishhistoricaldocuments.com
+HJ www.englishhistoricaldocuments.com
+DJ englishhistoricaldocuments.com

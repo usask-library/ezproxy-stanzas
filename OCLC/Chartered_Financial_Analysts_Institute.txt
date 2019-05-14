@@ -1,0 +1,5 @@
+Title Chartered Financial Analysts Institute (updated 20180726)
+URL https://www.cfapubs.org/
+HJ http://www.cfapubs.org/
+HJ www.cfapubs.org
+DJ cfapubs.org

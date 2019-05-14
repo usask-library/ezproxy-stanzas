@@ -1,0 +1,7 @@
+#
+# Name: AACC Methods Online: American Association of Cereal Chemists
+#
+T American Association of Cereal Chemists
+U http://www.aaccnet.org/
+H www.aaccnet.org
+DJ aaccnet.org

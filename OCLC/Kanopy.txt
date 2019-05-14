@@ -1,0 +1,9 @@
+Title Kanopy Streaming (updated 20180418)
+URL http://<Institution_ID>.kanopystreaming.com
+H https://<Institution_ID>.kanopystreaming.com
+D kanopystreaming.com
+
+Title Kanopy (updated 20180418)
+URL http://<Institution_ID>.kanopy.com
+H https://<Institution_ID>.kanopy.com
+D kanopy.com

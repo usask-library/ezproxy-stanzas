@@ -1,0 +1,7 @@
+Title SPIE Digital Library
+URL https://www.spiedigitallibrary.org
+HJ www.spiedigitallibrary.org
+HJ datacoll.spie.org
+HJ login.spie.org
+DJ spiedigitallibrary.org
+DJ spie.org

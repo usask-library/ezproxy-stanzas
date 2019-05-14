@@ -1,0 +1,5 @@
+Option CookiePassThrough
+Title Malaysiakini (updated 20120104)
+URL http://www.malaysiakini.com
+Domain malaysiakini.com
+Option Cookie

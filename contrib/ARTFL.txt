@@ -1,0 +1,8 @@
+#
+# Name:
+# URL: https://artfl-project.uchicago.edu/content/frequently-asked-questions
+#
+T ARTFL Project
+U http://artfl-project.uchicago.edu/ARTFL.html
+HJ artfl-project.uchicago.edu
+DJ uchicago.edu

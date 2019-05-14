@@ -1,0 +1,7 @@
+#
+# Name: Scholars Portal (Books, Journals, GeoPortal, RACER, DataVerse)
+#
+Title Scholars Portal
+URL https://scholarsportal.info/
+DJ scholarsportal.info
+NeverProxy acs.scholarsportal.info

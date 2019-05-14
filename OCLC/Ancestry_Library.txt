@@ -1,0 +1,5 @@
+Title Ancestry Library
+URL https://ancestrylibrary.proquest.com
+HJ https://ancestrylibrary.proquest.com
+DJ ancestrylibrary.proquest.com
+NeverProxy www.ancestrylibrary.com

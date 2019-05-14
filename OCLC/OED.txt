@@ -1,0 +1,11 @@
+Title Oxford English Dictionary (OED) (updated 20190410)
+HTTPHeader -request -process X-Requested-With
+URL https://www.oed.com
+HJ https://oed.com
+HJ www.oed.com
+HJ dictionary.oed.com
+HJ english.oxforddictionaries.com
+HJ oed.com
+HJ oxforddictionaries.com
+DJ oed.com
+DJ oxforddictionaries.com

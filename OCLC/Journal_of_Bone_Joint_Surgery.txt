@@ -1,0 +1,9 @@
+Title The Journal of Bone & Joint Surgery (updated 20150527)
+URL http://jbjs.org/
+HJ www.jbjs.org
+HJ surgicaltechniques.jbjs.org
+HJ caseconnector.jbjs.org
+HJ www.ejbjs.org
+HJ www2.ejbjs.org
+DJ jbjs.org
+DJ ejbjs.org

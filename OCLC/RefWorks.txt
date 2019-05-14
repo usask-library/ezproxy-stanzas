@@ -1,0 +1,34 @@
+Option DomainCookieOnly
+Title RefWorks
+URL http://www.refworks.com/Refworks/
+HJ https://refworks.com
+HJ https://www.refworks.com
+HJ refworks.com
+HJ www.refworks.com
+DJ refworks.com
+Find &url=http://
+Replace &url=http://^A
+Find &url=https://
+Replace &url=https://^A
+Option Cookie
+
+#New RefWorks Interface 3/2016 Refworks recommends having both old and new configs in place
+Option DomainCookieOnly
+Title RefWorks
+URL http://refworks.proquest.com
+HJ https://refworks.proquest.com
+DJ refworks.proquest.com
+Find &url=http://
+Replace &url=http://^A
+Find &url=https://
+Replace &url=https://^A
+Option Cookie
+
+# Canadian sites that access RefWorks through Scholars Portal also need to add this definition
+Option DomainCookieOnly
+Title Scholars Portal RefWorks
+URL http://refworks.scholarsportal.info/Refworks/
+DJ scholarsportal.info
+Find &url=http://
+Replace &url=http://^A
+Option Cookie

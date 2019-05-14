@@ -1,0 +1,35 @@
+# ClinicalKey
+HTTPMethod PUT
+HTTPMethod DELETE
+HTTPHeader CkApp-Request-Product
+HTTPHeader CK-Path
+HTTPHeader X-CkApp-Request-Locale
+Title ClinicalKey (updated 20180223)
+MimeFilter application/json .* javascript
+URL https://www.clinicalkey.com
+HJ www.clinicalkey.com
+HJ www.clinicalkey.es
+HJ www.clinicalkey.com.au
+HJ www2.clinicalkey.com
+HJ https://www2.clinicalkey.com
+HJ https://www.clinicalkey.es
+HJ https://www.clinicalkey.com.au
+DJ clinicalkey.es
+DJ clinicalkey.com
+DJ clinicalkey.com.au
+HJ t.clinicalsolutions.elsevier.com
+DJ elsevier.com
+NeverProxy cdn.clinicalkey.com
+NeverProxy jigsaw.elsevier.com
+NeverProxy clinicalkeymeded.elsevier.com
+
+# Embase
+HTTPMethod PUT
+HTTPMethod DELETE
+Title Embase (updated 20180718)
+URL https://www.embase.com
+HJ https://www.embase.com
+HJ www.embase.com
+D embase.com
+HJ acw.elsevier.com
+NeverProxy static.embase.com

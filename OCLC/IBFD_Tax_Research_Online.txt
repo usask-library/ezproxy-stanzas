@@ -1,0 +1,6 @@
+Title IBFD Tax Research Online (20190227)
+URL https://research.ibfd.org
+HJ https://research.ibfd.org
+HJ http://research.ibfd.org
+HJ research.ibfd.org
+DJ ibfd.org

@@ -1,0 +1,8 @@
+AnonymousURL https://sa-uk.practicallaw.thomsonreuters.com/*
+Title Practical Law (TR) (updated 20180622)
+URL https://uk.practicallaw.thomsonreuters.com
+HJ uk.practicallaw.thomsonreuters.com
+HJ sa-uk.practicallaw.thomsonreuters.com
+HJ https://uk.practicallaw.thomsonreuters.com
+HJ https://sa-uk.practicallaw.thomsonreuters.com
+AnonymousURL -*

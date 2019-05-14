@@ -1,0 +1,8 @@
+ProxyHostnameEdit f1000.com$ f1000
+Title Faculty of 1000 (updated 20161028)
+URL http://f1000.com
+H https://f1000.com
+HJ f1000.com
+DJ f1000.com
+HJ f1000research.com
+DJ f1000research.com

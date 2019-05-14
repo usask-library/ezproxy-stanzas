@@ -1,0 +1,6 @@
+Option DomainCookieOnly
+Title Redbooks (updated 20120907)
+URL http://www.redbooks.com/dotCMS/validateLogin?dispatch=siteLogin
+Domain redbooks.com
+Host www.redbooks.com
+Option Cookie

@@ -1,0 +1,10 @@
+ProxyHostnameEdit www.lawjournalpress.com$ www-lawjournalpress-com
+AnonymousURL -options https://www.lawjournalpress.com/*
+AnonymousURL -options http://www.lawjournalpress.com/*
+HTTPHeader X-Requested-With
+Title Law Journal Press (updated 20180711)
+URL https://www.lawjournalpress.com/group
+HJ http://www.lawjournalpress.com
+HJ www.lawjournalpress.com
+DJ lawjournalpress.com
+AnonymousURL -*

@@ -1,0 +1,11 @@
+Title IEEE Computer Society Digital Library Secure (IncludeFile updated 20190315)
+URL https://www.computer.org/
+HJ www.computer.org
+HJ csdl.computer.org
+HJ search.computer.org
+HJ ieeecomputersociety.org
+HJ doi.ieeecomputersociety.org
+HJ publications.computer.org
+HJ https://d20lqhyll7kadk.cloudfront.net
+HJ https://publications.computer.org
+DJ computer.org

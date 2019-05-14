@@ -1,0 +1,5 @@
+Option DomainCookieOnly
+Title SpringerMaterials (updated 20150429)
+URL http://www.springermaterials.com
+Domain springer.com
+Option Cookie

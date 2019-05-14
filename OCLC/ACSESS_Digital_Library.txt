@@ -1,0 +1,10 @@
+Title ACSESS Digital Library (updated 20180228)
+URL https://dl.sciencesocieties.org/
+HJ dl.sciencesocieties.org
+HJ www.sciencesocieties.org
+HJ sciencesocieties.org
+HJ https://portal.sciencesocieties.org
+HJ portal.sciencesocieties.org
+DJ sciencesocieties.org
+HJ www.agronomy.org
+DJ agronomy.org

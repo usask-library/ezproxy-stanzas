@@ -1,0 +1,6 @@
+#
+# Name: 123Library
+# URL: https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/123Library
+#
+Title 123Library
+URL https://www.123library.org

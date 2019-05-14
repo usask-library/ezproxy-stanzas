@@ -1,0 +1,13 @@
+Title Passport (Euromonitor International) (updated 20190312)
+URL http://www.portal.euromonitor.com/portal/server.pt
+HJ https://www.portal.euromonitor.com
+HJ www.portal.euromonitor.com
+HJ portal.euromonitor.com
+DJ portal.euromonitor.com
+DJ euromonitor.com
+NeverProxy emportal.euromonitor.com
+NeverProxy microservices.euromonitor.com
+NeverProxy searchservice.euromonitor.com
+NeverProxy search-service.euromonitor.com
+Find //www.portal.euromonitor.com/
+Replace //^pwww.portal.euromonitor.com^/

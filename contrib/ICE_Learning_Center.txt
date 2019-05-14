@@ -1,0 +1,8 @@
+#
+# Name: ICE Video Library
+# URL: https://www.icelearningcenter.com/it-information/
+#
+Title ICE Learning Center
+URL https://videos.icelearningcenter.com
+Host videos.icelearningcenter.com
+HJ videos.icelearningcenter.com

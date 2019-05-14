@@ -1,0 +1,9 @@
+Title NBC Learn (updated 20181214)
+URL http://www.highered.nbclearn.com
+HJ www.highered.nbclearn.com
+DJ nbclearn.com
+
+NeverProxy ios.nbclearn.com
+NeverProxy static.nbclearn.com
+NeverProxy iosnbclearn-vh.akamaihd.net
+NeverProxy video.nbcuni.com

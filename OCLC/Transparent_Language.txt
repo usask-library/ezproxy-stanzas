@@ -1,0 +1,7 @@
+Title Transparent Language (updated 20170316)
+URL https://library.transparent.com/[yourTLOnickname]
+HJ library.transparent.com
+DJ transparent.com
+Domain transparent.com
+NeverProxy transparent.com
+NeverProxy library.transparent.com

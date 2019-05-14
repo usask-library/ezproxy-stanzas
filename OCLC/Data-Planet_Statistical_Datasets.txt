@@ -1,0 +1,8 @@
+Title Data-Planet
+HTTPHeader -request -process X-Requested-With
+HTTPHeader -request -process X-GWT-*
+URL https://statisticaldatasets.data-planet.com/dataplanet/
+HJ http://statisticaldatasets.data-planet.com
+DJ data-planet.com
+DJ conquestsystems.com
+DJ data-planet.libguides.com

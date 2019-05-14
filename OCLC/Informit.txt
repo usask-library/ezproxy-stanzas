@@ -1,0 +1,12 @@
+Title Informit Search (updated 20180215)
+AnonymousURL -RE -CS +http://search\.informit\.com\.au/.*/[A-Z0-9]+\.mp4
+URL https://search.informit.com.au
+H http://search.informit.com.au
+HJ search.informit.com.au
+DJ informit.com.au
+AnonymousURL -*
+
+Title Informit EduTV
+URL https://edutv.informit.com.au
+H http://edutv.informit.com.au
+DJ edutv.informit.com.au

@@ -1,0 +1,5 @@
+Option DomainCookieOnly
+Title InCites (updated 20141103)
+URL https://incites.thomsonreuters.com
+DJ incites.thomsonreuters.com
+Option Cookie

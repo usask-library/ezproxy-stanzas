@@ -1,0 +1,22 @@
+Title Royal Society of Chemistry (updated 20190207)
+URL http://pubs.rsc.org/
+HJ cds.rsc.org
+HJ ebook.rsc.org
+HJ eic.rsc.org
+HJ https://cds.rsc.org
+HJ https://pubs.rsc.org
+HJ https://rsc.org
+HJ https://www.rsc.org
+HJ https://eic.rsc.org
+HJ pubs.rsc.org
+HJ rsc.org
+HJ www.rsc.org
+HJ xlink.rsc.org
+DJ rsc.org
+
+Title Chemistry World (updated 20190207)
+URL https://www.chemistryworld.com/
+H https://www.chemistryworld.com
+H www.chemistryworld.com
+H chemistryworld.com
+DJ chemistryworld.com

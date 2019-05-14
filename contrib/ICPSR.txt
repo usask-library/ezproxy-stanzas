@@ -1,0 +1,13 @@
+#
+# Name: Inter-University Consortium for Political and Social Research (ICPSR)
+# URL: https://www.icpsr.umich.edu/files/ICPSR/help/ICPSRandProxyServers.pdf
+#
+AnonymousURL -Options +*.icpsr.umich.edu/*
+AnonymousURL +*.icpsr.umich.edu/*
+AnonymousURL -*www.icpsr.umich.edu/*
+Title ICPSR
+URL https://www.icpsr.umich.edu
+Host www.icpsr.umich.edu
+HJ icpsr.umich.edu
+DJ icpsr.umich.edu
+AnonymousURL -*

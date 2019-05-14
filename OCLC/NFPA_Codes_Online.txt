@@ -1,0 +1,8 @@
+Title NFPA Codes Online (updated 20180117)
+URL https://www.codesonline.nfpa.org
+HJ http://www.codesonline.nfpa.org
+HJ www.codesonline.nfpa.org
+HJ codesonline.nfpa.org
+HJ www.nfpa.org
+HJ nfpa.org
+DJ nfpa.org

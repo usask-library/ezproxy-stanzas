@@ -1,0 +1,7 @@
+Title EMIS
+URL https://www.emis.com
+HJ https://auth.emis.com
+DJ emis.com
+NeverProxy https://static-emis.emis.com
+NeverProxy https://cdn.emis.com
+NeverProxy https://*.cdn.emis.com

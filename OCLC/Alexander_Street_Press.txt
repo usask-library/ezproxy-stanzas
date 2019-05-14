@@ -1,0 +1,20 @@
+Title Alexander Street Press (updated 20180919)
+URL http://search.alexanderstreet.com
+Host https://search.alexanderstreet.com
+DJ alexanderstreet.com
+DJ search.alexanderstreet.com
+NeverProxy cdn.alexanderstreet.com
+Find "http:\/\/
+Replace "http://
+Find "https:\/\/
+Replace "https://
+Find domain="*.alexanderstreet.com"
+Replace domain="*"
+
+Title Alexander Street Press MARC Records (updated 20170719)
+URL http://www.aspresolver.com
+DJ aspresolver.com
+
+Title Alexander Street Video (20190305)
+URL https://video.alexanderstreet.com
+DJ video.alexanderstreet.com

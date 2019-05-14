@@ -1,0 +1,22 @@
+Title WorldCat Local - WMS Libraries (updated 20181128)
+URL https://YourInstitution.worldcat.org
+HJ YourInstitution.worldcat.org
+DJ worldcat.org
+Find "https://" + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace "https://^AYourInstitution.worldcat.org"
+Find returnLocation = scheme + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace returnLocation = "https://^AYourInstitution.worldcat.org"
+Find sendLocation = scheme + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace sendLocation = "https://^sYourInstitution.worldcat.org^"
+
+# This final, hidden stanza allows the non-customized pieces of the IDM to
+# be proxied as well as static scripts/images that support WorldCat Local
+# but to not need to be customized. The URL in this stanza is irrelevant; it
+# is only the presence of "DJ worldcat.org" that matters
+
+Title -Hide WorldCat IDM and static content
+URL https://www.worldcat.org/
+HJ https://worldcat.org
+HJ www.worldcat.org
+HJ worldcat.org
+DJ worldcat.org

@@ -1,0 +1,9 @@
+Title APA Style CENTRAL
+URL http://apastylecentral.apa.org
+HJ apastylecentral.apa.org
+HJ apa.org
+HJ my.apa.org
+HJ https://apastylecentral.apa.org
+HJ https://apa.org
+HJ https://my.apa.org
+DJ apa.org

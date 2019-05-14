@@ -1,0 +1,10 @@
+Title GSE Research (updated 20170220)
+URL http://www.greenleaf-publishing.com/online-collections/
+HJ greenleaf-publishing.com
+HJ gse.publisher.ingentaconnect.com
+HJ gsegol.publisher.ingentaconnect.com
+HJ gseresearch.com
+HJ https://www.greenleaf-publishing.com
+HJ www.gseresearch.com
+DJ gseresearch.com
+DJ greenleaf-publishing.com

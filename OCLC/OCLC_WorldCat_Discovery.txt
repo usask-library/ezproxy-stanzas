@@ -1,0 +1,15 @@
+Title [My Institution] WorldCat Discovery (updated 20151007)
+URL https://[my institution].on.worldcat.org
+HJ [registry_id].on.worldcat.org
+DJ worldcat.org
+Find "https://" + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace "https://^A[my institution].on.worldcat.org"
+Find returnLocation = scheme + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace returnLocation = "https://^A[my institution].on.worldcat.org"
+Find sendLocation = scheme + location.hostname + (location.port != "" ? ":" + location.port : "")
+Replace sendLocation = "https://^s[my institution].on.worldcat.org^"
+
+Title -Hide WorldCat IDM and static content (updated 20151007)
+URL http://worldcat.org
+HJ on.worldcat.org
+DJ worldcat.org

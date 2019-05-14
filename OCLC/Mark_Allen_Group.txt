@@ -1,0 +1,26 @@
+Title MAG Online Library (updated 20180102)
+URL http://www.magonlinelibrary.com
+HJ https://magonlinelibrary.com
+HJ https://www.magonlinelibrary.com
+HJ intermid.co.uk
+HJ internurse.com
+HJ magonlinelibrary.com
+HJ www.intermid.co.uk
+HJ www.internurse.com
+HJ www.magonlinelibrary.com
+DJ magonlinelibrary.com
+
+Title Nursery World (updated 20180102)
+URL https://www.nurseryworld.co.uk
+HJ www.nurseryworld.co.uk
+DJ nurseryworld.co.uk
+
+Title Children & Young People Now (updated 20180102)
+URL https://www.cypnow.co.uk
+HJ www.cypnow.co.uk
+DJ cypnow.co.uk
+
+Title Optician (updated 20180102)
+URL https://www.opticianonline.net
+HJ www.opticianonline.net
+DJ opticianonline.net

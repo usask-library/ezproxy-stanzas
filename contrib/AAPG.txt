@@ -1,0 +1,6 @@
+#
+# Name: AAPG Archives: American Association of Petroleum Geologists
+#
+T AAPG Archives: American Association of Petroleum Geologists
+U http://archives.datapages.com/data/index.html
+D archives.datapages.com

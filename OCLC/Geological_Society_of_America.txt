@@ -1,0 +1,4 @@
+Title Geological Society of America (updated 20170908)
+URL https://pubs.geoscienceworld.org/gsa
+DJ geoscienceworld.org
+DJ doi.org

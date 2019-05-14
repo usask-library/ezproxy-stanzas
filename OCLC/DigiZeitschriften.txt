@@ -1,0 +1,8 @@
+Title DigiZeitschriften
+URL http://www.digizeitschriften.de/
+HJ digizeitschriften.de
+HJ docserver.digizeitschriften.de
+HJ https://digizeitschriften.de
+HJ https://www.digizeitschriften.de
+HJ www.digizeitschriften.de
+DJ digizeitschriften.de

@@ -1,0 +1,17 @@
+#
+# Name: Center for Research Libraries
+# URL: https://www.crl.edu/services/digital-services/access-crl-digitized-resources/off-campus-access
+#
+T Center for Research Libraries
+U http://www.crl.edu
+DJ crl.edu
+HJ catalog.crl.edu
+HJ dds.crl.edu
+HJ https://dds.crl.edu
+HJ ddsnext.crl.edu
+HJ https://ddsnext.crl.edu
+HJ edesiderata.crl.edu
+HJ https://edesiderata.crl.edu
+HJ ecollections.crl.edu
+DJ llmcdigital.org
+HJ www.llmcdigital.org
