@@ -1181,7 +1181,8 @@
   "De_Gruyter_Online": {
     "name": "De Gruyter Online",
     "stanza": "OCLC/De_Gruyter_Online.txt",
-    "oclcStanzaId": "De_Gruyter_Online"
+    "oclcStanzaId": "De_Gruyter_Online",
+    "oclcIncludeFile": "databases/degruyter.txt"
   },
   "Den_Hollander": {
     "name": "Den Hollander",
