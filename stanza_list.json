@@ -2580,7 +2580,8 @@
   "National_Bureau_of_Economic_Research": {
     "name": "National Bureau of Economic Research",
     "stanza": "OCLC/National_Bureau_of_Economic_Research.txt",
-    "oclcStanzaId": "National_Bureau_of_Economic_Research"
+    "oclcStanzaId": "National_Bureau_of_Economic_Research",
+    "oclcIncludeFile": "databases/nber.txt"
   },
   "National_Council_of_Teachers_of_English": {
     "name": "National Council of Teachers of English",
