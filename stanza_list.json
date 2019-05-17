@@ -2191,6 +2191,12 @@
     "stanza": "OCLC/Lamyline.txt",
     "oclcStanzaId": "Lamyline"
   },
+  "Latin-American_Studies": {
+    "name": "Latin-American Studies",
+    "stanza": "OCLC/Latin-American_Studies.txt",
+    "oclcStanzaId": "Latin-American_Studies",
+    "oclcIncludeFile": "databases/latinamericanstudies.txt"
+  },
   "Law_Journal_Press": {
     "name": "Law Journal Press",
     "stanza": "OCLC/Law_Journal_Press.txt",
