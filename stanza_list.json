@@ -3322,6 +3322,12 @@
     "oclcStanzaId": "RICS_isurv",
     "oclcIncludeFile": "databases/isurv.txt"
   },
+  "RIPM_Jazz_Periodicals": {
+    "name": "RIPM Jazz Periodicals",
+    "stanza": "OCLC/RIPM_Jazz_Periodicals.txt",
+    "oclcStanzaId": "RIPM_Jazz_Periodicals",
+    "oclcIncludeFile": "databases/ripmjazzperiodicals.txt"
+  },
   "RSNA": {
     "name": "Radiological Society of North America",
     "stanza": "OCLC/RSNA.txt",
