@@ -3755,6 +3755,12 @@
     "name": "Symptom Media",
     "stanza": "OCLC/SymptomMedia.txt",
     "oclcStanzaId": "SymptomMedia",
+    "oclcIncludeFile": "databases/symptommedia.txt"
+  },
+  "SymptomMedia_Old": {
+    "name": "Symptom Media (Old Platform)",
+    "stanza": "OCLC/SymptomMedia_Old.txt",
+    "oclcStanzaId": "SymptomMedia",
     "rules": [
       {
         "rule": "FindReplace",
