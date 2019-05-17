@@ -1070,6 +1070,12 @@
     "oclcStanzaId": "Computing_Reviews",
     "oclcIncludeFile": "databases/computingreviews.txt"
   },
+  "Congressional_Digest": {
+    "name": "Congressional Digest",
+    "stanza": "OCLC/Congressional_Digest.txt",
+    "oclcStanzaId": "Congressional_Digest",
+    "oclcIncludeFile": "databases/congressionaldigest.txt"
+  },
   "Construction_Building_Abstracts": {
     "name": "Construction and Building Abstracts",
     "stanza": "OCLC/Construction_Building_Abstracts.txt",
