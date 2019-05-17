@@ -477,6 +477,12 @@
     "oclcStanzaId": "Artstor",
     "oclcIncludeFile": "databases/artstor.txt"
   },
+  "Asia-Studies": {
+    "name": "Asia-Studies",
+    "stanza": "OCLC/Asia-Studies.txt",
+    "oclcStanzaId": "Asia-Studies",
+    "oclcIncludeFile": "databases/asiastudies.txt"
+  },
   "AtoZ_Maps_Online": {
     "name": "AtoZ Maps Online",
     "stanza": "OCLC/AtoZ_Maps_Online.txt",
