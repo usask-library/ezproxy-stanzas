@@ -3624,6 +3624,12 @@
     "stanza": "OCLC/ScienceXpress.txt",
     "oclcStanzaId": "ScienceXpress"
   },
+  "Scientific_American": {
+    "name": "Scientific American",
+    "stanza": "OCLC/Scientific_American.txt",
+    "oclcStanzaId": "Scientific_American",
+    "oclcIncludeFile": "databases/scientificamerican.txt"
+  },
   "Scientific_American_Medicine": {
     "name": "Scientific American Medicine",
     "stanza": "OCLC/Scientific_American_Medicine.txt",
