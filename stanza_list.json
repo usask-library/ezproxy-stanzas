@@ -3722,10 +3722,10 @@
     "oclcStanzaId": "SpringerMaterials",
     "oclcIncludeFile": "databases/springermaterials.txt"
   },
-  "Springer_Protocols": {
-    "name": "SpringerNature Experiments & Nature Publishing (formerly Springer Protocols)",
-    "stanza": "OCLC/Springer_Protocols.txt",
-    "oclcStanzaId": "Springer_Protocols",
+  "Springer_Nature_Experiments": {
+    "name": "Springer Nature Experiments (formerly Springer Protocols)",
+    "stanza": "OCLC/Springer_Nature_Experiments.txt",
+    "oclcStanzaId": "Springer_Nature_Experiments",
     "oclcIncludeFile": "databases/springerprotocols.txt"
   },
   "St_Jerome_Publishing": {
