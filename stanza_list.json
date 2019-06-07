@@ -188,7 +188,8 @@
   "AclandAnatomy": {
     "name": "Acland's Video Atlas of Human Anatomy",
     "stanza": "OCLC/AclandAnatomy.txt",
-    "oclcStanzaId": "aclandanatomy"
+    "oclcStanzaId": "aclandanatomy",
+    "oclcIncludeFile": "databases/acland.txt"
   },
   "Acoustical_Society_of_America": {
     "name": "Acoustical Society of America",
