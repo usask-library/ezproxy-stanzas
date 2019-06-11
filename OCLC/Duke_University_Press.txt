@@ -1,6 +1,6 @@
 HTTPHeader X-Requested-With
 HTTPHeader X-Tizra-Ajax
-Title eDuke Books Scholarly Collection (updated 20171106)
+Title Duke University Press Books and Journals (updated 20190611)
 URL https://read.dukeupress.edu
 HJ read.dukeupress.edu
 HJ reader.dukeupress.edu
