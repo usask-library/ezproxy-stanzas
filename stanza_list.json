@@ -417,6 +417,12 @@
     "oclcStanzaId": "ASHA",
     "oclcIncludeFile": "databases/asha.txt"
   },
+  "Anatomedia_Online": {
+    "name": "Anatomedia Online",
+    "stanza": "OCLC/Anatomedia_Online.txt",
+    "oclcStanzaId": "Anatomedia_Online",
+    "oclcIncludeFile": "databases/anatomediaonline.txt"
+  },
   "Ancestry_Library": {
     "name": "Ancestry Library",
     "stanza": "OCLC/Ancestry_Library.txt",
