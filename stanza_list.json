@@ -2006,7 +2006,8 @@
   "Jeugd_LiteRom": {
     "name": "Jeugd LiteRom",
     "stanza": "OCLC/Jeugd_LiteRom.txt",
-    "oclcStanzaId": "Jeugd_LiteRom"
+    "oclcStanzaId": "Jeugd_LiteRom",
+    "oclcIncludeFile": "databases/jeugdliterom.txt"
   },
   "JoVE": {
     "name": "JoVE",
