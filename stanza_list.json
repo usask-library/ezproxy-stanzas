@@ -2259,6 +2259,12 @@
     "stanza": "OCLC/LexisNexis_Legal_AU.txt",
     "oclcStanzaId": "LexisNexis_Legal_AU"
   },
+  "LibLynx": {
+    "name": "LibLynx",
+    "stanza": "OCLC/LibLynx.txt",
+    "oclcStanzaId": "LibLynx",
+    "oclcIncludeFile": "databases/liblynx.txt"
+  },
   "Liebert": {
     "name": "Liebert",
     "stanza": "OCLC/Liebert.txt",
