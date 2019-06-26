@@ -1605,6 +1605,12 @@
     "stanza": "OCLC/Foreign_Policy.txt",
     "oclcStanzaId": "Foreign_Policy"
   },
+  "Fortunoff_Video_Archive": {
+    "name": "Fortunoff Video Archive",
+    "stanza": "OCLC/Fortunoff_Video_Archive.txt",
+    "oclcStanzaId": "Fortunoff_Video_Archive",
+    "oclcIncludeFile": "databases/fortunoff.txt"
+  },
   "FreedomFlix": {
     "name": "FreedomFlix",
     "stanza": "OCLC/FreedomFlix.txt",
