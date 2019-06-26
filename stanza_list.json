@@ -4130,7 +4130,8 @@
   "AspenLaw_eBooks": {
     "name": "Wolters Kluwer's Legal Education Online Study Aid Library (AspenLaw eBooks)",
     "stanza": "OCLC/AspenLaw_eBooks.txt",
-    "oclcStanzaId": "AspenLaw_eBooks"
+    "oclcStanzaId": "AspenLaw_eBooks",
+    "oclcIncludeFile": "databases/aspenlaw.txt"
   },
   "Womens_Pregnancy_and_Breastfeeding_Medicines_Guide": {
     "name": "Women's Pregnancy and Breastfeeding Medicines Guide",
