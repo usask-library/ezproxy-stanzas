@@ -1990,7 +1990,8 @@
   "JSTOR": {
     "name": "JSTOR",
     "stanza": "OCLC/JSTOR.txt",
-    "oclcStanzaId": "JSTOR"
+    "oclcStanzaId": "JSTOR",
+    "oclcIncludeFile": "databases/jstor.txt"
   },
   "Janes_Online_Service": {
     "name": "Jane's Online Service",
