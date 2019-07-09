@@ -1968,7 +1968,8 @@
   "IMF": {
     "name": "International Monetary Fund (IMF)",
     "stanza": "OCLC/IMF.txt",
-    "oclcStanzaId": "IMF"
+    "oclcStanzaId": "IMF",
+    "oclcIncludeFile": "databases/imf.txt"
   },
   "Iter": {
     "name": "Iter: Gateway to the Middle Ages and Renaissance stanza",
