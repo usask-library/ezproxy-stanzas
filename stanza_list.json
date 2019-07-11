@@ -2453,6 +2453,12 @@
     "oclcStanzaId": "McGraw-Hill_Medical",
     "oclcIncludeFile": "databases/mhmedical.txt"
   },
+  "McGraw-Hill_eBook_Library": {
+    "name": "McGraw-Hill eBook Library",
+    "stanza": "OCLC/McGraw-Hill_eBook_Library.txt",
+    "oclcStanzaId": "McGraw-Hill_eBook_Library",
+    "oclcIncludeFile": "databases/mcgrawhillebook.txt"
+  },
   "Medcom_Trainex": {
     "name": "Medcom Trainex",
     "stanza": "OCLC/Medcom_Trainex.txt",
