@@ -155,7 +155,8 @@
   "Access_Engineering": {
     "name": "Access Engineering",
     "stanza": "OCLC/Access_Engineering.txt",
-    "oclcStanzaId": "Access_Engineering"
+    "oclcStanzaId": "Access_Engineering",
+    "oclcIncludeFile": "databases/accessengineering.txt"
   },
   "Access_NYT": {
     "name": "Access NYT",
