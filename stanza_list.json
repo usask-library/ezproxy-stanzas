@@ -3525,6 +3525,12 @@
     "note": "Contains only the core SAGE Publications and Journals stanza, not the complete SAGE host list. Use this only if you always enter SAGE through online.sagepub.com; if you create starting point URLs directly to specific SAGE journals, DO NOT use this version of the SAGE stanza.",
     "oclcStanzaId": "SAGE_Journals"
   },
+  "SAI_Global": {
+    "name": "SAI Global (Australian Standards Online)",
+    "stanza": "OCLC/SAI_Global.txt",
+    "oclcStanzaId": "SAI_Global",
+    "oclcIncludeFile": "databases/saiglobal.txt"
+  },
   "SDU": {
     "name": "SDU",
     "stanza": "OCLC/SDU.txt",
