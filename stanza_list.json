@@ -3513,7 +3513,7 @@
     ]
   },
   "SAE_International": {
-    "name": "SAE International",
+    "name": "SAE MOBILUS",
     "stanza": "OCLC/SAE_International.txt",
     "oclcStanzaId": "SAE_International",
     "oclcIncludeFile": "databases/sae.txt"
