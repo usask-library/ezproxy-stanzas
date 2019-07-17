@@ -3311,6 +3311,12 @@
     "oclcStanzaId": "Quintessence_Publishing",
     "oclcIncludeFile": "databases/quintpub.txt"
   },
+  "Quorum": {
+    "name": "Quorum",
+    "stanza": "OCLC/Quorum.txt",
+    "oclcStanzaId": "Quorum",
+    "oclcIncludeFile": "databases/quorum.txt"
+  },
   "R2_Digital_Library": {
     "name": "R2 Digital Library",
     "stanza": "OCLC/R2_Digital_Library.txt",
