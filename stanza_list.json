@@ -1599,7 +1599,8 @@
   "Fold3": {
     "name": "Fold3",
     "stanza": "OCLC/Fold3.txt",
-    "oclcStanzaId": "Fold3"
+    "oclcStanzaId": "Fold3",
+    "oclcIncludeFile": "databases/fold3.txt"
   },
   "Foreign_Policy": {
     "name": "Foreign Policy",
