@@ -4162,6 +4162,12 @@
     "oclcStanzaId": "Wolters_Kluwer_Cheetah",
     "oclcIncludeFile": "databases/cheetah.txt"
   },
+  "Wolters_Kluwer_Online_Deutschland": {
+    "name": "Wolters Kluwer Online Deutschland",
+    "stanza": "OCLC/Wolters_Kluwer_Online_Deutschland.txt",
+    "oclcStanzaId": "Wolters_Kluwer_Online_Deutschland",
+    "oclcIncludeFile": "databases/wkdeutschland.txt"
+  },
   "AspenLaw_eBooks": {
     "name": "Wolters Kluwer's Legal Education Online Study Aid Library (AspenLaw eBooks)",
     "stanza": "OCLC/AspenLaw_eBooks.txt",
