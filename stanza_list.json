@@ -3635,6 +3635,12 @@
     "stanza": "OCLC/Scholarly_Digital_Editions.txt",
     "oclcStanzaId": "Scholarly_Digital_Editions"
   },
+  "Scholastic_Learning_Zone": {
+    "name": "Scholastic Learning Zone",
+    "stanza": "OCLC/Scholastic_Learning_Zone.txt",
+    "oclcStanzaId": "Scholastic_Learning_Zone",
+    "oclcIncludeFile": "databases/scholasticlearningzone.txt"
+  },
   "SciFinder": {
     "name": "SciFinder",
     "stanza": "OCLC/SciFinder.txt",
