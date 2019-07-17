@@ -345,6 +345,12 @@
     "oclcStanzaId": "American_Marketing_Association",
     "oclcIncludeFile": "databases/ama.txt"
   },
+  "American_Meteorological_Society": {
+    "name": "American Meteorological Society",
+    "stanza": "OCLC/American_Meteorological_Society.txt",
+    "oclcStanzaId": "American_Meteorological_Society",
+    "oclcIncludeFile": "databases/americanmeteorologicalsociety.txt"
+  },
   "American_National_Biography": {
     "name": "American National Biography",
     "stanza": "OCLC/American_National_Biography.txt",
