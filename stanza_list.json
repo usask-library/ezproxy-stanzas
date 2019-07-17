@@ -840,7 +840,8 @@
   "CNKI": {
     "name": "CNKI",
     "stanza": "OCLC/CNKI.txt",
-    "oclcStanzaId": "cnki"
+    "oclcStanzaId": "cnki",
+    "oclcIncludeFile": "databases/cnki.txt"
   },
   "CPA_Canada": {
     "name": "CPA Canada",
