@@ -1470,6 +1470,12 @@
     "oclcStanzaId": "brill2",
     "oclcIncludeFile": "databases/brill2.txt"
   },
+  "Endnote_Online_And_Incites": {
+    "name": "Endnote Online and Incites",
+    "stanza": "OCLC/Endnote_Online_And_Incites.txt",
+    "oclcStanzaId": "endnoteandincites",
+    "oclcIncludeFile": "databases/endnoteandincites.txt"
+  },
   "Endocrine_Society": {
     "name": "Endocrine Society",
     "stanza": "OCLC/Endocrine_Society.txt",
