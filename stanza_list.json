@@ -3141,7 +3141,8 @@
   "Philosophy_Documentation_Center": {
     "name": "Philosophy Documentation Center",
     "stanza": "OCLC/Philosophy_Documentation_Center.txt",
-    "oclcStanzaId": "Philosophy_Documentation_Center"
+    "oclcStanzaId": "Philosophy_Documentation_Center",
+    "oclcIncludeFile": "databases/pdcc.txt"
   },
   "Philosophy_Now": {
     "name": "Philosophy Now",
