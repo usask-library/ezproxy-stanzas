@@ -966,43 +966,10 @@
     "oclcStanzaId": "Choice_Reviews"
   },
   "Chronicle_of_Higher_Education": {
-    "name": "Chronicle of Higher Education, The (IP Authentication)",
-    "stanza": "OCLC/Chronicle_of_Higher_Education-IP_Authentication.txt",
-    "oclcStanzaId": "Chronicle_of_Higher_Education"
-  },
-  "Chronicle_of_Higher_Education-UsernamePassword_Main": {
-    "name": "Chronicle of Higher Education, The (Username/Password to Main Page)",
-    "stanza": "OCLC/Chronicle_of_Higher_Education-UsernamePassword_Main.txt",
+    "name": "Chronicle of Higher Education, The",
+    "stanza": "OCLC/Chronicle_of_Higher_Education.txt",
     "oclcStanzaId": "Chronicle_of_Higher_Education",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "someuser",
-        "placeholder": "Your organizations's username"
-      },
-      {
-        "rule": "Replace",
-        "term": "somepass",
-        "placeholder": "Your organizations's username"
-      }
-    ]
-  },
-  "Chronicle_of_Higher_Education-UsernamePassword_Any": {
-    "name": "Chronicle of Higher Education, The (Username/Password to Any Page)",
-    "stanza": "OCLC/Chronicle_of_Higher_Education-UsernamePassword_Any.txt",
-    "oclcStanzaId": "Chronicle_of_Higher_Education",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "someuser",
-        "placeholder": "Your organizations's username"
-      },
-      {
-        "rule": "Replace",
-        "term": "somepass",
-        "placeholder": "Your organizations's username"
-      }
-    ]
+    "oclcIncludeFile": "databases/chronicle.txt"
   },
   "Classroom_Video_Demand": {
     "name": "Classroom Video On Demand",
