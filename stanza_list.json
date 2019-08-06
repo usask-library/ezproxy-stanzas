@@ -412,7 +412,8 @@
   "American_Society_Hematology": {
     "name": "American Society of Hematology",
     "stanza": "OCLC/American_Society_Hematology.txt",
-    "oclcStanzaId": "American_Society_Hematology"
+    "oclcStanzaId": "American_Society_Hematology",
+    "oclcIncludeFile": "databases/hematology.txt"
   },
   "ARTFL": {
     "name": "ARTFL Project",
