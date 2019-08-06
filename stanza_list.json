@@ -103,7 +103,8 @@
   "APA_PsycNET": {
     "name": "APA PsycNET",
     "stanza": "OCLC/APA_PsycNET.txt",
-    "oclcStanzaId": "APA_PsycNET"
+    "oclcStanzaId": "APA_PsycNET",
+    "oclcIncludeFile": "databases/apa_psycnet.txt"
   },
   "APS_Journals": {
     "name": "APS Journals",
