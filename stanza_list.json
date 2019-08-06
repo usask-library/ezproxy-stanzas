@@ -3348,7 +3348,14 @@
     "name": "RBdigital",
     "stanza": "OCLC/RBdigital.txt",
     "oclcStanzaId": "RBdigital",
-    "oclcIncludeFile": "databases/rbdigital.txt"
+    "oclcIncludeFile": "databases/rbdigital.txt",
+    "rules": [
+      {
+        "rule": "FindReplace",
+        "find": "{yourlibraryname}",
+        "replace": "The unique site id that vendor gives you"
+      }
+    ]
   },
   "RCN_Publishing": {
     "name": "RCN Publishing",
