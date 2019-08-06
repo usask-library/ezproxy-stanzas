@@ -1846,7 +1846,8 @@
   "INGENTAconnect": {
     "name": "INGENTAconnect",
     "stanza": "OCLC/INGENTAconnect.txt",
-    "oclcStanzaId": "INGENTAconnect"
+    "oclcStanzaId": "INGENTAconnect",
+    "oclcIncludeFile": "databases/ingentaconnect.txt"
   },
   "IOS_Press": {
     "name": "IOS Press",
