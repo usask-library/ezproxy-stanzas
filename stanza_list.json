@@ -3182,6 +3182,12 @@
     "stanza": "OCLC/Praeger_Security_International.txt",
     "oclcStanzaId": "Praeger_Security_International"
   },
+  "Preqin": {
+    "name": "Preqin",
+    "stanza": "OCLC/Preqin.txt",
+    "oclcStanzaId": "Preqin",
+    "oclcIncludeFile": "databases/preqin.txt"
+  },
   "PressReader": {
     "name": "PressReader",
     "stanza": "OCLC/PressReader.txt",
