@@ -1956,6 +1956,12 @@
     "oclcStanzaId": "IMF",
     "oclcIncludeFile": "databases/imf.txt"
   },
+  "Invert": {
+    "name": "Invert",
+    "stanza": "OCLC/Invert.txt",
+    "oclcStanzaId": "Invert",
+    "oclcIncludeFile": "databases/invert.txt"
+  },
   "Iter": {
     "name": "Iter: Gateway to the Middle Ages and Renaissance stanza",
     "stanza": "OCLC/Iter.txt",
