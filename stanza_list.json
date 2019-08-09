@@ -695,7 +695,8 @@
   "Books_in_Print": {
     "name": "Books in Print",
     "stanza": "OCLC/Books_in_Print.txt",
-    "oclcStanzaId": "Books_in_Print"
+    "oclcStanzaId": "Books_in_Print",
+    "oclcIncludeFile": "databases/booksinprint.txt"
   },
   "Books24x7": {
     "name": "Books24x7",
