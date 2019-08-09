@@ -274,7 +274,7 @@
   "American_Academy_of_Pediatrics": {
     "name": "American Academy of Pediatrics (formerly Pediatrics)",
     "stanza": "OCLC/American_Academy_of_Pediatrics.txt",
-    "oclcStanzaId": "American_Academy_of_Pediatrics_(formerly_Pediatrics)",
+    "oclcStanzaId": "American_Academy_of_Pediatrics_formerly_Pediatrics",
     "oclcIncludeFile": "databases/portlandpress.txt"
   },
   "American_Association_for_Cancer_Research": {
