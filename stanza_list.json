@@ -3266,7 +3266,8 @@
   "Psychiatrist": {
     "name": "Psychiatrist.com",
     "stanza": "OCLC/Psychiatrist.txt",
-    "oclcStanzaId": "Psychiatrist"
+    "oclcStanzaId": "Psychiatrist",
+    "oclcIncludeFile": "databases/psychiatrist.txt"
   },
   "PsychiatryOnline": {
     "name": "PsychiatryOnline",
