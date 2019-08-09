@@ -283,6 +283,12 @@
     "oclcStanzaId": "aacrjournals",
     "oclcIncludeFile": "databases/aacrjournals.txt"
   },
+  "American_Association_for_Clinical_Chemistry": {
+    "name": "American Association for Clinical Chemistry",
+    "stanza": "OCLC/American_Association_for_Clinical_Chemistry.txt",
+    "oclcStanzaId": "American_Association_for_Clinical_Chemistry",
+    "oclcIncludeFile": "databases/clinicalchemistry.txt"
+  },
   "American_Botanical_Council": {
     "name": "American Botanical Council",
     "stanza": "OCLC/American_Botanical_Council.txt",
