@@ -598,6 +598,12 @@
     "oclcStanzaId": "Bankscope",
     "oclcIncludeFile": "databases/bankscope.txt"
   },
+  "Baobab_Ebooks": {
+    "name": "Baobab Ebooks",
+    "stanza": "OCLC/Baobab_Ebooks.txt",
+    "oclcStanzaId": "Baobab_Ebooks",
+    "oclcIncludeFile": "databases/baobabebooks.txt"
+  },
   "Benajmins_Online_Resource": {
     "name": "Benajmins Online Resource",
     "stanza": "OCLC/Benajmins_Online_Resource.txt",
