@@ -3251,7 +3251,8 @@
   "Project_Muse": {
     "name": "Project Muse",
     "stanza": "OCLC/Project_Muse.txt",
-    "oclcStanzaId": "Project_Muse"
+    "oclcStanzaId": "Project_Muse",
+    "oclcIncludeFile": "databases/projectmuse.txt"
   },
   "Prometheus": {
     "name": "Prometheus",
