@@ -2581,6 +2581,12 @@
     "stanza": "OCLC/Modern_Language_Association.txt",
     "oclcStanzaId": "Modern_Language_Association"
   },
+  "Mohr_Siebeck": {
+    "name": "Mohr Siebeck",
+    "stanza": "OCLC/Mohr_Siebeck.txt",
+    "oclcStanzaId": "Mohr_Siebeck",
+    "oclcIncludeFile": "databases/mohrsiebeck.txt"
+  },
   "Morningstar": {
     "name": "Morningstar",
     "stanza": "OCLC/Morningstar.txt",
