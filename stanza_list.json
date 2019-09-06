@@ -1798,7 +1798,8 @@
   "IBISWorld": {
     "name": "IBISWorld",
     "stanza": "OCLC/IBISWorld.txt",
-    "oclcStanzaId": "IBISWorld"
+    "oclcStanzaId": "IBISWorld",
+    "oclcIncludeFile": "databases/ibisworld.txt"
   },
   "ICE_Learning_Center": {
     "name": "ICE Video Library",
