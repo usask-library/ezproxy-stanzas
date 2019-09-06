@@ -1275,6 +1275,12 @@
     "oclcStanzaId": "Duke_University_Press",
     "oclcIncludeFile": "databases/dukepress.txt"
   },
+  "DynaMed": {
+    "name": "DynaMed",
+    "stanza": "OCLC/DynaMed.txt",
+    "oclcStanzaId": "DynaMed",
+    "oclcIncludeFile": "databases/filename.txt"
+  },
   "e-Marefa": {
     "name": "E-Marefa",
     "stanza": "OCLC/e-Marefa.txt",
