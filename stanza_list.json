@@ -3486,7 +3486,8 @@
   "Royal_Boom_Publishing": {
     "name": "Royal Boom Publishing",
     "stanza": "OCLC/Royal_Boom_Publishing.txt",
-    "oclcStanzaId": "Royal_Boom_Publishing"
+    "oclcStanzaId": "Royal_Boom_Publishing",
+    "oclcIncludeFile": "databases/royalboom.txt"
   },
   "Royal_Society_Publishing_The": {
     "name": "Royal Society Publishing, The",
