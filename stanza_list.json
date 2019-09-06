@@ -402,6 +402,12 @@
     "oclcStanzaId": "asbmb",
     "oclcIncludeFile": "databases/asbmb.txt"
   },
+  "American_Society_for_Clinical_Investigation": {
+    "name": "American Society for Clinical Investigation",
+    "stanza": "OCLC/American_Society_for_Clinical_Investigation.txt",
+    "oclcStanzaId": "American_Society_for_Clinical_Investigation",
+    "oclcIncludeFile": "databases/jci.txt"
+  },
   "American_Society_for_Microbiology": {
     "name": "American Society for Microbiology",
     "stanza": "OCLC/American_Society_for_Microbiology.txt",
