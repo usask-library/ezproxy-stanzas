@@ -2359,6 +2359,12 @@
     "stanza": "OCLC/MD_Consult.txt",
     "oclcStanzaId": "MD_Consult"
   },
+  "MERIP": {
+    "name": "MERIP",
+    "stanza": "OCLC/MERIP.txt",
+    "oclcStanzaId": "MERIP",
+    "oclcIncludeFile": "databases/merip.txt"
+  },
   "MGG_Online": {
     "name": "MGG Online",
     "stanza": "OCLC/MGG_Online.txt",
