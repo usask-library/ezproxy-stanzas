@@ -1,0 +1,10 @@
+# 2019-09-16 - Contributed by University of Saskatchewan
+Title Canadiana Online
+URL http://www.canadiana.ca
+URL http://www.canadiana.org
+HJ www.canadiana.ca
+HJ www.canadiana.org
+HJ heritage.canadiana.ca
+HJ eco.canadiana.ca
+DJ canadiana.ca
+DJ canadiana.org

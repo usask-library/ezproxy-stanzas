@@ -918,6 +918,10 @@
     "oclcStanzaId": "Cambridge_Core",
     "oclcIncludeFile": "databases/cambridgecore.txt"
   },
+  "Canadiana_Online": {
+    "name": "Canadiana_Online",
+    "stanza": "contrib/Canadiana_Online.txt"
+  },
   "Canadian_Pharmacists_Association": {
     "name": "Canadian Pharmacists Association",
     "stanza": "OCLC/Canadian_Pharmacists_Association.txt",
