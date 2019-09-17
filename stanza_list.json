@@ -402,6 +402,12 @@
     "oclcStanzaId": "asbmb",
     "oclcIncludeFile": "databases/asbmb.txt"
   },
+  "American_Society_for_Cell_Biology": {
+    "name": "American Society for Cell Biology",
+    "stanza": "OCLC/American_Society_for_Cell_Biology.txt",
+    "oclcStanzaId": "American_Society_for_Cell_Biology",
+    "oclcIncludeFile": "databases/cellbiology.txt"
+  },
   "American_Society_for_Clinical_Investigation": {
     "name": "American Society for Clinical Investigation",
     "stanza": "OCLC/American_Society_for_Clinical_Investigation.txt",
