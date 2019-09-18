@@ -1596,6 +1596,12 @@
     "oclcStanzaId": "Family_Law_Online",
     "oclcIncludeFile": "databases/familylaw.txt"
   },
+  "Federation_of_American_Societies_for_Experimental_Biology": {
+    "name": "Federation of American Societies for Experimental Biology",
+    "stanza": "OCLC/Federation_of_American_Societies_for_Experimental_Biology.txt",
+    "oclcStanzaId": "Federation_of_American_Societies_for_Experimental_Biology",
+    "oclcIncludeFile": "databases/fasebjournal.txt"
+  },
   "Fergusons_Career_Guidance_Center": {
     "name": "Ferguson's Career GuidanceCenter",
     "stanza": "OCLC/Fergusons_Career_Guidance_Center.txt",
