@@ -1908,6 +1908,12 @@
     "oclcStanzaId": "IOS_Press",
     "oclcIncludeFile": "databases/iospress.txt"
   },
+  "IWA_Publishing": {
+    "name": "IWA Publishing",
+    "stanza": "OCLC/IWA_Publishing.txt",
+    "oclcStanzaId": "IWA_Publishing",
+    "oclcIncludeFile": "databases/iwapublishing.txt"
+  },
   "Ibuk": {
     "name": "Ibuk",
     "stanza": "OCLC/Ibuk.txt",
