@@ -1341,6 +1341,12 @@
     "stanza": "OCLC/EMIS.txt",
     "oclcStanzaId": "EMIS"
   },
+  "EMS_Publishing": {
+    "name": "EMS Publishing",
+    "stanza": "OCLC/EMS_Publishing.txt",
+    "oclcStanzaId": "EMS_Publishing",
+    "oclcIncludeFile": "databases/emspublishing.txt"
+  },
   "ESB_Online": {
     "name": "ESB Online",
     "stanza": "OCLC/ESB_Online.txt",
