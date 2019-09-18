@@ -438,6 +438,12 @@
     "oclcStanzaId": "American_Society_Hematology",
     "oclcIncludeFile": "databases/hematology.txt"
   },
+  "American_Society_of_Plant_Biologists": {
+    "name": "American Society of Plant Biologists",
+    "stanza": "OCLC/American_Society_of_Plant_Biologists.txt",
+    "oclcStanzaId": "American_Society_of_Plant_Biologists",
+    "oclcIncludeFile": "databases/plantbiologists.txt"
+  },
   "ARTFL": {
     "name": "ARTFL Project",
     "stanza": "contrib/ARTFL.txt",
