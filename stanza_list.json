@@ -1171,6 +1171,12 @@
     "oclcStanzaId": "Dalloz",
     "oclcIncludeFile": "databases/dalloz.txt"
   },
+  "Dalloz_Revues": {
+    "name": "Dalloz Revues",
+    "stanza": "OCLC/Dalloz_Revues.txt",
+    "oclcStanzaId": "Dalloz_Revues",
+    "oclcIncludeFile": "databases/dalloz_revues.txt"
+  },
   "Daniels_Ochestral": {
     "name": "Daniels Ochestral",
     "stanza": "OCLC/Daniels_Ochestral.txt",
