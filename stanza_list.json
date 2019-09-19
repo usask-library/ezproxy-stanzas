@@ -4167,6 +4167,12 @@
     "oclcStanzaId": "Very_Short_Introductions",
     "oclcIncludeFile": "databases/veryshortintroductions.txt"
   },
+  "Vie_des_Arts": {
+    "name": "Vie des Arts",
+    "stanza": "OCLC/Vie_des_Arts.txt",
+    "oclcStanzaId": "Vie_des_Arts",
+    "oclcIncludeFile": "databases/erudit.txt"
+  },
   "Visible_Body": {
     "name": "Visible Body",
     "stanza": "OCLC/Visible_Body.txt",
