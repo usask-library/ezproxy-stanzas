@@ -114,7 +114,8 @@
   "APS_Journals": {
     "name": "APS Journals",
     "stanza": "OCLC/APS_Journals.txt",
-    "oclcStanzaId": "APS_Journals"
+    "oclcStanzaId": "APS_Journals",
+    "oclcIncludeFile": "databases/aps_journals.txt"
   },
   "ASME_Digital_Collection": {
     "name": "ASME Digital Collection",
