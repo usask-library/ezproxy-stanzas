@@ -1,9 +1,18 @@
-Title SAE MOBILUS (updated 20190715)
-URL http://saemobilus.sae.org
-HJ https://sae.org
-HJ https://saemobilus.sae.org
-HJ https://www.sae.org
-HJ sae.org
-HJ www.sae.org
+Title SAE International (updated 20190925)
+URL http://ev.sae.org/
+HJ ev.sae.org
+HJ saejournals.org
+HJ magazine.sae.org
+HJ saeaero.saejournals.org
+HJ saealtpow.saejournals.org
+HJ saecomveh.saejournals.org
+HJ saeeng.saejournals.org
+HJ saefuel.saejournals.org
+HJ saematman.saejournals.org
+HJ saepcelec.saejournals.org
+HJ saepcmech.saejournals.org
+HJ saetransaf.saejournals.org
+HJ www.defensetechbriefs.com
 DJ sae.org
-DJ saemobilus.sae.org
+DJ saejournals.org
+DJ defensetechbriefs.com

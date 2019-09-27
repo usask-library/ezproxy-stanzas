@@ -3604,9 +3604,15 @@
     ]
   },
   "SAE_International": {
-    "name": "SAE MOBILUS",
+    "name": "SAE International",
     "stanza": "OCLC/SAE_International.txt",
-    "oclcStanzaId": "SAE_International",
+    "oclcStanzaId": "saeinternational",
+    "oclcIncludeFile": "databases/saeinternational.txt"
+  },
+  "SAE_MOBILUS": {
+    "name": "SAE MOBILUS",
+    "stanza": "OCLC/SAE_MOBILUS.txt",
+    "oclcStanzaId": "sae",
     "oclcIncludeFile": "databases/sae.txt"
   },
   "SAGE_Journals": {
