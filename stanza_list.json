@@ -2800,7 +2800,8 @@
   "New_York_Times": {
     "name": "New York Times (NYT)",
     "stanza": "OCLC/New_York_Times.txt",
-    "oclcStanzaId": "New_York_Times"
+    "oclcStanzaId": "New_York_Times",
+    "oclcIncludeFile": "databases/nytimes.txt"
   },
   "NewsBank": {
     "name": "NewsBank",
