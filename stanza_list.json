@@ -1293,7 +1293,7 @@
     "oclcStanzaId": "Draw_It_To_Know_It"
   },
   "Duke_University_Press": {
-    "name": "Duke University Press",
+    "name": "Duke University Press Books and Journals",
     "stanza": "OCLC/Duke_University_Press.txt",
     "oclcStanzaId": "Duke_University_Press",
     "oclcIncludeFile": "databases/dukepress.txt"
