@@ -3951,8 +3951,8 @@
     "oclcStanzaId": "Taylor_Francis_eBooks",
     "oclcIncludeFile": "databases/tandfebooks.txt"
   },
-  "Taylor and_Francis Online": {
-    "name": "Taylor_Francis_Online",
+  "Taylor_Francis_Online": {
+    "name": "Taylor and Francis Online",
     "stanza": "OCLC/Taylor_Francis_Online.txt",
     "oclcStanzaId": "Taylor_Francis_Online"
   },
