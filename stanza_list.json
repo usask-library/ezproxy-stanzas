@@ -4256,6 +4256,12 @@
       }
     ]
   },
+  "Wharton_Research_Data_Services_WRDS": {
+    "name": "Wharton Research Data Services (WRDS)",
+    "stanza": "OCLC/Wharton_Research_Data_Services_WRDS.txt",
+    "oclcStanzaId": "Wharton_Research_Data_Services_WRDS",
+    "oclcIncludeFile": "databases/wrds.txt"
+  },
   "Whos_Who": {
     "name": "Who's Who",
     "stanza": "OCLC/Whos_Who.txt",
