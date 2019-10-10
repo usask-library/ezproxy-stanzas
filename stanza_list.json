@@ -2531,6 +2531,12 @@
     "oclcStanzaId": "McGraw-Hill_eBook_Library",
     "oclcIncludeFile": "databases/mcgrawhillebook.txt"
   },
+  "Media_Source_Incorporated": {
+    "name": "Media Source Incorporated",
+    "stanza": "OCLC/Media_Source_Incorporated.txt",
+    "oclcStanzaId": "Media_Source_Incorporated",
+    "oclcIncludeFile": "databases/mediasourceincorporated.txt"
+  },
   "Medcom_Trainex": {
     "name": "Medcom Trainex",
     "stanza": "OCLC/Medcom_Trainex.txt",
