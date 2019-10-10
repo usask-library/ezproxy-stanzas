@@ -2384,7 +2384,7 @@
     "oclcIncludeFile": "databases/lrb.txt"
   },
   "Lyell_Collection": {
-    "name": "Lyell_Collection",
+    "name": "Lyell Collection",
     "stanza": "OCLC/Lyell_Collection.txt",
     "oclcStanzaId": "Lyell_Collection",
     "oclcIncludeFile": "databases/lyellcollection.txt"
