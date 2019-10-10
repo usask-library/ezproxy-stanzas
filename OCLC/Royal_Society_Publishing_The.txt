@@ -1,8 +1,13 @@
-Title The Royal Society Publishing (updated 20160725)
+Title The Royal Society Publishing (updated 20191009)
 URL https://royalsociety.org/journals/
 HJ https://www.royalsociety.org
+HJ www.royalsociety.org
 HJ royalsociety.org
+HJ www.royalsociety.org
 HJ royalsocietypublishing.org
+HJ www.royalsocietypublishing.org
+HJ https://royalsocietypublishing.org
+HJ https://www.royalsocietypublishing.org
 HJ rsbl.royalsocietypublishing.org
 HJ rsbm.royalsocietypublishing.org
 HJ rsfs.royalsocietypublishing.org
@@ -16,7 +21,6 @@ HJ rspl.royalsocietypublishing.org
 HJ rsta.royalsocietypublishing.org
 HJ rstb.royalsocietypublishing.org
 HJ rstl.royalsocietypublishing.org
-HJ www.royalsociety.org
 HJ www.royalsocietypublishing.org
 DJ royalsociety.org
 DJ royalsocietypublishing.org
