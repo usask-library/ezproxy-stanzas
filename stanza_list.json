@@ -657,6 +657,10 @@
     "oclcStanzaId": "bihr",
     "oclcIncludeFile": "databases/bihr.txt"
   },
+  "BioCyc": {
+    "name": "BioCyc",
+    "stanza": "contrib/BioCyc.txt"
+  },
   "BioMed_Central": {
     "name": "BioMed Central",
     "stanza": "OCLC/BioMed_Central.txt",
