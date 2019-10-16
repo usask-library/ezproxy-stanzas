@@ -320,12 +320,14 @@
       {
         "rule": "Replace",
         "term": "USERNAMEHERE",
-        "placeholder": "The username supplied by the vendor"
+        "placeholder": "The username supplied by the vendor",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "PASSWORDHERE",
-        "placeholder": "The password supplied by the vendor"
+        "placeholder": "The password supplied by the vendor",
+        "enabled": true
       }
     ]
   },
@@ -392,7 +394,7 @@
       {
         "rule": "Append",
         "value": "Find physiology.org\\/sites\nReplace ^Pphysiology.org^\\/sites\nFind physiology.org\\/content\\/\nReplace ^Pphysiology.org^\\/content\\/",
-        "active": false
+        "enabled": false
       }
     ]
 
@@ -573,12 +575,14 @@
       {
         "rule": "Replace",
         "term": "yourusername",
-        "placeholder": "Your institution's username"
+        "placeholder": "Your institution's username",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "yourpassword",
-        "placeholder": "Your institution's password"
+        "placeholder": "Your institution's password",
+        "enabled": true
       }
     ]
   },
@@ -596,7 +600,8 @@
       {
         "rule": "Replace",
         "term": "XXXX",
-        "placeholder": "The site name provided by Baker & Taylor"
+        "placeholder": "The site name provided by Baker & Taylor",
+        "enabled": true
       }
     ]
   },
@@ -746,17 +751,20 @@
       {
         "rule": "Replace",
         "term": "ABC123",
-        "placeholder": "site identifier issued to you by Books24x7"
+        "placeholder": "site identifier issued to you by Books24x7",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "SomethingYouPickAndDontTellAnyone",
-        "placeholder": "A random string that you pick that is used to encrypt the patron's username"
+        "placeholder": "A random string that you pick that is used to encrypt the patron's username",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "YouGetThisFromBooks24x7",
-        "placeholder": "A signature key issued to you by Books24x7"
+        "placeholder": "A signature key issued to you by Books24x7",
+        "enabled": true
       }
     ]
   },
@@ -779,7 +787,8 @@
       {
         "rule": "Replace",
         "term": "{URL supplied to you by Brainfuse}",
-        "placeholder": "The URL supplied to you by Brainfuse"
+        "placeholder": "The URL supplied to you by Brainfuse",
+        "enabled": true
       }
     ]
   },
@@ -947,12 +956,14 @@
       {
         "rule": "Replace",
         "term": "yourusername",
-        "placeholder": "Your organizations's username"
+        "placeholder": "Your organizations's username",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "yourpassword",
-        "placeholder": "Your organizations's username"
+        "placeholder": "Your organizations's username",
+        "enabled": true
       }
     ]
   },
@@ -1216,12 +1227,14 @@
       {
         "rule": "Replace",
         "term": "DawsonEraTokenKey",
-        "placeholder": "Token key provided by dawsonera"
+        "placeholder": "Token key provided by dawsonera",
+        "enabled": true
       },
       {
         "rule": "Replace",
         "term": "DawsonEraTokenSignatureKey",
-        "placeholder": "24 character token signature key provided by dawsonera"
+        "placeholder": "24 character token signature key provided by dawsonera",
+        "enabled": true
       }
     ]
   },
@@ -1389,7 +1402,8 @@
       {
         "rule": "Replace",
         "term": "YOURSITE",
-        "placeholder": "The YOURSITE name provided by ProQuest"
+        "placeholder": "The YOURSITE name provided by ProQuest",
+        "enabled": true
       }
     ]
   },
@@ -1401,7 +1415,8 @@
       {
         "rule": "Replace",
         "term": "YOURSITE",
-        "placeholder": "The YOURSITE name provided by ProQuest"
+        "placeholder": "The YOURSITE name provided by ProQuest",
+        "enabled": true
       }
     ]
   },
@@ -1456,9 +1471,10 @@
     "oclcIncludeFile": "databases/elsevierperformancemanager.txt",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{virtualname}",
-        "replace": "The virtualname value supplied to you by Elsevier"
+        "rule": "Replace",
+        "term": "{virtualname}",
+        "placeholder": "The virtualname value supplied to you by Elsevier",
+        "enabled": true
       }
     ]
   },
@@ -1577,9 +1593,10 @@
     "oclcStanzaId": "Factiva",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{value_from_proquest}",
-        "replace": "The XSID value supplied by ProQuest"
+        "rule": "Replace",
+        "term": "{value_from_proquest}",
+        "placeholder": "The XSID value supplied by ProQuest",
+        "enabled": true
       }
     ]
   },
@@ -1625,9 +1642,9 @@
     "oclcStanzaId": "Fergusons_Career_Guidance_Center",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "#####",
-        "replace": "Your vendor supplied library ID"
+        "rule": "Replace",
+        "term": "#####",
+        "placeholder": "Your vendor supplied library ID"
       }
     ]
   },
@@ -1879,9 +1896,10 @@
     "oclcStanzaId": "IGAKU-SHOIN_Library",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "\"Your-ID\"",
-        "replace": "Your organization's ID"
+        "rule": "Replace",
+        "term": "\"Your-ID\"",
+        "placeholder": "Your organization's ID",
+        "enabled": true
       }
     ]
   },
@@ -2186,9 +2204,10 @@
     "oclcStanzaId": "Kanopy",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "<Institution_ID>",
-        "replace": "The identifier for your institution"
+        "rule": "Replace",
+        "term": "<Institution_ID>",
+        "placeholder": "The identifier for your institution",
+        "enabled": true
       }
     ]
   },
@@ -2450,9 +2469,10 @@
     "oclcStanzaId": "Mango_Languages",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[institution_name]",
-        "replace": "Your institution name, available from mango Languages"
+        "rule": "Replace",
+        "term": "[institution_name]",
+        "placeholder": "Your institution name, available from mango Languages",
+        "enabled": true
       }
     ]
   },
@@ -2749,9 +2769,9 @@
     "oclcStanzaId": "Naxos",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[siteID]",
-        "replace": "The unique site identifier for your institution"
+        "rule": "Replace",
+        "term": "[siteID]",
+        "placeholder": "The unique site identifier for your institution"
       }
     ]
   },
@@ -2886,14 +2906,16 @@
     "oclcStanzaId": "OCLC_WorldCat_Discovery",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[my institution]",
-        "replace": "The institution used with your WorldCat Discovery instance"
+        "rule": "Replace",
+        "term": "[my institution]",
+        "placeholder": "The institution used with your WorldCat Discovery instance",
+        "enabled": true
       },
       {
-        "rule": "FindReplace",
-        "find": "[registry_id]",
-        "replace": "Your institution's registry ID"
+        "rule": "Replace",
+        "term": "[registry_id]",
+        "placeholder": "Your institution's registry ID",
+        "enabled": true
       }
     ]
   },
@@ -2903,9 +2925,10 @@
     "oclcStanzaId": "OCLC_WorldCat_Local",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "YourInstitution",
-        "replace": "Your institution's domain name"
+        "rule": "Replace",
+        "term": "YourInstitution",
+        "placeholder": "Your institution's domain name",
+        "enabled": true
       }
     ]
   },
@@ -2915,9 +2938,10 @@
     "oclcStanzaId": "OCLC_WorldCat_Discovery",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[YourInstitution]",
-        "replace": "Your institution's domain name"
+        "rule": "Replace",
+        "term": "[YourInstitution]",
+        "placeholder": "Your institution's domain name",
+        "enabled": true
       }
     ]
   },
@@ -2955,9 +2979,10 @@
     "oclcStanzaId": "OneClickdigital_Audiobooks_Ebooks",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{yourlibraryname}",
-        "replace": "The appropriate value supplied to you by OneClickdigital"
+        "rule": "Replace",
+        "term": "{yourlibraryname}",
+        "placeholder": "The appropriate value supplied to you by OneClickdigital",
+        "enabled": true
       }
     ]
   },
@@ -3248,9 +3273,10 @@
     "oclcStanzaId": "Policy_Map",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "SITEURL",
-        "replace": "Your site's URL"
+        "rule": "Replace",
+        "term": "SITEURL",
+        "placeholder": "Your site's URL",
+        "enabled": true
       }
     ]
   },
@@ -3347,9 +3373,10 @@
     "oclcStanzaId": "Pronunciator",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "LIBRARY_ID",
-        "replace": "The LIBRARY_ID value supplied to you by Pronunciator"
+        "rule": "Replace",
+        "term": "LIBRARY_ID",
+        "placeholder": "The LIBRARY_ID value supplied to you by Pronunciator",
+        "enabled": true
       }
     ]
   },
@@ -3376,9 +3403,10 @@
     "oclcStanzaId": "Psychotherapy_net",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[Institution_ID]",
-        "replace": "Your identifier for Psychotherapy.net"
+        "rule": "Replace",
+        "term": "[Institution_ID]",
+        "placeholder": "Your identifier for Psychotherapy.net",
+        "enabled": true
       }
     ]
   },
@@ -3428,9 +3456,10 @@
     "oclcIncludeFile": "databases/rbdigital.txt",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{yourlibraryname}",
-        "replace": "The unique site id that vendor gives you"
+        "rule": "Replace",
+        "term": "{yourlibraryname}",
+        "placeholder": "The unique site id that vendor gives you",
+        "enabled": true
       }
     ]
   },
@@ -3446,9 +3475,10 @@
     "oclcStanzaId": "RIA_Checkpoint",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "youraccountID",
-        "replace": "Your account ID"
+        "rule": "Replace",
+        "term": "youraccountID",
+        "placeholder": "Your account ID",
+        "enabled": true
       }
     ]
   },
@@ -3608,9 +3638,10 @@
     "oclcStanzaId": "S_P_Global_NetAdvantage",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[SITEID]",
-        "replace": "The Site ID provided by the vendor"
+        "rule": "Replace",
+        "term": "[SITEID]",
+        "placeholder": "The Site ID provided by the vendor",
+        "enabled": true
       }
     ]
   },
@@ -3679,9 +3710,10 @@
     "oclcStanzaId": "statref",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "<Institution_ID>",
-        "replace": "Your actual identifier"
+        "rule": "Replace",
+        "term": "<Institution_ID>",
+        "placeholder": "Your actual identifier",
+        "enabled": true
       }
     ]
   },
@@ -3823,9 +3855,10 @@
     "oclcStanzaId": "Siku_Quanshu",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "skqs.yourlib.org",
-        "replace": "The name of your Siku Quanshu server"
+        "rule": "Replace",
+        "term": "skqs.yourlib.org",
+        "placeholder": "The name of your Siku Quanshu server",
+        "enabled": true
       }
     ]
   },
@@ -3840,14 +3873,16 @@
     "oclcStanzaId": "Skillsoft-Skillport",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{secret}",
-        "replace": "The {secret} value provided by Skillsoft"
+        "rule": "Replace",
+        "term": "{secret}",
+        "placeholder": "The {secret} value provided by Skillsoft",
+        "enabled": true
       },
       {
-        "rule": "FindReplace",
-        "find": "{url}",
-        "replace": "The {url} value provided by Skillsoft"
+        "rule": "Replace",
+        "term": "{url}",
+        "placeholder": "The {url} value provided by Skillsoft",
+        "enabled": true
       }
     ]
   },
@@ -3930,14 +3965,16 @@
     "oclcStanzaId": "SymptomMedia",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "{user}",
-        "replace": "Your institution's username"
+        "rule": "Replace",
+        "term": "{user}",
+        "placeholder": "Your institution's username",
+        "enabled": true
       },
       {
-        "rule": "FindReplace",
-        "find": "{password}",
-        "replace": "Your institution's password"
+        "rule": "Replace",
+        "term": "{password}",
+        "placeholder": "Your institution's password",
+        "enabled": true
       }
     ]
   },
@@ -4032,9 +4069,10 @@
     "oclcStanzaId": "Thomson_ONE",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "ThomsonONE.comURL",
-        "replace": "The URL provided by Thomson Reuters for your institution"
+        "rule": "Replace",
+        "term": "ThomsonONE.comURL",
+        "palceholder": "The URL provided by Thomson Reuters for your institution",
+        "enabled": true
       }
     ]
   },
@@ -4061,9 +4099,10 @@
     "oclcStanzaId": "Transparent_Language",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "[yourTLOnickname]",
-        "replace": "The name given to you by Transparent Language"
+        "rule": "Replace",
+        "term": "[yourTLOnickname]",
+        "placeholder": "The name given to you by Transparent Language",
+        "enabled": true
       }
     ]
   },
@@ -4084,9 +4123,10 @@
     "oclcStanzaId": "Tugg_Streaming",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "SITENAME",
-        "replace": "The site name provided to you by Tugg.com"
+        "rule": "Replace",
+        "term": "SITENAME",
+        "placeholder": "The site name provided to you by Tugg.com",
+        "enabled": true
       }
     ]
   },
@@ -4250,9 +4290,10 @@
     "note": "Some additional configuration options may be required. Please check the stanza page on the OCLC website for more details",
     "rules": [
       {
-        "rule": "FindReplace",
-        "find": "YOURSPONSORSHIP",
-        "replace": "The code provided specifically for your institution by Westlaw"
+        "rule": "Replace",
+        "term": "YOURSPONSORSHIP",
+        "palceholder": "The code provided specifically for your institution by Westlaw",
+        "enabled": true
       }
     ]
   },
