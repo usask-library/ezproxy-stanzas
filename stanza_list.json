@@ -821,7 +821,7 @@
     "oclcStanzaId": "Britannica_Academic"
   },
   "Britannica_E-Stax": {
-    "name": "Britannica_E-Stax",
+    "name": "Britannica E-Stax",
     "stanza": "OCLC/Britannica_E-Stax.txt",
     "oclcStanzaId": "Britannica_E-Stax"
   },
@@ -1972,7 +1972,7 @@
     "oclcStanzaId": "InCites"
   },
   "Inderscience_Online": {
-    "name": "Inderscience_Online",
+    "name": "Inderscience Online",
     "stanza": "OCLC/Inderscience_Online.txt",
     "oclcStanzaId": "Inderscience_Online",
     "oclcIncludeFile": "databases/inderscience.txt"
@@ -2529,7 +2529,7 @@
     "oclcIncludeFile": "databases/msp.txt"
   },
   "Matthew_Bender_Online": {
-    "name": "Matthew_Bender_Online",
+    "name": "Matthew Bender Online",
     "stanza": "OCLC/Matthew_Bender_Online.txt",
     "oclcStanzaId": "Matthew_Bender_Online",
     "note": "To proxy LexisNexis Matthew Bender Online you must include this stanza BEFORE the normal LexisNexis database stanza"
@@ -3026,7 +3026,7 @@
     "oclcStanzaId": "OpenThesis"
   },
   "Opinion_Archives": {
-    "name": "Opinion_Archives",
+    "name": "Opinion Archives",
     "stanza": "OCLC/Opinion_Archives.txt",
     "oclcStanzaId": "Opinion_Archives"
   },
@@ -3423,7 +3423,7 @@
     "oclcIncludeFile": "databases/publicinformationonline.txt"
   },
   "Public_Library_of_Science": {
-    "name": "Public_Library_of_Science",
+    "name": "Public Library of Science",
     "stanza": "OCLC/Public_Library_of_Science.txt",
     "oclcStanzaId": "Public_Library_of_Science"
   },
@@ -3470,7 +3470,7 @@
     "oclcIncludeFile": "databases/rcnpublishing.txt"
   },
   "RIA_Checkpoint": {
-    "name": "RIA_Checkpoint",
+    "name": "RIA Checkpoint",
     "stanza": "OCLC/RIA_Checkpoint.txt",
     "oclcStanzaId": "RIA_Checkpoint",
     "rules": [
@@ -3523,7 +3523,7 @@
     "note": "Includes the Scholars Portal stanza required for Canadian sites that access RefWorks through Scholars Portal"
   },
   "Reference_Universe": {
-    "name": "Reference_Universe",
+    "name": "Reference Universe",
     "stanza": "OCLC/Reference_Universe.txt",
     "oclcStanzaId": "Reference_Universe"
   },
@@ -3931,7 +3931,7 @@
     "oclcIncludeFile": "databases/stjerome.txt"
   },
   "Standards_New_Zealand": {
-    "name": "Standards_New_Zealand",
+    "name": "Standards New Zealand",
     "stanza": "OCLC/Standards_New_Zealand.txt",
     "oclcStanzaId": "Standards_New_Zealand"
   },
@@ -4141,7 +4141,7 @@
     "oclcStanzaId": "Turnitin"
   },
   "U_S_Documents_Masterfile": {
-    "name": "U_S_Documents_Masterfile",
+    "name": "U.S. Documents Masterfile",
     "stanza": "OCLC/U_S_Documents_Masterfile.txt",
     "oclcStanzaId": "U_S_Documents_Masterfile"
   },
@@ -4202,7 +4202,7 @@
     "oclcStanzaId": "vLex",
     "oclcIncludeFile": "databases/vlex.txt"
   },
-  "Value_Line": {
+  "Value Line": {
     "name": "Value_Line",
     "stanza": "OCLC/Value_Line.txt",
     "oclcStanzaId": "Value_Line",
