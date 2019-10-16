@@ -1982,6 +1982,12 @@
     "stanza": "OCLC/IndiaStat.txt",
     "oclcStanzaId": "IndiaStat"
   },
+  "Indo-European_Studies": {
+    "name": "Indo-European Studies",
+    "stanza": "OCLC/Indo-European_Studies.txt",
+    "oclcStanzaId": "Indo-European_Studies",
+    "oclcIncludeFile": "databases/jiesonline.txt"
+  },
   "Infobaselearning": {
     "name": "Infobaselearning",
     "stanza": "OCLC/Infobaselearning.txt",
