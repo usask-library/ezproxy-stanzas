@@ -2334,6 +2334,12 @@
     "stanza": "OCLC/Lawyers_Daily_Academic.txt",
     "oclcStanzaId": "Lawyer's_Daily_Academic"
   },
+  "Leadership_Connect": {
+    "name": "Leadership Connect",
+    "stanza": "OCLC/Leadership_Connect.txt",
+    "oclcStanzaId": "Leadership_Connect",
+    "oclcIncludeFile": "databases/leadershipconnect.txt"
+  },
   "Learning_Technology_Library": {
     "name": "Learning and Technology Library, The",
     "stanza": "OCLC/Learning_Technology_Library.txt",
