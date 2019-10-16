@@ -1154,6 +1154,12 @@
     "stanza": "OCLC/CultureGrams.txt",
     "oclcStanzaId": "CultureGrams"
   },
+  "Current_History": {
+    "name": "Current History",
+    "stanza": "OCLC/Current_History.txt",
+    "oclcStanzaId": "Current_History",
+    "oclcIncludeFile": "databases/currenthistory.txt"
+  },
   "DCP_Online": {
     "name": "DCP Online",
     "stanza": "OCLC/DCP_Online.txt",
