@@ -1464,6 +1464,12 @@
     "oclcStanzaId": "ecsdl",
     "oclcIncludeFile": "databases/ecsdl.txt"
   },
+  "Eleven_Journals": {
+    "name": "Eleven Journals",
+    "stanza": "OCLC/Eleven_Journals.txt",
+    "oclcStanzaId": "Eleven_Journals",
+    "oclcIncludeFile": "databases/elevenjournals.txt"
+  },
   "Elgaronline": {
     "name": "Elgaronline",
     "stanza": "OCLC/Elgaronline.txt",
