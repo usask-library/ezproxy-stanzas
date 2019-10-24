@@ -2410,7 +2410,8 @@
   "Liverpool_University_Press": {
     "name": "Liverpool University Press",
     "stanza": "OCLC/Liverpool_University_Press.txt",
-    "oclcStanzaId": "Liverpool_University_Press"
+    "oclcStanzaId": "Liverpool_University_Press",
+    "oclcIncludeFile": "databases/liverpoolunipress.txt"
   },
   "Loeb_Classics": {
     "name": "Loeb Classics",
