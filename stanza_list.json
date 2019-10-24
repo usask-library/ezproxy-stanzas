@@ -3633,6 +3633,12 @@
     "oclcStanzaId": "Royal_Boom_Publishing",
     "oclcIncludeFile": "databases/royalboom.txt"
   },
+  "Royal_College_of_Physicians": {
+    "name": "Royal College of Physicians",
+    "stanza": "OCLC/Royal_College_of_Physicians.txt",
+    "oclcStanzaId": "Royal_College_of_Physicians",
+    "oclcIncludeFile": "databases/rcpjournal.txt"
+  },
   "Royal_Society_Publishing_The": {
     "name": "Royal Society Publishing, The",
     "stanza": "OCLC/Royal_Society_Publishing_The.txt",
