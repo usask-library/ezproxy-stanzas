@@ -3235,7 +3235,7 @@
     "oclcIncludeFile": "databases/parislegalpublishers.txt"
   },
   "Passport_Euromonitor_International": {
-    "name": "Passport Euromonitor International",
+    "name": "Passport (Euromonitor International)",
     "stanza": "OCLC/Passport_Euromonitor_International.txt",
     "oclcStanzaId": "Passport_Euromonitor_International",
     "oclcIncludeFile": "databases/gmid.txt"
