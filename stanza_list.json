@@ -2588,6 +2588,12 @@
     "oclcStanzaId": "Media_Source_Incorporated",
     "oclcIncludeFile": "databases/mediasourceincorporated.txt"
   },
+  "Medical_Journals": {
+    "name": "Medical Journals",
+    "stanza": "OCLC/Medical_Journals.txt",
+    "oclcStanzaId": "Medical_Journals",
+    "oclcIncludeFile": "databases/medicaljournals.txt"
+  },
   "Medcom_Trainex": {
     "name": "Medcom Trainex",
     "stanza": "OCLC/Medcom_Trainex.txt",
