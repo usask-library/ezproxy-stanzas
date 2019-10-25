@@ -399,6 +399,12 @@
     ]
 
   },
+  "American_Phytopathological_Society": {
+    "name": "American Phytopathological Society",
+    "stanza": "OCLC/American_Phytopathological_Society.txt",
+    "oclcStanzaId": "American_Phytopathological_Society",
+    "oclcIncludeFile": "databases/americanphytopathologicalsociety.txt"
+  },
   "American_Society_for_Biochemistry_Molecular_Biology": {
     "name": "American Society for Biochemistry and Molecular Biology",
     "stanza": "OCLC/American_Society_for_Biochemistry_Molecular_Biology.txt",
