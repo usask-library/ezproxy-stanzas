@@ -3458,6 +3458,12 @@
     "oclcStanzaId": "Quintessence_Publishing",
     "oclcIncludeFile": "databases/quintpub.txt"
   },
+  "Qinsight": {
+    "name": "Qinsight",
+    "stanza": "OCLC/Qinsight.txt",
+    "oclcStanzaId": "Qinsight",
+    "oclcIncludeFile": "databases/qinsight.txt"
+  },
   "Quorum": {
     "name": "Quorum",
     "stanza": "OCLC/Quorum.txt",
