@@ -3026,7 +3026,8 @@
   "Online_Music_Anthology": {
     "name": "Online Music Anthology",
     "stanza": "OCLC/Online_Music_Anthology.txt",
-    "oclcStanzaId": "Online_Music_Anthology"
+    "oclcStanzaId": "Online_Music_Anthology",
+    "oclcIncludeFile": "databases/onlinemusicanthology.txt"
   },
   "Open_Book_Publishers": {
     "name": "Open Book Publishers",
