@@ -1924,7 +1924,8 @@
   "IGI_Global": {
     "name": "IGI Global",
     "stanza": "OCLC/IGI_Global.txt",
-    "oclcStanzaId": "IGI_Global"
+    "oclcStanzaId": "IGI_Global",
+    "oclcIncludeFile": "databases/igi_global.txt"
   },
   "IHS_ESDU": {
     "name": "IHS ESDU",
