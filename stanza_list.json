@@ -2057,6 +2057,12 @@
     "oclcStanzaId": "Intelex_Past_Masters",
     "oclcIncludeFile": "databases/nlxpm.txt"
   },
+  "Inter-Research_Science_Publisher": {
+    "name": "Inter-Research Science Publisher",
+    "stanza": "OCLC/Inter-Research_Science_Publisher.txt",
+    "oclcStanzaId": "Inter-Research_Science_Publisher",
+    "oclcIncludeFile": "databases/inter-research_science_publisher.txt"
+  },
   "IAEE": {
     "name": "International Association for Energy Economics (IAEE)",
     "stanza": "OCLC/IAEE.txt",
