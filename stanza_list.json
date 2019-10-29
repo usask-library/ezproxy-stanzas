@@ -2170,6 +2170,12 @@
     "oclcStanzaId": "Journal_Jewish_Studies",
     "oclcIncludeFile": "databases/jewishstudies.txt"
   },
+  "Journal_of_Neuroscience": {
+    "name": "Journal of Neuroscience, The",
+    "stanza": "OCLC/Journal_of_Neuroscience.txt",
+    "oclcStanzaId": "Journal_of_Neuroscience",
+    "oclcIncludeFile": "databases/the_journal_of_neuroscience.txt"
+  },
   "Journal_of_Neurosurgery": {
     "name": "Journal of Neurosurgery",
     "stanza": "OCLC/Journal_of_Neurosurgery.txt",
