@@ -4212,6 +4212,12 @@
     "stanza": "OCLC/Ulrichsweb.txt",
     "oclcStanzaId": "Ulrichsweb"
   },
+  "Understanding_Hate_in_America": {
+    "name": "Understanding Hate in America",
+    "stanza": "OCLC/Understanding_Hate_in_America.txt",
+    "oclcStanzaId": "Understanding_Hate_in_America",
+    "oclcIncludeFile": "databases/hateinamerica.txt"
+  },
   "University_Press_Scholarship_Online": {
     "name": "University Press Scholarship Online",
     "stanza": "OCLC/University_Press_Scholarship_Online.txt",
