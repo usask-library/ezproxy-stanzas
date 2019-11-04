@@ -2724,7 +2724,8 @@
   "Morningstar": {
     "name": "Morningstar",
     "stanza": "OCLC/Morningstar.txt",
-    "oclcStanzaId": "Morningstar"
+    "oclcStanzaId": "Morningstar",
+    "oclcIncludeFile": "databases/morningstar.txt"
   },
   "MyiLibrary": {
     "name": "MyiLibrary",
