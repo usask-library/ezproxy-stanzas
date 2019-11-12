@@ -774,6 +774,12 @@
       }
     ]
   },
+  "Boomportaal": {
+    "name": "Boomportaal",
+    "stanza": "OCLC/Boomportaal.txt",
+    "oclcStanzaId": "Boomportaal",
+    "oclcIncludeFile": "databases/boomportaal.txt"
+  },
   "Botanical_Society_of_America": {
     "name": "Botanical Society of America",
     "stanza": "OCLC/Botanical_Society_of_America.txt",
