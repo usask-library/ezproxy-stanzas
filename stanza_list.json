@@ -231,7 +231,8 @@
   "African_Journals_Online": {
     "name": "African Journals Online",
     "stanza": "OCLC/African_Journals_Online.txt",
-    "oclcStanzaId": "African_Journals_Online"
+    "oclcStanzaId": "African_Journals_Online",
+    "oclcIncludeFile": "databases/ajol.txt"
   },
   "Agriholland": {
     "name": "Agriholland",
