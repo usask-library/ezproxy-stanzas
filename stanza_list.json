@@ -3311,6 +3311,12 @@
     "oclcStanzaId": "Philosophy_Now",
     "oclcIncludeFile": "databases/philosophynow.txt"
   },
+  "Physical_Society_of_Japan": {
+    "name": "Physical Society of Japan",
+    "stanza": "OCLC/Physical_Society_of_Japan.txt",
+    "oclcStanzaId": "Physical_Society_of_Japan",
+    "oclcIncludeFile": "databases/jpsjournals.txt"
+  },
   "PiCarta": {
     "name": "PiCarta",
     "stanza": "OCLC/PiCarta.txt",
