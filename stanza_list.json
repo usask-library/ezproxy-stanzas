@@ -3765,6 +3765,12 @@
     "oclcStanzaId": "SDU",
     "oclcIncludeFile": "databases/sdu.txt"
   },
+  "SFDE": {
+    "name": "SFDE",
+    "stanza": "OCLC/sfde.txt",
+    "oclcStanzaId": "sfde",
+    "oclcIncludeFile": "databases/sfde.txt"
+  },
   "SIPRI_Yearbook_Online": {
     "name": "SIPRI Yearbook Online",
     "stanza": "OCLC/SIPRI_Yearbook_Online.txt",
