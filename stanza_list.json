@@ -1864,6 +1864,12 @@
     "oclcStanzaId": "Human_Kinetics",
     "oclcIncludeFile": "databases/human_kinetics.txt"
   },
+  "Humanity_Journal": {
+    "name": "Humanity Journal",
+    "stanza": "OCLC/Humanity_Journal.txt",
+    "oclcStanzaId": "Humanity_Journal",
+    "oclcIncludeFile": "databases/humanityjournal.txt"
+  },
   "iLaw": {
     "name": "I-Law",
     "stanza": "OCLC/iLaw.txt",
