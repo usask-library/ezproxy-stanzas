@@ -1245,14 +1245,14 @@
     "rules": [
       {
         "rule": "Replace",
-        "term": "DawsonEraTokenKey",
-        "placeholder": "Token key provided by dawsonera",
+        "term": "TokenKey YouGetThisFromDawsonEra",
+        "placeholder": "Token key provided by Dawsonera",
         "enabled": true
       },
       {
         "rule": "Replace",
-        "term": "DawsonEraTokenSignatureKey",
-        "placeholder": "24 character token signature key provided by dawsonera",
+        "term": "TokenSignatureKey YouGetThisFromDawsonEra",
+        "placeholder": "Token signature key provided by Dawsonera",
         "enabled": true
       }
     ]
