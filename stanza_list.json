@@ -4457,6 +4457,12 @@
     "oclcStanzaId": "World_Scientific_Publishing",
     "oclcIncludeFile": "databases/worldscientific.txt"
   },
+  "World_Shakespeare_Bibliography": {
+    "name": "World Shakespeare Bibliography",
+    "stanza": "OCLC/World_Shakespeare_Bibliography.txt",
+    "oclcStanzaId": "World_Shakespeare_Bibliography",
+    "oclcIncludeFile": "databases/world_shakespeare.txt"
+  },
   "World_Trade_REF": {
     "name": "World Trade REF",
     "stanza": "OCLC/World_Trade_REF.txt",
