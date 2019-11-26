@@ -2562,6 +2562,12 @@
     "stanza": "OCLC/MarketResearch_com_Academic.txt",
     "oclcStanzaId": "MarketResearch_com_Academic"
   },
+  "Marketing_Week": {
+    "name": "Marketing Week",
+    "stanza": "OCLC/Marketing_Week.txt",
+    "oclcStanzaId": "Marketing_Week",
+    "oclcIncludeFile": "databases/marketingweek.txt"
+  },
   "Marketscope_Advisor-CFRA": {
     "name": "Marketscope Advisor - CFRA",
     "stanza": "OCLC/Marketscope_Advisor-CFRA.txt",
