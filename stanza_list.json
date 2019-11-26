@@ -276,7 +276,8 @@
   "Ambrose_Digital_Video": {
     "name": "Ambrose Digital Video",
     "stanza": "OCLC/Ambrose_Digital_Video.txt",
-    "oclcStanzaId": "Ambrose_Digital_Video"
+    "oclcStanzaId": "Ambrose_Digital_Video",
+    "oclcIncludeFile": "databases/ambrosevideo.txt"
   },
   "American_Academy_of_Pediatrics": {
     "name": "American Academy of Pediatrics (formerly Pediatrics)",
