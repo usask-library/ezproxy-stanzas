@@ -1,0 +1,3 @@
+T Ethnologue
+U https://www.ethnologue.com
+D ethnologue.com

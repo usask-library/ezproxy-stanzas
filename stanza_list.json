@@ -1579,6 +1579,10 @@
     "oclcStanzaId": "Equinox_Publishing_Ltd",
     "oclcIncludeFile": "databases/equinox.txt"
   },
+  "Ethnologue": {
+    "name": "Ethnologue",
+    "stanza": "contrib/Ethnologue.txt"
+  },
   "EurekaSelect": {
     "name": "EurekaSelect",
     "stanza": "OCLC/EurekaSelect.txt",
