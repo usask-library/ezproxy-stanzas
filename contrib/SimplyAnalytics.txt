@@ -1,7 +1,0 @@
-#
-# Name: SimplyAnalytics
-# URL: https://www.nclive.org/blog/service/simplymap-changing-simplyanalytics
-#
-T SimplyAnalytics
-U https://app.simplyanalytics.com
-DJ *.simplyanalytics.com

@@ -4097,9 +4097,9 @@
   },
   "SimplyAnalytics": {
     "name": "SimplyAnalytics",
-    "stanza": "contrib/SimplyAnalytics.txt",
-    "source": "https://www.nclive.org/blog/service/simplymap-changing-simplyanalytics"
-  },
+    "stanza": "OCLC/SimplyAnalytics.txt",
+    "oclcStanzaId": "SimplyAnalytics",
+    "oclcIncludeFile": "databases/simplyanalytics.txt"  },
   "Taxnet_Pro": {
     "name": "Taxnet Pro",
     "stanza": "OCLC/Taxnet_Pro.txt",
