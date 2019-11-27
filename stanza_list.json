@@ -466,6 +466,12 @@
     "oclcStanzaId": "ASHA",
     "oclcIncludeFile": "databases/asha.txt"
   },
+  "American_Veterinary_Medical_Association": {
+    "name": "American Veterinary Medical Association",
+    "stanza": "OCLC/American_Veterinary_Medical_Association.txt",
+    "oclcStanzaId": "American_Veterinary_Medical_Association",
+    "oclcIncludeFile": "databases/avmajournals.txt"
+  },
   "Anatomedia_Online": {
     "name": "Anatomedia Online",
     "stanza": "OCLC/Anatomedia_Online.txt",
