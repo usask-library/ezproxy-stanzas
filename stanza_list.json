@@ -75,7 +75,8 @@
   "AHA_Journals": {
     "name": "AHA Journals",
     "stanza": "OCLC/AHA_Journals.txt",
-    "oclcStanzaId": "ahajournals"
+    "oclcStanzaId": "AHA_Journals",
+    "oclcIncludeFile": "databases/ahajournals.txt"
   },
   "AHA_eBooks_Library": {
     "name": "AHA eBooks Library",
