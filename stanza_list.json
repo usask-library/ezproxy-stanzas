@@ -4099,7 +4099,14 @@
     "name": "SimplyAnalytics",
     "stanza": "OCLC/SimplyAnalytics.txt",
     "oclcStanzaId": "SimplyAnalytics",
-    "oclcIncludeFile": "databases/simplyanalytics.txt"  },
+    "oclcIncludeFile": "databases/simplyanalytics.txt"
+  },
+  "TMC_Asser_Instituut": {
+    "name": "TMC Asser Instituut",
+    "stanza": "OCLC/TMC_Asser_Instituut.txt",
+    "oclcStanzaId": "TMC_Asser_Instituut",
+    "oclcIncludeFile": "databases/nipr.txt"
+  },
   "Taxnet_Pro": {
     "name": "Taxnet Pro",
     "stanza": "OCLC/Taxnet_Pro.txt",
