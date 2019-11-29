@@ -2193,7 +2193,7 @@
   "Journal_of_Bone_Joint_Surgery": {
     "name": "Journal of Bone and Joint Surgery, American Volume, The",
     "stanza": "OCLC/Journal_of_Bone_Joint_Surgery.txt",
-    "oclcStanzaId": "jbeplatform",
+    "oclcStanzaId": "jbjs",
     "oclcIncludeFile": "databases/jbjs.txt"
   },
   "Journal_Jewish_Studies": {
