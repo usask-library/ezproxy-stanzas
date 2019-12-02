@@ -120,7 +120,7 @@
   },
   "ASME_Digital_Collection": {
     "name": "ASME Digital Collection",
-    "stanza": "OCLC/ASME Digital Collection.txt",
+    "stanza": "OCLC/ASME_Digital_Collection.txt",
     "oclcStanzaId": "asme",
     "oclcIncludeFile": "databases/asme.txt"
   },
