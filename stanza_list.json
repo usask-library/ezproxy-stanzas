@@ -4330,7 +4330,7 @@
     "oclcIncludeFile": "databases/vlex.txt"
   },
   "Value Line": {
-    "name": "Value_Line",
+    "name": "Value Line",
     "stanza": "OCLC/Value_Line.txt",
     "oclcStanzaId": "Value_Line",
     "oclcIncludeFile": "databases/valueline.txt"
