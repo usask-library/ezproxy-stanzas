@@ -3784,6 +3784,12 @@
     "oclcStanzaId": "SAI_Global",
     "oclcIncludeFile": "databases/saiglobal.txt"
   },
+  "sam_gov": {
+    "name": "SAM.gov (beta)",
+    "stanza": "OCLC/sam_gov.txt",
+    "oclcStanzaId": "sam_gov",
+    "oclcIncludeFile": "databases/sam_gov.txt"
+  },
   "SDU": {
     "name": "SDU",
     "stanza": "OCLC/SDU.txt",
