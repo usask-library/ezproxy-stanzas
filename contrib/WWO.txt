@@ -3,7 +3,7 @@
 # URL: http://www.wwp.northeastern.edu/wwo/help/lib_help.html
 #
 Title Women Writers Project
-U http://www.wwp.northeastern.edu/wwo/
+U https://www.wwp.northeastern.edu/wwo/
 H wwp.northeastern.edu.edu
 H www.wwp.northeastern.edu
 H wwo.wwp.northeastern.edu
