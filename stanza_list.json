@@ -226,7 +226,7 @@
   "African_Journals": {
     "name": "African Journals (formerly Sabinet ePublications)",
     "stanza": "OCLC/African_Journals.txt",
-    "oclcStanzaId": "African_Journals_(formerly_Sabinet_ePublications)",
+    "oclcStanzaId": "African_Journals_formerly_Sabinet_ePublications",
     "oclcIncludeFile": "databases/sabinetepubs.txt"
   },
   "African_Journals_Online": {
@@ -1220,10 +1220,10 @@
     "oclcStanzaId": "Dalloz_Revues",
     "oclcIncludeFile": "databases/dalloz_revues.txt"
   },
-  "Daniels_Ochestral": {
+  "Daniels_Orchestral": {
     "name": "Daniels Ochestral",
-    "stanza": "OCLC/Daniels_Ochestral.txt",
-    "oclcStanzaId": "Daniels_Ochestral"
+    "stanza": "OCLC/Daniels_Orchestral.txt",
+    "oclcStanzaId": "Daniels_Orchestral"
   },
   "Data-Planet_Statistical_Datasets": {
     "name": "Data-Planet Statistical Datasets",
@@ -1246,10 +1246,10 @@
     "oclcStanzaId": "Datamonitor",
     "oclcIncludeFile": "databases/datamonitor.txt"
   },
-  "Dawsonera": {
-    "name": "Dawsonera",
-    "stanza": "OCLC/Dawsonera.txt",
-    "oclcStanzaId": "Dawsonera",
+  "DawsonEra": {
+    "name": "DawsonEra",
+    "stanza": "OCLC/DawsonEra.txt",
+    "oclcStanzaId": "DawsonEra",
     "rules": [
       {
         "rule": "Replace",
@@ -1339,7 +1339,7 @@
   "Duke_University_Press": {
     "name": "Duke University Press Books and Journals",
     "stanza": "OCLC/Duke_University_Press.txt",
-    "oclcStanzaId": "Duke_University_Press",
+    "oclcStanzaId": "Duke_University_Press_Books_and_Journals",
     "oclcIncludeFile": "databases/dukepress.txt"
   },
   "DynaMed": {
@@ -1418,7 +1418,7 @@
   "eTG_Complete": {
     "name": "ETG Complete",
     "stanza": "OCLC/eTG_Complete.txt",
-    "oclcStanzaId": "ESG_Manager",
+    "oclcStanzaId": "eTG_Complete",
     "oclcIncludeFile": "databases/etg.txt"
   },
   "Ebook_Central_SSO": {
@@ -2109,7 +2109,7 @@
   "Invert": {
     "name": "Invert",
     "stanza": "OCLC/Invert.txt",
-    "oclcStanzaId": "Invert",
+    "oclcStanzaId": "invert",
     "oclcIncludeFile": "databases/invert.txt"
   },
   "Iter": {
@@ -2490,7 +2490,7 @@
   "Lynda": {
     "name": "Lynda.com",
     "stanza": "OCLC/Lynda.txt",
-    "oclcStanzaId": "Lynda.com",
+    "oclcStanzaId": "Lynda",
     "oclcIncludeFile": "databases/lynda.txt"
   },
   "MD_Consult": {
@@ -2711,7 +2711,7 @@
   "Metropolitan_Opera": {
     "name": "Metropolitan Opera on Demand",
     "stanza": "OCLC/Metropolitan_Opera.txt",
-    "oclcStanzaId": "Metropolitan_Opera",
+    "oclcStanzaId": "Metropolitan_Opera_on_Demand",
     "oclcIncludeFile": "databases/metopera.txt"
   },
   "Microbiology_Society_Journals": {
@@ -2831,7 +2831,7 @@
   "NFB": {
     "name": "National Film Board of Canada",
     "stanza": "OCLC/NFB.txt",
-    "oclcStanzaId": "NFB",
+    "oclcStanzaId": "nfb",
     "oclcIncludeFile": "databases/nfbcanada.txt"
   },
   "NationalJournal": {
