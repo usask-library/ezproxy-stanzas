@@ -975,6 +975,12 @@
     "oclcStanzaId": "Canadian_Mathematical_Society",
     "oclcIncludeFile": "databases/cms.txt"
   },
+  "Canadian_Medical_Association": {
+    "name": "Canadian Medical Association",
+    "stanza": "OCLC/Canadian_Medical_Association.txt",
+    "oclcStanzaId": "Canadian_Medical_Association",
+    "oclcIncludeFile": "databases/cma.txt"
+  },
   "Canadian_Pharmacists_Association": {
     "name": "Canadian Pharmacists Association",
     "stanza": "OCLC/Canadian_Pharmacists_Association.txt",
