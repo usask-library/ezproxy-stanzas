@@ -4560,6 +4560,12 @@
     "oclcStanzaId": "World_Shakespeare_Bibliography",
     "oclcIncludeFile": "databases/world_shakespeare.txt"
   },
+  "World_Tourism_Organization_WTO": {
+    "name": "World Tourism Organization (WTO)",
+    "stanza": "OCLC/World_Tourism_Organization_WTO.txt",
+    "oclcStanzaId": "World_Tourism_Organization_WTO",
+    "oclcIncludeFile": "databases/unwto.txt"
+  },
   "World_Trade_REF": {
     "name": "World Trade REF",
     "stanza": "OCLC/World_Trade_REF.txt",
