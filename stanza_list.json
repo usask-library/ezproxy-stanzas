@@ -2883,7 +2883,7 @@
     "oclcIncludeFile": "databases/nfbcanada.txt"
   },
   "NationalJournal": {
-    "name": "NationalJournal",
+    "name": "National Journal",
     "stanza": "OCLC/NationalJournal.txt",
     "oclcStanzaId": "NationalJournal",
     "oclcIncludeFile": "databases/nationaljournal.txt"
