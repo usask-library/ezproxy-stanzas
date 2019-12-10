@@ -4587,5 +4587,11 @@
     "name": "Zephyr",
     "stanza": "OCLC/Zephyr.txt",
     "oclcStanzaId": "Zephyr"
+  },
+  "Zero_to_Three": {
+    "name": "Zero to Three",
+    "stanza": "OCLC/Zero_to_Three.txt",
+    "oclcStanzaId": "Zero_to_Three",
+    "oclcIncludeFile": "databases/zerotothree.txt"
   }
 }
