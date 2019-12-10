@@ -2142,6 +2142,12 @@
     "oclcStanzaId": "IMF",
     "oclcIncludeFile": "databases/imf.txt"
   },
+  "International_Press": {
+    "name": "International Press",
+    "stanza": "OCLC/International_Press.txt",
+    "oclcStanzaId": "International_Press",
+    "oclcIncludeFile": "databases/internationalpress.txt"
+  },
   "Invert": {
     "name": "Invert",
     "stanza": "OCLC/Invert.txt",
