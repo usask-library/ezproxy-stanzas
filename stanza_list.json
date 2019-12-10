@@ -1372,6 +1372,12 @@
     "oclcStanzaId": "e-Marefa",
     "oclcIncludeFile": "databases/e-marefa.txt"
   },
+  "EB_Medicine": {
+    "name": "EB Medicine",
+    "stanza": "OCLC/EB_Medicine.txt",
+    "oclcStanzaId": "EB_Medicine",
+    "oclcIncludeFile": "databases/ebmedicine.txt"
+  },
   "EBSCO_A-to-Z": {
     "name": "EBSCO A-to-Z",
     "stanza": "OCLC/EBSCO_A-to-Z.txt",
