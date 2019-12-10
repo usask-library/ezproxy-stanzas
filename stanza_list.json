@@ -1867,6 +1867,12 @@
     "oclcStanzaId": "HeinOnline",
     "oclcIncludeFile": "databases/heinonline.txt"
   },
+  "Heldermann_Verlag": {
+    "name": "Heldermann Verlag",
+    "stanza": "OCLC/Heldermann_Verlag.txt",
+    "oclcStanzaId": "Heldermann_Verlag",
+    "oclcIncludeFile": "databases/heldermann.txt"
+  },
   "Henry_Stewart_Talks": {
     "name": "Henry Stewart Talks",
     "stanza": "OCLC/Henry_Stewart_Talks.txt",
