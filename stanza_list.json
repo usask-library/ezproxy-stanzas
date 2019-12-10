@@ -1888,6 +1888,12 @@
     "stanza": "OCLC/HighWire_Press.txt",
     "oclcStanzaId": "HighWire_Press"
   },
+  "History_Study_Center": {
+    "name": "History Study Center",
+    "stanza": "OCLC/History_Study_Center.txt",
+    "oclcStanzaId": "History_Study_Center",
+    "oclcIncludeFile": "databases/historystudycenter.txt"
+  },
   "Hogrefe_eContent": {
     "name": "Hogrefe eContent",
     "stanza": "OCLC/Hogrefe_eContent.txt",
