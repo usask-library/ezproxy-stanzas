@@ -969,6 +969,12 @@
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
   },
+  "Canadian_Mathematical_Society": {
+    "name": "Canadian Mathematical Society",
+    "stanza": "OCLC/Canadian_Mathematical_Society.txt",
+    "oclcStanzaId": "Canadian_Mathematical_Society",
+    "oclcIncludeFile": "databases/cms.txt"
+  },
   "Canadian_Pharmacists_Association": {
     "name": "Canadian Pharmacists Association",
     "stanza": "OCLC/Canadian_Pharmacists_Association.txt",
