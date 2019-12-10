@@ -1,0 +1,10 @@
+Title National Technical Information Service (updated 20070509)
+URL http://www.ntis.gov/FDLP/login.aspx?ReturnUrl=/fdlp/Default.aspx
+DJ ntis.gov
+Find <input name="ctl00$ContentPlaceHolder1$Login1$UserName"
+Replace <input name="ctl00$ContentPlaceHolder1$Login1$UserName" value=" yourusername"
+Find <input name="ctl00$ContentPlaceHolder1$Login1$Password"
+Replace <input name="ctl00$ContentPlaceHolder1$Login1$Password" value=" yourpassword"
+
+Title U.S. Government Printing Office's PURL service
+URL http://purl.access.gpo.gov/

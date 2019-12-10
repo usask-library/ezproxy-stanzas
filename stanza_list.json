@@ -2888,6 +2888,23 @@
     "oclcStanzaId": "NationalJournal",
     "oclcIncludeFile": "databases/nationaljournal.txt"
   },
+  "NTIS": {
+    "name": "National Technical Information Service (NTIS)",
+    "stanza": "OCLC/NTIS.txt",
+    "oclcStanzaId": "ntis",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": " yourusername",
+        "placeholder": "Your NTIS Username"
+      },
+      {
+        "rule": "Replace",
+        "term": " yourpassword",
+        "placeholder": "Your NTIS Password"
+      }
+    ]
+  },
   "Natural_Medicines": {
     "name": "Natural Medicines",
     "stanza": "OCLC/Natural_Medicines.txt",
