@@ -1295,6 +1295,12 @@
     "oclcStanzaId": "desLibris",
     "oclcIncludeFile": "databases/desLibris.txt"
   },
+  "Dialnet": {
+    "name": "Dialnet",
+    "stanza": "OCLC/Dialnet.txt",
+    "oclcStanzaId": "Dialnet",
+    "oclcIncludeFile": "databases/dialnet.txt"
+  },
   "Dictionary_of_American_Regional_English": {
     "name": "Dictionary of American Regional English",
     "stanza": "OCLC/Dictionary_of_American_Regional_English.txt",
