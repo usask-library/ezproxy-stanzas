@@ -2476,6 +2476,12 @@
     "oclcStanzaId": "LibLynx",
     "oclcIncludeFile": "databases/liblynx.txt"
   },
+  "Library_Journal": {
+    "name": "Library Journal",
+    "stanza": "OCLC/Library_Journal.txt",
+    "oclcStanzaId": "Library_Journal",
+    "oclcIncludeFile": "databases/libraryjournal.txt"
+  },
   "Liebert": {
     "name": "Liebert",
     "stanza": "OCLC/Liebert.txt",
