@@ -319,20 +319,7 @@
     "name": "American Concrete Institute",
     "stanza": "OCLC/American_Concrete_Institute.txt",
     "oclcStanzaId": "American_Concrete_Institute",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "USERNAMEHERE",
-        "placeholder": "The username supplied by the vendor",
-        "enabled": true
-      },
-      {
-        "rule": "Replace",
-        "term": "PASSWORDHERE",
-        "placeholder": "The password supplied by the vendor",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/concrete.txt"
   },
   "American_Economic_Association": {
     "name": "American Economic Association",
