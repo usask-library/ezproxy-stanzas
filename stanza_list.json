@@ -1482,11 +1482,6 @@
     "oclcStanzaId": "Economisch_Statistische_Berichten",
     "oclcIncludeFile": "databases/economiestat.txt"
   },
-  "Economist_Intelligence_Unit": {
-    "name": "Economist Intelligence Unit",
-    "note": "[name] requires considerable manual customization.  Please visit the [source|OCLC website] for details, then add the appropriate stanzas as custom stanzas.",
-    "oclcStanzaId": "Economist_Intelligence_Unit"
-  },
   "Economist_com": {
     "name": "Economist.com",
     "stanza": "OCLC/Economist_com.txt",
