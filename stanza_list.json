@@ -240,17 +240,17 @@
     "stanza": "OCLC/Agriholland.txt",
     "oclcStanzaId": "Agriholland"
   },
+  "Alexander_Street_Press_Old": {
+    "name": "Alexander Street Press (Old Interface)",
+    "stanza": "OCLC/Alexander_Street_Press_Old.txt",
+    "oclcStanzaId": "Alexander_Street_Press"
+  },
   "Alexander_Street_Press": {
     "name": "Alexander Street Press",
     "stanza": "OCLC/Alexander_Street_Press.txt",
     "note": "Includes stanzas for MARC records and Academic Video Store",
     "oclcStanzaId": "Alexander_Street_Press",
     "oclcIncludeFile": "databases/alexanderstreet.txt"
-  },
-  "Alexander_Street_Press_Old": {
-    "name": "Alexander Street Press (Old Interface)",
-    "stanza": "OCLC/Alexander_Street_Press_Old.txt",
-    "oclcStanzaId": "Alexander_Street_Press"
   },
   "Alkem_Library": {
     "name": "Alkem Library",
@@ -2750,9 +2750,9 @@
     "oclcStanzaId": "Microbiology_Society_Journals",
     "oclcIncludeFile": "databases/microbiologyresearch.txt"
   },
-  "Micromedex": {
-    "name": "Micromedex (current)",
-    "stanza": "OCLC/Micromedex.txt",
+  "Micromedex1": {
+    "name": "Micromedex 1.0",
+    "stanza": "OCLC/Micromedex1.txt",
     "oclcStanzaId": "Micromedex"
   },
   "Micromedex2": {
@@ -2760,9 +2760,9 @@
     "stanza": "OCLC/Micromedex2.txt",
     "oclcStanzaId": "Micromedex"
   },
-  "Micromedex1": {
-    "name": "Micromedex 1.0",
-    "stanza": "OCLC/Micromedex1.txt",
+  "Micromedex": {
+    "name": "Micromedex (current)",
+    "stanza": "OCLC/Micromedex.txt",
     "oclcStanzaId": "Micromedex"
   },
   "Military_Periscope": {
@@ -3054,6 +3054,19 @@
       }
     ]
   },
+  "OCLC_WorldCat_Local_WMS": {
+    "name": "OCLC WorldCat Local (WMS Libraries)",
+    "stanza": "OCLC/OCLC_WorldCat_Local_WMS.txt",
+    "oclcStanzaId": "OCLC_WorldCat_Local",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": "[YourInstitution]",
+        "placeholder": "Your institution's domain name",
+        "enabled": true
+      }
+    ]
+  },
   "OCLC_WorldCat_Local": {
     "name": "OCLC WorldCat Local",
     "stanza": "OCLC/OCLC_WorldCat_Local.txt",
@@ -3062,19 +3075,6 @@
       {
         "rule": "Replace",
         "term": "YourInstitution",
-        "placeholder": "Your institution's domain name",
-        "enabled": true
-      }
-    ]
-  },
-  "OCLC_WorldCat_Local_WMS": {
-    "name": "OCLC WorldCat Local (WMS Libraries)",
-    "stanza": "OCLC/OCLC_WorldCat_Local_WMS.txt",
-    "oclcStanzaId": "OCLC_WorldCat_Discovery",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "[YourInstitution]",
         "placeholder": "Your institution's domain name",
         "enabled": true
       }
@@ -3812,18 +3812,18 @@
     "oclcStanzaId": "sae",
     "oclcIncludeFile": "databases/sae.txt"
   },
+  "SAGE_Journals_Brief": {
+    "name": "SAGE Publications and Journals (Core)",
+    "stanza": "OCLC/SAGE_Journals_Brief.txt",
+    "note": "Contains only the core SAGE Publications and Journals stanza, not the complete SAGE host list. Use this only if you always enter SAGE through online.sagepub.com; if you create starting point URLs directly to specific SAGE journals, DO NOT use this version of the SAGE stanza.",
+    "oclcStanzaId": "SAGE_Journals"
+  },
   "SAGE_Journals": {
     "name": "SAGE Publications and Journals (Complete)",
     "stanza": "OCLC/SAGE_Journals.txt",
     "note": "Contains the complete SAGE host list. If you create starting point URLs directly to specific SAGE journals, use this version of the SAGE stanza.",
     "oclcStanzaId": "SAGE_Journals",
     "oclcIncludeFile": "databases/sagepub.txt"
-  },
-  "SAGE_Journals_Brief": {
-    "name": "SAGE Publications and Journals (Core)",
-    "stanza": "OCLC/SAGE_Journals_Brief.txt",
-    "note": "Contains only the core SAGE Publications and Journals stanza, not the complete SAGE host list. Use this only if you always enter SAGE through online.sagepub.com; if you create starting point URLs directly to specific SAGE journals, DO NOT use this version of the SAGE stanza.",
-    "oclcStanzaId": "SAGE_Journals"
   },
   "SAI_Global": {
     "name": "SAI Global (Australian Standards Online)",
@@ -4120,12 +4120,6 @@
     "oclcStanzaId": "smh",
     "oclcIncludeFile": "databases/smh.txt"
   },
-  "SymptomMedia": {
-    "name": "Symptom Media",
-    "stanza": "OCLC/SymptomMedia.txt",
-    "oclcStanzaId": "SymptomMedia",
-    "oclcIncludeFile": "databases/symptommedia.txt"
-  },
   "SymptomMedia_Old": {
     "name": "Symptom Media (Old Platform)",
     "stanza": "OCLC/SymptomMedia_Old.txt",
@@ -4144,6 +4138,12 @@
         "enabled": true
       }
     ]
+  },
+  "SymptomMedia": {
+    "name": "Symptom Media",
+    "stanza": "OCLC/SymptomMedia.txt",
+    "oclcStanzaId": "SymptomMedia",
+    "oclcIncludeFile": "databases/symptommedia.txt"
   },
   "ScholarsPortal": {
     "name": "Scholars Portal (Books, Journals, GeoPortal, RACER, DataVerse)",
