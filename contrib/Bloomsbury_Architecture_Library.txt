@@ -1,9 +1,1 @@
-# This stanza was provided by the vendor
-# Included here as contributed stanza because it does not appears in OCLC's Bloomsbury Digital Resources stanza
-Title Bloomsbury Architecture Library
-URL https://www.bloomsburyarchitecturelibrary.com/
-HJ www.bloomsburyarchitecturelibrary.com
-HJ bloomsburyarchitecturelibrary.com
-HJ https://www.bloomsburyarchitecturelibrary.com
-HJ https://bloomsburyarchitecturelibrary.com
-DJ bloomsburyarchitecturelibrary.com
+# This is now included in OCLC's stanza for Bloomsbury Digital Resources

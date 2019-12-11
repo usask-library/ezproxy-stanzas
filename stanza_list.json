@@ -708,10 +708,6 @@
     "oclcStanzaId": "Blackstones_Police_Service",
     "oclcIncludeFile": "databases/blackstonepoliceservice.txt"
   },
-  "Bloomsbury_Architecture_Library": {
-    "name": "Bloomsbury Architecture Library",
-    "stanza": "contrib/Bloomsbury_Architecture_Library.txt"
-  },
   "Bloomsbury_Digital_Resources": {
     "name": "Bloomsbury Digital Resources",
     "stanza": "OCLC/Bloomsbury_Digital_Resources.txt",

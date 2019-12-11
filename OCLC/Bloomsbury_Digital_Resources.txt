@@ -1,10 +1,10 @@
-Title GEOPlugin (updated 20180817)
+Title GEOPlugin (updated 20190502)
 URL https://ssl.geoplugin.net
 Host https://ssl.geoplugin.net
 HJ ssl.geoplugin.net
 DJ geoplugin.net
-
-Title Arcadian Library Online (updated 20180817)
+# ----------
+Title Arcadian Library Online (updated 20190502)
 URL https://www.arcadianlibraryonline.com/
 HJ www.arcadianlibraryonline.com
 HJ arcadianlibraryonline.com
@@ -12,7 +12,7 @@ HJ https://www.arcadianlibraryonline.com
 HJ https://arcadianlibraryonline.com
 DJ arcadianlibraryonline.com
 
-Title Bloomsbury Collections (updated 20180817)
+Title Bloomsbury Collections (updated 20190502)
 URL https://www.bloomsburycollections.com/
 HJ bloomsburycollections.com
 HJ https://bloomsburycollections.com
@@ -20,7 +20,7 @@ HJ https://www.bloomsburycollections.com
 HJ www.bloomsburycollections.com
 DJ bloomsburycollections.com
 
-Title Bloomsbury Cultural History (updated 20180817)
+Title Bloomsbury Cultural History (updated 20190502)
 URL https://www.bloomsburyculturalhistory.com/
 HJ bloomsburyculturalhistory.com
 HJ https://bloomsburyculturalhistory.com
@@ -28,7 +28,7 @@ HJ https://www.bloomsburyculturalhistory.com
 HJ www.bloomsburyculturalhistory.com
 DJ bloomsburyculturalhistory.com
 
-Title Bloomsbury Design Library (updated 20180817)
+Title Bloomsbury Design Library (updated 20190502)
 URL https://www.bloomsburydesignlibrary.com/
 HJ www.bloomsburydesignlibrary.com
 HJ bloomsburydesignlibrary.com
@@ -36,7 +36,7 @@ HJ https://www.bloomsburydesignlibrary.com
 HJ https://bloomsburydesignlibrary.com
 DJ bloomsburydesignlibrary.com
 
-Title Bloomsbury Encyclopedia of Philosophers (updated 20180817)
+Title Bloomsbury Encyclopedia of Philosophers (updated 20190502)
 URL https://www.bloomsburyphilosophers.com/
 HJ www.bloomsburyphilosophers.com
 HJ bloomsburyphilosophers.com
@@ -44,7 +44,7 @@ HJ https://www.bloomsburyphilosophers.com
 HJ https://bloomsburyphilosophers.com
 DJ bloomsburyphilosophers.com
 
-Title Bloomsbury Fashion Central (updated 20180817)
+Title Bloomsbury Fashion Central (updated 20190502)
 URL https://www.bloomsburyfashioncentral.com
 HJ www.bloomsburyfashioncentral.com
 HJ www.bergfashionlibrary.com
@@ -52,7 +52,7 @@ HJ bloomsburyfashioncentral.com
 DJ bergfashionlibrary.com
 DJ bloomsburyfashioncentral.com
 
-Title Bloomsbury Food Library (updated 20180817)
+Title Bloomsbury Food Library (updated 20190502)
 URL https://www.bloomsburyfoodlibrary.com/
 HJ www.bloomsburyfoodlibrary.com
 HJ bloomsburyfoodlibrary.com
@@ -60,7 +60,7 @@ HJ https://www.bloomsburyfoodlibrary.com
 HJ https://bloomsburyfoodlibrary.com
 DJ bloomsburyfoodlibrary.com
 
-Title Bloomsbury Popular Music (updated 20180817)
+Title Bloomsbury Popular Music (updated 20190502)
 URL https://www.bloomsburypopularmusic.com/
 HJ www.bloomsburypopularmusic.com
 HJ bloomsburypopularmusic.com
@@ -68,12 +68,12 @@ HJ https://www.bloomsburypopularmusic.com
 HJ https://bloomsburypopularmusic.com
 DJ bloomsburypopularmusic.com
 
-Title Churchill Archive (updated 20180817)
+Title Churchill Archive (updated 20190502)
 URL http://www.churchillarchive.com/
 HJ churchillarchive.com
 DJ churchillarchive.com
 
-Title Drama Online (updated 20180924)
+Title Drama Online (updated 20190502)
 URL https://www.dramaonlinelibrary.com/
 HJ www.dramaonlinelibrary.com
 HJ dramaonlinelibrary.com
@@ -81,10 +81,34 @@ HJ https://www.dramaonlinelibrary.com
 HJ https://dramaonlinelibrary.com
 DJ dramaonlinelibrary.com
 
-Title Screen Studies (updated 20180817)
+Title Screen Studies (updated 20190502)
 URL https://www.screenstudies.com/
 HJ www.screenstudies.com
 HJ screenstudies.com
 HJ https://www.screenstudies.com
 HJ https://screenstudies.com
 DJ screenstudies.com
+
+Title Bloomsbury Education and Childhood Studies (updated 20190502)
+URL https://www.becs-bloomsbury.com/
+HJ www.becs-bloomsbury.com
+HJ becs-bloomsbury.com
+HJ https://www.becs-bloomsbury.com
+HJ https://becs-bloomsbury.com
+DJ becs-bloomsbury.com
+
+Title Bloomsbury Applied Visual Arts (updated 20190502)
+URL https://www.bloomsburyappliedvisualarts.com/
+HJ www.bloomsburyappliedvisualarts.com
+HJ bloomsburyappliedvisualarts.com
+HJ https://www.bloomsburyappliedvisualarts.com
+HJ https://bloomsburyappliedvisualarts.com
+DJ bloomsburyappliedvisualarts.com
+
+Title Bloomsbury Architecture Library (updated 20190502)
+URL https://www.bloomsburyarchitecturelibrary.com/
+HJ www.bloomsburyarchitecturelibrary.com
+HJ bloomsburyarchitecturelibrary.com
+HJ https://www.bloomsburyarchitecturelibrary.com
+HJ https://bloomsburyarchitecturelibrary.com
+DJ bloomsburyarchitecturelibrary.com
