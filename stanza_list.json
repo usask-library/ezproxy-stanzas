@@ -934,7 +934,8 @@
   "Cabells_Directories": {
     "name": "Cabell's Directories",
     "stanza": "OCLC/Cabells_Directories.txt",
-    "oclcStanzaId": "Cabells_Directories"
+    "oclcStanzaId": "Cabells_Directories",
+    "oclcIncludeFile": "databases/cabells.txt"
   },
   "Cairn": {
     "name": "Cairn",
