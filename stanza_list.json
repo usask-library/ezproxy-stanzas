@@ -1331,7 +1331,8 @@
   "Docuseek2": {
     "name": "Docuseek2",
     "stanza": "OCLC/Docuseek2.txt",
-    "oclcStanzaId": "Docuseek2"
+    "oclcStanzaId": "Docuseek2",
+    "oclcIncludeFile": "databases/docuseek2.txt"
   },
   "Draw_It_To_Know_It": {
     "name": "Draw It To Know It",
