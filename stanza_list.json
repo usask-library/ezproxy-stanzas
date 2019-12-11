@@ -1217,7 +1217,7 @@
     "oclcIncludeFile": "databases/dalloz_revues.txt"
   },
   "Daniels_Orchestral": {
-    "name": "Daniels Ochestral",
+    "name": "Daniels Orchestral",
     "stanza": "OCLC/Daniels_Orchestral.txt",
     "oclcStanzaId": "Daniels_Orchestral"
   },
