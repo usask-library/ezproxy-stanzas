@@ -678,7 +678,7 @@
     "name": "BioOne Complete",
     "stanza": "OCLC/BioOne_Complete.txt",
     "oclcStanzaId": "BioOne_Complete",
-    "oclcIncludeFile": "databases/bioonecomplete.txt"
+    "oclcIncludeFile": "databases/bioone.txt"
   },
   "Biological_Bulletin": {
     "name": "Biological Bulletin, The",

@@ -1,5 +1,12 @@
-Title BioOne Complete (updated 20181211)
+Title BioOne (updated 20181214)
+URL http://www.bioone.org/
+Host bioone.org
+Domain bioone.org
+
+
+Title BioOne Complete (launched 20191015)
 URL https://www.bioone.org/
 HJ www.bioone.org
-HJ https://www.bioone.org/
-Domain bioone.org
+HJ https://bioone.org
+HJ bioone.org
+DJ bioone.org
