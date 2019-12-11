@@ -972,13 +972,13 @@
     "rules": [
       {
         "rule": "Replace",
-        "term": "yourusername",
+        "term": " yourusername",
         "placeholder": "Your organizations's username",
         "enabled": true
       },
       {
         "rule": "Replace",
-        "term": "yourpassword",
+        "term": " yourpassword",
         "placeholder": "Your organizations's username",
         "enabled": true
       }
