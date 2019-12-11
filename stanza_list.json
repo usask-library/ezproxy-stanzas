@@ -3021,11 +3021,6 @@
     "oclcStanzaId": "OCLC_ArchiveGrid",
     "oclcIncludeFile": "databases/oclcarchivegrid.txt"
   },
-  "CAMIO": {
-    "name": "OCLC CAMIO (Catalog of Art Museum Images Online)",
-    "stanza": "OCLC/CAMIO.txt",
-    "oclcStanzaId": "camio"
-  },
   "OCLC_FirstSearch": {
     "name": "OCLC FirstSearch",
     "stanza": "OCLC/OCLC_FirstSearch.txt",

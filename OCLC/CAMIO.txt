@@ -1,3 +1,6 @@
-Title CAMIO (updated 20090316)
-URL http://camio.oclc.org
-DJ camio.oclc.org
+# Support for CAMIO ended 2018-12-31
+# For details see: https://help.oclc.org/Discovery_and_Reference/WorldCat_Discovery/Troubleshooting/Camio_access_ending
+#
+#Title CAMIO (updated 20090316)
+#URL http://camio.oclc.org
+#DJ camio.oclc.org
