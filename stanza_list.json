@@ -3923,7 +3923,8 @@
   "SciFinder": {
     "name": "SciFinder",
     "stanza": "OCLC/SciFinder.txt",
-    "oclcStanzaId": "SciFinder"
+    "oclcStanzaId": "SciFinder",
+    "oclcIncludeFile": "databases/scifinder.txt"
   },
   "SciVal": {
     "name": "SciVal",

@@ -1,3 +1,10 @@
-Title CAS SciFinder
+Title CAS SciFinder (updated 20160818)
 URL https://scifinder.cas.org/scifinder
-Domain cas.org
+H https://scifinder.cas.org
+H scifinder.cas.org
+H p443-scifinder.cas.org
+H https://scifinder-test.cas.org/
+H scifinder-test.cas.org
+H https://origin-scifinder.cas.org
+H origin-scifinder.cas.org
+D cas.org
