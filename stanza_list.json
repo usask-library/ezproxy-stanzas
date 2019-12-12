@@ -3100,19 +3100,6 @@
     "stanza": "OCLC/Oncology_Nursing_Society.txt",
     "oclcStanzaId": "Oncology_Nursing_Society"
   },
-  "OneClickdigital_Audiobooks_Ebooks": {
-    "name": "OneClickdigital Audiobooks and Ebooks",
-    "stanza": "OCLC/OneClickdigital_Audiobooks_Ebooks.txt",
-    "oclcStanzaId": "OneClickdigital_Audiobooks_Ebooks",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "{yourlibraryname}",
-        "placeholder": "The appropriate value supplied to you by OneClickdigital",
-        "enabled": true
-      }
-    ]
-  },
   "OnePetro": {
     "name": "OnePetro (formerly Society of Petroleum Engineers)",
     "stanza": "OCLC/OnePetro.txt",

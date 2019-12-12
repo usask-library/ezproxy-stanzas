@@ -1,6 +1,9 @@
-Title OneClickdigital Audiobooks and Ebooks (updated 20170222)
-URL https://{yourlibraryname}.oneclickdigital.com
-HJ https://{yourlibraryname}.oneclickdigital.com/#register
-DJ oneclickdigital.com
-neverproxy api.oneclickdigital.com
-neverproxy auth.oneclickdigital.com
+# The previous OCLC URL for the OneClickdigital Audiobooks and Ebooks stanza now redirects to
+# RBdigital Audiobooks and Ebooks
+#
+#Title OneClickdigital Audiobooks and Ebooks (updated 20170222)
+#URL https://{yourlibraryname}.oneclickdigital.com
+#HJ https://{yourlibraryname}.oneclickdigital.com/#register
+#DJ oneclickdigital.com
+#neverproxy api.oneclickdigital.com
+#neverproxy auth.oneclickdigital.com
