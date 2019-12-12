@@ -4363,7 +4363,7 @@
     "oclcStanzaId": "vLex",
     "oclcIncludeFile": "databases/vlex.txt"
   },
-  "Value Line": {
+  "Value_Line": {
     "name": "Value Line",
     "stanza": "OCLC/Value_Line.txt",
     "oclcStanzaId": "Value_Line",
