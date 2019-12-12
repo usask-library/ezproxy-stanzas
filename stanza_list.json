@@ -1833,7 +1833,8 @@
   "Harvard_Education_Publishing_Group": {
     "name": "Harvard Education Publishing Group",
     "stanza": "OCLC/Harvard_Education_Publishing_Group.txt",
-    "oclcStanzaId": "hepgjournals"
+    "oclcStanzaId": "hepgjournals",
+    "oclcIncludeFile": "databases/hepgjournals.txt"
   },
   "Healio": {
     "name": "Healio",
