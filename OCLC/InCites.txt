@@ -1,5 +1,7 @@
-Option DomainCookieOnly
-Title InCites (updated 20141103)
-URL https://incites.thomsonreuters.com
-DJ incites.thomsonreuters.com
-Option Cookie
+# This is now part of Endnote Online and Incites
+# See https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/endnoteandincites
+#Option DomainCookieOnly
+#Title InCites (updated 20141103)
+#URL https://incites.thomsonreuters.com
+#DJ incites.thomsonreuters.com
+#Option Cookie

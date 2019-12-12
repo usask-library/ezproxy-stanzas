@@ -2029,11 +2029,6 @@
     "oclcStanzaId": "ImageQuest",
     "oclcIncludeFile": "databases/imagequest.txt"
   },
-  "InCites": {
-    "name": "InCites",
-    "stanza": "OCLC/InCites.txt",
-    "oclcStanzaId": "InCites"
-  },
   "Inderscience_Online": {
     "name": "Inderscience Online",
     "stanza": "OCLC/Inderscience_Online.txt",
