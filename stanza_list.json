@@ -3825,7 +3825,7 @@
   },
   "SFDE": {
     "name": "SFDE",
-    "stanza": "OCLC/sfde.txt",
+    "stanza": "OCLC/SFDE.txt",
     "oclcStanzaId": "sfde",
     "oclcIncludeFile": "databases/sfde.txt"
   },
