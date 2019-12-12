@@ -3575,7 +3575,8 @@
   "RAND_State_Statistics": {
     "name": "RAND State Statistics",
     "stanza": "OCLC/RAND_State_Statistics.txt",
-    "oclcStanzaId": "RAND_State_Statistics"
+    "oclcStanzaId": "RAND_State_Statistics",
+    "oclcIncludeFile": "databases/rand.txt"
   },
   "RBdigital": {
     "name": "RBdigital",
