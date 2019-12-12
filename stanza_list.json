@@ -2683,7 +2683,8 @@
   "Mergent_Archives": {
     "name": "Mergent Archives",
     "stanza": "OCLC/Mergent_Archives.txt",
-    "oclcStanzaId": "Mergent_Archives"
+    "oclcStanzaId": "Mergent_Archives",
+    "oclcIncludeFile": "databases/mergentarchives.txt"
   },
   "Mergent_Bond_Viewer": {
     "name": "Mergent Bond Viewer",
