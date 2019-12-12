@@ -1,7 +1,3 @@
-#
-# Name: Odesi
-# URL: https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Odesi
-#
 Title Odesi (updated 20160304)
 URL http://odesi.ca
 D odesi.ca
