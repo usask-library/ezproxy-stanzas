@@ -1867,7 +1867,8 @@
   "HighWire_Press": {
     "name": "HighWire Press",
     "stanza": "OCLC/HighWire_Press.txt",
-    "oclcStanzaId": "HighWire_Press"
+    "oclcStanzaId": "HighWire_Press",
+    "oclcIncludeFile": "databases/highwirepress.txt"
   },
   "History_Study_Center": {
     "name": "History Study Center",
