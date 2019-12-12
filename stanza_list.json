@@ -2113,7 +2113,7 @@
     "oclcStanzaId": "iaee",
     "oclcIncludeFile": "databases/iaee.txt"
   },
-  "icea": {
+  "ICEA": {
     "name": "International Journal of Childbirth Education",
     "stanza": "OCLC/ICEA.txt",
     "oclcStanzaId": "icea"
