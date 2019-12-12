@@ -1,5 +1,20 @@
-Title IHS Standards Expert
+Title IHS Standards Expert (updated 20170413)
 URL https://login.ihserc.com/login/erc?
-DJ ihserc.com
+HJ connect.ihs.com
+HJ globalsso.ihs.com
+HJ ihsti.com
 HJ login.ihserc.com
+HJ specs4.ihserc.com
+HJ my.ihsenergy.com
+HJ www.ihs.com
+HJ www.ihsti.com
+HJ https://connect.ihs.com
+HJ https://globalsso.ihs.com
+HJ https://ihsti.com
+HJ https://my.ihsenergy.com
+HJ https://www.ihs.com
+HJ https://www.ihsti.com
+DJ ihs.com
+DJ ihsti.com
+DJ ihserc.com
 RedirectSafe ihserc.com

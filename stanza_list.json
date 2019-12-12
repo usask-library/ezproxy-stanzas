@@ -1979,7 +1979,8 @@
   "IHS_Standards_Expert": {
     "name": "IHS Standards Expert",
     "stanza": "OCLC/IHS_Standards_Expert.txt",
-    "oclcStanzaId": "IHS_Standards_Expert"
+    "oclcStanzaId": "IHS_Standards_Expert",
+    "oclcIncludeFile": "databases/ihs_standards_expert.txt"
   },
   "iMentor": {
     "name": "iMentor",
