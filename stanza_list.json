@@ -2089,7 +2089,8 @@
   "Institute_of_Physics": {
     "name": "Institute of Physics",
     "stanza": "OCLC/Institute_of_Physics.txt",
-    "oclcStanzaId": "Institute_of_Physics"
+    "oclcStanzaId": "Institute_of_Physics",
+    "oclcIncludeFile": "databases/iop.txt"
   },
   "Institution_of_Engineering_Technology": {
     "name": "Institution of Engineering and Technology, The",
