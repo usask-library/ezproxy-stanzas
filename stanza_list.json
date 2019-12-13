@@ -1094,6 +1094,12 @@
     "oclcStanzaId": "Cochrane_Library",
     "oclcIncludeFile": "databases/cochrane.txt"
   },
+  "College_Publishing": {
+    "name": "College Publishing",
+    "stanza": "OCLC/College_Publishing.txt",
+    "oclcStanzaId": "College_Publishing",
+    "oclcIncludeFile": "databases/collegepublishing.txt"
+  },
   "CollegeSource": {
     "name": "CollegeSource",
     "stanza": "OCLC/CollegeSource.txt",
