@@ -4,6 +4,12 @@
     "stanza": "OCLC/123Library.txt",
     "oclcStanzaId": "123Library"
   },
+  "5_Minute_Consult": {
+    "name": "5 Minute Consult (WoltersKluwer)",
+    "stanza": "OCLC/5_Minute_Consult.txt",
+    "oclcStanzaId": "5_Minute_Consult",
+    "oclcIncludeFile": "databases/5_minconsult.txt"
+  },
   "AAIDD_Online_Journals": {
     "name": "AAIDD Online Journals",
     "stanza": "OCLC/AAIDD_Online_Journals.txt",
