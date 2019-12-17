@@ -1808,6 +1808,12 @@
     "oclcStanzaId": "Global_Road_Warrior",
     "oclcIncludeFile": "databases/globalroadwarrior.txt"
   },
+  "Glossary_of_Geology": {
+    "name": "Glossary of Geology",
+    "stanza": "OCLC/Glossary_of_Geology.txt",
+    "oclcStanzaId": "Glossary_of_Geology",
+    "oclcIncludeFile": "databases/glossaryofgeology.txt"
+  },
   "Going_Global": {
     "name": "Going Global",
     "stanza": "OCLC/Going_Global.txt",
