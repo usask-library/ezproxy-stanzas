@@ -4056,7 +4056,8 @@
   "Social_Explorer": {
     "name": "Social Explorer",
     "stanza": "OCLC/Social_Explorer.txt",
-    "oclcStanzaId": "Social_Explorer"
+    "oclcStanzaId": "Social_Explorer",
+    "oclcIncludeFile": "databases/socialexplorer.txt"
   },
   "The_Source_Magpies_Magazine": {
     "name": "The Source Magpies Magazine",
