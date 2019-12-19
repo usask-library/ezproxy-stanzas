@@ -2169,6 +2169,12 @@
     "oclcStanzaId": "invert",
     "oclcIncludeFile": "databases/invert.txt"
   },
+  "iPolitics": {
+    "name": "iPolitics",
+    "stanza": "OCLC/iPolitics.txt",
+    "oclcStanzaId": "iPolitics",
+    "oclcIncludeFile": "databases/ipolitics.txt"
+  },
   "Iter": {
     "name": "Iter: Gateway to the Middle Ages and Renaissance stanza",
     "stanza": "OCLC/Iter.txt",
