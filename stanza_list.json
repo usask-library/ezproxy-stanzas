@@ -36,6 +36,12 @@
     "oclcStanzaId": "ABC_Lingo_Lite",
     "oclcIncludeFile": "databases/abclingolite.txt"
   },
+  "Association_of_Teachers_of_Mathematics": {
+    "name": "Association of Teachers of Mathematics",
+    "stanza": "OCLC/Association_of_Teachers_of_Mathematics.txt",
+    "oclcStanzaId": "Association_of_Teachers_of_Mathematics",
+    "oclcIncludeFile": "databases/atm.txt"
+  },
   "ABC_Maps_Online": {
     "name": "ABC Maps Online",
     "stanza": "OCLC/ABC_Maps_Online.txt",
