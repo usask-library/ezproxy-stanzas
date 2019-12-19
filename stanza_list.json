@@ -692,6 +692,12 @@
     "oclcStanzaId": "BioOne_Complete",
     "oclcIncludeFile": "databases/bioone.txt"
   },
+  "Biocentury": {
+    "name": "Biocentury",
+    "stanza": "OCLC/Biocentury.txt",
+    "oclcStanzaId": "Biocentury",
+    "oclcIncludeFile": "databases/biocentury.txt"
+  },
   "Biological_Bulletin": {
     "name": "Biological Bulletin, The",
     "stanza": "OCLC/Biological_Bulletin.txt",
