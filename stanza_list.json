@@ -3989,6 +3989,12 @@
     "oclcStanzaId": "Salem_Press",
     "oclcIncludeFile": "databases/salempress.txt"
   },
+  "Sampling_Theory_and_Image_Processing": {
+    "name": "Sampling Theory and Image Processing",
+    "stanza": "OCLC/Sampling_Theory_and_Image_Processing.txt",
+    "oclcStanzaId": "Sampling_Theory_and_Image_Processing",
+    "oclcIncludeFile": "databases/stsip.txt"
+  },
   "Sanford_Guide_Web_Edition": {
     "name": "Sanford Guide Web Edition",
     "stanza": "OCLC/Sanford_Guide_Web_Edition.txt",
