@@ -4072,6 +4072,12 @@
     "stanza": "OCLC/Scientific_American_Surgery.txt",
     "oclcStanzaId": "Scientific_American_Surgery"
   },
+  "Sciquest": {
+    "name": "Sciquest",
+    "stanza": "OCLC/Sciquest.txt",
+    "oclcStanzaId": "Sciquest",
+    "oclcIncludeFile": "databases/sciquest.txt"
+  },
   "Scitation": {
     "name": "Scitation",
     "stanza": "OCLC/Scitation.txt",
