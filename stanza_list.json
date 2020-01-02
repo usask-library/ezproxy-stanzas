@@ -2289,6 +2289,12 @@
     "oclcStanzaId": "jbjs",
     "oclcIncludeFile": "databases/jbjs.txt"
   },
+  "Journal_of_Chinese_Medicine": {
+    "name": "Journal of Chinese Medicine",
+    "stanza": "OCLC/Journal_of_Chinese_Medicine.txt",
+    "oclcStanzaId": "Journal_of_Chinese_Medicine",
+    "oclcIncludeFile": "databases/jcm.txt"
+  },
   "Journal_Jewish_Studies": {
     "name": "Journal of Jewish Studies",
     "stanza": "OCLC/Journal_Jewish_Studies.txt",
