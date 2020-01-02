@@ -4199,6 +4199,12 @@
     "oclcStanzaId": "Statista",
     "oclcIncludeFile": "databases/statista.txt"
   },
+  "Structural_Engineer": {
+    "name": "Structural_Engineer",
+    "stanza": "OCLC/Structural_Engineer.txt",
+    "oclcStanzaId": "Structural_Engineer",
+    "oclcIncludeFile": "databases/istructe.txt"
+  },
   "Swank_Digital_Campus": {
     "name": "Swank Digital Campus",
     "stanza": "OCLC/Swank_Digital_Campus.txt",
