@@ -136,6 +136,12 @@
     "oclcStanzaId": "asme",
     "oclcIncludeFile": "databases/asme.txt"
   },
+  "ASPET_Journals_Online": {
+    "name": "ASPET Journals Online",
+    "stanza": "OCLC/ASPET_Journals_Online.txt",
+    "oclcStanzaId": "ASPET_Journals_Online",
+    "oclcIncludeFile": "databases/aspetjournals.txt"
+  },
   "ASTM_Compass": {
     "name": "ASTM Compass",
     "stanza": "OCLC/ASTM_Compass.txt",
