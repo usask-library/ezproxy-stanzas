@@ -4439,6 +4439,12 @@
     "oclcStanzaId": "University_Press_Scholarship_Online",
     "oclcIncludeFile": "databases/universitypressscholarship.txt"
   },
+  "University_of_Buckingham_Press": {
+    "name": "University of Buckingham Press",
+    "stanza": "OCLC/University_of_Buckingham_Press.txt",
+    "oclcStanzaId": "University_of_Buckingham_Press",
+    "oclcIncludeFile": "databases/ubplj.txt"
+  },
   "UCPress": {
     "name": "University of California Press",
     "stanza": "OCLC/UCPress.txt",
