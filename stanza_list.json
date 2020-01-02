@@ -258,6 +258,12 @@
     "stanza": "OCLC/Agriholland.txt",
     "oclcStanzaId": "Agriholland"
   },
+  "Akademiai_Kiado": {
+    "name": "Akademiai Kiado",
+    "stanza": "OCLC/Akademiai_Kiado.txt",
+    "oclcStanzaId": "Akademiai_Kiado",
+    "oclcIncludeFile": "databases/akjournals.txt"
+  },
   "Alexander_Street_Press_Old": {
     "name": "Alexander Street Press (Old Interface)",
     "stanza": "OCLC/Alexander_Street_Press_Old.txt",
