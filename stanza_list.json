@@ -2336,6 +2336,12 @@
     "oclcStanzaId": "Journal_Zoo_Wildlife_Medicine",
     "oclcIncludeFile": "databases/zooandwildmedicine.txt"
   },
+  "Journal_of_the_American_Animal_Hospital_Association": {
+    "name": "Journal of the American Animal Hospital Association",
+    "stanza": "OCLC/Journal_of_the_American_Animal_Hospital_Association.txt",
+    "oclcStanzaId": "Journal_of_the_American_Animal_Hospital_Association",
+    "oclcIncludeFile": "databases/jaaha.txt"
+  },
   "Journal_Motherhood_Initiative": {
     "name": "Journal of the Motherhood Initiative",
     "stanza": "OCLC/Journal_Motherhood_Initiative.txt",
