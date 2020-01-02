@@ -4290,6 +4290,12 @@
     "stanza": "OCLC/Teen_Health_and_Wellness.txt",
     "oclcStanzaId": "Teen_Health_and_Wellness"
   },
+  "Telos": {
+    "name": "Telos",
+    "stanza": "OCLC/Telos.txt",
+    "oclcStanzaId": "Telos",
+    "oclcIncludeFile": "databases/telospress.txt"
+  },
   "TheAge": {
     "name": "The Age (Digital Edition)",
     "stanza": "OCLC/TheAge.txt",
