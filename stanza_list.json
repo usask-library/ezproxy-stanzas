@@ -1918,6 +1918,12 @@
     "oclcStanzaId": "HighWire_Press",
     "oclcIncludeFile": "databases/highwirepress.txt"
   },
+  "History_Cooperative_Journals": {
+    "name": "History Cooperative journals",
+    "stanza": "OCLC/History_Cooperative_Journals.txt",
+    "oclcStanzaId": "History_Cooperative_journals",
+    "oclcIncludeFile": "databases/historycooperative.txt"
+  },
   "History_Study_Center": {
     "name": "History Study Center",
     "stanza": "OCLC/History_Study_Center.txt",
