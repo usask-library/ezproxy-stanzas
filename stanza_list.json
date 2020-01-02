@@ -1930,6 +1930,12 @@
     "oclcStanzaId": "History_Study_Center",
     "oclcIncludeFile": "databases/historystudycenter.txt"
   },
+  "History_Today": {
+    "name": "History Today",
+    "stanza": "OCLC/History_Today.txt",
+    "oclcStanzaId": "History_Today",
+    "oclcIncludeFile": "databases/historytoday.txt"
+  },
   "Hogrefe_eContent": {
     "name": "Hogrefe eContent",
     "stanza": "OCLC/Hogrefe_eContent.txt",
