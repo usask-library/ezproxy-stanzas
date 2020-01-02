@@ -2262,6 +2262,12 @@
     "oclcStanzaId": "jbeplatform",
     "oclcIncludeFile": "databases/jbeplatform.txt"
   },
+  "John_Libbey_Eurotext": {
+    "name": "John Libbey Eurotext",
+    "stanza": "OCLC/John_Libbey_Eurotext.txt",
+    "oclcStanzaId": "John_Libbey_Eurotext",
+    "oclcIncludeFile": "databases/jle.txt"
+  },
   "JHU_Press_Guide_to_Literary_Theory_Criticism": {
     "name": "Johns Hopkins Guide to Literary Theory and Criticism",
     "stanza": "OCLC/JHU_Press_Guide_to_Literary_Theory_Criticism.txt",
