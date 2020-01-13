@@ -1,7 +1,7 @@
-HTTPHeader X-CSRF-Token
-HTTPHeader X-Key
-HTTPHeader X-Requested-With
-Title American Economic Association
+Title American Economic Association (updated 20200110)
+HTTPHeader -request -process X-CSRF-Token
+HTTPHeader -request -process X-Key
+HTTPHeader -request -process X-Requested-With
 URL https://www.aeaweb.org/
 HJ aeaweb.org
 HJ pubs.aeaweb.org

@@ -348,7 +348,8 @@
   "American_Economic_Association": {
     "name": "American Economic Association",
     "stanza": "OCLC/American_Economic_Association.txt",
-    "oclcStanzaId": "American_Economic_Association"
+    "oclcStanzaId": "American_Economic_Association",
+    "oclcIncludeFile": "databases/aea.txt"
   },
   "American_Geophysical_Union": {
     "name": "American Geophysical Union",
