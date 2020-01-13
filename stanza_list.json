@@ -540,6 +540,12 @@
     "oclcStanzaId": "Artists_Information_Group",
     "oclcIncludeFile": "databases/artinfo.txt"
   },
+  "Arts_Professional": {
+    "name": "Arts Professional",
+    "stanza": "OCLC/Arts_Professional.txt",
+    "oclcStanzaId": "Arts_Professional",
+    "oclcIncludeFile": "databases/artsprofessional.txt"
+  },
   "Arts-Search": {
     "name": "Arts-Search",
     "stanza": "OCLC/Arts-Search.txt",
