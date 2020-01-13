@@ -1504,6 +1504,12 @@
       }
     ]
   },
+  "ecommerceDB": {
+    "name": "EcommerceDB",
+    "stanza": "OCLC/ecommerceDB.txt",
+    "oclcStanzaId": "ecommerceDB",
+    "oclcIncludeFile": "databases/ecommercedb.txt"
+  },
   "Economics_of_Peace_and_Security_Journal": {
     "name": "Economics of Peace and Security Journal, The",
     "stanza": "OCLC/Economics_of_Peace_and_Security_Journal.txt",
