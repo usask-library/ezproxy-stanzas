@@ -2308,6 +2308,12 @@
     "oclcStanzaId": "Journal_of_Chinese_Medicine",
     "oclcIncludeFile": "databases/jcm.txt"
   },
+  "Journal_of_Heart_Valve_Disease": {
+    "name": "Journal of Heart Valve Disease, The",
+    "stanza": "OCLC/Journal_of_Heart_Valve_Disease.txt",
+    "oclcStanzaId": "Journal_of_Heart_Valve_Disease",
+    "oclcIncludeFile": "databases/icrheart.txt"
+  },
   "Journal_Jewish_Studies": {
     "name": "Journal of Jewish Studies",
     "stanza": "OCLC/Journal_Jewish_Studies.txt",
