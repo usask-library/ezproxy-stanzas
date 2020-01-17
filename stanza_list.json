@@ -1400,6 +1400,25 @@
     "oclcStanzaId": "DynaMed",
     "oclcIncludeFile": "databases/filename.txt"
   },
+  "E-Libro": {
+    "name": "E-Libro",
+    "stanza": "OCLC/E-Libro.txt",
+    "oclcStanzaId": "E-Libro",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": "{secret}",
+        "placeholder": "Value supplied by E-Libro",
+        "enabled": true
+      },
+      {
+        "rule": "Replace",
+        "term": "{url}",
+        "placeholder": "Value supplied by E-Libro",
+        "enabled": true
+      }
+    ]
+  },
   "e-Marefa": {
     "name": "E-Marefa",
     "stanza": "OCLC/e-Marefa.txt",
