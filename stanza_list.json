@@ -2386,6 +2386,12 @@
     "oclcStanzaId": "jarm",
     "oclcIncludeFile": "databases/jmi.txt"
   },
+  "jusmundi": {
+    "name": "Jus Mundi - Academic Research with Brill",
+    "stanza": "OCLC/jusmundi.txt",
+    "oclcStanzaId": "jusmundi",
+    "oclcIncludeFile": "databases/jusmundi.txt"
+  },
   "JustCite": {
     "name": "JustCite",
     "stanza": "OCLC/JustCite.txt",
