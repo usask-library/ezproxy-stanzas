@@ -2372,7 +2372,8 @@
   "Journal_of_Neurosurgery": {
     "name": "Journal of Neurosurgery",
     "stanza": "OCLC/Journal_of_Neurosurgery.txt",
-    "oclcStanzaId": "Journal_of_Neurosurgery"
+    "oclcStanzaId": "Journal_of_Neurosurgery",
+    "oclcIncludeFile": "databases/journal_of_neurosurgery.txt"
   },
   "Journal_of_Opioid_Management": {
     "name": "Journal of Opioid Management",
