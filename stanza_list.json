@@ -130,6 +130,12 @@
     "oclcStanzaId": "APS_Journals",
     "oclcIncludeFile": "databases/aps_journals.txt"
   },
+  "ASM_International": {
+    "name": "ASM International",
+    "stanza": "OCLC/ASM_International.txt",
+    "oclcStanzaId": "ASM_International",
+    "oclcIncludeFile": "databases/asminternational.txt"
+  },
   "ASME_Digital_Collection": {
     "name": "ASME Digital Collection",
     "stanza": "OCLC/ASME_Digital_Collection.txt",
