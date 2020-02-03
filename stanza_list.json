@@ -678,6 +678,12 @@
     "oclcStanzaId": "Baobab_Ebooks",
     "oclcIncludeFile": "databases/baobabebooks.txt"
   },
+  "Begell_Digital_Library": {
+    "name": "Begell Digital Library",
+    "stanza": "OCLC/Begell_Digital_Library.txt",
+    "oclcStanzaId": "Begell_Digital_Library",
+    "oclcIncludeFile": "databases/begellhouse.txt"
+  },
   "Benajmins_Online_Resource": {
     "name": "Benajmins Online Resource",
     "stanza": "OCLC/Benajmins_Online_Resource.txt",
