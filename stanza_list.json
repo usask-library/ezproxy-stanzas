@@ -930,11 +930,17 @@
     "stanza": "OCLC/BNA.txt",
     "oclcStanzaId": "BNA"
   },
+  "CAB_Direct": {
+    "name": "CAB Direct",
+    "stanza": "OCLC/cabdirect.txt",
+    "oclcStanzaId": "cabdirect",
+    "oclcIncludeFile": "databases/cabdirect.txt"
+  },
   "CABI_Resources": {
     "name": "CABI Resources",
     "stanza": "OCLC/CABI_Resources.txt",
     "oclcStanzaId": "CABI_Resources",
-    "oclcIncludeFile": "databases/cabdirect.txt"
+    "oclcIncludeFile": "databases/cabiresources.txt"
   },
   "CCH_AnswerConnect": {
     "name": "CCH AnswerConnect",
