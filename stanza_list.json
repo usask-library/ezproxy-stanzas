@@ -827,6 +827,12 @@
     "oclcStanzaId": "Boomportaal",
     "oclcIncludeFile": "databases/boomportaal.txt"
   },
+  "Boston_College_Open_Access_Journals": {
+    "name": "Boston College Open Access Journals",
+    "stanza": "OCLC/Boston_College_Open_Access_Journals.txt",
+    "oclcStanzaId": "Boston_College_Open_Access_Journals",
+    "oclcIncludeFile": "databases/bc_ejournals.txt"
+  },
   "Botanical_Society_of_America": {
     "name": "Botanical Society of America",
     "stanza": "OCLC/Botanical_Society_of_America.txt",
