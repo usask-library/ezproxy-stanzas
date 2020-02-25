@@ -1391,6 +1391,12 @@
     "oclcStanzaId": "DigitalBack_Books",
     "oclcIncludeFile": "databases/digitalback_books.txt"
   },
+  "Digitalia_Catalan": {
+    "name": "Digitalia Catalan",
+    "stanza": "OCLC/Digitalia_Catalan.txt",
+    "oclcStanzaId": "Digitalia_Catalan",
+    "oclcIncludeFile": "databases/digitaliacatalan.txt"
+  },
   "Digitalia_Hispanica": {
     "name": "Digitalia Hispanica",
     "stanza": "OCLC/Digitalia_Hispanica.txt",
