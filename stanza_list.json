@@ -1397,6 +1397,12 @@
     "oclcStanzaId": "Digitalia_Catalan",
     "oclcIncludeFile": "databases/digitaliacatalan.txt"
   },
+  "Digitalia_Film_Library": {
+    "name": "Digitalia Film Library",
+    "stanza": "OCLC/Digitalia_Film_Library.txt",
+    "oclcStanzaId": "Digitalia_Film_Library",
+    "oclcIncludeFile": "databases/digitaliafilmlibrary.txt"
+  },
   "Digitalia_Hispanica": {
     "name": "Digitalia Hispanica",
     "stanza": "OCLC/Digitalia_Hispanica.txt",
