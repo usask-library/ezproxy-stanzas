@@ -1754,14 +1754,7 @@
     "name": "Factiva",
     "stanza": "OCLC/Factiva.txt",
     "oclcStanzaId": "Factiva",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "{value_from_proquest}",
-        "placeholder": "The XSID value supplied by ProQuest",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/factiva.txt"
   },
   "FactoMediaBase": {
     "name": "FactoMediaBase",
