@@ -1409,6 +1409,12 @@
     "oclcStanzaId": "Digitalia_Hispanica",
     "oclcIncludeFile": "databases/digitalia.txt"
   },
+  "Digitalia_Public_Libraries": {
+    "name": "Digitalia Public Libraries",
+    "stanza": "OCLC/Digitalia_Public_Libraries.txt",
+    "oclcStanzaId": "Digitalia_Public_Libraries",
+    "oclcIncludeFile": "databases/digitaliapubliclibraries.txt"
+  },
   "DinoLingo": {
     "name": "DinoLingo",
     "stanza": "OCLC/DinoLingo.txt",
