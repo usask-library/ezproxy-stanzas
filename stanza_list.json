@@ -4499,6 +4499,12 @@
     "oclcStanzaId": "Torrossa",
     "oclcIncludeFile": "databases/torrossa.txt"
   },
+  "Transnational_Dispute_Management": {
+    "name": "Transnational Dispute Management",
+    "stanza": "OCLC/Transnational_Dispute_Management.txt",
+    "oclcStanzaId": "Transnational_Dispute_Management",
+    "oclcIncludeFile": "databases/tdm.txt"
+  },
   "Transparent_Language": {
     "name": "Transparent Language",
     "stanza": "OCLC/Transparent_Language.txt",
