@@ -1918,6 +1918,12 @@
     "oclcStanzaId": "Global_Road_Warrior",
     "oclcIncludeFile": "databases/globalroadwarrior.txt"
   },
+  "GlobalData_Disruptor": {
+    "name": "GlobalData Disruptor",
+    "stanza": "OCLC/GlobalData_Disruptor.txt",
+    "oclcStanzaId": "GlobalData_Disruptor",
+    "oclcIncludeFile": "databases/globaldatadisruptor.txt"
+  },
   "Glossary_of_Geology": {
     "name": "Glossary of Geology",
     "stanza": "OCLC/Glossary_of_Geology.txt",
