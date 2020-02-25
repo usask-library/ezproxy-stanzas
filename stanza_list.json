@@ -1404,7 +1404,7 @@
     "oclcIncludeFile": "databases/digitaliafilmlibrary.txt"
   },
   "Digitalia_Hispanica": {
-    "name": "Digitalia Hispanica",
+    "name": "Digitalia Hispánica",
     "stanza": "OCLC/Digitalia_Hispanica.txt",
     "oclcStanzaId": "Digitalia_Hispanica",
     "oclcIncludeFile": "databases/digitalia.txt"
