@@ -2447,8 +2447,14 @@
     "oclcStanzaId": "jarm",
     "oclcIncludeFile": "databases/jmi.txt"
   },
+  "Journal_on_Excellence_in_College_Teaching": {
+    "name": "Journal of the Motherhood Initiative",
+    "stanza": "OCLC/Journal_on_Excellence_in_College_Teaching.txt",
+    "oclcStanzaId": "Journal_on_Excellence_in_College_Teaching",
+    "oclcIncludeFile": "databases/journal_on_excellence_in_college_teaching.txt"
+  },
   "jusmundi": {
-    "name": "Jus Mundi - Academic Research with Brill",
+    "name": "Journal on Excellence in College Teaching",
     "stanza": "OCLC/jusmundi.txt",
     "oclcStanzaId": "jusmundi",
     "oclcIncludeFile": "databases/jusmundi.txt"
