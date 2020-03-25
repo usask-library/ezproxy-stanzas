@@ -3922,6 +3922,12 @@
     "oclcStanzaId": "Rockefeller_University_Press",
     "oclcIncludeFile": "databases/rupress.txt"
   },
+  "Roper_iPoll": {
+    "name": "RRoper iPoll",
+    "stanza": "OCLC/Roper_iPoll.txt",
+    "oclcStanzaId": "Roper_iPoll",
+    "oclcIncludeFile": "databases/roper_ipoll.txt"
+  },
   "Roubini_Global_Economics": {
     "name": "Roubini Global Economics",
     "stanza": "OCLC/Roubini_Global_Economics.txt",
