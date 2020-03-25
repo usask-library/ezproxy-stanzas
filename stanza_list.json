@@ -4340,6 +4340,12 @@
     "oclcStanzaId": "Springer_Nature_Experiments",
     "oclcIncludeFile": "databases/springerprotocols.txt"
   },
+  "Springer_Publishing_Company_Connect": {
+    "name": "Springer Publishing Company Connect",
+    "stanza": "OCLC/Springer_Publishing_Company_Connect.txt",
+    "oclcStanzaId": "Springer_Publishing_Company_Connect",
+    "oclcIncludeFile": "databases/springerpub.txt"
+  },
   "St_Jerome_Publishing": {
     "name": "St Jerome Publishing",
     "stanza": "OCLC/St_Jerome_Publishing.txt",
