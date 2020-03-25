@@ -3568,6 +3568,12 @@
     "oclcStanzaId": "Pharmaceutical_Press",
     "oclcIncludeFile": "databases/pharmaceuticalpress.txt"
   },
+  "Pharmacy_Library": {
+    "name": "Pharmacy Library",
+    "stanza": "OCLC/Pharmacy_Library.txt",
+    "oclcStanzaId": "Pharmacy_Library",
+    "oclcIncludeFile": "databases/pharmacy_library.txt"
+  },
   "Philosophia_Reformata": {
     "name": "Philosophia Reformata",
     "stanza": "OCLC/Philosophia_Reformata.txt",
