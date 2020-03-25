@@ -3149,6 +3149,12 @@
     "oclcStanzaId": "New_England_Journal_of_Medicine",
     "oclcIncludeFile": "databases/new_england_journal_medicine.txt"
   },
+  "New_Generation_Research": {
+    "name": "New Generation Research",
+    "stanza": "OCLC/New_Generation_Research.txt",
+    "oclcStanzaId": "New_Generation_Research",
+    "oclcIncludeFile": "databases/newgenerationresearch.txt"
+  },
   "New_Left_Review": {
     "name": "New Left Review",
     "stanza": "OCLC/New_Left_Review.txt",
