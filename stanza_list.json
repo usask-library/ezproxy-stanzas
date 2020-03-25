@@ -2980,6 +2980,12 @@
     "oclcStanzaId": "Mohr_Siebeck",
     "oclcIncludeFile": "databases/mohrsiebeck.txt"
   },
+  "Mometrix_eLibrary": {
+    "name": "Mometrix eLibrary",
+    "stanza": "OCLC/Mometrix_eLibrary.txt",
+    "oclcStanzaId": "Mometrix_eLibrary",
+    "oclcIncludeFile": "databases/mometrixelibrary.txt"
+  },
   "Morningstar": {
     "name": "Morningstar",
     "stanza": "OCLC/Morningstar.txt",
