@@ -3216,7 +3216,8 @@
   "Noodletools": {
     "name": "Noodletools",
     "stanza": "OCLC/Noodletools.txt",
-    "oclcStanzaId": "Noodletools"
+    "oclcStanzaId": "Noodletools",
+    "oclcIncludeFile": "databases/noodletools.txt"
   },
   "Now_Publishers": {
     "name": "Now Publishers",
