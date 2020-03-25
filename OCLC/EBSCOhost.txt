@@ -1,3 +1,4 @@
+#this seems to now be required before any EBSCOhost stanza to prevent linking issues
 Option DomainCookieOnly
 Title -hide EBSCO LinkSource
 URL http://linksource.ebsco.com
@@ -5,8 +6,9 @@ HJ linksource.ebsco.com
 HJ https://linksource.ebsco.com
 Option Cookie
 #
+AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (updated 20180613)
+Title EBSCOhost (updated 20200302)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 URL http://search.ebscohost.com/login.aspx
@@ -30,6 +32,7 @@ HJ openurl.ebscohost.com
 HJ resolver.ebscohost.com
 HJ search.ebscohost.mobi
 HJ search.epnet.com
+HJ novelist.epnet.com
 HJ web.a.ebscohost.com
 HJ web.b.ebscohost.com
 HJ web.c.ebscohost.com
@@ -79,3 +82,4 @@ NeverProxy nvntts.rs.ebscohost.com
 NeverProxy ivotts.rs.ebscohost.com
 NeverProxy widgets.ebscohost.com
 AnonymousURL -*
+AddUserHeader
