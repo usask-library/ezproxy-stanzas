@@ -3638,6 +3638,12 @@
     "oclcStanzaId": "Politico_Pro",
     "oclcIncludeFile": "databases/politicopro.txt"
   },
+  "Politique_Etrangere": {
+    "name": "Politique étrangère",
+    "stanza": "OCLC/peg.txt",
+    "oclcStanzaId": "peg",
+    "oclcIncludeFile": "databases/peg.txt"
+  },
   "Portico": {
     "name": "Portico",
     "stanza": "OCLC/Portico.txt",
