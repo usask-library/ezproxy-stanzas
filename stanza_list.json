@@ -643,6 +643,12 @@
     "oclcStanzaId": "Auto_Finance_Resource",
     "oclcIncludeFile": "databases/autofinanceresource.txt"
   },
+  "Aviation_Week_Intelligence_Network": {
+    "name": "Aviation Week Intelligence Network",
+    "stanza": "OCLC/Aviation_Week_Intelligence_Network.txt",
+    "oclcStanzaId": "Aviation_Week_Intelligence_Network",
+    "oclcIncludeFile": "databases/aviation_week.txt"
+  },
   "Axis360": {
     "name": "Axis360",
     "stanza": "OCLC/Axis360.txt",
