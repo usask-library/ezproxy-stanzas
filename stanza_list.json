@@ -1455,8 +1455,13 @@
     "oclcIncludeFile": "databases/filename.txt"
   },
   "E-Libro": {
-    "name": "E-Libro",
+    "name": "E-Libro (IP Authentication)",
     "stanza": "OCLC/E-Libro.txt",
+    "oclcStanzaId": "E-Libro"
+  },
+  "E-Libro_SSO": {
+    "name": "E-Libro (SSO)",
+    "stanza": "OCLC/E-Libro_SSO.txt",
     "oclcStanzaId": "E-Libro",
     "rules": [
       {
