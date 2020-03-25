@@ -1824,7 +1824,8 @@
   "Financial_Times": {
     "name": "Financial Times",
     "stanza": "OCLC/Financial_Times.txt",
-    "oclcStanzaId": "Financial_Times"
+    "oclcStanzaId": "Financial_Times",
+    "oclcIncludeFile": "databases/financialtimes.txt"
   },
   "Fold3": {
     "name": "Fold3",
