@@ -1,10 +1,16 @@
-Title CAS SciFinder (updated 20160818)
+Option X-Forwarded-For
+HTTPMethod PUT
+HTTPHeader x-cas
+Title SciFinder (updated 20200313)
+HTTPHeader -request -process x-cas
 URL https://scifinder.cas.org/scifinder
 H https://scifinder.cas.org
+H https://scifinder-n.cas.org
 H scifinder.cas.org
-H p443-scifinder.cas.org
-H https://scifinder-test.cas.org/
-H scifinder-test.cas.org
-H https://origin-scifinder.cas.org
-H origin-scifinder.cas.org
+H scifinder-n.cas.org
+H https://sso.cas.org
+H sso.cas.org
+H chemport.cas.org
+H content2.cas.org
 D cas.org
+Option NoX-Forwarded-For
