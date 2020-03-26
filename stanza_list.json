@@ -2122,7 +2122,7 @@
     "oclcIncludeFile": "databases/igi_global.txt"
   },
   "IHS_Connect": {
-    "name": "IHS Connect",
+    "name": "IHS Markit Connect",
     "stanza": "OCLC/IHS_Connect.txt",
     "oclcStanzaId": "IHS_Connect",
     "oclcIncludeFile": "databases/ihs_connect.txt"
