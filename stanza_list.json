@@ -1850,7 +1850,8 @@
   "Foreign_Policy": {
     "name": "Foreign Policy",
     "stanza": "OCLC/Foreign_Policy.txt",
-    "oclcStanzaId": "Foreign_Policy"
+    "oclcStanzaId": "Foreign_Policy",
+    "oclcIncludeFile": "databases/foreignpolicy.txt"
   },
   "Fortunoff_Video_Archive": {
     "name": "Fortunoff Video Archive",
