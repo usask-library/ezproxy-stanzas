@@ -1454,15 +1454,24 @@
     "oclcStanzaId": "DynaMed",
     "oclcIncludeFile": "databases/filename.txt"
   },
-  "E-Libro": {
-    "name": "E-Libro (IP Authentication)",
-    "stanza": "OCLC/E-Libro.txt",
-    "oclcStanzaId": "E-Libro"
+  "eLibro": {
+    "name": "ELibro (IP Authentication)",
+    "stanza": "OCLC/eLibro.txt",
+    "oclcStanzaId": "eLibro",
+    "oclcIncludeFile": "databases/elibro.txt",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": "ezproxyname",
+        "placeholder": "The name of your EZproxy as it is registered with eLibro",
+        "enabled": true
+      }
+    ]
   },
-  "E-Libro_SSO": {
-    "name": "E-Libro (SSO)",
-    "stanza": "OCLC/E-Libro_SSO.txt",
-    "oclcStanzaId": "E-Libro",
+  "eLibro_SSO": {
+    "name": "ELibro (SSO)",
+    "stanza": "OCLC/eLibro_SSO.txt",
+    "oclcStanzaId": "eLibro",
     "rules": [
       {
         "rule": "Replace",

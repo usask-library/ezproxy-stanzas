@@ -1,8 +1,8 @@
 HTTPMethod OPTIONS
 AnonymousURL -OPTIONS +https://gateway.elibro.net/*
-Title E-Libro (updated 20200303)
+Title eLibro: Biblioteca Digital en Español (updated 20200413)
 HTTPHeader -request -process X-CSRFToken
-URL https://elibro.net/es/lc/pruebademo/inicio
+URL https://elibro.net/es/lc/ezproxyname/inicio
 HJ https://gateway.elibro.net
 HJ https://auth.elibro.net
 HJ https://royalties.elibro.net
@@ -15,5 +15,6 @@ HJ http://royalties.elibro.net
 HJ http://search.elibro.net
 HJ http://status.elibro.net
 DJ elibro.net
+NeverProxy gateway.elibro.net
 NeverProxy *.cloudfront.net
 AnonymousURL -*
