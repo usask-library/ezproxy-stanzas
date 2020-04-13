@@ -4385,6 +4385,12 @@
     "oclcStanzaId": "Statista",
     "oclcIncludeFile": "databases/statista.txt"
   },
+  "Strada_Lex": {
+    "name": "Strada Lex",
+    "stanza": "OCLC/Strada_Lex.txt",
+    "oclcStanzaId": "Strada_Lex",
+    "oclcIncludeFile": "databases/stradalex.txt"
+  },
   "Structural_Engineer": {
     "name": "Structural_Engineer",
     "stanza": "OCLC/Structural_Engineer.txt",
