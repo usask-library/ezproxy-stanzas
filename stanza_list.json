@@ -2890,6 +2890,12 @@
     "stanza": "OCLC/Medici_tv_EDU.txt",
     "oclcStanzaId": "Medici_tv_EDU"
   },
+  "Medieval_and_Early_Modern_Sources_Online": {
+    "name": "Medieval and Early Modern Sources Online",
+    "stanza": "OCLC/Medieval_and_Early_Modern_Sources_Online.txt",
+    "oclcStanzaId": "Medieval_and_Early_Modern_Sources_Online",
+    "oclcIncludeFile": "databases/medievalandearlymodernsourcesonline.txt"
+  },
   "Mergent_Archives": {
     "name": "Mergent Archives",
     "stanza": "OCLC/Mergent_Archives.txt",
