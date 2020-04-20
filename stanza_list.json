@@ -10,6 +10,12 @@
     "oclcStanzaId": "5_Minute_Consult",
     "oclcIncludeFile": "databases/5_minconsult.txt"
   },
+  "AACN_Journals": {
+    "name": "AACN Journals",
+    "stanza": "OCLC/AACN_Journals.txt",
+    "oclcStanzaId": "AACN_Journals",
+    "oclcIncludeFile": "databases/aacnjournals.txt"
+  },
   "AAIDD_Online_Journals": {
     "name": "AAIDD Online Journals",
     "stanza": "OCLC/AAIDD_Online_Journals.txt",
