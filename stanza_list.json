@@ -1626,6 +1626,12 @@
     "stanza": "OCLC/Edina_Digimap.txt",
     "oclcStanzaId": "Edina_Digimap"
   },
+  "Editorial_Grao": {
+    "name": "Editorial Grao",
+    "stanza": "OCLC/Editorial_Grao.txt",
+    "oclcStanzaId": "Editorial_Grao",
+    "oclcIncludeFile": "databases/grao.txt"
+  },
   "Education_Week": {
     "name": "Education Week",
     "stanza": "OCLC/Education_Week.txt",
