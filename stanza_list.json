@@ -2683,6 +2683,12 @@
     "oclcStanzaId": "Library_Journal",
     "oclcIncludeFile": "databases/libraryjournal.txt"
   },
+  "Library_of_Congress": {
+    "name": "Library of Congress",
+    "stanza": "OCLC/Library_of_Congress.txt",
+    "oclcStanzaId": "Library_of_Congress",
+    "oclcIncludeFile": "databases/loc.txt"
+  },
   "Liebert": {
     "name": "Liebert",
     "stanza": "OCLC/Liebert.txt",
