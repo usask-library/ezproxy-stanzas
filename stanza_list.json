@@ -4754,7 +4754,7 @@
     "name": "WGSN Creative Intelligence",
     "stanza": "OCLC/WGSN_Creative_Intelligence.txt",
     "oclcStanzaId": "WGSN_Creative_Intelligence",
-    "oclcIncludeFile": "databases/wgns.txt"
+    "oclcIncludeFile": "databases/wgsn.txt"
   },
   "WWD": {
     "name": "WWD (Women's Wear Daily)",
