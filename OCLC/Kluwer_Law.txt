@@ -1,4 +1,10 @@
-Title Kluwer Law (updated 20141119)
+AnonymousURL +https://api.ipify.org/?format=json
+Title Kluwer Law (updated 20200421)
 URL http://www.kluwerlawonline.com/
+HJ https://api.ipify.org
+HJ https://kluwerlawonline.com
+HJ https://www.kluwerlawonline.com
 HJ www.kluwerlawonline.com
+HJ kluwerlawonline.com
 DJ kluwerlawonline.com
+AnonymousURL -*
