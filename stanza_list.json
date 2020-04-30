@@ -781,6 +781,12 @@
     "oclcStanzaId": "Blackstones_Police_Service",
     "oclcIncludeFile": "databases/blackstonepoliceservice.txt"
   },
+  "Blake_An_Illustrated_Quarterly": {
+    "name": "Blake/An Illustrated Quarterly",
+    "stanza": "OCLC/Blake_An_Illustrated_Quarterly.txt",
+    "oclcStanzaId": "Blake_An_Illustrated_Quarterly",
+    "oclcIncludeFile": "databases/blake.txt"
+  },
   "Bloomsbury_Digital_Resources": {
     "name": "Bloomsbury Digital Resources",
     "stanza": "OCLC/Bloomsbury_Digital_Resources.txt",
