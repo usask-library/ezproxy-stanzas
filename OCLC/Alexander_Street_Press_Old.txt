@@ -499,6 +499,7 @@ Title Alexander Street Press MARC Records (updated 20170719)
 URL http://www.aspresolver.com
 DJ aspresolver.com
 
-Title Alexander Street Video (20190305)
+Title Alexander Street Video (updated 20200422)
 URL https://video.alexanderstreet.com
 DJ video.alexanderstreet.com
+NeverProxy https://dq8wtqudsgu83.cloudfront.net

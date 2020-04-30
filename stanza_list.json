@@ -286,7 +286,10 @@
     "stanza": "OCLC/Alexander_Street_Press.txt",
     "note": "Includes stanzas for MARC records and Academic Video Store",
     "oclcStanzaId": "Alexander_Street_Press",
-    "oclcIncludeFile": "databases/alexanderstreet.txt"
+    "oclcIncludeFile": [
+      "databases/alexanderstreet.txt",
+      "databases/alexanderstreetvideo.txt"
+    ]
   },
   "Alkem_Library": {
     "name": "Alkem Library",
