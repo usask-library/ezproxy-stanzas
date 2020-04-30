@@ -1468,7 +1468,7 @@
     "name": "DynaMed",
     "stanza": "OCLC/DynaMed.txt",
     "oclcStanzaId": "DynaMed",
-    "oclcIncludeFile": "databases/filename.txt"
+    "oclcIncludeFile": "databases/dynamed.txt"
   },
   "eLibro": {
     "name": "ELibro (IP Authentication)",
