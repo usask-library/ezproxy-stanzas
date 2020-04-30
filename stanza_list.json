@@ -1611,6 +1611,12 @@
     "oclcStanzaId": "ecommerceDB",
     "oclcIncludeFile": "databases/ecommercedb.txt"
   },
+  "Economic_and_Political_Weekly": {
+    "name": "Economic and Political Weekly",
+    "stanza": "OCLC/Economic_and_Political_Weekly.txt",
+    "oclcStanzaId": "Economic_and_Political_Weekly",
+    "oclcIncludeFile": "databases/epw.txt"
+  },
   "Economics_of_Peace_and_Security_Journal": {
     "name": "Economics of Peace and Security Journal, The",
     "stanza": "OCLC/Economics_of_Peace_and_Security_Journal.txt",
