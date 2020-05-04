@@ -1,4 +1,4 @@
-Title Sage Journals (updated 20191219)
+Title Sage Journals (updated 20200302)
 HTTPHeader -request -process X-Requested-With
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
@@ -64,3 +64,13 @@ Find "google-analytics.com
 Replace "^pgoogle-analytics.com^
 Find url =  document.location.protocol + "//" + document.location.host
 Replace url =  "http://^Aonline.sagepub.com"
+
+Title Data Planet
+HTTPHeader -request -process X-GWT-*
+U https://statisticaldatasets.data-planet.com/dataplanet/
+U https://readyreference.data-planet.com
+HJ http://statisticaldatasets.data-planet.com
+HJ http://readyreference.data-planet.com
+DJ data-planet.com
+DJ conquestsystems.com
+DJ data-planet.libguides.com
