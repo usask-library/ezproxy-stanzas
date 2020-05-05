@@ -1266,7 +1266,8 @@
   "Crossref": {
     "name": "Crossref",
     "stanza": "OCLC/Crossref.txt",
-    "oclcStanzaId": "Crossref"
+    "oclcStanzaId": "Crossref",
+    "oclcIncludeFile": "databases/crossref.txt"
   },
   "CultureGrams": {
     "name": "CultureGrams",
