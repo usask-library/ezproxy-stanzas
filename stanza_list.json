@@ -1396,7 +1396,8 @@
   "DigiZeitschriften": {
     "name": "DigiZeitschriften",
     "stanza": "OCLC/DigiZeitschriften.txt",
-    "oclcStanzaId": "DigiZeitschriften"
+    "oclcStanzaId": "DigiZeitschriften",
+    "oclcIncludeFile": "databases/digizeitschriften.txt"
   },
   "Digital_National_Security_Archive": {
     "name": "Digital National Security Archive",
