@@ -2340,6 +2340,12 @@
     "oclcStanzaId": "iter",
     "oclcIncludeFile": "databases/iter.txt"
   },
+  "JStage": {
+    "name": "J-STAGE",
+    "stanza": "OCLC/jstage.txt",
+    "oclcStanzaId": "jstage",
+    "oclcIncludeFile": "databases/jstage.txt"
+  },
   "JAMA": {
     "name": "JAMA",
     "stanza": "OCLC/JAMA.txt",
