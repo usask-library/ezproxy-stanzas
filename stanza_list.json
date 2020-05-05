@@ -571,7 +571,8 @@
   "Arts-Search": {
     "name": "Arts-Search",
     "stanza": "OCLC/Arts-Search.txt",
-    "oclcStanzaId": "Arts-Search"
+    "oclcStanzaId": "Arts-Search",
+    "oclcIncludeFile": "databases/arts-search.txt"
   },
   "Artstor": {
     "name": "Artstor",
