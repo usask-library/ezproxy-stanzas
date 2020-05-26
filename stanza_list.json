@@ -216,7 +216,8 @@
   "Accessible_Archives": {
     "name": "Accessible Archives",
     "stanza": "OCLC/Accessible_Archives.txt",
-    "oclcStanzaId": "Accessible_Archives"
+    "oclcStanzaId": "Accessible_Archives",
+    "oclcIncludeFile": "databases/accessible.txt"
   },
   "Accountant": {
     "name": "Accountant, The",
@@ -686,7 +687,8 @@
   "BREPOLiS": {
     "name": "BREPOLiS",
     "stanza": "OCLC/BREPOLiS.txt",
-    "oclcStanzaId": "BREPOLiS"
+    "oclcStanzaId": "BREPOLiS",
+    "oclcIncludeFile": "databases/brepolis.txt"
   },
   "Bankscope": {
     "name": "Bankscope",
