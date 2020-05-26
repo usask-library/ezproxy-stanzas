@@ -768,10 +768,11 @@
     "stanza": "OCLC/Bioscientifica.txt",
     "oclcStanzaId": "Bioscientifica"
   },
-  "Birds_of_North_America": {
-    "name": "Birds of North America",
-    "stanza": "OCLC/Birds_of_North_America.txt",
-    "oclcStanzaId": "Birds_of_North_America"
+  "Birds_of_the_World": {
+    "name": "Birds of the World",
+    "stanza": "OCLC/Birds_of_the_World.txt",
+    "oclcStanzaId": "birdsna",
+    "oclcIncludeFile": "databases/birdsna.txt"
   },
   "BizJournals": {
     "name": "BizJournals",
