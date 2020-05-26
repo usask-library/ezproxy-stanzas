@@ -1435,6 +1435,12 @@
     "oclcStanzaId": "Digitalia_Hispanica",
     "oclcIncludeFile": "databases/digitalia.txt"
   },
+  "Digitalia_Portuguesa": {
+    "name": "Digitalia Portuguesa",
+    "stanza": "OCLC/Digitalia_Portuguesa.txt",
+    "oclcStanzaId": "Digitalia_Portuguesa",
+    "oclcIncludeFile": "databases/digitaliaportuguesa.txt"
+  },
   "Digitalia_Public_Libraries": {
     "name": "Digitalia Public Libraries",
     "stanza": "OCLC/Digitalia_Public_Libraries.txt",
