@@ -2367,6 +2367,12 @@
     "oclcStanzaId": "JISC",
     "oclcIncludeFile": "databases/jisc.txt"
   },
+  "JOMI_Surgical_Video_Journal": {
+    "name": "JOMI Surgical Video Journal",
+    "stanza": "OCLC/JOMI_Surgical_Video_Journal.txt",
+    "oclcStanzaId": "JOMI_Surgical_Video_Journal",
+    "oclcIncludeFile": "databases/jomi.txt"
+  },
   "JSTOR": {
     "name": "JSTOR",
     "stanza": "OCLC/JSTOR.txt",
