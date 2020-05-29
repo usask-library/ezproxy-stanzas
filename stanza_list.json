@@ -1193,6 +1193,12 @@
     "oclcStanzaId": "Clue_Detective_Puzzle_Agency",
     "oclcIncludeFile": "databases/cluedetective.txt"
   },
+  "Cobouw": {
+    "name": "Cobouw",
+    "stanza": "OCLC/Cobouw.txt",
+    "oclcStanzaId": "Cobouw",
+    "oclcIncludeFile": "databases/cobouw.txt"
+  },
   "Cochrane_Library": {
     "name": "Cochrane Library",
     "stanza": "OCLC/Cochrane_Library.txt",
