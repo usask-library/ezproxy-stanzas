@@ -549,6 +549,12 @@
     "name": "Architects Journal, The",
     "stanza": "OCLC/Architects_Journal.txt",
     "oclcStanzaId": "Architects_Journal",
+    "oclcIncludeFile": "databases/arsaequi.txt"
+  },
+  "ArsAequi": {
+    "name": "ArsAequi",
+    "stanza": "OCLC/ArsAequi.txt",
+    "oclcStanzaId": "ArsAequi",
     "oclcIncludeFile": "databases/theaj.txt"
   },
   "Artifex_Press": {
