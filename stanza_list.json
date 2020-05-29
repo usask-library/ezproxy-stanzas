@@ -1137,6 +1137,12 @@
     "stanza": "OCLC/CLCD.txt",
     "oclcStanzaId": "CLCD"
   },
+  "China_Studies": {
+    "name": "China_Studies",
+    "stanza": "OCLC/China_Studies.txt",
+    "oclcStanzaId": "China_Studies",
+    "oclcIncludeFile": "databases/chinastudies.txt"
+  },
   "Choice_Reviews": {
     "name": "Choice Reviews",
     "stanza": "OCLC/Choice_Reviews.txt",
