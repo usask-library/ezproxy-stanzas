@@ -2,7 +2,8 @@
   "123Library": {
     "name": "123Library",
     "stanza": "OCLC/123Library.txt",
-    "oclcStanzaId": "123Library"
+    "oclcStanzaId": "123Library",
+    "oclcIncludeFile": "databases/123library.txt"
   },
   "5_Minute_Consult": {
     "name": "5 Minute Consult (WoltersKluwer)",
@@ -246,7 +247,8 @@
   "Africa_Knowledge_Project": {
     "name": "Africa Knowledge Project",
     "stanza": "OCLC/Africa_Knowledge_Project.txt",
-    "oclcStanzaId": "Africa_Knowledge_Project"
+    "oclcStanzaId": "Africa_Knowledge_Project",
+    "oclcIncludeFile": "databases/africaknowledgeproject.txt"
   },
   "Africa-Confidential": {
     "name": "Africa-Confidential",
@@ -269,7 +271,8 @@
   "Agriholland": {
     "name": "Agriholland",
     "stanza": "OCLC/Agriholland.txt",
-    "oclcStanzaId": "Agriholland"
+    "oclcStanzaId": "Agriholland",
+    "oclcIncludeFile": "databases/agriholland.txt"
   },
   "Akademiai_Kiado": {
     "name": "Akademiai Kiado",
@@ -347,7 +350,8 @@
   "American_Chemical_Society": {
     "name": "American Chemical Society",
     "stanza": "OCLC/American_Chemical_Society.txt",
-    "oclcStanzaId": "American_Chemical_Society"
+    "oclcStanzaId": "American_Chemical_Society",
+    "oclcIncludeFile": "databases/acs.txt"
   },
   "American_College_of_Physicians": {
     "name": "American College of Physicians",
@@ -407,7 +411,8 @@
   "American_Occupational_Therapy_Association": {
     "name": "American Occupational Therapy Association",
     "stanza": "OCLC/American_Occupational_Therapy_Association.txt",
-    "oclcStanzaId": "American_Occupational_Therapy_Association"
+    "oclcStanzaId": "American_Occupational_Therapy_Association",
+    "oclcIncludeFile": "databases/aota.txt"
   },
   "American_Physical_Therapy_Association": {
     "name": "American Physical Therapy Association",
@@ -774,7 +779,8 @@
   "Bioscientifica": {
     "name": "Bioscientifica",
     "stanza": "OCLC/Bioscientifica.txt",
-    "oclcStanzaId": "Bioscientifica"
+    "oclcStanzaId": "Bioscientifica",
+    "oclcIncludeFile": "databases/bioscientifica.txt"
   },
   "Birds_of_the_World": {
     "name": "Birds of the World",
@@ -879,12 +885,14 @@
   "BrainPOP": {
     "name": "BrainPOP",
     "stanza": "OCLC/BrainPOP.txt",
-    "oclcStanzaId": "BrainPOP"
+    "oclcStanzaId": "BrainPOP",
+    "oclcIncludeFile": "databases/brainpop.txt"
   },
   "Brainfuse": {
     "name": "Brainfuse",
     "stanza": "OCLC/Brainfuse.txt",
     "oclcStanzaId": "Brainfuse",
+    "oclcIncludeFile": "databases/brainfuse.txt",
     "rules": [
       {
         "rule": "Replace",
@@ -897,7 +905,8 @@
   "Brepols_Online": {
     "name": "Brepols Online",
     "stanza": "OCLC/Brepols_Online.txt",
-    "oclcStanzaId": "Brepols_Online"
+    "oclcStanzaId": "Brepols_Online",
+    "oclcIncludeFile": "databases/brepolsonline.txt"
   },
   "Bridgeman_Education": {
     "name": "Bridgeman Education",
@@ -920,7 +929,8 @@
   "Britannica_Academic": {
     "name": "Britannica Academic",
     "stanza": "OCLC/Britannica_Academic.txt",
-    "oclcStanzaId": "Britannica_Academic"
+    "oclcStanzaId": "Britannica_Academic",
+    "oclcIncludeFile": "databases/britannica.txt"
   },
   "Britannica_E-Stax": {
     "name": "Britannica E-Stax",
@@ -965,7 +975,8 @@
   "BNA": {
     "name": "Bureau of National Affairs (BNA)",
     "stanza": "OCLC/BNA.txt",
-    "oclcStanzaId": "BNA"
+    "oclcStanzaId": "BNA",
+    "oclcIncludeFile": "databases/bna.txt"
   },
   "CAB_Direct": {
     "name": "CAB Direct",
@@ -1891,7 +1902,8 @@
   "Films_Demand": {
     "name": "Films on Demand",
     "stanza": "OCLC/Films_Demand.txt",
-    "oclcStanzaId": "Films_Demand"
+    "oclcStanzaId": "Films_Demand",
+    "oclcIncludeFile": "databases/filmsondemand.txt"
   },
   "Financial_Times": {
     "name": "Financial Times",
@@ -1971,7 +1983,8 @@
   "Geological_Society_of_America": {
     "name": "Geological Society of America",
     "stanza": "OCLC/Geological_Society_of_America.txt",
-    "oclcStanzaId": "Geological_Society_of_America"
+    "oclcStanzaId": "Geological_Society_of_America",
+    "oclcIncludeFile": "databases/gsa.txt"
   },
   "Global_Business_Traveler": {
     "name": "Global Business Traveler",
@@ -2425,7 +2438,8 @@
   "JoVE": {
     "name": "JoVE",
     "stanza": "OCLC/JoVE.txt",
-    "oclcStanzaId": "JoVE"
+    "oclcStanzaId": "JoVE",
+    "oclcIncludeFile": "databases/jove.txt"
   },
   "John_Benjamins": {
     "name": "John Benjamins",
@@ -4685,7 +4699,8 @@
   "Tumblebooks": {
     "name": "Tumblebooks",
     "stanza": "OCLC/Tumblebooks.txt",
-    "oclcStanzaId": "Tumblebooks"
+    "oclcStanzaId": "Tumblebooks",
+    "oclcIncludeFile": "databases/tumblebooks.txt"
   },
   "Turnitin": {
     "name": "Turnitin",
@@ -4729,7 +4744,8 @@
   "University_of_Chicago_Press": {
     "name": "University of Chicago Press",
     "stanza": "OCLC/University_of_Chicago_Press.txt",
-    "oclcStanzaId": "University_of_Chicago_Press"
+    "oclcStanzaId": "University_of_Chicago_Press",
+    "oclcIncludeFile": "databases/uchicago.txt"
   },
   "U_Illinois_Press": {
     "name": "University of Illinois Press",
