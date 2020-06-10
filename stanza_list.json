@@ -731,12 +731,6 @@
     "oclcStanzaId": "BiblioBoard",
     "oclcIncludeFile": "databases/biblioboard.txt"
   },
-  "BiblioLine": {
-    "name": "BiblioLine",
-    "stanza": "OCLC/BiblioLine.txt",
-    "oclcStanzaId": "BiblioLine",
-    "oclcIncludeFile": "databases/biblioboard.txt"
-  },
   "BIHR": {
     "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
     "stanza": "OCLC/BIHR.txt",
