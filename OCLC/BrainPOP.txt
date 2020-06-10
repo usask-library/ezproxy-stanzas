@@ -1,4 +1,4 @@
-Title BrainPOP
+Title BrainPOP (updated 20150826)
 URL https://www.brainpop.com
 HJ https://www.brainpop.com
 HJ www.brainpop.com
@@ -10,10 +10,14 @@ HJ https://fr.brainpop.com
 HJ fr.brainpop.com
 HJ https://jr.brainpop.com
 HJ jr.brainpop.com
+HJ brainpop.com
 DJ brainpop.com
 HJ www.brainpopesl.com
+HJ brainpopesl.com
 DJ brainpopesl.com
 HJ www.brainpop.fr
+HJ brainpop.fr
 DJ brainpop.fr
 HJ www.brainpopjr.com
+HJ brainpopjr.com
 DJ brainpopjr.com
