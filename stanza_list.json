@@ -540,11 +540,6 @@
     "oclcStanzaId": "AnthroSource2",
     "oclcIncludeFile": "databases/anthrosource2.txt"
   },
-  "Applied_Development_Research_Solutions": {
-    "name": "Applied Development Research Solutions",
-    "stanza": "OCLC/Applied_Development_Research_Solutions.txt",
-    "oclcStanzaId": "adrs"
-  },
   "Arabidopsis_Information_Resource": {
     "name": "Arabidopsis Information Resource, The",
     "stanza": "OCLC/Arabidopsis_Information_Resource.txt",
