@@ -1,3 +1,7 @@
-Title Brainfuse
-NeverProxy www.brainfuse.com
-URL {URL supplied to you by Brainfuse}
+Title Brainfuse (updated 20190821)
+URL http://www.brainfuse.com/
+HJ https://www.brainfuse.com
+HJ https://landing.brainfuse.com/alc/?u=main.douglas.co.brainfuse.com
+HJ home.brainfuse.com
+HJ www.brainfuse.com
+DJ brainfuse.com

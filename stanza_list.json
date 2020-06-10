@@ -881,15 +881,7 @@
     "name": "Brainfuse",
     "stanza": "OCLC/Brainfuse.txt",
     "oclcStanzaId": "Brainfuse",
-    "oclcIncludeFile": "databases/brainfuse.txt",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "{URL supplied to you by Brainfuse}",
-        "placeholder": "The URL supplied to you by Brainfuse",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/brainfuse.txt"
   },
   "Brepols_Online": {
     "name": "Brepols Online",
