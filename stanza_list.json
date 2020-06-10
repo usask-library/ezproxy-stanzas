@@ -978,6 +978,12 @@
     "oclcStanzaId": "BNA",
     "oclcIncludeFile": "databases/bna.txt"
   },
+  "Burlington_Magazine_Publishing_Ltd": {
+    "name": "Burlington Magazine Publishing Ltd.",
+    "stanza": "OCLC/Burlington_Magazine_Publishing_Ltd.txt",
+    "oclcStanzaId": "Burlington_Magazine_Publishing_Ltd",
+    "oclcIncludeFile": "databases/burlington.txt"
+  },
   "CAB_Direct": {
     "name": "CAB Direct",
     "stanza": "OCLC/cabdirect.txt",
