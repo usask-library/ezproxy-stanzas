@@ -1406,6 +1406,12 @@
     "oclcStanzaId": "desLibris",
     "oclcIncludeFile": "databases/desLibris.txt"
   },
+  "Diabetes_Journals": {
+    "name": "Diabetes_Journals",
+    "stanza": "OCLC/Diabetes_Journals.txt",
+    "oclcStanzaId": "Diabetes_Journals",
+    "oclcIncludeFile": "databases/diabetesjournals.txt"
+  },
   "Dialnet": {
     "name": "Dialnet",
     "stanza": "OCLC/Dialnet.txt",
