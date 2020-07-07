@@ -2610,6 +2610,12 @@
     "oclcStanzaId": "Key_Note",
     "oclcIncludeFile": "databases/keynote.txt"
   },
+  "KinoDen": {
+    "name": "KinoDen eBook",
+    "stanza": "OCLC/KinoDen.txt",
+    "oclcStanzaId": "kinoden",
+    "oclcIncludeFile": "databases/kinoden.txt"
+  },
   "Kiss_Bow_Shake_Hands": {
     "name": "Kiss, Bow, or Shake Hands",
     "stanza": "OCLC/Kiss_Bow_Shake_Hands.txt",
