@@ -521,7 +521,8 @@
   "Ancestry_Library": {
     "name": "Ancestry Library",
     "stanza": "OCLC/Ancestry_Library.txt",
-    "oclcStanzaId": "Ancestry_Library"
+    "oclcStanzaId": "Ancestry_Library",
+    "oclcIncludeFile": "databases/ancestrylibrary.txt"
   },
   "Annual_Reviews": {
     "name": "Annual Reviews",
@@ -532,7 +533,8 @@
   "AnthroSource": {
     "name": "AnthroSource",
     "stanza": "OCLC/AnthroSource.txt",
-    "oclcStanzaId": "AnthroSource"
+    "oclcStanzaId": "AnthroSource",
+    "oclcIncludeFile": "databases/anthrosource.txt"
   },
   "AnthroSource2": {
     "name": "AnthroSource 2.0",
@@ -543,7 +545,8 @@
   "Arabidopsis_Information_Resource": {
     "name": "Arabidopsis Information Resource, The",
     "stanza": "OCLC/Arabidopsis_Information_Resource.txt",
-    "oclcStanzaId": "Arabidopsis_Information_Resource"
+    "oclcStanzaId": "Arabidopsis_Information_Resource",
+    "oclcIncludeFile": "databases/arabidopsis.txt"
   },
   "Architects_Journal": {
     "name": "Architects Journal, The",
@@ -1319,7 +1322,8 @@
   "DOAJ": {
     "name": "DOAJ",
     "stanza": "OCLC/DOAJ.txt",
-    "oclcStanzaId": "DOAJ"
+    "oclcStanzaId": "DOAJ",
+    "oclcIncludeFile": "databases/doaj.txt"
   },
   "DOI_System": {
     "name": "DOI System",
@@ -1351,12 +1355,14 @@
   "Data-Planet_Statistical_Datasets": {
     "name": "Data-Planet Statistical Datasets",
     "stanza": "OCLC/Data-Planet_Statistical_Datasets.txt",
-    "oclcStanzaId": "Data-Planet_Statistical_Datasets"
+    "oclcStanzaId": "Data-Planet_Statistical_Datasets",
+    "oclcIncludeFile": "databases/data_planet_statistical_datasets.txt"
   },
   "Data-Planet_Statistical_Ready_Reference": {
     "name": "Data-Planet Statistical Ready Reference",
     "stanza": "OCLC/Data-Planet_Statistical_Ready_Reference.txt",
-    "oclcStanzaId": "Data-Planet_Statistical_Ready_Reference"
+    "oclcStanzaId": "Data-Planet_Statistical_Ready_Reference",
+    "oclcIncludeFile": "databases/data_planet_statistical_ready_ref.txt"
   },
   "DRAM": {
     "name": "Database of Recorded American Music (DRAM)",
@@ -4455,7 +4461,8 @@
   "SpringerLink": {
     "name": "SpringerLink",
     "stanza": "OCLC/SpringerLink.txt",
-    "oclcStanzaId": "SpringerLink"
+    "oclcStanzaId": "SpringerLink",
+    "oclcIncludeFile": "databases/springer.txt"
   },
   "SpringerMaterials": {
     "name": "SpringerMaterials",
