@@ -1,1 +1,1 @@
-SSO -Secret={secret} -HASH=SHA256 -URL={url} elibro
+SSO -Secret={secret} -HASH=SHA256 -URL=https://auth.elibro.net/auth/ezproxy/elibro
