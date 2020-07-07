@@ -3091,6 +3091,12 @@
     "oclcStanzaId": "Mintel",
     "oclcIncludeFile": "databases/mintel.txt"
   },
+  "Mission_Nexus": {
+    "name": "Mission Nexus",
+    "stanza": "OCLC/Mission_Nexus.txt",
+    "oclcStanzaId": "Mission_Nexus",
+    "oclcIncludeFile": "databases/missionnexus.txt"
+  },
   "Modern_Language_Association": {
     "name": "Modern Language Association",
     "stanza": "OCLC/Modern_Language_Association.txt",
