@@ -1833,7 +1833,7 @@
     "oclcStanzaId": "Exceptional_Parent"
   },
   "F1000": {
-    "name": "F1000",
+    "name": "Sciencenow: Faculty Opinions & Sciwheel (formerly F1000)",
     "stanza": "OCLC/F1000.txt",
     "oclcStanzaId": "F1000",
     "oclcIncludeFile": "databases/f1000.txt"
