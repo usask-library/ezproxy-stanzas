@@ -2310,6 +2310,12 @@
     "oclcStanzaId": "Informit",
     "oclcIncludeFile": "databases/informit.txt"
   },
+  "Inovestor": {
+    "name": "Inovestor",
+    "stanza": "OCLC/Inovestor.txt",
+    "oclcStanzaId": "Inovestor",
+    "oclcIncludeFile": "databases/inovestor.txt"
+  },
   "Institute_of_Physics": {
     "name": "Institute of Physics",
     "stanza": "OCLC/Institute_of_Physics.txt",
