@@ -4685,6 +4685,12 @@
     "oclcStanzaId": "Thieme",
     "oclcIncludeFile": "databases/thiemeconnect.txt"
   },
+  "Thieme_MedOne": {
+    "name": "Thieme MedOne",
+    "stanza": "OCLC/Thieme_MedOne.txt",
+    "oclcStanzaId": "Thieme_MedOne",
+    "oclcIncludeFile": "databases/thiememedone.txt"
+  },
   "Thinkmap_Visual_Thesaurus": {
     "name": "Thinkmap Visual Thesaurus",
     "stanza": "OCLC/Thinkmap_Visual_Thesaurus.txt",
