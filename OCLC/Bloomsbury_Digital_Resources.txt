@@ -81,15 +81,13 @@ URL http://www.churchillarchive.com/
 HJ churchillarchive.com
 DJ churchillarchive.com
 
-Option DomainCookieOnly
-Title Drama Online (updated 20200423)
+Title Drama Online Library (updated 20200709)
 URL https://www.dramaonlinelibrary.com/
 HJ www.dramaonlinelibrary.com
 HJ dramaonlinelibrary.com
 HJ https://www.dramaonlinelibrary.com
 HJ https://dramaonlinelibrary.com
 DJ dramaonlinelibrary.com
-Option Cookie
 
 Title Screen Studies (updated 20200423)
 URL https://www.screenstudies.com/
