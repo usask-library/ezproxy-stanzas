@@ -1018,12 +1018,14 @@
   "CPA_Canada": {
     "name": "CPA Canada",
     "stanza": "OCLC/CPA_Canada.txt",
-    "oclcStanzaId": "CPA_Canada"
+    "oclcStanzaId": "CPA_Canada",
+    "oclcIncludeFile": "databases/cpacanada.txt"
   },
   "CQ_Researcher": {
     "name": "CQ Researcher",
     "stanza": "OCLC/CQ_Researcher.txt",
-    "oclcStanzaId": "CQ_Researcher"
+    "oclcStanzaId": "CQ_Researcher",
+    "oclcIncludeFile": "databases/cq_researcher.txt"
   },
   "CRL": {
     "name": "Center for Research Libraries",
@@ -1103,7 +1105,8 @@
   "Career_Cruising": {
     "name": "Career Cruising",
     "stanza": "OCLC/Career_Cruising.txt",
-    "oclcStanzaId": "Career_Cruising"
+    "oclcStanzaId": "Career_Cruising",
+    "oclcIncludeFile": "databases/careercruising.txt"
   },
   "Casting_About": {
     "name": "Casting About",
@@ -1147,7 +1150,8 @@
   "CLCD": {
     "name": "Children's Literature Comprehensive Database (CLCD)",
     "stanza": "OCLC/CLCD.txt",
-    "oclcStanzaId": "CLCD"
+    "oclcStanzaId": "CLCD",
+    "oclcIncludeFile": "databases/clcd.txt"
   },
   "China_Studies": {
     "name": "China_Studies",
@@ -1226,7 +1230,8 @@
   "CollegeSource": {
     "name": "CollegeSource",
     "stanza": "OCLC/CollegeSource.txt",
-    "oclcStanzaId": "CollegeSource"
+    "oclcStanzaId": "CollegeSource",
+    "oclcIncludeFile": "databases/collegesource.txt"
   },
   "Columbia_Earthscape": {
     "name": "Columbia Earthscape",
@@ -1283,7 +1288,8 @@
   "CountryWatch": {
     "name": "CountryWatch",
     "stanza": "OCLC/CountryWatch.txt",
-    "oclcStanzaId": "CountryWatch"
+    "oclcStanzaId": "CountryWatch",
+    "oclcIncludeFile": "databases/countrywatch.txt"
   },
   "Creativity_Human_Development_International_eJournal": {
     "name": "Creativity & Human Development International eJournal",
@@ -1305,7 +1311,8 @@
   "CultureGrams": {
     "name": "CultureGrams",
     "stanza": "OCLC/CultureGrams.txt",
-    "oclcStanzaId": "CultureGrams"
+    "oclcStanzaId": "CultureGrams",
+    "oclcIncludeFile": "databases/culturegrams.txt"
   },
   "Current_History": {
     "name": "Current History",
@@ -1575,7 +1582,8 @@
   "EBSCO_A-to-Z": {
     "name": "EBSCO A-to-Z",
     "stanza": "OCLC/EBSCO_A-to-Z.txt",
-    "oclcStanzaId": "EBSCO_A-to-Z"
+    "oclcStanzaId": "EBSCO_A-to-Z",
+    "oclcIncludeFile": "databases/ebsco_atoz.txt"
   },
   "EBSCO": {
     "name": "EBSCO Electronic Journals Service",
@@ -1614,7 +1622,8 @@
   "EMIS": {
     "name": "EMIS",
     "stanza": "OCLC/EMIS.txt",
-    "oclcStanzaId": "EMIS"
+    "oclcStanzaId": "EMIS",
+    "oclcIncludeFile": "databases/emis.txt"
   },
   "EMS_Publishing": {
     "name": "EMS Publishing",
@@ -1697,7 +1706,8 @@
   "Edina_Digimap": {
     "name": "Edina Digimap",
     "stanza": "OCLC/Edina_Digimap.txt",
-    "oclcStanzaId": "Edina_Digimap"
+    "oclcStanzaId": "Edina_Digimap",
+    "oclcIncludeFile": "databases/digimap.txt"
   },
   "Editorial_Grao": {
     "name": "Editorial Grao",
@@ -2000,7 +2010,8 @@
   "Geofacets": {
     "name": "Geofacets",
     "stanza": "OCLC/Geofacets.txt",
-    "oclcStanzaId": "Geofacets"
+    "oclcStanzaId": "Geofacets",
+    "oclcIncludeFile": "databases/geofacets.txt"
   },
   "Geological_Society_of_America": {
     "name": "Geological Society of America",
@@ -2052,7 +2063,8 @@
   "Grolier_Online": {
     "name": "Grolier Online",
     "stanza": "OCLC/Grolier_Online.txt",
-    "oclcStanzaId": "Grolier_Online"
+    "oclcStanzaId": "Grolier_Online",
+    "oclcIncludeFile": "databases/grolier.txt"
   },
   "Guilford_Publications": {
     "name": "Guilford Publications",
@@ -2209,7 +2221,8 @@
   "IG_Publishing_eBook": {
     "name": "IG Publishing eBook",
     "stanza": "OCLC/IG_Publishing_eBook.txt",
-    "oclcStanzaId": "IG_Publishing_eBook"
+    "oclcStanzaId": "IG_Publishing_eBook",
+    "oclcIncludeFile": "databases/igpub.txt"
   },
   "IGAKU-SHOIN_Library": {
     "name": "IGAKU-SHOIN Library",
@@ -2683,7 +2696,8 @@
   "Kluwer_Navigator": {
     "name": "Kluwer Navigator",
     "stanza": "OCLC/Kluwer_Navigator.txt",
-    "oclcStanzaId": "Kluwer_Navigator"
+    "oclcStanzaId": "Kluwer_Navigator",
+    "oclcIncludeFile": "databases/kluwernavigator.txt"
   },
   "Kluwer_Online": {
     "name": "Kluwer Online",
