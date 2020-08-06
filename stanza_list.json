@@ -1053,6 +1053,12 @@
     "oclcStanzaId": "Cairn",
     "oclcIncludeFile": "databases/cairn.txt"
   },
+  "Caixin_Global": {
+    "name": "Caixin Global",
+    "stanza": "OCLC/Caixin_Global.txt",
+    "oclcStanzaId": "Caixin_Global",
+    "oclcIncludeFile": "databases/caixin.txt"
+  },
   "Cambridge_Core": {
     "name": "Cambridge Core",
     "stanza": "OCLC/Cambridge_Core.txt",
