@@ -4679,21 +4679,11 @@
     "oclcStanzaId": "Thesaurus_Linguae_Graecae",
     "oclcIncludeFile": "databases/tlg.txt"
   },
-  "Thieme_Connect": {
-    "name": "Thieme Connect",
-    "stanza": "OCLC/Thieme_Connect.txt",
-    "oclcStanzaId": "Thieme_Connect",
+  "Thieme": {
+    "name": "Thieme",
+    "stanza": "OCLC/Thieme.txt",
+    "oclcStanzaId": "Thieme",
     "oclcIncludeFile": "databases/thiemeconnect.txt"
-  },
-  "Thieme_Ebooks": {
-    "name": "Thieme Ebooks",
-    "stanza": "OCLC/Thieme_Ebooks.txt",
-    "oclcStanzaId": "Thieme_Ebooks"
-  },
-  "Thieme_eNeurosurgery": {
-    "name": "Thieme eNeurosurgery",
-    "stanza": "OCLC/Thieme_eNeurosurgery.txt",
-    "oclcStanzaId": "Thieme_eNeurosurgery"
   },
   "Thinkmap_Visual_Thesaurus": {
     "name": "Thinkmap Visual Thesaurus",
