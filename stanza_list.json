@@ -1470,6 +1470,12 @@
     "oclcStanzaId": "Digitalia_Film_Library",
     "oclcIncludeFile": "databases/digitaliafilmlibrary.txt"
   },
+  "Digitalia_Francaise": {
+    "name": "Digitalia Francaise",
+    "stanza": "OCLC/Digitalia_Francaise.txt",
+    "oclcStanzaId": "Digitalia_Francaise",
+    "oclcIncludeFile": "databases/digitaliafrancaise.txt"
+  },
   "Digitalia_Hispanica": {
     "name": "Digitalia Hispánica",
     "stanza": "OCLC/Digitalia_Hispanica.txt",
