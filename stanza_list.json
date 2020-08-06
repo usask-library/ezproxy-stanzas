@@ -2112,6 +2112,12 @@
     "oclcStanzaId": "HighWire_Press",
     "oclcIncludeFile": "databases/highwirepress.txt"
   },
+  "Hispanic_American_Periodicals_HAPI": {
+    "name": "Hispanic American Periodicals (HAPI)",
+    "stanza": "OCLC/Hispanic_American_Periodicals_HAPI.txt",
+    "oclcStanzaId": "Hispanic_American_Periodicals_HAPI",
+    "oclcIncludeFile": "databases/hapi.txt"
+  },
   "History_Cooperative_Journals": {
     "name": "History Cooperative journals",
     "stanza": "OCLC/History_Cooperative_Journals.txt",
