@@ -2854,6 +2854,12 @@
     "oclcStanzaId": "London_Review_of_Books",
     "oclcIncludeFile": "databases/lrb.txt"
   },
+  "Love_the_Work": {
+    "name": "Love the Work",
+    "stanza": "OCLC/Love_the_Work.txt",
+    "oclcStanzaId": "Love_the_Work",
+    "oclcIncludeFile": "databases/lovethework.txt"
+  },
   "Lyell_Collection": {
     "name": "Lyell Collection",
     "stanza": "OCLC/Lyell_Collection.txt",
