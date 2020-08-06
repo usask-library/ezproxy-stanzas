@@ -1891,6 +1891,12 @@
     "oclcStanzaId": "Family_Law_Online",
     "oclcIncludeFile": "databases/familylaw.txt"
   },
+  "Fashion_Snoops": {
+    "name": "Fashion Snoops",
+    "stanza": "OCLC/Fashion_Snoops.txt",
+    "oclcStanzaId": "Fashion_Snoops",
+    "oclcIncludeFile": "databases/fashionsnoops.txt"
+  },
   "Federation_of_American_Societies_for_Experimental_Biology": {
     "name": "Federation of American Societies for Experimental Biology",
     "stanza": "OCLC/Federation_of_American_Societies_for_Experimental_Biology.txt",
