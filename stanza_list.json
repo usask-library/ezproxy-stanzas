@@ -3564,6 +3564,12 @@
     "oclcStanzaId": "Ovid",
     "oclcIncludeFile": "databases/ovid.txt"
   },
+  "OvidChinese": {
+    "name": "OvidChinese",
+    "stanza": "OCLC/OvidChinese.txt",
+    "oclcStanzaId": "OvidChinese",
+    "oclcIncludeFile": "databases/ovidchinese.txt"
+  },
   "Oxford_Art_Online": {
     "name": "Oxford Art Online",
     "stanza": "OCLC/Oxford_Art_Online.txt",
