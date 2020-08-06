@@ -2668,6 +2668,12 @@
     "stanza": "OCLC/Kluwer_Corporate_Counsel_Dispute_Resolution.txt",
     "oclcStanzaId": "kluwerccdr"
   },
+  "Kluwer_IP_Law": {
+    "name": "Kluwer IP Law",
+    "stanza": "OCLC/Kluwer_IP_Law.txt",
+    "oclcStanzaId": "Kluwer_IP_Law",
+    "oclcIncludeFile": "databases/kluweriplaw.txt"
+  },
   "Kluwer_Law": {
     "name": "Kluwer Law",
     "stanza": "OCLC/Kluwer_Law.txt",
