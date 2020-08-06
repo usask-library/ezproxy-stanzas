@@ -3570,6 +3570,12 @@
     "oclcStanzaId": "OvidChinese",
     "oclcIncludeFile": "databases/ovidchinese.txt"
   },
+  "OvidEspanol": {
+    "name": "OvidEspanol",
+    "stanza": "OCLC/OvidEspanol.txt",
+    "oclcStanzaId": "OvidEspanol",
+    "oclcIncludeFile": "databases/ovidespano.txt"
+  },
   "Oxford_Art_Online": {
     "name": "Oxford Art Online",
     "stanza": "OCLC/Oxford_Art_Online.txt",
