@@ -1528,6 +1528,12 @@
     "oclcStanzaId": "Duke_University_Press_Books_and_Journals",
     "oclcIncludeFile": "databases/dukepress.txt"
   },
+  "Duncker_Humblot_eLibrary": {
+    "name": "Duncker Humblot eLibrary",
+    "stanza": "OCLC/Duncker_Humblot_eLibrary.txt",
+    "oclcStanzaId": "Duncker_Humblot_eLibrary",
+    "oclcIncludeFile": "databases/dunckerhumblot.txt"
+  },
   "DynaMed": {
     "name": "DynaMed",
     "stanza": "OCLC/DynaMed.txt",
