@@ -68,7 +68,8 @@ HJ https://www.bloomsburypopularmusic.com
 HJ https://bloomsburypopularmusic.com
 DJ bloomsburypopularmusic.com
 
-Title Bloomsbury Professional Online (updated 20200423)
+Title Bloomsbury Professional Online (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL https://bloomsburyprofessionalonline.com
 HJ http://bloomsburyprofessionalonline.com
 HJ https://www.bloomsburyprofessionalonline.com
