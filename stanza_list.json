@@ -2727,6 +2727,12 @@
     "stanza": "OCLC/Kompass.txt",
     "oclcStanzaId": "Kompass"
   },
+  "Kotar_Library": {
+    "name": "Kotar_Library",
+    "stanza": "OCLC/Kotar_Library.txt",
+    "oclcStanzaId": "Kotar_Library",
+    "oclcIncludeFile": "databases/kotarlibrary.txt"
+  },
   "Annee_Philologique": {
     "name": "L'Annee Philologique",
     "stanza": "OCLC/Annee_Philologique.txt",
