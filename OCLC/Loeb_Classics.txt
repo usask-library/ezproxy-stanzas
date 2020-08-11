@@ -9,4 +9,4 @@ HJ www.hup.harvard.edu
 HJ www.loebclassics.com
 DJ hup.harvard.edu
 DJ loebclassics.com
-DJ www.loebclassics.co
+DJ www.loebclassics.com
