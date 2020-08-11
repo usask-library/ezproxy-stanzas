@@ -1438,9 +1438,10 @@
     "oclcIncludeFile": "databases/dialnet.txt"
   },
   "Dictionary_of_American_Regional_English": {
-    "name": "Dictionary of American Regional English",
+    "name": "Dictionary of American Regional English (DARE)",
     "stanza": "OCLC/Dictionary_of_American_Regional_English.txt",
-    "oclcStanzaId": "Dictionary_of_American_Regional_English"
+    "oclcStanzaId": "Dictionary_of_American_Regional_English",
+    "oclcIncludeFile": "databases/daredictionary.txt"
   },
   "DigiZeitschriften": {
     "name": "DigiZeitschriften",
