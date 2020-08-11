@@ -1,10 +1,12 @@
-Title De Gruyter (updated 20200623)
+Title De Gruyter (updated 20200807)
 URL https://www.degruyter.com
 HJ california.degruyter.com
+HJ db.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
 HJ historische-bibliographie.degruyter.com
 HJ https://california.degruyter.com
+HJ https://db.degruyter.com
 HJ https://degruyter.com
 HJ https://historische-bibliographie.degruyter.com
 HJ https://wbis.degruyter.com
