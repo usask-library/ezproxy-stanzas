@@ -1,4 +1,5 @@
-Title Manchester Hive (updated 20180725)
+Title Manchester Hive (updated 20200807)
+HTTPHeader -request -process X-Requested-With
 URL https://www.manchesterhive.com
 HJ www.manchesterhive.com
 DJ manchesterhive.com
