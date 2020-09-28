@@ -560,6 +560,12 @@
     "oclcStanzaId": "Architects_Journal",
     "oclcIncludeFile": "databases/arsaequi.txt"
   },
+  "Archivaria": {
+    "name": "Archivaria",
+    "stanza": "OCLC/Archivaria.txt",
+    "oclcStanzaId": "Archivaria",
+    "oclcIncludeFile": "databases/archivaria.txt"
+  },
   "ArsAequi": {
     "name": "ArsAequi",
     "stanza": "OCLC/ArsAequi.txt",
