@@ -180,10 +180,10 @@
     "oclcIncludeFile": "databases/academia.txt"
   },
   "Academic_Rights_Press": {
-    "name": "Academic Rights Press",
+    "name": "MusicID ARP (formerly Academic Rights Press)",
     "stanza": "OCLC/Academic_Rights_Press.txt",
     "oclcStanzaId": "Academic_Rights_Press",
-    "oclcIncludeFile": "databases/academicrightspress.txt"
+    "oclcIncludeFile": "databases/musicid.txt"
   },
   "APA_Style_CENTRAL": {
     "name": "Academic Writer (formerly APA Style CENTRAL)",
