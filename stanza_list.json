@@ -1938,6 +1938,12 @@
     "oclcStanzaId": "Fashion_Snoops",
     "oclcIncludeFile": "databases/fashionsnoops.txt"
   },
+  "Fastcase": {
+    "name": "Fastcase",
+    "stanza": "OCLC/Fastcase.txt",
+    "oclcStanzaId": "Fastcase",
+    "oclcIncludeFile": "databases/fastcase.txt"
+  },
   "Federation_of_American_Societies_for_Experimental_Biology": {
     "name": "Federation of American Societies for Experimental Biology",
     "stanza": "OCLC/Federation_of_American_Societies_for_Experimental_Biology.txt",
