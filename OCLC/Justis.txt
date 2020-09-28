@@ -1,4 +1,4 @@
-Title Justis (updated 20180201)
+Title Justis (updated 20200907)
 URL http://www.justis.com/
 HJ app.justis.com
 HJ https://app.justis.com
@@ -9,3 +9,4 @@ HJ library.justis.com
 HJ justis.com
 HJ www.justis.com
 DJ justis.com
+NeverProxy identity.vlex.com
