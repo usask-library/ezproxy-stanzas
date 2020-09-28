@@ -1745,6 +1745,12 @@
     "stanza": "OCLC/Education_Week.txt",
     "oclcStanzaId": "Education_Week"
   },
+  "Eight_Centuries": {
+    "name": "Eight Centuries",
+    "stanza": "OCLC/Eight_Centuries.txt",
+    "oclcStanzaId": "Eight_Centuries",
+    "oclcIncludeFile": "databases/paratext.txt"
+  },
   "Electrochemical_Society_Inc": {
     "name": "Electrochemical Society, Inc.",
     "stanza": "OCLC/Electrochemical_Society_Inc.txt",
