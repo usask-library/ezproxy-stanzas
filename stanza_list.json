@@ -5038,6 +5038,12 @@
     "oclcStanzaId": "Wiley_Online_Library",
     "oclcIncludeFile": "databases/wileyonlinelibrary.txt"
   },
+  "WisersOne": {
+    "name": "WisersOne",
+    "stanza": "OCLC/WisersOne.txt",
+    "oclcStanzaId": "WisersOne",
+    "oclcIncludeFile": "databases/wisersone.txt"
+  },
   "Wolters_Kluwer_Cheetah": {
     "name": "Wolters Kluwer Cheetah",
     "stanza": "OCLC/Wolters_Kluwer_Cheetah.txt",
