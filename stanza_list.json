@@ -2831,6 +2831,12 @@
     "stanza": "OCLC/LearningExpress_Library3.txt",
     "oclcStanzaId": "LearningExpress_Library3"
   },
+  "Lexbase": {
+    "name": "Lexbase",
+    "stanza": "OCLC/Lexbase.txt",
+    "oclcStanzaId": "Lexbase",
+    "oclcIncludeFile": "databases/lexbase.txt"
+  },
   "Lexis_Advance_Quicklaw": {
     "name": "Lexis Advance Quicklaw",
     "stanza": "OCLC/Lexis_Advance_Quicklaw.txt",
