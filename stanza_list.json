@@ -2019,7 +2019,15 @@
   "GIDEON": {
     "name": "GIDEON (Global Infectious Diseases and Epidemiology Online Network)",
     "stanza": "OCLC/GIDEON.txt",
-    "oclcStanzaId": "gideon"
+    "oclcStanzaId": "gideon",
+    "oclcIncludeFile": "databases/gideononline.txt",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": "[INSTITUTION_ID]",
+        "placeholder": "The ID provided by the vendor"
+      }
+    ]
   },
   "GSE_Research": {
     "name": "GSE Research",
