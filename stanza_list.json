@@ -2074,10 +2074,10 @@
     "oclcStanzaId": "Global_Road_Warrior",
     "oclcIncludeFile": "databases/globalroadwarrior.txt"
   },
-  "GlobalData_Disruptor": {
-    "name": "GlobalData Disruptor",
-    "stanza": "OCLC/GlobalData_Disruptor.txt",
-    "oclcStanzaId": "GlobalData_Disruptor",
+  "GlobalData": {
+    "name": "GlobalData",
+    "stanza": "OCLC/GlobalData.txt",
+    "oclcStanzaId": "GlobalData",
     "oclcIncludeFile": "databases/globaldatadisruptor.txt"
   },
   "Glossary_of_Geology": {
