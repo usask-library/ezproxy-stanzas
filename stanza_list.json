@@ -1524,6 +1524,12 @@
     "stanza": "OCLC/Directory_of_Music_Faculties.txt",
     "oclcStanzaId": "Directory_of_Music_Faculties"
   },
+  "DocumentAvet": {
+    "name": "DocumentAvet",
+    "stanza": "OCLC/DocumentAvet.txt",
+    "oclcStanzaId": "DocumentAvet",
+    "oclcIncludeFile": "databases/documentavet.txt"
+  },
   "Docuseek2": {
     "name": "Docuseek2",
     "stanza": "OCLC/Docuseek2.txt",
