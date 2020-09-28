@@ -2346,6 +2346,12 @@
     "oclcStanzaId": "ImageQuest",
     "oclcIncludeFile": "databases/imagequest.txt"
   },
+  "Incision": {
+    "name": "Incision",
+    "stanza": "OCLC/Incision.txt",
+    "oclcStanzaId": "Incision",
+    "oclcIncludeFile": "databases/incision.txt"
+  },
   "Inderscience_Online": {
     "name": "Inderscience Online",
     "stanza": "OCLC/Inderscience_Online.txt",
