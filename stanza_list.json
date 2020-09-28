@@ -3573,7 +3573,8 @@
   "Oncology_Nursing_Society": {
     "name": "Oncology Nursing Society",
     "stanza": "OCLC/Oncology_Nursing_Society.txt",
-    "oclcStanzaId": "Oncology_Nursing_Society"
+    "oclcStanzaId": "Oncology_Nursing_Society",
+    "oclcIncludeFile": "databases/omegasources.txt"
   },
   "OnePetro": {
     "name": "OnePetro (formerly Society of Petroleum Engineers)",
