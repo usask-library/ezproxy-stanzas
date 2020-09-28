@@ -82,7 +82,7 @@ URL http://www.churchillarchive.com/
 HJ churchillarchive.com
 DJ churchillarchive.com
 
-Title Drama Online Library (updated 20200709)
+Title Drama Online (updated 20200709)
 URL https://www.dramaonlinelibrary.com/
 HJ www.dramaonlinelibrary.com
 HJ dramaonlinelibrary.com
@@ -145,6 +145,14 @@ HJ bloomsburyfashionvideo.com
 HJ https://www.bloomsburyfashionvideo.com
 HJ https://bloomsburyfashionvideo.com
 DJ bloomsburyfashionvideo.com
+
+Title Bloomsbury International Encyclopedia of Surrealism (updated 20200811)
+URL https://www.bloomsburysurrealism.com/
+HJ www.bloomsburysurrealism.com
+HJ bloomsburysurrealism.com
+HJ https://www.bloomsburysurrealism.com
+HJ https://bloomsburysurrealism.com
+DJ bloomsburysurrealism.com
 
 Title Bloomsbury Medieval Studies (updated 20200423)
 URL https://www.bloomsburymedievalstudies.com
