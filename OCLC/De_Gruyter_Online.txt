@@ -1,6 +1,9 @@
-Title De Gruyter (updated 20200807)
+Title De Gruyter (updated 20200901)
+HTTPHeader -request -process X-Requested-With
 URL https://www.degruyter.com
 HJ california.degruyter.com
+H d26hddpfm66duo.cloudfront.net
+H d2n072ee0zk4pp.cloudfront.net
 HJ db.degruyter.com
 HJ degruyter.com
 HJ degruyter.de
