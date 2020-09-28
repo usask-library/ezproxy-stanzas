@@ -4419,7 +4419,8 @@
   "Sanford_Guide_Web_Edition": {
     "name": "Sanford Guide Web Edition",
     "stanza": "OCLC/Sanford_Guide_Web_Edition.txt",
-    "oclcStanzaId": "Sanford_Guide_Web_Edition"
+    "oclcStanzaId": "Sanford_Guide_Web_Edition",
+    "oclcIncludeFile": "databases/sanfordguide.txt"
   },
   "Schattauer_Publishers": {
     "name": "Schattauer Publishers",
