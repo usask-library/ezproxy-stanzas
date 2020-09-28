@@ -2228,9 +2228,10 @@
     "oclcIncludeFile": "databases/ibisworld.txt"
   },
   "ICE_Learning_Center": {
-    "name": "ICE Video Library",
-    "stanza": "contrib/ICE_Learning_Center.txt",
-    "source": "https://www.icelearningcenter.com/it-information/"
+    "name": "ICE Learning Center\n",
+    "stanza": "OCLC/ICE_Learning_Center.txt",
+    "oclcStanzaId": "ICE_Learning_Center",
+    "oclcIncludeFile": "databases/icelearningcenter.txt"
   },
   "ICE_Virtual_Library": {
     "name": "ICE Virtual Library",
