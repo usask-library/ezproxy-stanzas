@@ -3441,6 +3441,7 @@
     "name": "Nexis Uni",
     "stanza": "OCLC/Nexis_Uni.txt",
     "oclcStanzaId": "Nexis_Uni",
+    "oclcIncludeFile": "databases/nexisuni.txt",
     "note": "Important: Customers migrating from LexisNexis Academic to Nexis Uni must place the Nexis Uni stanza above any legacy LexisNexis stanzas in config.txt"
   },
   "Nikkei_Telecom": {
