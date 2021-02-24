@@ -79,6 +79,12 @@
     "oclcStanzaId": "ABC-CLIO",
     "oclcIncludeFile": "databases/abcclio.txt"
   },
+  "ABCMouse": {
+    "name": "ABCMouse",
+    "stanza": "OCLC/ABCMouse.txt",
+    "oclcStanzaId": "ABCMouse",
+    "oclcIncludeFile": "databases/abcmouse.txt"
+  },
   "ACM_Digital_Library": {
     "name": "ACM Digital Library",
     "stanza": "OCLC/ACM_Digital_Library.txt",
