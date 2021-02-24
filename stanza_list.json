@@ -1934,6 +1934,12 @@
     "oclcStanzaId": "European_Math_Info_Service",
     "oclcIncludeFile": "databases/emis.txt"
   },
+  "Europresse-Eureka": {
+    "name": "Europresse/Eureka",
+    "stanza": "OCLC/Europresse-Eureka.txt",
+    "oclcStanzaId": "Europresse-Eureka",
+    "oclcIncludeFile": "databases/europresse.txt"
+  },
   "Exact_Editions": {
     "name": "Exact Editions",
     "stanza": "OCLC/Exact_Editions.txt",
