@@ -715,7 +715,7 @@
   "BMJ_Journals": {
     "name": "BMJ Journals",
     "stanza": "OCLC/BMJ_Journals.txt",
-    "oclcStanzaId": "BMJ_Journals",
+    "oclcStanzaId": "Bmj_Journals",
     "oclcIncludeFile": "databases/bmjJournals.txt"
   },
   "BMJ_Learning": {
