@@ -1663,16 +1663,16 @@
     "stanza": "OCLC/EBSCO.txt",
     "oclcStanzaId": "EBSCO"
   },
+  "EBSCOhost": {
+    "name": "EBSCO Information Services",
+    "stanza": "OCLC/EBSCOhost.txt",
+    "oclcStanzaId": "EBSCO_Information_Services",
+    "oclcIncludeFile": "databases/ebscohost.txt"
+  },
   "EBSCO_LinkSource": {
     "name": "EBSCO LinkSource",
     "stanza": "OCLC/EBSCO_LinkSource.txt",
     "oclcStanzaId": "EBSCO_LinkSource"
-  },
-  "EBSCOhost": {
-    "name": "EBSCOhost",
-    "stanza": "OCLC/EBSCOhost.txt",
-    "oclcStanzaId": "EBSCOhost",
-    "oclcIncludeFile": "databases/ebscohost.txt"
   },
   "eHRAF_Archaeology": {
     "name": "EHRAF Archaeology (Human Relations Area Files at Yale)",
