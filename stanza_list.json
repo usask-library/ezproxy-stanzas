@@ -1269,6 +1269,12 @@
     "oclcStanzaId": "Cochrane_Library",
     "oclcIncludeFile": "databases/cochrane.txt"
   },
+  "Cold_Spring_Harbor_Laboratory_Press": {
+    "name": "Cold Spring Harbor Laboratory Press",
+    "stanza": "OCLC/Cold_Spring_Harbor_Laboratory_Press.txt",
+    "oclcStanzaId": "Cold_Spring_Harbor_Laboratory_Press",
+    "oclcIncludeFile": "databases/cshlpress.txt"
+  },
   "College_Publishing": {
     "name": "College Publishing",
     "stanza": "OCLC/College_Publishing.txt",
