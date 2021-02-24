@@ -507,6 +507,12 @@
     "oclcStanzaId": "American_Society_of_Plant_Biologists",
     "oclcIncludeFile": "databases/plantbiologists.txt"
   },
+  "American_Society_of_Tropical_Medicine_and_Hygiene": {
+    "name": "American Society of Tropical Medicine and Hygiene",
+    "stanza": "OCLC/American_Society_of_Tropical_Medicine_and_Hygiene.txt",
+    "oclcStanzaId": "American_Society_of_Tropical_Medicine_and_Hygiene",
+    "oclcIncludeFile": "databases/ajtmh.txt"
+  },
   "ARTFL": {
     "name": "ARTFL Project",
     "stanza": "contrib/ARTFL.txt",
