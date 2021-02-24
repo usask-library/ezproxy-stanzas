@@ -1144,6 +1144,12 @@
       }
     ]
   },
+  "Cap_Financials": {
+    "name": "Cap Financials",
+    "stanza": "OCLC/Cap_Financials.txt",
+    "oclcStanzaId": "Cap_Financials",
+    "oclcIncludeFile": "databases/cap_financials.txt"
+  },
   "Career_Cruising": {
     "name": "Career Cruising",
     "stanza": "OCLC/Career_Cruising.txt",
