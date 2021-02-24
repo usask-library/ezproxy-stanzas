@@ -1015,6 +1015,12 @@
     "oclcStanzaId": "CABI_Resources",
     "oclcIncludeFile": "databases/cabiresources.txt"
   },
+  "CCH_Accounting_Research_Manager": {
+    "name": "CCH Accounting Research Manager",
+    "stanza": "OCLC/CCH_Accounting_Research_Manager.txt",
+    "oclcStanzaId": "CCH_Accounting_Research_Manager",
+    "oclcIncludeFile": "databases/cch_accountingresearchmanager.txt"
+  },
   "CCH_AnswerConnect": {
     "name": "CCH AnswerConnect",
     "stanza": "OCLC/CCH_AnswerConnect.txt",
