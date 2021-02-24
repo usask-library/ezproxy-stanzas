@@ -1799,6 +1799,12 @@
     "oclcStanzaId": "Eight_Centuries",
     "oclcIncludeFile": "databases/paratext.txt"
   },
+  "El_Croquis_Digital_Library": {
+    "name": "El Croquis Digital Library",
+    "stanza": "OCLC/El_Croquis_Digital_Library.txt",
+    "oclcStanzaId": "El_Croquis_Digital_Library",
+    "oclcIncludeFile": "databases/el_croquis_digital_library.txt"
+  },
   "Electrochemical_Society_Inc": {
     "name": "Electrochemical Society, Inc.",
     "stanza": "OCLC/Electrochemical_Society_Inc.txt",
