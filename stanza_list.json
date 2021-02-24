@@ -1922,6 +1922,12 @@
     "oclcStanzaId": "EurekaSelect",
     "oclcIncludeFile": "databases/eurekaselect.txt"
   },
+  "Europa_World_Plus": {
+    "name": "Europa World Plus",
+    "stanza": "OCLC/Europa_World_Plus.txt",
+    "oclcStanzaId": "Europa_World_Plus",
+    "oclcIncludeFile": "databases/europaworld.txt"
+  },
   "European_Math_Info_Service": {
     "name": "European Mathematical Information Service",
     "stanza": "OCLC/European_Math_Info_Service.txt",
