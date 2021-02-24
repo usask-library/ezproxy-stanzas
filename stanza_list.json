@@ -1356,6 +1356,12 @@
     "oclcStanzaId": "Credo_Reference",
     "oclcIncludeFile": "databases/credoref.txt"
   },
+  "Criterion_on_Demand": {
+    "name": "Criterion on Demand",
+    "stanza": "OCLC/Criterion_on_Demand.txt",
+    "oclcStanzaId": "Criterion_on_Demand",
+    "oclcIncludeFile": "databases/criterionondemand.txt"
+  },
   "Crossref": {
     "name": "Crossref",
     "stanza": "OCLC/Crossref.txt",
