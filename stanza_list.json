@@ -1085,6 +1085,12 @@
     "oclcStanzaId": "Cabells_Directories",
     "oclcIncludeFile": "databases/cabells.txt"
   },
+  "Cabinet_Magazine": {
+    "name": "Cabinet Magazine",
+    "stanza": "OCLC/Cabinet_Magazine.txt",
+    "oclcStanzaId": "Cabinet_Magazine",
+    "oclcIncludeFile": "databases/cabinetmagazine.txt"
+  },
   "Cairn": {
     "name": "Cairn",
     "stanza": "OCLC/Cairn.txt",
