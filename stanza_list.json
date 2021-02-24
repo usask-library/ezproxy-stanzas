@@ -584,6 +584,12 @@
     "oclcStanzaId": "ArsAequi",
     "oclcIncludeFile": "databases/arsaequi.txt"
   },
+  "Artfilms-Digital": {
+    "name": "Artfilms-Digital",
+    "stanza": "OCLC/Artfilms-Digital.txt",
+    "oclcStanzaId": "Artfilms-Digital",
+    "oclcIncludeFile": "databases/artfilmsdigital.txt"
+  },
   "Artifex_Press": {
     "name": "Artifex Press",
     "stanza": "OCLC/Artifex_Press.txt",
