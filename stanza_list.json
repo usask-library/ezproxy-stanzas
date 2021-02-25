@@ -4531,6 +4531,12 @@
     "stanza": "OCLC/SVAR.txt",
     "oclcStanzaId": "SVAR"
   },
+  "Sabinet_African_Journals": {
+    "name": "Sabinet African Journals",
+    "stanza": "OCLC/Sabinet_African_Journals.txt",
+    "oclcStanzaId": "Sabinet_African_Journals",
+    "oclcIncludeFile": "databases/sabinetepubs.txt"
+  },
   "Sabinet_Reference": {
     "name": "Sabinet Reference",
     "stanza": "OCLC/Sabinet_Reference.txt",
