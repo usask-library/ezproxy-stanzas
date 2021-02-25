@@ -1,61 +1,71 @@
-Title Thieme (updated 20200728)
-HTTPHeader -request -process X-CSRF-Token
-URL https://www.thieme-connect.com/
-HJ https://ebooks.thieme.com
-HJ https://eneurosurgery.thieme.com
-HJ https://ecomsci.thieme.com
-HJ https://science-of-synthesis.thieme.com
-HJ https://sos.thieme.com
-HJ https://thieme-connect.com
-HJ https://thieme-connect.de
-HJ https://thieme.com
-HJ https://thieme.co.uk
-HJ https://thieme.de
-HJ https://www.thieme-connect.com
+Title Thieme E-Journals (updated 20210111)
+URL https://www.thieme-connect.com/products/all/home.html
+HJ http://www.thieme-connect.com
 HJ https://www.thieme-connect.de
-HJ https://www.thieme.com
-HJ https://www.thieme.co.uk
-HJ https://www.thieme.de
-HJ https://radcases.thieme.com
-HJ https://eradiology.thieme.com
-HJ https://medone-neurosurgery.thieme.com
-HJ https://cne.thieme.de
-HJ https://eref.thieme.de
-HJ https://roempp.thieme.de
-HJ https://medone-education.thieme.com
-HJ https://medone-comsci.thieme.com
-HJ https://medone-otolaryngology.thieme.com
-HJ https://medone-spine.thieme.com
-HJ cne.thieme.de
-HJ eref.thieme.de
-HJ roempp.thieme.dex
-HJ ebooks.thieme.com
-HJ eneurosurgery.thieme.com
-HJ eradiology.thieme.com
-HJ https://ecomsci.thieme.com
-HJ medone-comsci.thieme.com
-HJ medone-education.thieme.com
-HJ medone-neurosurgery.thieme.com
-HJ medone-otolaryngology.thieme.com
-HJ medone-spine.thieme.com
-HJ science-of-synthesis.thieme.com
-HJ sos.thieme.com
-HJ open.thieme.com
-HJ thieme-connect.com
-HJ thieme-connect.de
-HJ radcases.thieme.com
-HJ thieme.com
-HJ thieme.co.uk
-HJ thieme.de
-HJ www.thieme-connect.com
 HJ www.thieme-connect.de
-HJ www.thieme.com
-HJ www.thieme.co.uk
-HJ www.thieme.de
+HJ thieme-connect.com
+DJ thieme-connect.com
 HJ profile.thieme.de
 DJ profile.thieme.de
-DJ thieme-connect.com
-DJ thieme-connect.de
-DJ thieme.com
-DJ thieme.co.uk
+
+AnonymousURL -OPTIONS +http://cfs.thiemeteachingassistant.com/*
+Title Thieme Teaching Assistant (updated 20210215)
+URL https://www.thiemeteachingassistant.com
+D thiemeteachingassistant.com
+H thiemeteachingassistant.com
+DJ thiemeteachingassistant.com
+HJ thiemeteachingassistant.com
+NeverProxy cfs.thiemeteachingassistant.com
+AnonymousURL -*
+
+Title Pharmaceutical Substances (updated 20210215)
+URL https://pharmaceutical-substances.thieme.com
+D pharmaceutical-substances.thieme.com
+H pharmaceutical-substances.thieme.com
+DJ pharmaceutical-substances.thieme.com
+
+Title RÖMPP Online (updated 20210215)
+URL https://roempp.thieme.de
+D roempp.thieme.de
+H roempp.thieme.de
+DJ roempp.thieme.de
+
+Title Science of Synthesis (updated 20201201)
+URL https://science-of-synthesis.thieme.com/
+HJ http://science-of-synthesis.thieme.com
+HJ science-of-synthesis.thieme.com
+DJ science-of-synthesis.thieme.com
+HJ profile.thieme.de
+DJ profile.thieme.de
+
+Title Thieme Bilddatenbank Anatomie (updated 20201201)
+URL https://www.thiemebilddatenbankanatomie.de/
+HJ http://www.thiemebilddatenbankanatomie.de
+HJ thiemebilddatenbankanatomie.de
+DJ thiemebilddatenbankanatomie.de
+HJ profile.thieme.de
+DJ profile.thieme.de
+
+Title CNE (updated 20201201)
+URL http://www.thieme.de/cne/
+HJ https://www.thieme.de
 DJ thieme.de
+HJ thieme.de
+HJ profile.thieme.de
+DJ profile.thieme.de
+
+Title Thieme examen online (updated 20201201)
+URL https://examenonline.thieme.de/
+HJ http://examenonline.thieme.de
+HJ examenonline.thieme.de
+DJ examenonline.thieme.de
+HJ profile.thieme.de
+DJ profile.thieme.de
+
+Title eRef (updated 20201201)
+URL https://eRef.thieme.de/
+HJ http://eRef.thieme.de
+HJ eRef.thieme.de
+DJ eRef.thieme.de
+HJ profile.thieme.de
+DJ profile.thieme.de
