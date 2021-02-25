@@ -4675,6 +4675,12 @@
     "oclcStanzaId": "Scite",
     "oclcIncludeFile": "databases/scite.txt"
   },
+  "Score_Follower": {
+    "name": "Score Follower",
+    "stanza": "OCLC/Score_Follower.txt",
+    "oclcStanzaId": "Score_Follower",
+    "oclcIncludeFile": "databases/score_follower.txt"
+  },
   "Screenonline": {
     "name": "Screenonline",
     "stanza": "OCLC/Screenonline.txt",
