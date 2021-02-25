@@ -4027,6 +4027,12 @@
     "stanza": "OCLC/Plunkett_Research_Online.txt",
     "oclcStanzaId": "Plunkett_Research_Online"
   },
+  "Policy_Commons": {
+    "name": "Policy Commons",
+    "stanza": "OCLC/Policy_Commons.txt",
+    "oclcStanzaId": "Policy_Commons",
+    "oclcIncludeFile": "databases/policycommons.txt"
+  },
   "Policy_Map": {
     "name": "Policy Map",
     "stanza": "OCLC/Policy_Map.txt",
