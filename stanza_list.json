@@ -4874,6 +4874,12 @@
     "oclcStanzaId": "TMC_Asser_Instituut",
     "oclcIncludeFile": "databases/nipr.txt"
   },
+  "TaxWin": {
+    "name": "TaxWin",
+    "stanza": "OCLC/TaxWin.txt",
+    "oclcStanzaId": "TaxWin",
+    "oclcIncludeFile": "databases/taxwin.txt"
+  },
   "Taxnet_Pro": {
     "name": "Taxnet Pro",
     "stanza": "OCLC/Taxnet_Pro.txt",
