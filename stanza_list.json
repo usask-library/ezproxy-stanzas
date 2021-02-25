@@ -4500,14 +4500,7 @@
     "name": "STAT!Ref",
     "stanza": "OCLC/STATRef.txt",
     "oclcStanzaId": "statref",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "<Institution_ID>",
-        "placeholder": "Your actual identifier",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/statref.txt"
   },
   "STRATFOR": {
     "name": "STRATFOR",
