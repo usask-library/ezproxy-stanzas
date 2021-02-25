@@ -4875,7 +4875,8 @@
   "Taylor_Francis_Online": {
     "name": "Taylor and Francis Online",
     "stanza": "OCLC/Taylor_Francis_Online.txt",
-    "oclcStanzaId": "Taylor_Francis_Online"
+    "oclcStanzaId": "Taylor_Francis_Online",
+    "oclcIncludeFile": "databases/tandfonline.txt"
   },
   "Teaching_Times": {
     "name": "Teaching Times",
