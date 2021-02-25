@@ -3069,6 +3069,12 @@
     "stanza": "OCLC/MIT_Press_Journals.txt",
     "oclcStanzaId": "MIT_Press_Journals"
   },
+  "MIT_Sloan_Management_Review": {
+    "name": "MIT Sloan Management Review",
+    "stanza": "OCLC/MIT_Sloan_Management_Review.txt",
+    "oclcStanzaId": "MIT_Sloan_Management_Review",
+    "oclcIncludeFile": "databases/sloanreview.txt"
+  },
   "Malaysiakini": {
     "name": "Malaysiakini",
     "stanza": "OCLC/Malaysiakini.txt",
