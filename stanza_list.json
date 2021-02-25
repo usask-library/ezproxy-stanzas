@@ -4740,6 +4740,12 @@
     "oclcStanzaId": "Social_Explorer",
     "oclcIncludeFile": "databases/socialexplorer.txt"
   },
+  "SocialWin": {
+    "name": "SocialWin",
+    "stanza": "OCLC/SocialWin.txt",
+    "oclcStanzaId": "SocialWin",
+    "oclcIncludeFile": "databases/socialwin.txt"
+  },
   "Sociological_Research_Online": {
     "name": "Sociological Research Online",
     "stanza": "OCLC/Sociological_Research_Online.txt",
