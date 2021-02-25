@@ -3789,6 +3789,12 @@
     "oclcStanzaId": "OvidFrancais",
     "oclcIncludeFile": "databases/ovidfrancais.txt"
   },
+  "Oxford_African_American_Studies_Center": {
+    "name": "Oxford African American Studies Center",
+    "stanza": "OCLC/Oxford_African_American_Studies_Center.txt",
+    "oclcStanzaId": "Oxford_African_American_Studies_Center",
+    "oclcIncludeFile": "databases/oxfordaasc.txt"
+  },
   "Oxford_Art_Online": {
     "name": "Oxford Art Online",
     "stanza": "OCLC/Oxford_Art_Online.txt",
