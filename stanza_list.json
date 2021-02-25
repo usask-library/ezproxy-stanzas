@@ -5047,6 +5047,12 @@
     "stanza": "OCLC/U_S_Documents_Masterfile.txt",
     "oclcStanzaId": "U_S_Documents_Masterfile"
   },
+  "UTB_Elibrary": {
+    "name": "UTB Elibrary",
+    "stanza": "OCLC/UTB_Elibrary.txt",
+    "oclcStanzaId": "UTB_Elibrary",
+    "oclcIncludeFile": "databases/utb_elibrary.txt"
+  },
   "Ulrichsweb": {
     "name": "Ulrichsweb",
     "stanza": "OCLC/Ulrichsweb.txt",
