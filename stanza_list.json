@@ -5187,6 +5187,12 @@
     "stanza": "OCLC/WWD.txt",
     "oclcStanzaId": "WWD"
   },
+  "Wageningen_Academic": {
+    "name": "Wageningen Academic",
+    "stanza": "OCLC/Wageningen_Academic.txt",
+    "oclcStanzaId": "Wageningen_Academic",
+    "oclcIncludeFile": "databases/wageningenacademic.txt"
+  },
   "Warc": {
     "name": "Warc",
     "stanza": "OCLC/Warc.txt",
