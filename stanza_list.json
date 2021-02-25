@@ -3360,6 +3360,12 @@
     "stanza": "OCLC/NBC_Learn.txt",
     "oclcStanzaId": "NBC_Learn"
   },
+  "NEJM_Catalyst": {
+    "name": "NEJM Catalyst",
+    "stanza": "OCLC/NEJM_Catalyst.txt",
+    "oclcStanzaId": "NEJM_Catalyst",
+    "oclcIncludeFile": "databases/nejm_catalyst.txt"
+  },
   "NEJM_Journal_Watch": {
     "name": "NEJM Journal Watch",
     "stanza": "OCLC/NEJM_Journal_Watch.txt",
