@@ -3379,7 +3379,7 @@
     "oclcIncludeFile": "databases/nfpa.txt"
   },
   "NRC_Research_Press": {
-    "name": "NRC Research Press",
+    "name": "Canadian Science Publishing (formerly NRC Research Press)",
     "stanza": "OCLC/NRC_Research_Press.txt",
     "oclcStanzaId": "NRC_Research_Press",
     "oclcIncludeFile": "databases/nrcresearchpress.txt"
