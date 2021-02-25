@@ -4651,6 +4651,12 @@
     "stanza": "OCLC/Scientific_American_Surgery.txt",
     "oclcStanzaId": "Scientific_American_Surgery"
   },
+  "Scientific.NET_Trans_Tech_Publications": {
+    "name": "Scientific.NET - Trans Tech Publications",
+    "stanza": "OCLC/Scientific.NET_Trans_Tech_Publications.txt",
+    "oclcStanzaId": "Scientific.NET_Trans_Tech_Publications",
+    "oclcIncludeFile": "databases/scientific.txt"
+  },
   "Sciquest": {
     "name": "Sciquest",
     "stanza": "OCLC/Sciquest.txt",
