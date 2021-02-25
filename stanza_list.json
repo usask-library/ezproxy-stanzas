@@ -4167,15 +4167,7 @@
     "name": "Psychotherapy.net",
     "stanza": "OCLC/Psychotherapy_net.txt",
     "oclcStanzaId": "Psychotherapy_net",
-    "oclcIncludeFile": "databases/psychotherapy.txt",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "[institution id]",
-        "placeholder": "Your identifier for Psychotherapy.net",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/psychotherapy.txt"
   },
   "PubMed": {
     "name": "PubMed",
