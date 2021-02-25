@@ -3673,6 +3673,12 @@
     "oclcStanzaId": "Odesi",
     "oclcIncludeFile": "databases/odesi.txt"
   },
+  "Official_Museum_Directory": {
+    "name": "Official Museum Directory",
+    "stanza": "OCLC/Official_Museum_Directory.txt",
+    "oclcStanzaId": "Official_Museum_Directory",
+    "oclcIncludeFile": "databases/officialmuseumdirectory.txt"
+  },
   "Oil_Gas_Energy_Law_Intelligence": {
     "name": "Oil Gas & Energy Law Intelligence",
     "stanza": "OCLC/Oil_Gas_Energy_Law_Intelligence.txt",
