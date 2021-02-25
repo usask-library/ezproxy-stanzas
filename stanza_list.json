@@ -2490,6 +2490,12 @@
     "oclcStanzaId": "Inovestor",
     "oclcIncludeFile": "databases/inovestor.txt"
   },
+  "Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences": {
+    "name": "Institute of Mathematics of the Polish Academy of Sciences",
+    "stanza": "OCLC/Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences.txt",
+    "oclcStanzaId": "Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences",
+    "oclcIncludeFile": "databases/impan.txt"
+  },
   "Institute_of_Physics": {
     "name": "Institute of Physics",
     "stanza": "OCLC/Institute_of_Physics.txt",
