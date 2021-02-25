@@ -5199,6 +5199,12 @@
     "oclcStanzaId": "Warc",
     "oclcIncludeFile": "databases/warc.txt"
   },
+  "The_Washington_Post": {
+    "name": "Washington Post, The",
+    "stanza": "OCLC/The_Washington_Post.txt",
+    "oclcStanzaId": "The_Washington_Post",
+    "oclcIncludeFile": "databases/thewashingtonpost.txt"
+  },
   "Web_of_Knowledge": {
     "name": "Web of Knowledge",
     "stanza": "OCLC/Web_of_Knowledge.txt",
