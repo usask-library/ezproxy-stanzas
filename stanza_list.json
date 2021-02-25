@@ -4255,14 +4255,7 @@
     "name": "RIA Checkpoint",
     "stanza": "OCLC/RIA_Checkpoint.txt",
     "oclcStanzaId": "RIA_Checkpoint",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "youraccountID",
-        "placeholder": "Your account ID",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/riacheckpoint.txt"
   },
   "RICS_isurv": {
     "name": "RICS isurv",
