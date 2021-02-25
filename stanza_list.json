@@ -3928,6 +3928,12 @@
     "oclcStanzaId": "Oxford_University_Press_Law",
     "oclcIncludeFile": "databases/ouplaw.txt"
   },
+  "Oxford_Worlds_Classics": {
+    "name": "Oxford Worlds Classics",
+    "stanza": "OCLC/Oxford_Worlds_Classics.txt",
+    "oclcStanzaId": "Oxford_Worlds_Classics",
+    "oclcIncludeFile": "databases/oxfordworldsclassics.txt"
+  },
   "Palgrave_Connect": {
     "name": "Palgrave Connect",
     "stanza": "OCLC/Palgrave_Connect.txt",
