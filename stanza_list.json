@@ -3330,7 +3330,8 @@
   "Modern_Language_Association": {
     "name": "Modern Language Association",
     "stanza": "OCLC/Modern_Language_Association.txt",
-    "oclcStanzaId": "Modern_Language_Association"
+    "oclcStanzaId": "Modern_Language_Association",
+    "oclcIncludeFile": "databases/mla.txt"
   },
   "Mohr_Siebeck": {
     "name": "Mohr Siebeck",
