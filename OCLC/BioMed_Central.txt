@@ -1,4 +1,4 @@
-Title BioMed Central (updated 20181121)
+Title BioMed Central (updated 20200731)
 URL https://www.biomedcentral.com
 HJ https://www.biomedcentral.com
 HJ www.biomedcentral.com
@@ -500,6 +500,8 @@ HJ longevityandhealthspan.biomedcentral.com
 HJ https://longevityandhealthspan.biomedcentral.com
 HJ malariajournal.biomedcentral.com
 HJ https://malariajournal.biomedcentral.com
+HJ mbr.biomedcentral.com
+HJ https://mbr.biomedcentral.com
 HJ mhnpjournal.biomedcentral.com
 HJ https://mhnpjournal.biomedcentral.com
 HJ microbialcellfactories.biomedcentral.com
