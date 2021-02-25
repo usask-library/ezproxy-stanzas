@@ -4,7 +4,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20200731)
+Title Wiley Online (updated 20210215)
 MimeFilter application/json .* javascript
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
@@ -43,12 +43,14 @@ HJ bpspubs.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
 HJ chemistry-europe.onlinelibrary.wiley.com
 HJ conbio.onlinelibrary.wiley.com
+HJ currentprotocols.onlinelibrary.wiley.com
 HJ doi.wiley.com
 HJ efsa.onlinelibrary.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
 HJ faseb.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
 HJ iaap-journals.onlinelibrary.wiley.com
+HJ ietresearch.onlinelibrary.wiley.com
 HJ ila.onlinelibrary.wiley.com
 HJ interscience.wiley.com
 HJ iubmb.onlinelibrary.wiley.com
@@ -63,7 +65,6 @@ HJ rai.onlinelibrary.wiley.com
 HJ rss.onlinelibrary.wiley.com
 HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
-HJ sigmapubs.onlinelibrary.wiley.com
 HJ spssi.onlinelibrary.wiley.com
 HJ stemcellsjournals.onlinelibrary.wiley.com
 HJ srcd.onlinelibrary.wiley.com
@@ -77,7 +78,22 @@ HJ headachejournal.onlinelibrary.wiley.com
 HJ asi.onlinelibrary.wiley.com
 HJ aps.onlinelibrary.wiley.com
 HJ ngwa.onlinelibrary.wiley.com
+HJ acamh.onlinelibrary.wiley.com
+HJ asistdl.onlinelibrary.wiley.com
+HJ associationofanaesthetists-publications.onlinelibrary.wiley.com
+HJ bera-journals.onlinelibrary.wiley.com
+HJ bpspsychub.onlinelibrary.wiley.com
+HJ bpspubs.onlinelibrary.wiley.com
+HJ bsppjournals.onlinelibrary.wiley.com
+HJ ejpr.onlinelibrary.wiley.com
+HJ nasenjournals.onlinelibrary.wiley.com
+HJ rise.onlinelibrary.wiley.com
+HJ rsaiconnect.onlinelibrary.wiley.com
+HJ sfamjournals.onlinelibrary.wiley.com
+HJ sttipubs.onlinelibrary.wiley.com
+HJ wchh.onlinelibrary.wiley.com
 HJ www.birpublications.org
+HJ www.clinmicronow.org
 HJ www.embopress.org
 HJ www.esajournals.org
 HJ www.interscience.wiley.com
@@ -89,6 +105,7 @@ HJ www.wileyopenaccess.com
 HJ www.wires.wiley.com
 HJ www3.interscience.wiley.com
 HJ zslpublications.onlinelibrary.wiley.com
+HJ https://www.clinmicronow.org
 HJ https://www.crossknowledge.com
 HJ https://awwa.onlinelibrary.wiley.com
 HJ https://aap.onlinelibrary.wiley.com
@@ -169,6 +186,25 @@ HJ https://iaap-journals.onlinelibrary.wiley.com
 HJ https://srcd.onlinelibrary.wiley.com
 HJ https://tes.onlinelibrary.wiley.com
 HJ https://theoncologist.onlinelibrary.wiley.com
+HJ https://acamh.onlinelibrary.wiley.com
+HJ https://asistdl.onlinelibrary.wiley.com
+HJ https://associationofanaesthetists-publications.onlinelibrary.wiley.com
+HJ https://bera-journals.onlinelibrary.wiley.com
+HJ https://bpspsychub.onlinelibrary.wiley.com
+HJ https://bpspubs.onlinelibrary.wiley.com
+HJ https://bsppjournals.onlinelibrary.wiley.com
+HJ https://chemistry-europe.onlinelibrary.wiley.com
+HJ https://ejpr.onlinelibrary.wiley.com
+HJ https://ietresearch.onlinelibrary.wiley.com
+HJ https://iaap-journals.onlinelibrary.wiley.com
+HJ https://ifst.onlinelibrary.wiley.com
+HJ https://nasenjournals.onlinelibrary.wiley.com
+HJ https://rise.onlinelibrary.wiley.com
+HJ https://rsaiconnect.onlinelibrary.wiley.com
+HJ https://sfamjournals.onlinelibrary.wiley.com
+HJ https://sttipubs.onlinelibrary.wiley.com
+HJ https://wchh.onlinelibrary.wiley.com
+HJ https://wildlife.onlinelibrary.wiley.com
 DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
