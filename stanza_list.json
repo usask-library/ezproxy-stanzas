@@ -4669,6 +4669,12 @@
     "oclcStanzaId": "Scitation",
     "oclcIncludeFile": "databases/scitation.txt"
   },
+  "Scite": {
+    "name": "Scite",
+    "stanza": "OCLC/Scite.txt",
+    "oclcStanzaId": "Scite",
+    "oclcIncludeFile": "databases/scite.txt"
+  },
   "Screenonline": {
     "name": "Screenonline",
     "stanza": "OCLC/Screenonline.txt",
