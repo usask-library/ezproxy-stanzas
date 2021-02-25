@@ -5118,6 +5118,12 @@
     "oclcStanzaId": "University_of_Toronto_Press_Journals",
     "oclcIncludeFile": "databases/utorontopress.txt"
   },
+  "University_of_Virginia_Press_Rotunda": {
+    "name": "University of Virginia Press - Rotunda",
+    "stanza": "OCLC/University_of_Virginia_Press_Rotunda.txt",
+    "oclcStanzaId": "University_of_Virginia_Press_Rotunda",
+    "oclcIncludeFile": "databases/rotunda.txt"
+  },
   "University_of_Wisconsin_Press": {
     "name": "University of Wisconsin Press",
     "stanza": "OCLC/University_of_Wisconsin_Press.txt",
