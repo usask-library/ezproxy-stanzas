@@ -3198,6 +3198,12 @@
     "oclcStanzaId": "Medical_Journals",
     "oclcIncludeFile": "databases/medicaljournals.txt"
   },
+  "Medical_Online": {
+    "name": "MMedical Online",
+    "stanza": "OCLC/Medical_Online.txt",
+    "oclcStanzaId": "Medical_Online",
+    "oclcIncludeFile": "databases/medicalonline.txt"
+  },
   "Medcom_Trainex": {
     "name": "Medcom Trainex",
     "stanza": "OCLC/Medcom_Trainex.txt",
