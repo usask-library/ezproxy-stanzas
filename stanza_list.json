@@ -3710,7 +3710,7 @@
     "oclcIncludeFile": "databases/onesourceglobal.txt"
   },
   "Online_Music_Anthology": {
-    "name": "Online Music Anthology",
+    "name": "A-R Music Anthology (formerly Online Music Anthology)",
     "stanza": "OCLC/Online_Music_Anthology.txt",
     "oclcStanzaId": "Online_Music_Anthology",
     "oclcIncludeFile": "databases/onlinemusicanthology.txt"
