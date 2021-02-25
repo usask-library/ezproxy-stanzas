@@ -3685,6 +3685,12 @@
     "oclcStanzaId": "Oil_Gas_Energy_Law_Intelligence",
     "oclcIncludeFile": "databases/ogel.txt"
   },
+  "Old_City_Publishing": {
+    "name": "Old City Publishing",
+    "stanza": "OCLC/Old_City_Publishing.txt",
+    "oclcStanzaId": "Old_City_Publishing",
+    "oclcIncludeFile": "databases/oldcitypublishing.txt"
+  },
   "Omega_Sources": {
     "name": "Omega Sources",
     "stanza": "OCLC/Omega_Sources.txt",
