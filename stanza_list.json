@@ -2872,7 +2872,8 @@
   "LLMC_Digital": {
     "name": "LLMC Digital",
     "stanza": "OCLC/LLMC_Digital.txt",
-    "oclcStanzaId": "LLMC_Digital"
+    "oclcStanzaId": "LLMC_Digital",
+    "oclcIncludeFile": "databases/llmcdigital.txt"
   },
   "LWW_Health_Library": {
     "name": "LWW Health Library",
