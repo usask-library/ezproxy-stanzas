@@ -1,5 +1,18 @@
-Title Sage Journals (updated 20200302)
+# This file is sage.txt as of 2017-06-07.
+#
+# If you download this file directly into the directory where
+# EZproxy is installed, you can reference it from config.txt/ezproxy.cfg
+# by adding the line:
+#
+#      IncludeFile sage.txt
+#
+# This method allows you to replace the file at a later date
+# without the need to integrate updates directly into config.txt/ezproxy.cfg
+#
+Title Sage Journals (OCLC IncludeFile updated 20201207)
 HTTPHeader -request -process X-Requested-With
+HTTPHeader -request -process __RequestVerificationToken
+HTTPHeader -request -process X-XSRF-Token
 URL https://journals.sagepub.com
 HJ advance.sagepub.com/
 HJ au.sagepub.com
@@ -45,6 +58,7 @@ DJ nybooks.com
 DJ physiology.org
 DJ sagepub.co.uk
 DJ sagepub.com
+NeverProxy widgets.sagepub.com
 Find url = "http://
 Replace url = "http://^A
 Find url = "https://
@@ -52,8 +66,10 @@ Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
 
-Title Sage Publications
+Title Sage Publications (OCLC IncludeFile updated 20201207)
 HTTPHeader -request -process X-Requested-With
+HTTPHeader -request -process __RequestVerificationToken
+HTTPHeader -request -process X-XSRF-Token
 URL http://online.sagepub.com
 DJ sagepub.com
 DJ widgets.twimg.com
