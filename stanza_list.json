@@ -5064,6 +5064,12 @@
     "oclcStanzaId": "Understanding_Hate_in_America",
     "oclcIncludeFile": "databases/hateinamerica.txt"
   },
+  "Unebook": {
+    "name": "Unebook",
+    "stanza": "OCLC/Unebook.txt",
+    "oclcStanzaId": "Unebook",
+    "oclcIncludeFile": "databases/unebook.txt"
+  },
   "University_Press_Scholarship_Online": {
     "name": "University Press Scholarship Online",
     "stanza": "OCLC/University_Press_Scholarship_Online.txt",
