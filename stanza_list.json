@@ -5172,7 +5172,7 @@
     "oclcIncludeFile": "databases/thewashingtonpost.txt"
   },
   "Web_of_Knowledge": {
-    "name": "Web of Knowledge",
+    "name": "Web of Science (formerly Web of Knowledge)",
     "stanza": "OCLC/Web_of_Knowledge.txt",
     "oclcStanzaId": "Web_of_Knowledge",
     "oclcIncludeFile": "databases/webofknowledge.txt"
