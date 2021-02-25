@@ -3308,6 +3308,12 @@
     "oclcStanzaId": "Military_Periscope",
     "oclcIncludeFile": "databases/militaryperiscope.txt"
   },
+  "Mindscape_Commons": {
+    "name": "Mindscape Commons",
+    "stanza": "OCLC/Mindscape_Commons.txt",
+    "oclcStanzaId": "Mindscape_Commons",
+    "oclcIncludeFile": "databases/mindscape_commons.txt"
+  },
   "Mintel": {
     "name": "Mintel",
     "stanza": "OCLC/Mintel.txt",
