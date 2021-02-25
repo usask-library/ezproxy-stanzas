@@ -5207,7 +5207,8 @@
   "Westlaw_China": {
     "name": "Westlaw China",
     "stanza": "OCLC/Westlaw_China.txt",
-    "oclcStanzaId": "Westlaw_China"
+    "oclcStanzaId": "Westlaw_China",
+    "oclcIncludeFile": "databases/westlawchina.txt"
   },
   "WestlawNext": {
     "name": "WestlawNext",
