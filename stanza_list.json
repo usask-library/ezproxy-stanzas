@@ -2930,6 +2930,12 @@
     "oclcStanzaId": "Lexbase",
     "oclcIncludeFile": "databases/lexbase.txt"
   },
+  "LexiQamus": {
+    "name": "LexiQamus",
+    "stanza": "OCLC/LexiQamus.txt",
+    "oclcStanzaId": "LexiQamus",
+    "oclcIncludeFile": "databases/lexiqamus.txt"
+  },
   "Lexis_Advance_Quicklaw": {
     "name": "Lexis Advance Quicklaw",
     "stanza": "OCLC/Lexis_Advance_Quicklaw.txt",
