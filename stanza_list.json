@@ -1247,6 +1247,12 @@
     "oclcStanzaId": "Canadian_Journal_of_Counselling",
     "oclcIncludeFile": "databases/cjc.txt"
   },
+  "Canadian_Journal_of_Dental_Hygiene": {
+    "name": "Canadian Journal of Dental Hygiene",
+    "stanza": "OCLC/Canadian_Journal_of_Dental_Hygiene.txt",
+    "oclcStanzaId": "Canadian_Journal_of_Dental_Hygiene",
+    "oclcIncludeFile": "databases/cdha.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
