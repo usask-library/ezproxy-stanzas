@@ -1205,6 +1205,12 @@
     "oclcStanzaId": "Canada_Law_Book",
     "oclcIncludeFile": "databases/canadalawbook.txt"
   },
+  "Canadian_Architect": {
+    "name": "Canadian Architect, The",
+    "stanza": "OCLC/Canadian_Architect.txt",
+    "oclcStanzaId": "The_Canadian_Architect",
+    "oclcIncludeFile": "databases/canadianarchitect.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
