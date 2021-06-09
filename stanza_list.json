@@ -1788,6 +1788,12 @@
     "oclcStanzaId": "Discover_Magazine",
     "oclcIncludeFile": "databases/discovermagazine.txt"
   },
+  "Diverse_Issues_in_Higher_Education": {
+    "name": "Diverse Issues in Higher Education",
+    "stanza": "OCLC/Diverse_Issues_in_Higher_Education.txt",
+    "oclcStanzaId": "Diverse_Issues_in_Higher_Education",
+    "oclcIncludeFile": "databases/diverseeducation.txt"
+  },
   "DocumentAvet": {
     "name": "DocumentAvet",
     "stanza": "OCLC/DocumentAvet.txt",
