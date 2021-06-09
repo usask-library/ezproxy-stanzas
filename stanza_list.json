@@ -85,6 +85,12 @@
     "oclcStanzaId": "ABCMouse",
     "oclcIncludeFile": "databases/abcmouse.txt"
   },
+  "ACF_Streaming_Service": {
+    "name": "ACF Streaming Service",
+    "stanza": "OCLC/ACF_Streaming_Service.txt",
+    "oclcStanzaId": "ACF_Streaming_Service",
+    "oclcIncludeFile": "databases/acf-film.txt"
+  },
   "ACM_Digital_Library": {
     "name": "ACM Digital Library",
     "stanza": "OCLC/ACM_Digital_Library.txt",
