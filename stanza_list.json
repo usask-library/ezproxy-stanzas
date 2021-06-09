@@ -1241,6 +1241,12 @@
     "oclcStanzaId": "Canadian_Journal_for_the_Study_of_Adult_Education",
     "oclcIncludeFile": "databases/msvu.txt"
   },
+  "Canadian_Journal_of_Counselling": {
+    "name": "Canadian Journal of Counselling",
+    "stanza": "OCLC/Canadian_Journal_of_Counselling.txt",
+    "oclcStanzaId": "Canadian_Journal_of_Counselling",
+    "oclcIncludeFile": "databases/cjc.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
