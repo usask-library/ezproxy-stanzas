@@ -1223,6 +1223,12 @@
     "oclcStanzaId": "Canadian_Association_of_Social_Workers",
     "oclcIncludeFile": "databases/casw-acts.txt"
   },
+  "Canadian_Electronic_Library": {
+    "name": "Canadian Electronic Library",
+    "stanza": "OCLC/Canadian_Electronic_Library.txt",
+    "oclcStanzaId": "Canadian_Electronic_Library",
+    "oclcIncludeFile": "databases/canadianelectroniclibrary.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
