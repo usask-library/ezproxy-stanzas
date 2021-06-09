@@ -1312,6 +1312,12 @@
     "oclcStanzaId": "Cap_Financials",
     "oclcIncludeFile": "databases/cap_financials.txt"
   },
+  "CardLite": {
+    "name": "CardLite",
+    "stanza": "OCLC/CardLite.txt",
+    "oclcStanzaId": "CardLite",
+    "oclcIncludeFile": "databases/cardonline.txt"
+  },
   "Career_Cruising": {
     "name": "Career Cruising",
     "stanza": "OCLC/Career_Cruising.txt",
