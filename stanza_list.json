@@ -1623,6 +1623,12 @@
     "stanza": "OCLC/Daniels_Orchestral.txt",
     "oclcStanzaId": "Daniels_Orchestral"
   },
+  "Dapresy": {
+    "name": "Dapresy",
+    "stanza": "OCLC/Dapresy.txt",
+    "oclcStanzaId": "Dapresy",
+    "oclcIncludeFile": "databases/dapresy.txt"
+  },
   "Data-Planet_Statistical_Datasets": {
     "name": "Data-Planet Statistical Datasets",
     "stanza": "OCLC/Data-Planet_Statistical_Datasets.txt",
