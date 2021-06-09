@@ -1217,6 +1217,12 @@
     "oclcStanzaId": "Canadian_Arctic_Resources_Committee",
     "oclcIncludeFile": "databases/carc.txt"
   },
+  "Canadian_Association_of_Social_Workers": {
+    "name": "Canadian Association of Social Workers",
+    "stanza": "OCLC/Canadian_Association_of_Social_Workers.txt",
+    "oclcStanzaId": "Canadian_Association_of_Social_Workers",
+    "oclcIncludeFile": "databases/casw-acts.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
