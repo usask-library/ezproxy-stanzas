@@ -262,6 +262,12 @@
     "oclcStanzaId": "Adam_Matthew_Digital",
     "oclcIncludeFile": "databases/amdigital.txt"
   },
+  "Adweek": {
+    "name": "Adweek",
+    "stanza": "OCLC/Adweek.txt",
+    "oclcStanzaId": "Adweek",
+    "oclcIncludeFile": "databases/adweek.txt"
+  },
   "Africa_Knowledge_Project": {
     "name": "Africa Knowledge Project",
     "stanza": "OCLC/Africa_Knowledge_Project.txt",
