@@ -2463,6 +2463,12 @@
     "oclcStanzaId": "Halesmeds",
     "oclcIncludeFile": "databases/halesmeds.txt"
   },
+  "Handbook_of_Chemistry_and_Physics": {
+    "name": "Handbook of Chemistry and Physics",
+    "stanza": "OCLC/Handbook_of_Chemistry_and_Physics.txt",
+    "oclcStanzaId": "Handbook_of_Chemistry_and_Physics",
+    "oclcIncludeFile": "databases/hbcpnetbase.txt"
+  },
   "HarpWeek": {
     "name": "HarpWeek",
     "stanza": "OCLC/HarpWeek.txt",
