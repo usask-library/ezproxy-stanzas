@@ -1455,6 +1455,12 @@
     "oclcStanzaId": "Cold_Spring_Harbor_Laboratory_Press",
     "oclcIncludeFile": "databases/cshlpress.txt"
   },
+  "Cold_War_Eastern_Europe_CWEE": {
+    "name": "Cold War Eastern Europe (CWEE)",
+    "stanza": "OCLC/Cold_War_Eastern_Europe_CWEE.txt",
+    "oclcStanzaId": "Cold_War_Eastern_Europe_CWEE",
+    "oclcIncludeFile": "databases/coldwareasterneurope.txt"
+  },
   "College_Publishing": {
     "name": "College Publishing",
     "stanza": "OCLC/College_Publishing.txt",
