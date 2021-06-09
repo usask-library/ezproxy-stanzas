@@ -2622,6 +2622,18 @@
     "oclcStanzaId": "IEEE_Xplore",
     "oclcIncludeFile": "databases/ieee.txt"
   },
+  "IET_Inspec_Analytics_in_EngineeringVillage": {
+    "name": "IET Inspec Analytics in EngineeringVillage",
+    "stanza": "OCLC/IET_Inspec_Analytics_in_EngineeringVillage.txt",
+    "oclcStanzaId": "IET_Inspec_Analytics_in_EngineeringVillage",
+    "oclcIncludeFile": "databases/iet_iaev.txt"
+  },
+  "IET_Inspec_Analytics_Standalone": {
+    "name": "IET Inspec Analytics Standalone",
+    "stanza": "OCLC/IET_Inspec_Analytics_Standalone.txt",
+    "oclcStanzaId": "IET_Inspec_Analytics_Standalone",
+    "oclcIncludeFile": "databases/iet_ias.txt"
+  },
   "IG_Publishing_eBook": {
     "name": "IG Publishing eBook",
     "stanza": "OCLC/IG_Publishing_eBook.txt",
