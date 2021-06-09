@@ -674,6 +674,12 @@
     "oclcStanzaId": "AspenLaw_eBooks",
     "oclcIncludeFile": "databases/aspenlaw.txt"
   },
+  "The_Atlantic_Monthly": {
+    "name": "Atlantic Monthly, The",
+    "stanza": "OCLC/The_Atlantic_Monthly.txt",
+    "oclcStanzaId": "The_Atlantic_Monthly",
+    "oclcIncludeFile": "databases/atlantic.txt"
+  },
   "AtoZ_Maps_Online": {
     "name": "AtoZ Maps Online",
     "stanza": "OCLC/AtoZ_Maps_Online.txt",
