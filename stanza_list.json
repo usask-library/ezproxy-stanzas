@@ -1075,6 +1075,12 @@
     "oclcStanzaId": "Burlington_Magazine_Publishing_Ltd",
     "oclcIncludeFile": "databases/burlington.txt"
   },
+  "Businessweek": {
+    "name": "Businessweek",
+    "stanza": "OCLC/Businessweek.txt",
+    "oclcStanzaId": "Businessweek",
+    "oclcIncludeFile": "databases/bloomberg.txt"
+  },
   "CAB_Direct": {
     "name": "CAB Direct",
     "stanza": "OCLC/cabdirect.txt",
