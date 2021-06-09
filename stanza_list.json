@@ -2380,6 +2380,12 @@
     "oclcStanzaId": "Geological_Society_of_America",
     "oclcIncludeFile": "databases/gsa.txt"
   },
+  "GIBLIB": {
+    "name": "GIBLIB",
+    "stanza": "OCLC/GIBLIB.txt",
+    "oclcStanzaId": "GIBLIB",
+    "oclcIncludeFile": "databases/giblib.txt"
+  },
   "Global_Business_Traveler": {
     "name": "Global Business Traveler",
     "stanza": "OCLC/Global_Business_Traveler.txt",
