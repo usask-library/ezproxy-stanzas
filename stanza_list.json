@@ -1259,6 +1259,12 @@
     "oclcStanzaId": "Canadian_Journal_of_Hospital_Pharmacy",
     "oclcIncludeFile": "databases/cjhp.txt"
   },
+  "Canadian_Journal_of_Nursing_Leadership": {
+    "name": "Canadian Journal of Nursing Leadership",
+    "stanza": "OCLC/Canadian_Journal_of_Nursing_Leadership.txt",
+    "oclcStanzaId": "Canadian_Journal_of_Nursing_Leadership",
+    "oclcIncludeFile": "databases/longwoods.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
