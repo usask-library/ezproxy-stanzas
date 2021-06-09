@@ -2308,6 +2308,12 @@
     "oclcStanzaId": "FP_Advisor",
     "oclcIncludeFile": "databases/financialpost.txt"
   },
+  "Free_Medical": {
+    "name": "Free Medical",
+    "stanza": "OCLC/Free_Medical.txt",
+    "oclcStanzaId": "Free_Medical",
+    "oclcIncludeFile": "databases/freemedicaljournals.txt"
+  },
   "FreedomFlix": {
     "name": "FreedomFlix",
     "stanza": "OCLC/FreedomFlix.txt",
