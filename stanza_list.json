@@ -2427,6 +2427,12 @@
     "stanza": "OCLC/Google_Scholar.txt",
     "oclcStanzaId": "Google_Scholar"
   },
+  "Grant_Connect": {
+    "name": "Grant Connect",
+    "stanza": "OCLC/Grant_Connect.txt",
+    "oclcStanzaId": "Grant_Connect",
+    "oclcIncludeFile": "databases/grantconnect.txt"
+  },
   "Grolier_Online": {
     "name": "Grolier Online",
     "stanza": "OCLC/Grolier_Online.txt",
