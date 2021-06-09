@@ -2439,6 +2439,12 @@
     "oclcStanzaId": "Grant_Connect_fr",
     "oclcIncludeFile": "databases/connexionsubvention.txt"
   },
+  "Greyhouse_Gold_and_Circ": {
+    "name": "Greyhouse (Gold and Circ)",
+    "stanza": "OCLC/Greyhouse_Gold_and_Circ.txt",
+    "oclcStanzaId": "Greyhouse_Gold_and_Circ",
+    "oclcIncludeFile": "databases/greyhouse.txt"
+  },
   "Grolier_Online": {
     "name": "Grolier Online",
     "stanza": "OCLC/Grolier_Online.txt",
