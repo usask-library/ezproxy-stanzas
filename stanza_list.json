@@ -1211,6 +1211,12 @@
     "oclcStanzaId": "The_Canadian_Architect",
     "oclcIncludeFile": "databases/canadianarchitect.txt"
   },
+  "Canadian_Arctic_Resources_Committee": {
+    "name": "Canadian Arctic Resources Committee",
+    "stanza": "OCLC/Canadian_Arctic_Resources_Committee.txt",
+    "oclcStanzaId": "Canadian_Arctic_Resources_Committee",
+    "oclcIncludeFile": "databases/carc.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
