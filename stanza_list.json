@@ -401,6 +401,12 @@
     "oclcStanzaId": "American_Dental_Assistant_Association",
     "oclcIncludeFile": "databases/adaausa.txt"
   },
+  "American_Dental_Hygienists_Association": {
+    "name": "American Dental Hygienists Association",
+    "stanza": "OCLC/American_Dental_Hygienists_Association.txt",
+    "oclcStanzaId": "American_Dental_Hygienists_Association",
+    "oclcIncludeFile": "databases/adha.txt"
+  },
   "American_Economic_Association": {
     "name": "American Economic Association",
     "stanza": "OCLC/American_Economic_Association.txt",
