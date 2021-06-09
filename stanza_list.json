@@ -560,6 +560,12 @@
     "oclcStanzaId": "American_Veterinary_Medical_Association",
     "oclcIncludeFile": "databases/avmajournals.txt"
   },
+  "American_Welding_Society_Digital_Library": {
+    "name": "American Welding Society Digital Library",
+    "stanza": "OCLC/American_Welding_Society_Digital_Library.txt",
+    "oclcStanzaId": "American_Welding_Society_Digital_Library",
+    "oclcIncludeFile": "databases/madcad.txt"
+  },
   "Anatomedia_Online": {
     "name": "Anatomedia Online",
     "stanza": "OCLC/Anatomedia_Online.txt",
