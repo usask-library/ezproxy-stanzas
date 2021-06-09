@@ -1235,6 +1235,12 @@
     "oclcStanzaId": "Canadian_Human_Rights_Reporter",
     "oclcIncludeFile": "databases/cdnhrreporter.txt"
   },
+  "Canadian_Journal_for_the_Study_of_Adult_Education": {
+    "name": "Canadian Journal for the Study of Adult Education",
+    "stanza": "OCLC/Canadian_Journal_for_the_Study_of_Adult_Education.txt",
+    "oclcStanzaId": "Canadian_Journal_for_the_Study_of_Adult_Education",
+    "oclcIncludeFile": "databases/msvu.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
