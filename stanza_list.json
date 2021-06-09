@@ -1253,6 +1253,12 @@
     "oclcStanzaId": "Canadian_Journal_of_Dental_Hygiene",
     "oclcIncludeFile": "databases/cdha.txt"
   },
+  "Canadian_Journal_of_Hospital_Pharmacy": {
+    "name": "Canadian Journal of Hospital Pharmacy",
+    "stanza": "OCLC/Canadian_Journal_of_Hospital_Pharmacy.txt",
+    "oclcStanzaId": "Canadian_Journal_of_Hospital_Pharmacy",
+    "oclcIncludeFile": "databases/cjhp.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
