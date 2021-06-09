@@ -2543,14 +2543,7 @@
     "name": "HistoryMakers African American Oral History Archive, The",
     "stanza": "OCLC/The_HistoryMakers_African_American_Oral_History_Archive.txt",
     "oclcStanzaId": "The_HistoryMakers_African_American_Oral_History_Archive",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "<vanity>",
-        "placeholder": "The subdomain that corresponds to your subscription",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/thehistorymakers.txt"
   },
   "Hogrefe_eContent": {
     "name": "Hogrefe eContent",
