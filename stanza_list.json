@@ -1998,6 +1998,12 @@
     "oclcStanzaId": "Economist_com",
     "oclcIncludeFile": "databases/economist.txt"
   },
+  "Ed.Flicks": {
+    "name": "Ed.Flicks",
+    "stanza": "OCLC/Ed.Flicks.txt",
+    "oclcStanzaId": "Ed.Flicks",
+    "oclcIncludeFile": "databases/edflicks.txt"
+  },
   "Edina_Digimap": {
     "name": "Edina Digimap",
     "stanza": "OCLC/Edina_Digimap.txt",
