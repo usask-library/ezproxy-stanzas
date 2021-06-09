@@ -2132,6 +2132,12 @@
     "oclcStanzaId": "Equinox_Publishing_Ltd",
     "oclcIncludeFile": "databases/equinox.txt"
   },
+  "eRCYCP": {
+    "name": "ERCYCP",
+    "stanza": "OCLC/eRCYCP.txt",
+    "oclcStanzaId": "eRCYCP",
+    "oclcIncludeFile": "databases/rcycp.txt"
+  },
   "Ethnologue": {
     "name": "Ethnologue",
     "stanza": "contrib/Ethnologue.txt"
