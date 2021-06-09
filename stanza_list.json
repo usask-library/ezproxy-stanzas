@@ -2302,6 +2302,12 @@
     "oclcStanzaId": "Fortunoff_Video_Archive",
     "oclcIncludeFile": "databases/fortunoff.txt"
   },
+  "FP_Advisor": {
+    "name": "FP Advisor",
+    "stanza": "OCLC/FP_Advisor.txt",
+    "oclcStanzaId": "FP_Advisor",
+    "oclcIncludeFile": "databases/financialpost.txt"
+  },
   "FreedomFlix": {
     "name": "FreedomFlix",
     "stanza": "OCLC/FreedomFlix.txt",
