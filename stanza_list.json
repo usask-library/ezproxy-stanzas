@@ -1677,6 +1677,12 @@
     "oclcStanzaId": "De_Gruyter_Online",
     "oclcIncludeFile": "databases/degruyter.txt"
   },
+  "De_Marque": {
+    "name": "De Marque",
+    "stanza": "OCLC/De_Marque.txt",
+    "oclcStanzaId": "De_Marque",
+    "oclcIncludeFile": "databases/demarque.txt"
+  },
   "Den_Hollander": {
     "name": "Den Hollander",
     "stanza": "OCLC/Den_Hollander.txt",
