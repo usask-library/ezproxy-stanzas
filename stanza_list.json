@@ -2127,6 +2127,12 @@
     "oclcStanzaId": "Engineering_Village",
     "oclcIncludeFile": "databases/engineering_village.txt"
   },
+  "Environmental_Science_and_Engineering": {
+    "name": "Environmental Science and Engineering",
+    "stanza": "OCLC/Environmental_Science_and_Engineering.txt",
+    "oclcStanzaId": "Environmental_Science_and_Engineering",
+    "oclcIncludeFile": "databases/esemag.txt"
+  },
   "EHD_Online": {
     "name": "English Historical Documents Online (EHD)",
     "stanza": "contrib/EHD_Online.txt",
