@@ -783,6 +783,12 @@
     "oclcStanzaId": "BREPOLiS",
     "oclcIncludeFile": "databases/brepolis.txt"
   },
+  "Babel_Scores": {
+    "name": "Babel Scores",
+    "stanza": "OCLC/Babel_Scores.txt",
+    "oclcStanzaId": "Babel_Scores",
+    "oclcIncludeFile": "databases/babelscores.txt"
+  },
   "Bankscope": {
     "name": "Bankscope",
     "stanza": "OCLC/Bankscope.txt",
