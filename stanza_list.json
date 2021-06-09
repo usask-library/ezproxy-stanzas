@@ -1111,6 +1111,12 @@
     "oclcStanzaId": "CCH_Intelliconnect",
     "oclcIncludeFile": "databases/intelliconnect.txt"
   },
+  "CCOHS": {
+    "name": "CCOHS",
+    "stanza": "OCLC/CCOHS.txt",
+    "oclcStanzaId": "CCOHS",
+    "oclcIncludeFile": "databases/ccohs.txt"
+  },
   "CHEMnetBASE": {
     "name": "CHEMnetBASE",
     "stanza": "OCLC/CHEMnetBASE.txt",
