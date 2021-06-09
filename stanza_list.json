@@ -1782,6 +1782,12 @@
     "stanza": "OCLC/Directory_of_Music_Faculties.txt",
     "oclcStanzaId": "Directory_of_Music_Faculties"
   },
+  "Discover_Magazine": {
+    "name": "Discover Magazine",
+    "stanza": "OCLC/Discover_Magazine.txt",
+    "oclcStanzaId": "Discover_Magazine",
+    "oclcIncludeFile": "databases/discovermagazine.txt"
+  },
   "DocumentAvet": {
     "name": "DocumentAvet",
     "stanza": "OCLC/DocumentAvet.txt",
