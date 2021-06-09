@@ -1057,6 +1057,12 @@
     "oclcStanzaId": "bcis",
     "oclcIncludeFile": "databases/bcis.txt"
   },
+  "BuildingGreen": {
+    "name": "BuildingGreen",
+    "stanza": "OCLC/BuildingGreen.txt",
+    "oclcStanzaId": "BuildingGreen",
+    "oclcIncludeFile": "databases/buildinggreen.txt"
+  },
   "BNA": {
     "name": "Bureau of National Affairs (BNA)",
     "stanza": "OCLC/BNA.txt",
