@@ -1387,6 +1387,12 @@
     "oclcStanzaId": "Chronicle_of_Higher_Education",
     "oclcIncludeFile": "databases/chronicle.txt"
   },
+  "Cine-Med": {
+    "name": "Cine-Med",
+    "stanza": "OCLC/Cine-Med.txt",
+    "oclcStanzaId": "Cine-Med",
+    "oclcIncludeFile": "databases/cine-med.txt"
+  },
   "Classroom_Video_Demand": {
     "name": "Classroom Video On Demand",
     "stanza": "OCLC/Classroom_Video_Demand.txt",
