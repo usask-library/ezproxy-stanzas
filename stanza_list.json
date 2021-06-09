@@ -1281,6 +1281,12 @@
     "oclcStanzaId": "Canadian_Medical_Association",
     "oclcIncludeFile": "databases/cma.txt"
   },
+  "Canadian_Nurse": {
+    "name": "Canadian Nurse",
+    "stanza": "OCLC/Canadian_Nurse.txt",
+    "oclcStanzaId": "Canadian_Nurse",
+    "oclcIncludeFile": "databases/canadian-nurse.txt"
+  },
   "Canadian_Pharmacists_Association": {
     "name": "Canadian Pharmacists Association",
     "stanza": "OCLC/Canadian_Pharmacists_Association.txt",
