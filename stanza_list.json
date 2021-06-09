@@ -741,6 +741,12 @@
     "oclcStanzaId": "Auto_Finance_Resource",
     "oclcIncludeFile": "databases/autofinanceresource.txt"
   },
+  "Autopsy_Online": {
+    "name": "Autopsy.Online",
+    "stanza": "OCLC/Autopsy_Online.txt",
+    "oclcStanzaId": "Autopsy_Online",
+    "oclcIncludeFile": "databases/autopsycenterofchicago.txt"
+  },
   "Aviation_Week_Intelligence_Network": {
     "name": "Aviation Week Intelligence Network",
     "stanza": "OCLC/Aviation_Week_Intelligence_Network.txt",
