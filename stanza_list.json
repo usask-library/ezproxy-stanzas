@@ -395,6 +395,12 @@
     "oclcStanzaId": "American_Concrete_Institute",
     "oclcIncludeFile": "databases/concrete.txt"
   },
+  "American_Dental_Assistant_Association": {
+    "name": "American Dental Assistant Association",
+    "stanza": "OCLC/American_Dental_Assistant_Association.txt",
+    "oclcStanzaId": "American_Dental_Assistant_Association",
+    "oclcIncludeFile": "databases/adaausa.txt"
+  },
   "American_Economic_Association": {
     "name": "American Economic Association",
     "stanza": "OCLC/American_Economic_Association.txt",
