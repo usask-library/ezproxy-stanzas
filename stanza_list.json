@@ -1199,6 +1199,12 @@
     "oclcStanzaId": "Cambridge_Core",
     "oclcIncludeFile": "databases/cambridgecore.txt"
   },
+  "Canada_Law_Book": {
+    "name": "Canada Law Book",
+    "stanza": "OCLC/Canada_Law_Book.txt",
+    "oclcStanzaId": "Canada_Law_Book",
+    "oclcIncludeFile": "databases/canadalawbook.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
