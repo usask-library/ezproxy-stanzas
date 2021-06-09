@@ -1513,6 +1513,12 @@
     "oclcStanzaId": "Computing_Reviews",
     "oclcIncludeFile": "databases/computingreviews.txt"
   },
+  "Conference_Board_of_Canada": {
+    "name": "Conference Board of Canada",
+    "stanza": "OCLC/Conference_Board_of_Canada.txt",
+    "oclcStanzaId": "Conference_Board_of_Canada",
+    "oclcIncludeFile": "databases/conferenceboard.txt"
+  },
   "Congressional_Digest": {
     "name": "Congressional Digest",
     "stanza": "OCLC/Congressional_Digest.txt",
