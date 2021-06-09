@@ -1229,6 +1229,12 @@
     "oclcStanzaId": "Canadian_Electronic_Library",
     "oclcIncludeFile": "databases/canadianelectroniclibrary.txt"
   },
+  "Canadian_Human_Rights_Reporter": {
+    "name": "Canadian Human Rights Reporter",
+    "stanza": "OCLC/Canadian_Human_Rights_Reporter.txt",
+    "oclcStanzaId": "Canadian_Human_Rights_Reporter",
+    "oclcIncludeFile": "databases/cdnhrreporter.txt"
+  },
   "Canadiana_Online": {
     "name": "Canadiana Online",
     "stanza": "contrib/Canadiana_Online.txt"
