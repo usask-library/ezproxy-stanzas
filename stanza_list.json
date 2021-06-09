@@ -1490,6 +1490,12 @@
     "oclcStanzaId": "ComicsPlus",
     "oclcIncludeFile": "databases/comicsplus.txt"
   },
+  "Common_Craft_Online_Videos": {
+    "name": "Common Craft Online Videos",
+    "stanza": "OCLC/Common_Craft_Online_Videos.txt",
+    "oclcStanzaId": "Common_Craft_Online_Videos",
+    "oclcIncludeFile": "databases/commoncraft.txt"
+  },
   "Communication_Institute_for_Online_Scholarship": {
     "name": "Communication Institute for Online Scholarship (CIOS)",
     "stanza": "OCLC/Communication_Institute_for_Online_Scholarship.txt",
