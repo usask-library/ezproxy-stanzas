@@ -1039,6 +1039,12 @@
     "oclcStanzaId": "bufvc",
     "oclcIncludeFile": "databases/bufvc.txt"
   },
+  "Broadcast_Dialogue": {
+    "name": "Broadcast Dialogue",
+    "stanza": "OCLC/Broadcast_Dialogue.txt",
+    "oclcStanzaId": "Broadcast_Dialogue",
+    "oclcIncludeFile": "databases/broadcastdialogue.txt"
+  },
   "BrowZine_Third_Iron": {
     "name": "BrowZine by Third Iron",
     "stanza": "OCLC/BrowZine_Third_Iron.txt",
