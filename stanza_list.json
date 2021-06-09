@@ -572,6 +572,12 @@
     "oclcStanzaId": "Anatomedia_Online",
     "oclcIncludeFile": "databases/anatomediaonline.txt"
   },
+  "Anatomy_TV": {
+    "name": "Anatomy.TV",
+    "stanza": "OCLC/Anatomy_TV.txt",
+    "oclcStanzaId": "Anatomy_TV",
+    "oclcIncludeFile": "databases/anatomytv.txt.txt"
+  },
   "Ancestry_Library": {
     "name": "Ancestry Library",
     "stanza": "OCLC/Ancestry_Library.txt",
