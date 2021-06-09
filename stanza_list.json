@@ -2558,6 +2558,12 @@
     "oclcStanzaId": "Hogrefe_eLibrary",
     "oclcIncludeFile": "databases/hogrefe_elibrary.txt"
   },
+  "HRdownloads": {
+    "name": "HRdownloads",
+    "stanza": "OCLC/HRdownloads.txt",
+    "oclcStanzaId": "HRdownloads",
+    "oclcIncludeFile": "databases/hrdownloads.txt"
+  },
   "Human_Kinetics": {
     "name": "Human Kinetics",
     "stanza": "OCLC/Human_Kinetics.txt",
