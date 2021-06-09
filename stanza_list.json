@@ -2081,6 +2081,12 @@
     "oclcStanzaId": "Elsevier_eLibrary_UK",
     "oclcIncludeFile": "databases/elibraryuk.txt"
   },
+  "eMarketer_Pro": {
+    "name": "EMarketer Pro",
+    "stanza": "OCLC/eMarketer_Pro.txt",
+    "oclcStanzaId": "eMarketer_Pro",
+    "oclcIncludeFile": "databases/emarketer.txt"
+  },
   "Emerald_Insight": {
     "name": "Emerald Insight",
     "stanza": "OCLC/Emerald_Insight.txt",
