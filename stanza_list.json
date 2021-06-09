@@ -2433,6 +2433,12 @@
     "oclcStanzaId": "Grant_Connect",
     "oclcIncludeFile": "databases/grantconnect.txt"
   },
+  "Grant_Connect_fr": {
+    "name": "Grant Connect (Fr)",
+    "stanza": "OCLC/Grant_Connect_fr.txt",
+    "oclcStanzaId": "Grant_Connect_fr",
+    "oclcIncludeFile": "databases/connexionsubvention.txt"
+  },
   "Grolier_Online": {
     "name": "Grolier Online",
     "stanza": "OCLC/Grolier_Online.txt",
