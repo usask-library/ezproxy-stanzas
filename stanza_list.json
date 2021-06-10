@@ -2736,6 +2736,12 @@
     "oclcStanzaId": "ImageQuest",
     "oclcIncludeFile": "databases/imagequest.txt"
   },
+  "Inc": {
+    "name": "Inc",
+    "stanza": "OCLC/Inc.txt",
+    "oclcStanzaId": "Inc",
+    "oclcIncludeFile": "databases/inc.txt"
+  },
   "Incision": {
     "name": "Incision",
     "stanza": "OCLC/Incision.txt",
