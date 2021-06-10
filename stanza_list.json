@@ -3340,6 +3340,12 @@
     "oclcStanzaId": "Lippincott_Advisor",
     "oclcIncludeFile": "databases/lippincott_advisor.txt"
   },
+  "Lippincott_Procedures": {
+    "name": "Lippincott Procedures",
+    "stanza": "OCLC/Lippincott_Procedures.txt",
+    "oclcStanzaId": "Lippincott_Procedures",
+    "oclcIncludeFile": "databases/lippincott_procedures.txt"
+  },
   "Literary_Encyclopedia": {
     "name": "Literary Encyclopedia, The",
     "stanza": "OCLC/Literary_Encyclopedia.txt",
