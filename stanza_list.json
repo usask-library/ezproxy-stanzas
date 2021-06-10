@@ -5041,6 +5041,12 @@
     "oclcStanzaId": "Safari_Books_Online",
     "oclcIncludeFile": "databases/safaribooks.txt"
   },
+  "Sagamore_Publishing": {
+    "name": "Sagamore Publishing",
+    "stanza": "OCLC/Sagamore_Publishing.txt",
+    "oclcStanzaId": "Sagamore_Publishing",
+    "oclcIncludeFile": "databases/sagamorepub.txt"
+  },
   "saishin": {
     "name": "Saishin Kango Sakuin Web",
     "stanza": "OCLC/saishin.txt",
