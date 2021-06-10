@@ -4682,6 +4682,12 @@
     "oclcStanzaId": "Rangefindr.ca",
     "oclcIncludeFile": "databases/rangefindr.txt"
   },
+  "Rarebookhub": {
+    "name": "Rarebookhub",
+    "stanza": "OCLC/Rarebookhub.txt",
+    "oclcStanzaId": "Rarebookhub",
+    "oclcIncludeFile": "databases/rarebookhub.txt"
+  },
   "RBdigital": {
     "name": "RBdigital",
     "stanza": "OCLC/RBdigital.txt",
