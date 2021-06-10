@@ -4772,6 +4772,12 @@
     "oclcStanzaId": "Regs4Ships",
     "oclcIncludeFile": "databases/regs4ships.txt"
   },
+  "Repere_2": {
+    "name": "Repere 2",
+    "stanza": "OCLC/Repere_2.txt",
+    "oclcStanzaId": "Repere_2",
+    "oclcIncludeFile": "databases/repere2.txt"
+  },
   "Reference_Universe": {
     "name": "Reference Universe",
     "stanza": "OCLC/Reference_Universe.txt",
