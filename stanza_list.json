@@ -3575,7 +3575,7 @@
     "oclcIncludeFile": "databases/medicaljournals.txt"
   },
   "Medical_Online": {
-    "name": "MMedical Online",
+    "name": "Medical Online",
     "stanza": "OCLC/Medical_Online.txt",
     "oclcStanzaId": "Medical_Online",
     "oclcIncludeFile": "databases/medicalonline.txt"
