@@ -3901,6 +3901,12 @@
     "oclcStanzaId": "ndfr",
     "oclcIncludeFile": "databases/ndfr.txt"
   },
+  "Nesstar": {
+    "name": "Nesstar",
+    "stanza": "OCLC/Nesstar.txt",
+    "oclcStanzaId": "Nesstar",
+    "oclcIncludeFile": "databases/nesstar.txt"
+  },
   "NetAnatomy": {
     "name": "NetAnatomy",
     "stanza": "OCLC/NetAnatomy.txt",
