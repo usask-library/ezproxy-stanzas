@@ -117,7 +117,8 @@
   "ALA_Journals": {
     "name": "ALA Journals",
     "stanza": "OCLC/ALA_Journals.txt",
-    "oclcStanzaId": "ALA_Journals"
+    "oclcStanzaId": "ALA_Journals",
+    "oclcIncludeFile": "databases/ala.txt"
   },
   "AMA_Manual_of_Style": {
     "name": "AMA Manual of Style",
