@@ -4743,6 +4743,12 @@
     "oclcStanzaId": "Reach-Bureau_van_Dijk",
     "oclcIncludeFile": "databases/reach.txt"
   },
+  "Red_Book_Online": {
+    "name": "Red Book Online",
+    "stanza": "OCLC/Red_Book_Online.txt",
+    "oclcStanzaId": "Red_Book_Online",
+    "oclcIncludeFile": "databases/aap.txt"
+  },
   "Rechtsorde": {
     "name": "Rechtsorde",
     "stanza": "OCLC/Rechtsorde.txt",
