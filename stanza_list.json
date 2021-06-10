@@ -3186,6 +3186,12 @@
     "stanza": "OCLC/Kluwer_Patent_Law.txt",
     "oclcStanzaId": "Kluwer_Patent_Law"
   },
+  "Knotia_CPA": {
+    "name": "Knotia (CPA)",
+    "stanza": "OCLC/Knotia_CPA.txt",
+    "oclcStanzaId": "Knotia_CPA",
+    "oclcIncludeFile": "databases/knotia.txt"
+  },
   "Knovel": {
     "name": "Knovel",
     "stanza": "OCLC/Knovel.txt",
