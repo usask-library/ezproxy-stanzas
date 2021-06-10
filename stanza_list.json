@@ -5100,6 +5100,12 @@
     "oclcStanzaId": "SciVal",
     "oclcIncludeFile": "databases/scival.txt"
   },
+  "SCMP_COMPASS": {
+    "name": "SCMP COMPASS",
+    "stanza": "OCLC/SCMP_COMPASS.txt",
+    "oclcStanzaId": "SCMP_COMPASS",
+    "oclcIncludeFile": "databases/scmpcompass.txt"
+  },
   "ScienceAAAS": {
     "name": "Science - AAAS",
     "stanza": "OCLC/ScienceAAAS.txt",
