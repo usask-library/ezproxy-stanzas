@@ -3744,6 +3744,12 @@
     "oclcStanzaId": "Morningstar",
     "oclcIncludeFile": "databases/morningstar.txt"
   },
+  "Motologic": {
+    "name": "Motologic",
+    "stanza": "OCLC/Motologic.txt",
+    "oclcStanzaId": "Motologic",
+    "oclcIncludeFile": "databases/motologic.txt"
+  },
   "MyiLibrary": {
     "name": "MyiLibrary",
     "stanza": "OCLC/MyiLibrary.txt",
