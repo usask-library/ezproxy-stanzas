@@ -2835,6 +2835,12 @@
     "oclcStanzaId": "Inter-Research_Science_Publisher",
     "oclcIncludeFile": "databases/inter-research_science_publisher.txt"
   },
+  "International_Journal_of_E-Learning_and_Distance_Education": {
+    "name": "International Journal of E-Learning & Distance Education",
+    "stanza": "OCLC/International_Journal_of_E-Learning_and_Distance_Education.txt",
+    "oclcStanzaId": "International_Journal_of_E-Learning_and_Distance_Education",
+    "oclcIncludeFile": "databases/ijede.txt"
+  },
   "IAEE": {
     "name": "International Association for Energy Economics (IAEE)",
     "stanza": "OCLC/IAEE.txt",
