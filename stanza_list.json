@@ -5746,6 +5746,12 @@
     "oclcStanzaId": "Wageningen_Academic",
     "oclcIncludeFile": "databases/wageningenacademic.txt"
   },
+  "Wanfang_Data": {
+    "name": "Wanfang Data",
+    "stanza": "OCLC/Wanfang_Data.txt",
+    "oclcStanzaId": "Wanfang_Data",
+    "oclcIncludeFile": "databases/wanfangdata.txt"
+  },
   "Warc": {
     "name": "Warc",
     "stanza": "OCLC/Warc.txt",
