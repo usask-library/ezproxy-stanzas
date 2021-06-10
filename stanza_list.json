@@ -5448,7 +5448,8 @@
   "Teen_Health_and_Wellness": {
     "name": "Teen Health and Wellness",
     "stanza": "OCLC/Teen_Health_and_Wellness.txt",
-    "oclcStanzaId": "Teen_Health_and_Wellness"
+    "oclcStanzaId": "Teen_Health_and_Wellness",
+    "oclcIncludeFile": "databases/teenhealthandwellness.txt"
   },
   "Telos": {
     "name": "Telos",
