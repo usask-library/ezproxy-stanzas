@@ -4806,6 +4806,12 @@
     "stanza": "OCLC/ResearchNow.txt",
     "oclcStanzaId": "ResearchNow"
   },
+  "Responsible_Investor": {
+    "name": "Responsible Investor",
+    "stanza": "OCLC/Responsible_Investor.txt",
+    "oclcStanzaId": "Responsible_Investor",
+    "oclcIncludeFile": "databases/responsibleinvestor.txt"
+  },
   "Richard_K_Miller_Associates": {
     "name": "Richard K. Miller & Associates",
     "stanza": "OCLC/Richard_K_Miller_Associates.txt",
