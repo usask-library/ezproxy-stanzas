@@ -5268,6 +5268,12 @@
     "oclcStanzaId": "Sociological_Research_Online",
     "oclcIncludeFile": "databases/socresonline.txt"
   },
+  "South_Asia_Archive": {
+    "name": "South Asia Archive",
+    "stanza": "OCLC/South_Asia_Archive.txt",
+    "oclcStanzaId": "South_Asia_Archive",
+    "oclcIncludeFile": "databases/sacha.txt"
+  },
   "The_Source_Magpies_Magazine": {
     "name": "The Source Magpies Magazine",
     "stanza": "OCLC/The_Source_Magpies_Magazine.txt",
