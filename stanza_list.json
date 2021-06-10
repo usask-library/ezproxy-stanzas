@@ -4676,6 +4676,12 @@
     "oclcStanzaId": "RAND_State_Statistics",
     "oclcIncludeFile": "databases/rand.txt"
   },
+  "Rangefindr.ca": {
+    "name": "Rangefindr.ca",
+    "stanza": "OCLC/Rangefindr.ca.txt",
+    "oclcStanzaId": "Rangefindr.ca",
+    "oclcIncludeFile": "databases/rangefindr.txt"
+  },
   "RBdigital": {
     "name": "RBdigital",
     "stanza": "OCLC/RBdigital.txt",
