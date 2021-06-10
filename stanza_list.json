@@ -3346,6 +3346,12 @@
     "oclcStanzaId": "Lippincott_Procedures",
     "oclcIncludeFile": "databases/lippincott_procedures.txt"
   },
+  "Lippincott_TelemedInsights": {
+    "name": "Lippincott TelemedInsights",
+    "stanza": "OCLC/Lippincott_TelemedInsights.txt",
+    "oclcStanzaId": "Lippincott_TelemedInsights",
+    "oclcIncludeFile": "databases/lippincott_telemedInsights.txt"
+  },
   "Literary_Encyclopedia": {
     "name": "Literary Encyclopedia, The",
     "stanza": "OCLC/Literary_Encyclopedia.txt",
