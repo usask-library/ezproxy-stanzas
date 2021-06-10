@@ -5537,14 +5537,7 @@
     "name": "Transparent Language",
     "stanza": "OCLC/Transparent_Language.txt",
     "oclcStanzaId": "Transparent_Language",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "[yourTLOnickname]",
-        "placeholder": "The name given to you by Transparent Language",
-        "enabled": true
-      }
-    ]
+    "oclcIncludeFile": "databases/tdm.txt"
   },
   "Travel-42": {
     "name": "Travel-42",
