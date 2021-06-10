@@ -2997,6 +2997,12 @@
     "oclcStanzaId": "Journal_of_Chinese_Medicine",
     "oclcIncludeFile": "databases/jcm.txt"
   },
+  "Journal_of_Emergency_Medical_Services": {
+    "name": "Journal of Emergency Medical Services",
+    "stanza": "OCLC/Journal_of_Emergency_Medical_Services.txt",
+    "oclcStanzaId": "Journal_of_Emergency_Medical_Services",
+    "oclcIncludeFile": "databases/jems.txt"
+  },
   "Journal_of_Heart_Valve_Disease": {
     "name": "Journal of Heart Valve Disease, The",
     "stanza": "OCLC/Journal_of_Heart_Valve_Disease.txt",
