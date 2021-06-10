@@ -3063,6 +3063,12 @@
     "oclcStanzaId": "Journal_on_Excellence_in_College_Teaching",
     "oclcIncludeFile": "databases/journal_on_excellence_in_college_teaching.txt"
   },
+  "JUltra_Sound": {
+    "name": "JUltra Sound",
+    "stanza": "OCLC/JUltra_Sound.txt",
+    "oclcStanzaId": "JUltra_Sound",
+    "oclcIncludeFile": "databases/jultrasoundmed.txt"
+  },
   "jusmundi": {
     "name": "Journal on Excellence in College Teaching",
     "stanza": "OCLC/jusmundi.txt",
