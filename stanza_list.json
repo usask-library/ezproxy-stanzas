@@ -3714,6 +3714,12 @@
     "oclcStanzaId": "Mission_Nexus",
     "oclcIncludeFile": "databases/missionnexus.txt"
   },
+  "Mitchell1_Repair": {
+    "name": "Mitchell1 Repair",
+    "stanza": "OCLC/Mitchell1_Repair.txt",
+    "oclcStanzaId": "Mitchell1_Repair",
+    "oclcIncludeFile": "databases/mitchell1.txt"
+  },
   "Modern_Language_Association": {
     "name": "Modern Language Association",
     "stanza": "OCLC/Modern_Language_Association.txt",
