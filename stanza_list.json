@@ -4453,6 +4453,12 @@
     "stanza": "OCLC/Plant_Management_Network.txt",
     "oclcStanzaId": "Plant_Management_Network"
   },
+  "Playback": {
+    "name": "Playback",
+    "stanza": "OCLC/Playback.txt",
+    "oclcStanzaId": "Playback",
+    "oclcIncludeFile": "databases/playbackonline.txt"
+  },
   "Plunkett_Research_Online": {
     "name": "Plunkett Research Online",
     "stanza": "OCLC/Plunkett_Research_Online.txt",
