@@ -2724,6 +2724,12 @@
     "oclcStanzaId": "Ichushi-Web",
     "oclcIncludeFile": "databases/ichushi_web.txt"
   },
+  "Identifix": {
+    "name": "Identifix",
+    "stanza": "OCLC/Identifix.txt",
+    "oclcStanzaId": "Identifix",
+    "oclcIncludeFile": "databases/identifix.txt"
+  },
   "ImageQuest": {
     "name": "ImageQuest",
     "stanza": "OCLC/ImageQuest.txt",
