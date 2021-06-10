@@ -5635,6 +5635,12 @@
     "oclcStanzaId": "University_of_Chicago_Press",
     "oclcIncludeFile": "databases/uchicago.txt"
   },
+  "University_of_Fashion": {
+    "name": "University of Fashion",
+    "stanza": "OCLC/University_of_Fashion.txt",
+    "oclcStanzaId": "University_of_Fashion",
+    "oclcIncludeFile": "databases/universityoffashion.txt"
+  },
   "U_Illinois_Press": {
     "name": "University of Illinois Press",
     "stanza": "OCLC/U_Illinois_Press.txt",
