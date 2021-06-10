@@ -4513,6 +4513,12 @@
     "oclcStanzaId": "Practical_Law",
     "oclcIncludeFile": "databases/practicallaw.txt"
   },
+  "Practice-based_Evidence_in_Nutrition": {
+    "name": "Practice-based Evidence in Nutrition",
+    "stanza": "OCLC/Practice-based_Evidence_in_Nutrition.txt",
+    "oclcStanzaId": "Practice-based_Evidence_in_Nutrition",
+    "oclcIncludeFile": "databases/pennutrition.txt"
+  },
   "Praeger_Security_International": {
     "name": "Praeger Security International",
     "stanza": "OCLC/Praeger_Security_International.txt",
