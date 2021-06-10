@@ -5776,7 +5776,8 @@
   "WestLawNext_Canada": {
     "name": "WestLawNext Canada",
     "stanza": "OCLC/WestLawNext_Canada.txt",
-    "oclcStanzaId": "WestLawNext_Canada"
+    "oclcStanzaId": "WestLawNext_Canada",
+    "oclcIncludeFile": "databases/westlawnextcanada.txt"
   },
   "Westlaw": {
     "name": "Westlaw",
