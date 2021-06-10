@@ -3334,6 +3334,12 @@
     "oclcStanzaId": "Lingo_Lite",
     "oclcIncludeFile": "databases/lingolite.txt"
   },
+  "Lippincott_Advisor": {
+    "name": "Lippincott Advisor",
+    "stanza": "OCLC/Lippincott_Advisor.txt",
+    "oclcStanzaId": "Lippincott_Advisor",
+    "oclcIncludeFile": "databases/lippincott_advisor.txt"
+  },
   "Literary_Encyclopedia": {
     "name": "Literary Encyclopedia, The",
     "stanza": "OCLC/Literary_Encyclopedia.txt",
