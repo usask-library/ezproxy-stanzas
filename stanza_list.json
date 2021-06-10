@@ -5711,6 +5711,12 @@
     "oclcStanzaId": "Very_Short_Introductions",
     "oclcIncludeFile": "databases/veryshortintroductions.txt"
   },
+  "Videatives": {
+    "name": "Videatives",
+    "stanza": "OCLC/Videatives.txt",
+    "oclcStanzaId": "Videatives",
+    "oclcIncludeFile": "databases/videatives.txt"
+  },
   "Vie_des_Arts": {
     "name": "Vie des Arts",
     "stanza": "OCLC/Vie_des_Arts.txt",
