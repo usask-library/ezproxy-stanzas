@@ -4918,6 +4918,12 @@
     "oclcStanzaId": "RxTx_CPhA",
     "oclcIncludeFile": "databases/myrxtx.txt"
   },
+  "RxTx_French_CPhA": {
+    "name": "RxTx French (CPhA)",
+    "stanza": "OCLC/RxTx_French_CPhA.txt",
+    "oclcStanzaId": "RxTx_French_CPhA",
+    "oclcIncludeFile": "databases/monrxtx.txt"
+  },
   "S_P_Global_Capital_IQ": {
     "name": "S&P Global Capital IQ",
     "stanza": "OCLC/S_P_Global_Capital_IQ.txt",
