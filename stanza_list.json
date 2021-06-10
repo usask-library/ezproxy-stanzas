@@ -5542,6 +5542,12 @@
       }
     ]
   },
+  "Travel-42": {
+    "name": "Travel-42",
+    "stanza": "OCLC/Travel-42.txt",
+    "oclcStanzaId": "Travel-42",
+    "oclcIncludeFile": "databases/travel-42.txt"
+  },
   "Treaty_Of_Waitangi": {
     "name": "Treaty Of Waitangi",
     "stanza": "OCLC/Treaty_Of_Waitangi.txt",
