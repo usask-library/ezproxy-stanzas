@@ -4719,6 +4719,12 @@
     "stanza": "OCLC/RSNA.txt",
     "oclcStanzaId": "RSNA"
   },
+  "RDA_Tool_Kit": {
+    "name": "RDA Tool Kit",
+    "stanza": "OCLC/RDA_Tool_Kit.txt",
+    "oclcStanzaId": "RDA_Tool_Kit",
+    "oclcIncludeFile": "databases/rdatoolkit.txt"
+  },
   "Reach-Bureau_van_Dijk": {
     "name": "Reach - Bureau van Dijk",
     "stanza": "OCLC/Reach-Bureau_van_Dijk.txt",
