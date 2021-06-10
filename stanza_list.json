@@ -4912,6 +4912,12 @@
     "oclcStanzaId": "Ruimte_Wonen",
     "oclcIncludeFile": "databases/ruimte_wonen.txt"
   },
+  "RxTx_CPhA": {
+    "name": "RxTx (CPhA)",
+    "stanza": "OCLC/RxTx_CPhA.txt",
+    "oclcStanzaId": "RxTx_CPhA",
+    "oclcIncludeFile": "databases/myrxtx.txt"
+  },
   "S_P_Global_Capital_IQ": {
     "name": "S&P Global Capital IQ",
     "stanza": "OCLC/S_P_Global_Capital_IQ.txt",
