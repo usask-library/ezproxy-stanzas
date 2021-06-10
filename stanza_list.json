@@ -3556,6 +3556,12 @@
     "oclcStanzaId": "McIntyre_Media",
     "oclcIncludeFile": "databases/mcintyre.txt"
   },
+  "McNabb_Connolly": {
+    "name": "McNabb Connolly",
+    "stanza": "OCLC/McNabb_Connolly.txt",
+    "oclcStanzaId": "McNabb_Connolly",
+    "oclcIncludeFile": "databases/mcnabbconnolly.txt"
+  },
   "Media_Source_Incorporated": {
     "name": "Media Source Incorporated",
     "stanza": "OCLC/Media_Source_Incorporated.txt",
