@@ -2847,6 +2847,12 @@
     "oclcStanzaId": "International_Journal_of_E-Learning_and_Distance_Education",
     "oclcIncludeFile": "databases/ijede.txt"
   },
+  "International_journal_of_human_sciences": {
+    "name": "International journal of human sciences",
+    "stanza": "OCLC/International_journal_of_human_sciences.txt",
+    "oclcStanzaId": "International_journal_of_human_sciences",
+    "oclcIncludeFile": "databases/j-humansciences.txt"
+  },
   "IAEE": {
     "name": "International Association for Energy Economics (IAEE)",
     "stanza": "OCLC/IAEE.txt",
