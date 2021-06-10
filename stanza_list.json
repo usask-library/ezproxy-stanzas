@@ -3684,6 +3684,12 @@
     "stanza": "OCLC/Micromedex.txt",
     "oclcStanzaId": "Micromedex"
   },
+  "Migras_Canadian_Export_Guide": {
+    "name": "Migra's Canadian Export Guide",
+    "stanza": "OCLC/Migras_Canadian_Export_Guide.txt",
+    "oclcStanzaId": "Migras_Canadian_Export_Guide",
+    "oclcIncludeFile": "databases/migraexport.txt"
+  },
   "Military_Periscope": {
     "name": "Military Periscope",
     "stanza": "OCLC/Military_Periscope.txt",
