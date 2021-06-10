@@ -4771,6 +4771,12 @@
     "stanza": "OCLC/Reference_Universe.txt",
     "oclcStanzaId": "Reference_Universe"
   },
+  "ReferenceGroup": {
+    "name": "ReferenceGroup",
+    "stanza": "OCLC/ReferenceGroup.txt",
+    "oclcStanzaId": "ReferenceGroup",
+    "oclcIncludeFile": "databases/thereferencegroup.txt"
+  },
   "ReferenceUSA": {
     "name": "ReferenceUSA",
     "stanza": "OCLC/ReferenceUSA.txt",
