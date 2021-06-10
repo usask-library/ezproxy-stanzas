@@ -2835,6 +2835,12 @@
     "oclcStanzaId": "Inter-Research_Science_Publisher",
     "oclcIncludeFile": "databases/inter-research_science_publisher.txt"
   },
+  "Inter-International_journal_of_communication": {
+    "name": "International journal of communication",
+    "stanza": "OCLC/Inter-International_journal_of_communication.txt",
+    "oclcStanzaId": "Inter-International_journal_of_communication",
+    "oclcIncludeFile": "databases/ijoc.txt"
+  },
   "International_Journal_of_E-Learning_and_Distance_Education": {
     "name": "International Journal of E-Learning & Distance Education",
     "stanza": "OCLC/International_Journal_of_E-Learning_and_Distance_Education.txt",
