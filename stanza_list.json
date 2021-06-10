@@ -4437,6 +4437,12 @@
     "oclcStanzaId": "PiCarta",
     "oclcIncludeFile": "databases/picarta.txt"
   },
+  "Picmonic": {
+    "name": "Picmonic",
+    "stanza": "OCLC/Picmonic.txt",
+    "oclcStanzaId": "Picmonic",
+    "oclcIncludeFile": "databases/picmonic.txt"
+  },
   "Piano_Media": {
     "name": "Piano Media",
     "stanza": "OCLC/Piano_Media.txt",
