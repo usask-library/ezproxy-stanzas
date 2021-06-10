@@ -5436,6 +5436,12 @@
     "stanza": "OCLC/Techniques-Ingenieur.txt",
     "oclcStanzaId": "techniques-ingenieur"
   },
+  "Techstreet": {
+    "name": "Techstreet",
+    "stanza": "OCLC/Techstreet.txt",
+    "oclcStanzaId": "Techstreet",
+    "oclcIncludeFile": "databases/techstreet.txt"
+  },
   "Teen_Health_and_Wellness": {
     "name": "Teen Health and Wellness",
     "stanza": "OCLC/Teen_Health_and_Wellness.txt",
