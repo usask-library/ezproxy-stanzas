@@ -3983,6 +3983,12 @@
     "oclcStanzaId": "Noodletools",
     "oclcIncludeFile": "databases/noodletools.txt"
   },
+  "NORD_Medical_Assistance_Program": {
+    "name": "NORD (Medical Assistance Program)",
+    "stanza": "OCLC/NORD_Medical_Assistance_Program.txt",
+    "oclcStanzaId": "NORD_Medical_Assistance_Program",
+    "oclcIncludeFile": "databases/rarediseases.txt"
+  },
   "Now_Publishers": {
     "name": "Now Publishers",
     "stanza": "OCLC/Now_Publishers.txt",
