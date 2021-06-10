@@ -5752,6 +5752,12 @@
     "oclcStanzaId": "Wanfang_Data",
     "oclcIncludeFile": "databases/wanfangdata.txt"
   },
+  "War_State_and_Society_WSS": {
+    "name": "War State and Society (WSS)",
+    "stanza": "OCLC/War_State_and_Society_WSS.txt",
+    "oclcStanzaId": "War_State_and_Society_WSS",
+    "oclcIncludeFile": "databases/warstate_and_society.txt"
+  },
   "Warc": {
     "name": "Warc",
     "stanza": "OCLC/Warc.txt",
