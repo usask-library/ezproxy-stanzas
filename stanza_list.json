@@ -5185,6 +5185,12 @@
     "oclcStanzaId": "Score_Follower",
     "oclcIncludeFile": "databases/score_follower.txt"
   },
+  "Scotts_Directories": {
+    "name": "Scott's Directories",
+    "stanza": "OCLC/Scotts_Directories.txt",
+    "oclcStanzaId": "Scotts_Directories",
+    "oclcIncludeFile": "databases/scottsinfo.txt"
+  },
   "Screenonline": {
     "name": "Screenonline",
     "stanza": "OCLC/Screenonline.txt",
