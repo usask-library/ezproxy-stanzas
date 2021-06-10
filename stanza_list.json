@@ -5197,6 +5197,12 @@
     "oclcStanzaId": "Screenonline",
     "oclcIncludeFile": "databases/screenonline.txt"
   },
+  "Secret_Files_from_World_Wars_to_Cold_War": {
+    "name": "Secret Files from World Wars to Cold War",
+    "stanza": "OCLC/Secret_Files_from_World_Wars_to_Cold_War.txt",
+    "oclcStanzaId": "Secret_Files_from_World_Wars_to_Cold_War",
+    "oclcIncludeFile": "databases/secretintelligencefiles.txt"
+  },
   "Sesame_Street_eBooks_Library": {
     "name": "Sesame Street eBooks Library",
     "stanza": "OCLC/Sesame_Street_eBooks_Library.txt",
