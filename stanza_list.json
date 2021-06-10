@@ -4559,6 +4559,12 @@
     "oclcStanzaId": "privco",
     "oclcIncludeFile": "databases/privco.txt"
   },
+  "Pro_Demand": {
+    "name": "Pro Demand",
+    "stanza": "OCLC/Pro_Demand.txt",
+    "oclcStanzaId": "Pro_Demand",
+    "oclcIncludeFile": "databases/prodemand.txt"
+  },
   "ProQuest": {
     "name": "ProQuest",
     "stanza": "OCLC/ProQuest.txt",
