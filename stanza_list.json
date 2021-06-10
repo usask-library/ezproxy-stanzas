@@ -4778,6 +4778,12 @@
     "oclcStanzaId": "Repere_2",
     "oclcIncludeFile": "databases/repere2.txt"
   },
+  "Repere_4": {
+    "name": "Repere 4",
+    "stanza": "OCLC/Repere_4.txt",
+    "oclcStanzaId": "Repere_4",
+    "oclcIncludeFile": "databases/repere4.txt"
+  },
   "Reference_Universe": {
     "name": "Reference Universe",
     "stanza": "OCLC/Reference_Universe.txt",
