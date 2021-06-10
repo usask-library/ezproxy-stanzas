@@ -4371,6 +4371,12 @@
     "oclcStanzaId": "Panjiva",
     "oclcIncludeFile": "databases/panjiva.txt"
   },
+  "Paperless": {
+    "name": "Paperless",
+    "stanza": "OCLC/Paperless.txt",
+    "oclcStanzaId": "Paperless",
+    "oclcIncludeFile": "databases/paperless.txt"
+  },
   "Paris_Legal_Publishers": {
     "name": "Paris Legal Publishers",
     "stanza": "OCLC/Paris_Legal_Publishers.txt",
