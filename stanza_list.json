@@ -4128,6 +4128,12 @@
     "oclcStanzaId": "OneSource_Global_Business_Browser",
     "oclcIncludeFile": "databases/onesourceglobal.txt"
   },
+  "ONF": {
+    "name": "ONF (Office national du film du Canada)",
+    "stanza": "OCLC/ONF.txt",
+    "oclcStanzaId": "ONF",
+    "oclcIncludeFile": "databases/onf.txt"
+  },
   "Online_Music_Anthology": {
     "name": "A-R Music Anthology (formerly Online Music Anthology)",
     "stanza": "OCLC/Online_Music_Anthology.txt",
