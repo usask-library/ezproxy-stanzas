@@ -4766,6 +4766,12 @@
     "oclcStanzaId": "RefWorks",
     "note": "Includes the Scholars Portal stanza required for Canadian sites that access RefWorks through Scholars Portal"
   },
+  "Regs4Ships": {
+    "name": "Regs4Ships",
+    "stanza": "OCLC/Regs4Ships.txt",
+    "oclcStanzaId": "Regs4Ships",
+    "oclcIncludeFile": "databases/regs4ships.txt"
+  },
   "Reference_Universe": {
     "name": "Reference Universe",
     "stanza": "OCLC/Reference_Universe.txt",
