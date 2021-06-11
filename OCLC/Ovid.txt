@@ -1,5 +1,7 @@
+HTTPMethod DELETE
+HTTPMethod PUT
 Option CookiePassThrough
-Title Ovid HTTPS (updated 20201216)
+Title Ovid HTTPS (updated 20210607)
 HTTPHeader -request -process X-XSRF-Token
 HTTPHeader -request -process Set-Cookie
 URL http://ovidsp.ovid.com/autologin.html
@@ -67,9 +69,7 @@ HJ https://watch.ondemand.org
 HJ app.jbisumari.org
 HJ https://app.jbisumari.org
 HJ https://journals.lww.com
-HJ nursing.ovid.com
 HJ anatomy.tv
-DJ anatomy.tv
 DJ lww.com
 DJ anatomyreferencecenter.com
 DJ dc1.ovid.com
@@ -82,6 +82,7 @@ DJ pathologyreferencecenter.com
 DJ visiblebody.com
 DJ wkhealth.com
 DJ wolterskluwer.com
+DJ anatomy.tv
 Find returnUrl=http://
 Replace returnUrl=http://^A
 Find id="returnUrl" value="http://
@@ -90,4 +91,5 @@ Find action="http://
 Replace action="http://^A
 NeverProxy assets.ovid.com
 NeverProxy cdn.visiblebody.com
+NeverProxy demo.ovid.com
 Option Cookie
