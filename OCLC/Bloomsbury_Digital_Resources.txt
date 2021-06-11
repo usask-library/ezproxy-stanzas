@@ -36,13 +36,13 @@ HJ https://www.bloomsburydesignlibrary.com
 HJ https://bloomsburydesignlibrary.com
 DJ bloomsburydesignlibrary.com
 
-Title Bloomsbury Encyclopedia of Philosophers (updated 20200423)
-URL https://www.bloomsburyphilosophers.com/
-HJ www.bloomsburyphilosophers.com
-HJ bloomsburyphilosophers.com
-HJ https://www.bloomsburyphilosophers.com
-HJ https://bloomsburyphilosophers.com
-DJ bloomsburyphilosophers.com
+Title Bloomsbury Philosophy Library (updated 20210414)
+URL https://www.bloomsburyphilosophylibrary.com/
+HJ www.bloomsburyphilosophylibrary.com
+HJ bloomsburyphilosophylibrary.com
+HJ https://www.bloomsburyphilosophylibrary.com
+HJ https://bloomsburyphilosophylibrary.com
+DJ bloomsburyphilosophylibrary.com
 
 Title Bloomsbury Fashion Central (updated 20200423)
 URL https://www.bloomsburyfashioncentral.com
@@ -169,3 +169,11 @@ HJ humankineticslibrary.com
 HJ https://www.humankineticslibrary.com
 HJ https://humankineticslibrary.com
 DJ humankineticslibrary.com
+
+Title Fairchild Books Interior Design Library (updated 20210520)
+URL https://www.fairchildbooksinteriordesign.com
+HJ www.fairchildbooksinteriordesign.com
+HJ fairchildbooksinteriordesign.com
+HJ https://www.fairchildbooksinteriordesign.com
+HJ https://fairchildbooksinteriordesign.com
+DJ fairchildbooksinteriordesign.com
