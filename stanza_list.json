@@ -2056,7 +2056,15 @@
     "name": "Elsevier Clinical Skills and Elsevier Performance Manager",
     "stanza": "OCLC/Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager.txt",
     "oclcStanzaId": "Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager",
-    "oclcIncludeFile": "databases/elsevierperformancemanager.txt"
+    "oclcIncludeFile": "databases/elsevierperformancemanager.txt",
+    "rules": [
+      {
+        "rule": "Replace",
+        "term": "{virtualname}",
+        "placeholder": "The value supplied to you by Elsevier",
+        "enabled": true
+      }
+    ]
   },
   "Elsevier_Health_Journals": {
     "name": "Elsevier Health Journals",
