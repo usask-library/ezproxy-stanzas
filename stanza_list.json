@@ -3982,11 +3982,6 @@
     "oclcStanzaId": "Nikkei_Telecom",
     "oclcIncludeFile": "databases/nikkeitelecom.txt"
   },
-  "Nineteenth_Century_Masterfile": {
-    "name": "Nineteenth Century Masterfile",
-    "stanza": "OCLC/Nineteenth_Century_Masterfile.txt",
-    "oclcStanzaId": "Nineteenth_Century_Masterfile"
-  },
   "Nomos_eLibrary": {
     "name": "Nomos eLibrary",
     "stanza": "OCLC/Nomos_eLibrary.txt",
