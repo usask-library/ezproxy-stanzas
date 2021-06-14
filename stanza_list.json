@@ -287,12 +287,6 @@
     "oclcStanzaId": "Africa-Confidential",
     "oclcIncludeFile": "databases/africaconfidential.txt"
   },
-  "African_Journals": {
-    "name": "African Journals (formerly Sabinet ePublications)",
-    "stanza": "OCLC/African_Journals.txt",
-    "oclcStanzaId": "African_Journals_formerly_Sabinet_ePublications",
-    "oclcIncludeFile": "databases/sabinetepubs.txt"
-  },
   "African_Journals_Online": {
     "name": "African Journals Online",
     "stanza": "OCLC/African_Journals_Online.txt",
