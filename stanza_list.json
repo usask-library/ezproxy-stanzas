@@ -352,7 +352,7 @@
     "name": "American Academy of Pediatrics (formerly Pediatrics)",
     "stanza": "OCLC/American_Academy_of_Pediatrics.txt",
     "oclcStanzaId": "American_Academy_of_Pediatrics_formerly_Pediatrics",
-    "oclcIncludeFile": "databases/portlandpress.txt"
+    "oclcIncludeFile": "databases/pediatrics.txt"
   },
   "American_Association_for_Cancer_Research": {
     "name": "American Association for Cancer Research",
@@ -443,7 +443,7 @@
     "stanza": "OCLC/American_National_Biography.txt",
     "note": "This resource also requires the Oxford Reference stanza.",
     "oclcStanzaId": "American_National_Biography",
-    "oclcIncludeFile": "databases/anb.txt"
+    "oclcIncludeFile": "databases/americannationalbiography.txt"
   },
   "American_Occupational_Therapy_Association": {
     "name": "American Occupational Therapy Association",
@@ -571,7 +571,7 @@
     "name": "Anatomy.TV",
     "stanza": "OCLC/Anatomy_TV.txt",
     "oclcStanzaId": "Anatomy_TV",
-    "oclcIncludeFile": "databases/anatomytv.txt.txt"
+    "oclcIncludeFile": "databases/anatomytv.txt"
   },
   "Ancestry_Library": {
     "name": "Ancestry Library",
@@ -4107,7 +4107,7 @@
     "name": "Oncology Nursing Society",
     "stanza": "OCLC/Oncology_Nursing_Society.txt",
     "oclcStanzaId": "Oncology_Nursing_Society",
-    "oclcIncludeFile": "databases/omegasources.txt"
+    "oclcIncludeFile": "databases/ons.txt"
   },
   "OnePetro": {
     "name": "OnePetro (formerly Society of Petroleum Engineers)",
@@ -4997,7 +4997,7 @@
     "name": "SRDS",
     "stanza": "OCLC/SRDS.txt",
     "oclcStanzaId": "SRDS",
-    "oclcIncludeFile": "databases/srsd.txt"
+    "oclcIncludeFile": "databases/srds.txt"
   },
   "STATRef": {
     "name": "STAT!Ref",
@@ -5527,7 +5527,7 @@
     "name": "Transparent Language",
     "stanza": "OCLC/Transparent_Language.txt",
     "oclcStanzaId": "Transparent_Language",
-    "oclcIncludeFile": "databases/tdm.txt"
+    "oclcIncludeFile": "databases/transparent.txt"
   },
   "Travel-42": {
     "name": "Travel-42",
