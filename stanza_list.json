@@ -4685,7 +4685,6 @@
     "name": "RBdigital Audiobooks and Ebooks",
     "stanza": "OCLC/RBdigital.txt",
     "oclcStanzaId": "RBdigital",
-    "oclcIncludeFile": "databases/rbdigital.txt",
     "rules": [
       {
         "rule": "Replace",
