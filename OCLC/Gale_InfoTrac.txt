@@ -1,5 +1,7 @@
-Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190718)
+Title -hide Gale/Infotrac/PowerSearch Databases (updated 20210224)
+MimeFilter text/plain .* javascript
 URL http://infotrac.gale.com/
+HJ dnow.gale.com
 HJ access.gale.com
 HJ auth.go.gale.com
 HJ bi.gale.com
@@ -39,6 +41,8 @@ HJ www.mygovernment.us
 HJ api.cyber-anatomy.com
 HJ galeapps.gale.com
 HJ worldscholar.gale.com
+HJ gale.cengage.com
+HJ https://dnow.gale.com
 HJ https://access.gale.com
 HJ https://auth.go.gale.com
 HJ https://bi.gale.com
