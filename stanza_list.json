@@ -515,7 +515,7 @@
     "oclcIncludeFile": "databases/asce.txt"
   },
   "American_Society_of_Clinical_Oncology": {
-    "name": "American Society of Clinical Oncology",
+    "name": "American Society of Clinical Oncology (ASCO)",
     "stanza": "OCLC/American_Society_of_Clinical_Oncology.txt",
     "oclcStanzaId": "American_Society_of_Clinical_Oncology",
     "oclcIncludeFile": "databases/asco.txt"
@@ -652,7 +652,7 @@
     "oclcIncludeFile": "databases/arts-search.txt"
   },
   "Artstor": {
-    "name": "Artstor",
+    "name": "ARTstor",
     "stanza": "OCLC/Artstor.txt",
     "oclcStanzaId": "Artstor",
     "oclcIncludeFile": "databases/artstor.txt"
@@ -865,7 +865,7 @@
     "oclcIncludeFile": "databases/bioscientifica.txt"
   },
   "Birds_of_the_World": {
-    "name": "Birds of the World",
+    "name": "Birds of the World (formerly Birds of North America)",
     "stanza": "OCLC/Birds_of_the_World.txt",
     "oclcStanzaId": "birdsna",
     "oclcIncludeFile": "databases/birdsna.txt"
@@ -1347,7 +1347,7 @@
     "oclcIncludeFile": "databases/cfa.txt"
   },
   "Chicago_Manual_of_Style": {
-    "name": "Chicago Manual of Style",
+    "name": "Chicago Manual of Style Online",
     "stanza": "OCLC/Chicago_Manual_of_Style.txt",
     "oclcStanzaId": "Chicago_Manual_of_Style",
     "oclcIncludeFile": "databases/chicagomanual.txt"
@@ -1365,7 +1365,7 @@
     "oclcIncludeFile": "databases/clcd.txt"
   },
   "China_Studies": {
-    "name": "China_Studies",
+    "name": "China Studies",
     "stanza": "OCLC/China_Studies.txt",
     "oclcStanzaId": "China_Studies",
     "oclcIncludeFile": "databases/chinastudies.txt"
@@ -1691,7 +1691,7 @@
     "oclcIncludeFile": "databases/desLibris.txt"
   },
   "Diabetes_Journals": {
-    "name": "Diabetes_Journals",
+    "name": "Diabetes Journals",
     "stanza": "OCLC/Diabetes_Journals.txt",
     "oclcStanzaId": "Diabetes_Journals",
     "oclcIncludeFile": "databases/diabetesjournals.txt"
@@ -1813,7 +1813,7 @@
     "oclcIncludeFile": "databases/dukepress.txt"
   },
   "Duncker_Humblot_eLibrary": {
-    "name": "Duncker Humblot eLibrary",
+    "name": "Duncker & Humblot eLibrary",
     "stanza": "OCLC/Duncker_Humblot_eLibrary.txt",
     "oclcStanzaId": "Duncker_Humblot_eLibrary",
     "oclcIncludeFile": "databases/dunckerhumblot.txt"
@@ -2258,7 +2258,7 @@
     "oclcIncludeFile": "databases/fasebjournal.txt"
   },
   "Fergusons_Career_Guidance_Center": {
-    "name": "Ferguson's Career GuidanceCenter",
+    "name": "Ferguson's Career Guidance Center",
     "stanza": "OCLC/Fergusons_Career_Guidance_Center.txt",
     "oclcStanzaId": "Fergusons_Career_Guidance_Center",
     "rules": [
@@ -2324,7 +2324,7 @@
     "oclcIncludeFile": "databases/freedomflix.txt"
   },
   "Frost_Sullivan": {
-    "name": "Frost Sullivan",
+    "name": "Frost & Sullivan",
     "stanza": "OCLC/Frost_Sullivan.txt",
     "oclcStanzaId": "Frost_Sullivan",
     "oclcIncludeFile": "databases/frost.txt"
@@ -2579,7 +2579,7 @@
     "oclcIncludeFile": "databases/ilaw.txt"
   },
   "IBFD_Tax_Research_Online": {
-    "name": "IBFD Tax Research Online",
+    "name": "IBFD Tax Research Platform",
     "stanza": "OCLC/IBFD_Tax_Research_Online.txt",
     "oclcStanzaId": "IBFD_Tax_Research_Online",
     "oclcIncludeFile": "databases/ibfd.txt"
@@ -3074,7 +3074,7 @@
     "oclcIncludeFile": "databases/jultrasoundmed.txt"
   },
   "jusmundi": {
-    "name": "Journal on Excellence in College Teaching",
+    "name": "Jus Mundi - Academic Research with Brill",
     "stanza": "OCLC/jusmundi.txt",
     "oclcStanzaId": "jusmundi",
     "oclcIncludeFile": "databases/jusmundi.txt"
