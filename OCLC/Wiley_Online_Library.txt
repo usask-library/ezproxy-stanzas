@@ -4,7 +4,7 @@ HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20210215)
+Title Wiley Online (updated 20210420)
 MimeFilter application/json .* javascript
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
@@ -15,6 +15,8 @@ URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
 HJ https://pericles.one-lts.literatumonline.com/
 HJ http://pericles.one-lts.literatumonline.com/
+HJ https://it.iucr.org
+HJ it.iucr.org
 HJ aap.onlinelibrary.wiley.com
 HJ aapm.onlinelibrary.wiley.com
 HJ aasldpubs.onlinelibrary.wiley.com
@@ -46,6 +48,7 @@ HJ conbio.onlinelibrary.wiley.com
 HJ currentprotocols.onlinelibrary.wiley.com
 HJ doi.wiley.com
 HJ efsa.onlinelibrary.wiley.com
+HJ el.wiley.com
 HJ esajournals.onlinelibrary.wiley.com
 HJ faseb.onlinelibrary.wiley.com
 HJ febs.onlinelibrary.wiley.com
