@@ -9,7 +9,7 @@
 # This method allows you to replace the file at a later date
 # without the need to integrate updates directly into config.txt/ezproxy.cfg
 #
-Title Sage Journals (OCLC IncludeFile updated 20201207)
+Title Sage Journals (updated 20210608)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -33,6 +33,8 @@ HJ www.methodspace.com
 HJ www.nybooks.com
 HJ www.physiology.org
 HJ www.sagepub.co.uk
+HJ campus.sagepub.com
+HJ https://campus.sagepub.com
 HJ https://advance.sagepub.com/
 HJ https://au.sagepub.com
 HJ https://businessresearcher.sagepub.com
@@ -66,7 +68,7 @@ Replace url = "https://^A
 Find url = document.location.protocol + "//" + document.location.host
 Replace url = "https://journals.sagepub.com/"
 
-Title Sage Publications (OCLC IncludeFile updated 20201207)
+Title Sage Publications (updated 20201207)
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -request -process __RequestVerificationToken
 HTTPHeader -request -process X-XSRF-Token
@@ -81,15 +83,16 @@ Replace "^pgoogle-analytics.com^
 Find url =  document.location.protocol + "//" + document.location.host
 Replace url =  "http://^Aonline.sagepub.com"
 
-Title Data Planet
-HTTPHeader -request -process X-GWT-*
+Title Data Planet (20210608)
+HTTPHeader -request -process X-XSRF-Token
+HTTPHeader -request -process __RequestVerificationToken
+U https://dataplanet.sagepub.com
 U https://statisticaldatasets.data-planet.com/dataplanet/
-U https://readyreference.data-planet.com
+H https://dataplanet-auth.sagepub.com
 HJ http://statisticaldatasets.data-planet.com
-HJ http://readyreference.data-planet.com
+HJ https://dataplanet.sagepub.com
+HJ https://dataplanet-auth.sagepub.com
 DJ data-planet.com
-DJ conquestsystems.com
-DJ data-planet.libguides.com
 #
 # The following Host lines are only required if you create
 # starting point URLs directly to specific SAGE journals.
