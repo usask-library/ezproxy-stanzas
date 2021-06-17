@@ -4463,6 +4463,12 @@
     "oclcStanzaId": "Policy_Commons",
     "oclcIncludeFile": "databases/policycommons.txt"
   },
+  "PocketMags": {
+    "name": "PocketMags",
+    "stanza": "OCLC/PocketMags.txt",
+    "oclcStanzaId": "PocketMags",
+    "oclcIncludeFile": "databases/pocketmags.txt"
+  },
   "Policy_Map": {
     "name": "Policy Map",
     "stanza": "OCLC/Policy_Map.txt",
