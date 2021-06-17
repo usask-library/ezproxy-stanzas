@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title Westlaw (updated 20181011)
+Title Westlaw (updated 20210615)
 URL http://www.westlaw.com
 HJ campus.westlaw.com
 HJ https://campus.westlaw.com
@@ -7,6 +7,8 @@ HJ https://login.westlaw.co.uk
 HJ https://login.westlaw.ie
 HJ https://www.westlaw.com
 HJ https://signon.thomsonreuters.com
+HJ https://intl.westlaw.com
+HJ intl.westlaw.com
 HJ legalresearch.westlaw.co.uk
 HJ login.westlaw.co.uk
 HJ login.westlaw.ie
