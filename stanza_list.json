@@ -2343,6 +2343,13 @@
     "oclcIncludeFile": "databases/paratext.txt",
     "lastUpdated": "2020-09-16"
   },
+  "EIU_Viewpoint": {
+    "name": "EIU Viewpoint",
+    "stanza": "OCLC/EIU_Viewpoint.txt",
+    "oclcStanzaId": "EIU_Viewpoint",
+    "oclcIncludeFile": "databases/eiu_viewpoint.txt",
+    "lastUpdated": "2020-06-17"
+  },
   "El_Croquis_Digital_Library": {
     "name": "El Croquis Digital Library",
     "stanza": "OCLC/El_Croquis_Digital_Library.txt",
