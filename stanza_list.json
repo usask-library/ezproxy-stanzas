@@ -2334,7 +2334,8 @@
     "name": "Education Week",
     "stanza": "OCLC/Education_Week.txt",
     "oclcStanzaId": "Education_Week",
-    "lastUpdated": "2008-09-10"
+    "oclcIncludeFile": "databases/educationweek.txt",
+    "lastUpdated": "2021-06-30"
   },
   "Eight_Centuries": {
     "name": "Eight Centuries",
