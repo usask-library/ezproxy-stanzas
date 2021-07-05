@@ -1258,6 +1258,13 @@
     "oclcIncludeFile": "databases/cabiresources.txt",
     "lastUpdated": "2020-06-16"
   },
+  "CABI_Tourism_Case_Studies": {
+    "name": "CABI Tourism Case Studies",
+    "stanza": "OCLC/CABI_Tourism_Case_Studies.txt",
+    "oclcStanzaId": "CABI_Tourism_Case_Studies",
+    "oclcIncludeFile": "databases/cabitourism.txt",
+    "lastUpdated": "2021-06-16"
+  },
   "CCH_Accounting_Research_Manager": {
     "name": "CCH Accounting Research Manager",
     "stanza": "OCLC/CCH_Accounting_Research_Manager.txt",
