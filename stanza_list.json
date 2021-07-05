@@ -1153,7 +1153,7 @@
     "stanza": "OCLC/BrillOnline.txt",
     "oclcStanzaId": "BrillOnline",
     "oclcIncludeFile": "databases/brillonline.txt",
-    "lastUpdated": "2020-06-01"
+    "lastUpdated": "2021-06-30"
   },
   "Britannica_Academic": {
     "name": "Britannica Academic",
