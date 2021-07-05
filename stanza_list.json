@@ -4065,7 +4065,8 @@
     "name": "MarketResearch.com Academic",
     "stanza": "OCLC/MarketResearch_com_Academic.txt",
     "oclcStanzaId": "MarketResearch_com_Academic",
-    "lastUpdated": "2017-03-13"
+    "oclcIncludeFile": "databases/marketresearch.txt",
+    "lastUpdated": "2021-06-24"
   },
   "Marketing_Week": {
     "name": "Marketing Week",
