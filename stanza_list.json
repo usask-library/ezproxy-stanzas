@@ -6302,7 +6302,7 @@
     "stanza": "OCLC/Taylor_Francis_eBooks.txt",
     "oclcStanzaId": "Taylor_Francis_eBooks",
     "oclcIncludeFile": "databases/tandfebooks.txt",
-    "lastUpdated": "2019-03-22"
+    "lastUpdated": "2021-07-02"
   },
   "Taylor_Francis_Online": {
     "name": "Taylor and Francis Online",
