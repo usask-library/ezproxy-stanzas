@@ -2186,7 +2186,7 @@
     "stanza": "OCLC/EBSCOhost.txt",
     "oclcStanzaId": "EBSCO_Information_Services",
     "oclcIncludeFile": "databases/ebscohost.txt",
-    "lastUpdated": "2021-06-02"
+    "lastUpdated": "2021-06-29"
   },
   "EBSCO_LinkSource": {
     "name": "EBSCO LinkSource",
