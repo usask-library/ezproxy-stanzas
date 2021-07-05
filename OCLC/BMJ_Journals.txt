@@ -1,4 +1,4 @@
-Title BMJ Journals (updated 20191213)
+Title BMJ Journals (updated 20210625)
 URL http://journals.bmj.com
 Domain group.bmj.com
 HJ https://journals.bmj.com
@@ -90,6 +90,7 @@ HJ jech.bmj.com
 HJ https://jech.bmj.com
 HJ jech.bmjjournals.com
 HJ jech.com
+HJ https://jfprhc.bmj.com
 HJ jfprhc.bmj.com
 HJ jme.bmj.com
 HJ https://jme.bmj.com
@@ -165,6 +166,8 @@ HJ https://gh.bmj.com
 HJ gh.bmj.com
 HJ https://vetrecordopen.bmj.com
 HJ www.clinicalevidence.com
+HJ https://rapm.bmj.com
+HJ rapm.bmj.com
 HJ www.bmj.com
 HJ www.bmjjournals.com
 HJ www.injuryprevention.com
