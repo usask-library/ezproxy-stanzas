@@ -6725,7 +6725,7 @@
     "stanza": "OCLC/Westlaw.txt",
     "oclcStanzaId": "Westlaw",
     "oclcIncludeFile": "databases/westlaw.txt",
-    "lastUpdated": "2021-06-15"
+    "lastUpdated": "2021-07-01"
   },
   "Westlaw_China": {
     "name": "Westlaw China",
