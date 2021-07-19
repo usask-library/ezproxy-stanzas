@@ -6384,7 +6384,7 @@
     "stanza": "OCLC/Thieme.txt",
     "oclcStanzaId": "Thieme",
     "oclcIncludeFile": "databases/thiemeconnect.txt",
-    "lastUpdated": "2021-02-15"
+    "lastUpdated": "2021-07-12"
   },
   "Thieme_MedOne": {
     "name": "Thieme MedOne",
