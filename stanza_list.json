@@ -1312,7 +1312,7 @@
     "stanza": "OCLC/CNKI.txt",
     "oclcStanzaId": "cnki",
     "oclcIncludeFile": "databases/cnki.txt",
-    "lastUpdated": "2020-10-13"
+    "lastUpdated": "2021-07-12"
   },
   "CPA_Canada": {
     "name": "CPA Canada",
