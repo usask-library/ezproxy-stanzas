@@ -6233,11 +6233,11 @@
     "lastUpdated": "2020-05-15"
   },
   "Sydney_Morning_Herald": {
-    "name": "Sydney Morning Herald & Australian Financial Review Digital Subscriptions",
+    "name": "Australian Financial Review",
     "stanza": "OCLC/Sydney_Morning_Herald.txt",
     "oclcStanzaId": "smh",
     "oclcIncludeFile": "databases/smh.txt",
-    "lastUpdated": "2019-04-11"
+    "lastUpdated": "2021-07-07"
   },
   "SymptomMedia_Old": {
     "name": "Symptom Media (Old Platform)",
