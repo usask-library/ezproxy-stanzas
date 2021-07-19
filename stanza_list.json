@@ -5963,7 +5963,7 @@
     "note": "This resource is not compatible with EZproxy's Proxy by Port option. It is also not compatible with Proxy by Hostname using non-standard ports, though virtual login ports are acceptable",
     "oclcStanzaId": "ScienceAAAS",
     "oclcIncludeFile": "databases/science.txt",
-    "lastUpdated": "2019-03-19"
+    "lastUpdated": "2021-07-12"
   },
   "Science_Signaling": {
     "name": "Science Signaling",
