@@ -256,7 +256,7 @@
     "stanza": "OCLC/Access_NYT.txt",
     "oclcStanzaId": "Access_NYT",
     "oclcIncludeFile": "databases/accessnyt.txt",
-    "lastUpdated": "2015-05-20"
+    "lastUpdated": "2021-07-07"
   },
   "Access_Science": {
     "name": "Access Science",
