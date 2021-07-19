@@ -2754,12 +2754,12 @@
     "oclcStanzaId": "Galaxie_Software",
     "lastUpdated": "2015-12-21"
   },
-  "Gale_InfoTrac": {
+  "Gale_Products": {
     "name": "Gale InfoTrac",
-    "stanza": "OCLC/Gale_InfoTrac.txt",
-    "oclcStanzaId": "Gale_InfoTrac",
+    "stanza": "OCLC/Gale_Products.txt",
+    "oclcStanzaId": "Gale_Products",
     "oclcIncludeFile": "databases/gale.txt",
-    "lastUpdated": "2021-02-24"
+    "lastUpdated": "2021-07-06"
   },
   "GeoScienceWorld": {
     "name": "GeoScienceWorld",
