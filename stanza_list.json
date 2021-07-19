@@ -1577,6 +1577,13 @@
     "oclcIncludeFile": "databases/childlink.txt",
     "lastUpdated": "2016-07-14"
   },
+  "China_Research_Gateway": {
+    "name": "China Research Gateway",
+    "stanza": "OCLC/China_Research_Gateway.txt",
+    "oclcStanzaId": "China_Research_Gateway",
+    "oclcIncludeFile": "databases/chinaresearchgateway.txt",
+    "lastUpdated": "2021-07-02"
+  },
   "CLCD": {
     "name": "Children's Literature Comprehensive Database (CLCD)",
     "stanza": "OCLC/CLCD.txt",
