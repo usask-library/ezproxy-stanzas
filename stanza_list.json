@@ -1582,7 +1582,7 @@
     "stanza": "OCLC/China_Research_Gateway.txt",
     "oclcStanzaId": "China_Research_Gateway",
     "oclcIncludeFile": "databases/chinaresearchgateway.txt",
-    "lastUpdated": "2021-07-02"
+    "lastUpdated": "2021-07-12"
   },
   "CLCD": {
     "name": "Children's Literature Comprehensive Database (CLCD)",
@@ -2356,14 +2356,14 @@
     "stanza": "OCLC/EIU_Viewpoint.txt",
     "oclcStanzaId": "EIU_Viewpoint",
     "oclcIncludeFile": "databases/eiu_viewpoint.txt",
-    "lastUpdated": "2020-06-17"
+    "lastUpdated": "2021-06-17"
   },
   "EIU_Viewswire": {
     "name": "EIU Viewswire",
     "stanza": "OCLC/EIU_Viewswire.txt",
     "oclcStanzaId": "EIU_Viewswire",
     "oclcIncludeFile": "databases/eiu_viewswire.txt",
-    "lastUpdated": "2020-06-17"
+    "lastUpdated": "2021-06-17"
   },
   "El_Croquis_Digital_Library": {
     "name": "El Croquis Digital Library",
@@ -4281,7 +4281,7 @@
     "stanza": "OCLC/Microbiology_Society_Journals.txt",
     "oclcStanzaId": "Microbiology_Society_Journals",
     "oclcIncludeFile": "databases/microbiologyresearch.txt",
-    "lastUpdated": "2021-06-17"
+    "lastUpdated": "2019-03-11"
   },
   "Micromedex1": {
     "name": "Micromedex 1.0",
