@@ -2420,7 +2420,7 @@
     "stanza": "OCLC/Elsevier_ScienceDirect_and_Scopus.txt",
     "oclcStanzaId": "Elsevier_ScienceDirect_and_Scopus",
     "oclcIncludeFile": "databases/sciencedirect.txt",
-    "lastUpdated": "2020-12-04"
+    "lastUpdated": "2021-06-30"
   },
   "Elsevier_eLibrary_APAC": {
     "name": "Elsevier eLibrary APAC",
