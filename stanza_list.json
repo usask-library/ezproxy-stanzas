@@ -4875,7 +4875,7 @@
     "stanza": "OCLC/Ovid.txt",
     "oclcStanzaId": "Ovid",
     "oclcIncludeFile": "databases/ovid.txt",
-    "lastUpdated": "2021-06-07"
+    "lastUpdated": "2021-06-30"
   },
   "OvidChinese": {
     "name": "OvidChinese",
