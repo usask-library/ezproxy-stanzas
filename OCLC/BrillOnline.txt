@@ -1,73 +1,44 @@
-#This stanza is required to resolve the Cookie Banner popup solution
-AnonymousURL +*
-Title -hide CookieLaw
-HTTPHeader -Request Sec-*
-HTTPHeader -Response CF-*
-HTTPHeader -Response Expect-CT
-URL https://cdn.cookielaw.org
-DJ cookielaw.org
-DJ onetrust.com
-Find domain=."+i[0]+"
-Replace domain="+location.hostname+"
-Find domain=."+l[0]+"
-Replace domain="+location.hostname+"
-AnonymousURL -*
+#This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
 
 #Includes World Christian Database, World Religion Database and Arkyves
-Title BrillOnline (OCLC IncludeFile updated 20210630)
+
+Title BrillOnline (updated 20220124)
+HTTPHeader -request -process x-projectname
+HTTPHeader -request -process X-CSRFToken
 HTTPHeader -request -process X-Requested-With
 URL https://www.brill.com
 HJ https://brill.com
 HJ http://www.brillonline.com
-HJ babo.brillonline.nl
 HJ brill.com
 HJ bibliographies.brillonline.com
-HJ booksandjournals.brillonline.com
 HJ brillonline.com
-HJ ebooks.brillonline.nl
-HJ brillonline.nl
 HJ chinesereferenceshelf.brillonline.com
 HJ dictionaries.brillonline.com
-HJ iedo.brillonline.nl
-HJ lb.brillonline.nl
 HJ primarysources.brillonline.com
 HJ referenceworks.brillonline.com
 HJ www.brillonline.com
-HJ www.brillonline.nl
-HJ www.primarysourcesonline.nl
 HJ ybio.brillonline.com
-HJ www.foreignlawguide.com
-HJ foreignlawguide.com
 HJ scholarlyeditions.brill.com
 HJ https://scholarlyeditions.brill.com
-HJ https://babo.brillonline.nl
 HJ https://www.worldchristiandatabase.org
 HJ https://bibliographies.brillonline.com
-HJ https://booksandjournals.brillonline.com
 HJ https://brillonline.com
-HJ https://ebooks.brillonline.nl
-HJ https://brillonline.nl
 HJ https://chinesereferenceshelf.brillonline.com
 HJ https://dictionaries.brillonline.com
-HJ https://iedo.brillonline.nl
-HJ https://lb.brillonline.nl
 HJ https://primarysources.brillonline.com
 HJ https://referenceworks.brillonline.com
 HJ https://www.brillonline.com
-HJ https://www.brillonline.nl
-HJ https://www.primarysourcesonline.nl
 HJ https://ybio.brillonline.com
-HJ https://www.foreignlawguide.com
-HJ https://foreignlawguide.com
 HJ http://arkyves.org
 HJ https://www.arkyves.org
 HJ www.arkyves.org
-HJ http://www.worldchristiandatabase.org
 HJ https://www.worldchristiandatabase.org
 HJ www.worldchristiandatabase.org
-HJ http://worldreligiondatabase.org
 HJ https://worldreligiondatabase.org
 HJ https://www.worldreligiondatabase.org
+HJ https://dh.brill.com
+HJ dh.brill.com
+HJ labs.brill.com
 HJ https://fink.de/
 HJ https://schoeningh.de/
 HJ https://mentis.de/
@@ -80,6 +51,12 @@ HJ https://www.mentis.de/
 HJ http://www.fink.de/
 HJ http://www.schoeningh.de/
 HJ http://www.mentis.de/
+HJ booksandjournals.brillonline.com
+HJ brillonline.com
+HJ https://booksandjournals.brillonline.com
+HJ https://brillonline.com
+HJ https://www.brillonline.com
+HJ www.brillonline.com
 DJ fink.de
 DJ schoeningh.de
 DJ mentis.de
@@ -87,9 +64,9 @@ D arkyves.org
 DJ worldchristiandatabase.org
 DJ worldreligiondatabase.org
 DJ brillonline.com
-DJ brillonline.nl
-DJ foreignlawguide.com
 DJ brill.com
-NeverProxy brill.metastore.ingenta.com
-NeverProxy dh.brill.com
+DJ dh.brill.com
+DJ labs.brill.com
 NeverProxy iiif.arkyves.org
+NeverProxy data.brill.com
+NeverProxy prize-papers-atlas-online.brillonline.com
