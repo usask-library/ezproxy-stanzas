@@ -1,4 +1,4 @@
-Title Alexander Street
+Title Alexander Street  (updated 20211105)
 URL https://alexanderstreet.com/
 HJ alexanderstreet.com
 HJ https://search.alexanderstreet.com
@@ -46,6 +46,7 @@ HJ dkbl.alexanderstreet.com
 HJ dlcr.alexanderstreet.com
 HJ dntl.alexanderstreet.com
 HJ ediv.alexanderstreet.com
+HJ edtv.alexanderstreet.com
 HJ eena.alexanderstreet.com
 HJ eenz.alexanderstreet.com
 HJ fash.alexanderstreet.com
@@ -286,6 +287,7 @@ HJ https://dkbl.alexanderstreet.com
 HJ https://dlcr.alexanderstreet.com
 HJ https://dntl.alexanderstreet.com
 HJ https://ediv.alexanderstreet.com
+HJ https://edtv.alexanderstreet.com
 HJ https://eena.alexanderstreet.com
 HJ https://eenz.alexanderstreet.com
 HJ https://fash.alexanderstreet.com
@@ -488,20 +490,9 @@ Host https://www.aspresolver.com
 Domain aspresolver.com
 DJ academicvideostore.com
 HJ cdn.alexanderstreet.com
-Find "http:\/\/
-Replace "http://
-Find "https:\/\/
-Replace "https://
-Find domain="*.alexanderstreet.com"
+Find "http:\/\/ 
+Replace "http:// 
+Find "https:\/\/ 
+Replace "https:// 
+Find domain="*.alexanderstreet.com" 
 Replace domain="*"
-
-Title Alexander Street Press MARC Records (updated 20170719)
-URL http://www.aspresolver.com
-DJ aspresolver.com
-
-Title Alexander Street Video (updated 20201117)
-URL https://video.alexanderstreet.com
-DJ video.alexanderstreet.com
-NeverProxy https://dq8wtqudsgu83.cloudfront.net
-NeverProxy d3crmev290s45i.cloudfront.net
-NeverProxy media.proquest.com

@@ -1,8 +1,10 @@
-Title Alexander Street Press (updated 20201117)
+Title Alexander Street Press (updated 20210805)
 URL http://search.alexanderstreet.com
 Host https://search.alexanderstreet.com
 DJ alexanderstreet.com
 Host cdn.alexanderstreet.com
+HJ https://tcr3.alexanderstreet.com
+HJ https://tcr4.alexanderstreet.com
 NeverProxy https://dywyzs4z4lwvw.cloudfront.net
 NeverProxy d3crmev290s45i.cloudfront.net
 NeverProxy media.proquest.com
@@ -13,8 +15,9 @@ Replace "https://
 Find domain="*.alexanderstreet.com"
 Replace domain="*"
 
-Title Alexander Street Press MARC Records (updated 20170719)
+Title Alexander Street Press MARC Records (updated 20211007)
 URL http://www.aspresolver.com
+HJ https://www.aspresolver.com
 DJ aspresolver.com
 
 Title Alexander Street Video (updated 20201117)
