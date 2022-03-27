@@ -60,12 +60,17 @@ HJ https://www.bloomsburyfoodlibrary.com
 HJ https://bloomsburyfoodlibrary.com
 DJ bloomsburyfoodlibrary.com
 
-Title Bloomsbury Popular Music (updated 20200423)
-URL https://www.bloomsburypopularmusic.com/
-HJ www.bloomsburypopularmusic.com
+Title Bloomsbury Music and Sound (updated 20211214)
+URL https://www.bloomsburymusicandsound.com/
+HJ bloomsburymusicandsound.com
 HJ bloomsburypopularmusic.com
-HJ https://www.bloomsburypopularmusic.com
+HJ https://bloomsburymusicandsound.com
 HJ https://bloomsburypopularmusic.com
+HJ https://www.bloomsburymusicandsound.com
+HJ https://www.bloomsburypopularmusic.com
+HJ www.bloomsburymusicandsound.com
+HJ www.bloomsburypopularmusic.com
+DJ bloomsburymusicandsound.com
 DJ bloomsburypopularmusic.com
 
 Title Bloomsbury Professional Online (updated 20200807)
@@ -177,3 +182,11 @@ HJ fairchildbooksinteriordesign.com
 HJ https://www.fairchildbooksinteriordesign.com
 HJ https://fairchildbooksinteriordesign.com
 DJ fairchildbooksinteriordesign.com
+
+Title Bloomsbury History Theory & Method (updated 20210922)
+URL https://www.bloomsburyhistorytheorymethod.com/
+HJ www.bloomsburyhistorytheorymethod.com
+HJ bloomsburyhistorytheorymethod.com
+HJ https://www.bloomsburyhistorytheorymethod.com
+HJ https://bloomsburyhistorytheorymethod.com
+DJ bloomsburyhistorytheorymethod.com
