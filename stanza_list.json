@@ -6246,25 +6246,6 @@
     "oclcIncludeFile": "databases/smh.txt",
     "lastUpdated": "2021-07-07"
   },
-  "SymptomMedia_Old": {
-    "name": "Symptom Media (Old Platform)",
-    "stanza": "OCLC/SymptomMedia_Old.txt",
-    "oclcStanzaId": "SymptomMedia",
-    "rules": [
-      {
-        "rule": "Replace",
-        "term": "{user}",
-        "placeholder": "Your institution's username",
-        "enabled": true
-      },
-      {
-        "rule": "Replace",
-        "term": "{password}",
-        "placeholder": "Your institution's password",
-        "enabled": true
-      }
-    ]
-  },
   "SymptomMedia": {
     "name": "Symptom Media",
     "stanza": "OCLC/SymptomMedia.txt",
