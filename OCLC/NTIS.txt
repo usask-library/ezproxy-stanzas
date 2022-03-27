@@ -6,5 +6,5 @@ Replace <input name="ctl00$ContentPlaceHolder1$Login1$UserName" value=" youruser
 Find <input name="ctl00$ContentPlaceHolder1$Login1$Password"
 Replace <input name="ctl00$ContentPlaceHolder1$Login1$Password" value=" yourpassword"
 
-Title U.S. Government Printing Office's PURL service
+Title U.S. Government Publishing Office's PURL service
 URL http://purl.access.gpo.gov/
