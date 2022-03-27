@@ -1,6 +1,7 @@
-Title MAG Online Library (updated 20180102)
+Title MAG Online Library (updated 20210811)
 URL http://www.magonlinelibrary.com
 HJ https://magonlinelibrary.com
+HJ https://mag.scienceconnect.io
 HJ https://www.magonlinelibrary.com
 HJ intermid.co.uk
 HJ internurse.com
