@@ -1440,7 +1440,7 @@
     },
     "Bureau_of_National_Affairs": {
         "name": "Bureau of National Affairs (BNA)",
-        "stanza": "OCLC/BNA.txt",
+        "stanza": "OCLC/Bureau_of_National_Affairs.txt",
         "oclcStanzaId": "Bureau_of_National_Affairs_BNA",
         "oclcIncludeFile": "databases/bna.txt",
         "lastUpdated": "2017-09-27"
@@ -4972,6 +4972,13 @@
         "oclcIncludeFile": [
             "databases/naxos_japan.txt"
         ],
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "<Institution_ID>",
+                "placeholder": "The unique site identifier for your institution"
+            }
+        ],
         "lastUpdated": "2022-12-02"
     },
     "Naxos_Sheet_Music_Library": {
@@ -5012,7 +5019,8 @@
         "stanza": "OCLC/NEJM_Catalyst.txt",
         "oclcStanzaId": "NEJM_Catalyst",
         "oclcIncludeFile": "databases/nejm_catalyst.txt",
-        "lastUpdated": "2020-10-09"
+        "lastUpdated": "2020-10-09",
+        "note": "Remove the stanza on this page and replace it with NEJM Group."
     },
     "NEJM_Group": {
         "name": "NEJM Group",
@@ -5028,7 +5036,8 @@
         "stanza": "OCLC/NEJM_Journal_Watch.txt",
         "oclcStanzaId": "NEJM_Journal_Watch",
         "oclcIncludeFile": "databases/nejm_journalwatch.txt",
-        "lastUpdated": "2018-03-17"
+        "lastUpdated": "2018-03-17",
+        "note": "Remove the stanza on this page and replace it with NEJM Group."
     },
     "NEN_Connect": {
         "name": "NEN Connect",
@@ -5069,7 +5078,8 @@
         "stanza": "OCLC/New_England_Journal_of_Medicine.txt",
         "oclcStanzaId": "New_England_Journal_of_Medicine",
         "oclcIncludeFile": "databases/new_england_journal_medicine.txt",
-        "lastUpdated": "2021-06-03"
+        "lastUpdated": "2021-06-03",
+        "note": "Remove the stanza on this page and replace it with NEJM Group."
     },
     "New_Generation_Research": {
         "name": "New Generation Research",
@@ -5764,19 +5774,10 @@
         "oclcIncludeFile": "databases/politicopro.txt",
         "lastUpdated": "2019-07-16"
     },
-    "Politique_%C3%A9trang%C3%A8re": {
-        "name": "Politique \u00e9trang\u00e8re",
-        "stanza": "OCLC/Politique_%C3%A9trang%C3%A8re.txt",
-        "oclcStanzaId": "Politique_%C3%A9trang%C3%A8re",
-        "oclcIncludeFile": [
-            "databases/peg.txt"
-        ],
-        "lastUpdated": "2020-02-25"
-    },
     "Politique_etrangere": {
         "name": "Politique \u00e9trang\u00e8re",
         "stanza": "OCLC/Politique_etrangere.txt",
-        "oclcStanzaId": "Politique_\u00e9trang\u00e8re",
+        "oclcStanzaId": "Politique_%C3%A9trang%C3%A8re",
         "oclcIncludeFile": "databases/peg.txt",
         "lastUpdated": "2020-02-25"
     },
@@ -7269,9 +7270,9 @@
         "oclcIncludeFile": "databases/unebook.txt",
         "lastUpdated": "2022-03-24"
     },
-    "Universit%C3%A4tsverlag_Winter": {
+    "Universitatsverlag_Winter": {
         "name": "Universit\u00e4tsverlag Winter",
-        "stanza": "OCLC/Universit%C3%A4tsverlag_Winter.txt",
+        "stanza": "OCLC/Universitatsverlag_Winter.txt",
         "oclcStanzaId": "Universit%C3%A4tsverlag_Winter",
         "oclcIncludeFile": [
             "databases/universitatsverlagwinter.txt"
@@ -7491,6 +7492,13 @@
         "name": "Webenglish.tv",
         "stanza": "OCLC/Webenglish.tv.txt",
         "oclcStanzaId": "Webenglish.tv",
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "[Unique_SiteID]",
+                "placeholder": "Your Webenglish.tv unique site ID"
+            }
+        ],
         "lastUpdated": "2021-08-09"
     },
     "Web_of_Knowledge": {
