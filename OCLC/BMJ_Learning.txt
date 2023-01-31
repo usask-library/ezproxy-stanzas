@@ -1,3 +1,1 @@
-Title BMJ Learning (updated 20100421)
-URL http://learning.bmj.com
-DJ learning.bmj.com
+# BMJ Learning is now part of the BMJ stanza

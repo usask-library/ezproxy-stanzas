@@ -44,11 +44,15 @@ HJ https://www.bloomsburyphilosophylibrary.com
 HJ https://bloomsburyphilosophylibrary.com
 DJ bloomsburyphilosophylibrary.com
 
-Title Bloomsbury Fashion Central (updated 20200423)
+Title Bloomsbury Fashion Central (updated 20210525)
 URL https://www.bloomsburyfashioncentral.com
-HJ www.bloomsburyfashioncentral.com
-HJ www.bergfashionlibrary.com
+HJ bergfashionlibrary.com
 HJ bloomsburyfashioncentral.com
+HJ https://bergfashionlibrary.com
+HJ https://bloomsburyfashioncentral.com
+HJ https://www.bergfashionlibrary.com
+HJ www.bergfashionlibrary.com
+HJ www.bloomsburyfashioncentral.com
 DJ bergfashionlibrary.com
 DJ bloomsburyfashioncentral.com
 
@@ -86,6 +90,14 @@ Title Churchill Archive (updated 20200423)
 URL http://www.churchillarchive.com/
 HJ churchillarchive.com
 DJ churchillarchive.com
+
+Title Cite Them Right Online (updated 20220602)
+URL https://www.citethemrightonline.com/
+HJ www.citethemrightonline.com
+HJ citethemrightonline.com
+HJ https://www.citethemrightonline.com/
+HJ https://citethemrightonline.com/
+DJ citethemrightonline.com
 
 Title Drama Online (updated 20200709)
 URL https://www.dramaonlinelibrary.com/
@@ -190,3 +202,11 @@ HJ bloomsburyhistorytheorymethod.com
 HJ https://www.bloomsburyhistorytheorymethod.com
 HJ https://bloomsburyhistorytheorymethod.com
 DJ bloomsburyhistorytheorymethod.com
+
+Title Bloomsbury Video Library (updated 20221216)
+URL https://www.bloomsburyvideolibrary.com/
+HJ www.bloomsburyvideolibrary.com
+HJ bloomsburyvideolibrary.com
+HJ https://www.bloomsburyvideolibrary.com
+HJ https://bloomsburyvideolibrary.com
+DJ bloomsburyvideolibrary.com
