@@ -1,0 +1,11 @@
+AnonymousURL +https://api.digitalconcerthall.com/*
+AnonymousURL +https://sentry.digitalconcerthall.com/*
+AnonymousURL +https://plausible.digitalconcerthall.com/*
+AnonymousURL +https://apps.digitalconcerthall.com/*
+Title Digital Concert Hall(OCLC IncludeFile updated 20220809)
+URL https://www.digitalconcerthall.com
+HJ https://www.digitalconcerthall.com
+HJ www.digitalconcerthall.com
+DJ digitalconcerthall.com
+AnonymousURL -*
+NeverProxy https://images.digitalconcerthall.com

@@ -1,4 +1,6 @@
-Title SAE MOBILUS (updated 20200408)
+#This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
+
+Title SAE MOBILUS (OCLC IncludeFile updated 20220812)
 URL http://saemobilus.sae.org
 HJ https://sae.org
 HJ https://saemobilus.sae.org

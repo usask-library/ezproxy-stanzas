@@ -1,16 +1,19 @@
+AnonymousURL +https://*.onlinelibrary.wiley.com/action/*
 Option DomainCookieOnly
 Option X-Forwarded-For
 HTTPMethod OPTIONS
 HTTPMethod DELETE
 HTTPMethod PUT
 Cookie theproxy=ezproxy; domain=.onlinelibrary.wiley.com
-Title Wiley Online (updated 20210420)
+Title Wiley Online (OCLC IncludeFile updated 20230119)
 MimeFilter application/json .* javascript
+MimeFilter text/plain .* javascript
 HTTPHeader -request -process X-Requested-With
 HTTPHeader -response -block X-Frame-Options
 HTTPHeader -response -block Content-Security-Policy
 HTTPheader -request -process x-application-id
 HTTPheader -request -process x-Request-ID
+HTTPHeader -request -process X-Transient-SubjectID
 URL https://onlinelibrary.wiley.com
 H http://onlinelibrary.wiley.com
 HJ https://pericles.one-lts.literatumonline.com/
@@ -36,14 +39,17 @@ HJ anzjsurg.onlinelibrary.wiley.com
 HJ api.wiley.com
 HJ ascpt.onlinelibrary.wiley.com
 HJ aslopubs.onlinelibrary.wiley.com
+HJ aspenjournals.onlinelibrary.wiley.com
 HJ asbmr.onlinelibrary.wiley.com
 HJ besjournals.onlinelibrary.wiley.com
 HJ beva.onlinelibrary.wiley.com
 HJ bjssjournals.onlinelibrary.wiley.com
 HJ bjui-journals.onlinelibrary.wiley.com
 HJ bpspubs.onlinelibrary.wiley.com
+HJ bsssjournals.onlinelibrary.wiley.com
 HJ ceramics.onlinelibrary.wiley.com
 HJ chemistry-europe.onlinelibrary.wiley.com
+HJ compass.onlinelibrary.wiley.com
 HJ conbio.onlinelibrary.wiley.com
 HJ currentprotocols.onlinelibrary.wiley.com
 HJ doi.wiley.com
@@ -65,6 +71,7 @@ HJ obgyn.onlinelibrary.wiley.com
 HJ physoc.onlinelibrary.wiley.com
 HJ rmets.onlinelibrary.wiley.com
 HJ rai.onlinelibrary.wiley.com
+HJ resjournals.onlinelibrary.wiley.com
 HJ rss.onlinelibrary.wiley.com
 HJ secure.onlinelibrary.wiley.com
 HJ setac.onlinelibrary.wiley.com
@@ -95,6 +102,7 @@ HJ rsaiconnect.onlinelibrary.wiley.com
 HJ sfamjournals.onlinelibrary.wiley.com
 HJ sttipubs.onlinelibrary.wiley.com
 HJ wchh.onlinelibrary.wiley.com
+HJ bvajournals.onlinelibrary.wiley.com
 HJ www.birpublications.org
 HJ www.clinmicronow.org
 HJ www.embopress.org
@@ -129,11 +137,14 @@ HJ https://api.wiley.com
 HJ https://aps.onlinelibrary.wiley.com
 HJ https://ascpt.onlinelibrary.wiley.com
 HJ https://aslopubs.onlinelibrary.wiley.com
+HJ https://aspenjournals.onlinelibrary.wiley.com
 HJ https://besjournals.onlinelibrary.wiley.com
 HJ https://bjssjournals.onlinelibrary.wiley.com
 HJ https://bsapubs.onlinelibrary.wiley.com
+HJ https://bsssjournals.onlinelibrary.wiley.com
 HJ https://ceramics.onlinelibrary.wiley.com
 HJ https://currentprotocols.onlinelibrary.wiley.com
+HJ https://compass.onlinelibrary.wiley.com
 HJ https://doi.wiley.com
 HJ https://efsa.onlinelibrary.wiley.com
 HJ https://www.embopress.org
@@ -151,6 +162,7 @@ HJ https://nyaspubs.onlinelibrary.wiley.com
 HJ https://obgyn.onlinelibrary.wiley.com
 HJ https://physoc.onlinelibrary.wiley.com
 HJ https://rai.onlinelibrary.wiley.com
+HJ https://resjournals.onlinelibrary.wiley.com
 HJ https://rgs-ibg.onlinelibrary.wiley.com
 HJ https://rmets.onlinelibrary.wiley.com
 HJ https://rss.onlinelibrary.wiley.com
@@ -208,9 +220,12 @@ HJ https://sfamjournals.onlinelibrary.wiley.com
 HJ https://sttipubs.onlinelibrary.wiley.com
 HJ https://wchh.onlinelibrary.wiley.com
 HJ https://wildlife.onlinelibrary.wiley.com
+HJ https://bvajournals.onlinelibrary.wiley.com
+HJ https://analyticalsciencejournals.onlinelibrary.wiley.com 
 DJ wiley.com
 DJ esajournals.org
 DJ wileyopenaccess.com
 DJ wileyonlinelibrary.com
 Option NoX-Forwarded-For
 Option Cookie
+AnonymousURL -*

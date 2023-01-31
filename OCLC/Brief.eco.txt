@@ -1,0 +1,13 @@
+AnonymousURL +https://www.brief.eco/api/*
+T Brief.eco (updated 20230124)
+U https://www.brief.eco
+HJ https://www.brief.eco
+HJ https://app.brief.eco
+DJ brief.eco
+Find "//www.").concat(
+Replace "//www-").concat(
+Find domain:"brief.eco"
+Replace domain:"^Sbrief.eco^"
+Find "https://www.".concat(
+Replace "https://www-".concat(
+AnonymousURL -*

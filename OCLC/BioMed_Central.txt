@@ -1,4 +1,4 @@
-Title BioMed Central (updated 20200731)
+Title BioMed Central (updated 20210719)
 URL https://www.biomedcentral.com
 HJ https://www.biomedcentral.com
 HJ www.biomedcentral.com
@@ -564,6 +564,8 @@ HJ particleandfibretoxicology.biomedcentral.com
 HJ https://particleandfibretoxicology.biomedcentral.com
 HJ pathogeneticsjournal.biomedcentral.com
 HJ https://pathogeneticsjournal.biomedcentral.com
+HJ payment.biomedcentral.com
+HJ https://payment.biomedcentral.com
 HJ ped-rheum.biomedcentral.com
 HJ https://ped-rheum.biomedcentral.com
 HJ peh-med.biomedcentral.com

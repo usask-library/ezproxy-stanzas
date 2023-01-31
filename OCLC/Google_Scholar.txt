@@ -1,4 +1,4 @@
-Title Google Scholar (updated 20170823)
+Title Google Scholar (Updated 20221007)
 URL http://scholar.google.com
 Host https://scholar.google.com
 Host scholar.google.com.au
@@ -22,3 +22,9 @@ Host https://scholar.google.se
 Host scholar.google.co.za
 Host https://scholar.google.co.za
 Host www.scholar.google.com
+Host https://scholar.google.ae
+Host scholar.google.ae
+Host https://scholar.google.be
+Host scholar.google.be
+Host https://scholar.google.it
+Host scholar.google.it

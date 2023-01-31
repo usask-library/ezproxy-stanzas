@@ -1,9 +1,22 @@
-Title HeinOnline (updated 20180326)
+AnonymousURL +https://heinonline.org/HOL/AuthorListMyHein*
+AnonymousURL +https://my.heinonline.org/myhein/*
+AnonymousURL +https://my.heinonline.org/js/*
+AnonymousURL +https://heinonline.org/static/*
+AnonymousURL +https://heinonline.org/HeinDocs/*
+AnonymousURL +https://heinonline.org/HOL/MyHeinTestMyHein*
+Title HeinOnline (Updated 20221104)
+MimeFilter text/event-stream .* javascript
 URL http://www.heinonline.org/HOL/Welcome
 HJ heinonline.org
 HJ home.heinonline.org
 HJ www.heinonline.org
+HJ my.heinonline.org
+HJ tim.heinonline.org
 HJ https://heinonline.org
 HJ https://home.heinonline.org
 HJ https://www.heinonline.org
+HJ https://tim.heinonline.org
+HJ https://my.heinonline.org
 DJ heinonline.org
+Option AllowSendGZip
+AnonymousURL -*

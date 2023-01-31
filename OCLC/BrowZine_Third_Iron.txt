@@ -1,4 +1,4 @@
-Title Third Iron Library Technologies (updated 20161103)
+Title Third Iron Library Technologies (Updated 20211116)
 URL http://thirdiron.com
 HJ https://thirdiron.com
 HJ https://api.thirdiron.com
@@ -13,8 +13,10 @@ HJ dev.thirdiron.com
 DJ thirdiron.com
 Find url = "http://
 Replace url = "http://^A
+NeverProxy public-api.thirdiron.com
+NeverProxy libkey.io
 
-Title BrowZine by Third Iron
+Title BrowZine by Third Iron (Updated 20211116)
 URL https://browzine.com
 HJ https://browzine.com
 HJ https://api.browzine.com

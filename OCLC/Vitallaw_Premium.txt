@@ -1,18 +1,18 @@
-HTTPMethod DELETE
-ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-HTTPHeader X-GWT-*
-HTTPHeader X-ApiKey
-HTTPHeader X-CPID
-Title Wolters Kluwer Cheetah (updated 20190524)
-URL http://wkcheetah.com
-HJ https://login.intelliconnect.cch.com
+Title Vitallaw Premium (updated 20211101)
+URL https://my.vitallaw.com
+HJ http://my.vitallaw.com
 HJ https://login.wolterskluwer.com
-HJ https://wkcheetah.com
-HJ https://www.wkcheetah.com
-HJ www.wkcheetah.com
-DJ wkcheetah.com
+HJ https://tools.cch.com
+HJ https://smartcharts.cch.com
+HJ https://smartcharts.wolterskluwer.com
+HJ https://www.kluwerarbitration.com
+HJ https://www.kluwercompetitionlaw.com
+HJ https://www.kluweriplaw.com
+HJ https://www.rbsourcefilings.com
+DJ IntelliConnect.cch.com
 DJ cch.com
 DJ wolterskluwer.com
-MimeFilter application/json .* javascript
+DJ vitallaw.com
+Mimefilter application/json .* javascript
 Find http:\/\/
 Replace http://

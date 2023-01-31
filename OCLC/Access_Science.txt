@@ -1,7 +1,9 @@
-Title Access Science (updated 20190812)
+Title Access Science (updated 20220909)
 URL https://www.accessscience.com
 HJ accessscience.com
 HJ https://accessscience.com
 HJ https://www.accessscience.com
 HJ www.accessscience.com
+HJ https://idp.sams-sigma.com
+HJ idp.sams-sigma.com
 DJ accessscience.com

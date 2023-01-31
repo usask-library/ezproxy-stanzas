@@ -1,5 +1,5 @@
 Title Archivaria (updated 20200825)
-URL http://archivaria.ca/index.php/archivaria/issue/archive
+URL http://archivaria.ca/index.php/archivaria/issue/archive  
 HJ http://archivaria.ca
 HJ https://archivaria.ca
 DJ archivaria.ca

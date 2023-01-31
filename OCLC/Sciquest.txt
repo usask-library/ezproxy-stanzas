@@ -1,4 +1,7 @@
-Title Sciquest (updated 20191223)
-URL http://www.sciquest.org.nz/
-HJ www.sciquest.org.nz
+Title SciQuest(updated 20230123)
+URL https://www.sciquest.org.nz/
+HJ https://nzva.org.nz
+HJ http://nzva.org.nz
+HJ http://www.sciquest.org.nz
 DJ sciquest.org.nz
+DJ nzva.org.nz

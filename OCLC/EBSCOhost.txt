@@ -8,9 +8,10 @@ Option Cookie
 #
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (updated 20211217)
+Title EBSCOhost (OCLC IncludeFile updated 20220926)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
+HTTPHeader -request -process X-EIS-STSTOKEN
 URL https://search.ebscohost.com/login.aspx
 HJ https://search.ebscohost.com
 HJ https://resolver.ebscohost.com
@@ -37,6 +38,7 @@ HJ m.ebscohost.com
 HJ https://openurl.ebsco.com
 HJ openurl.ebscohost.com
 HJ resolver.ebscohost.com
+HJ search.ebscohost.com
 HJ search.ebscohost.mobi
 HJ search.epnet.com
 HJ novelist.epnet.com
@@ -46,6 +48,7 @@ HJ web.c.ebscohost.com
 HJ web.d.ebscohost.com
 HJ web.e.ebscohost.com
 HJ web.ebscohost.com
+HJ https://web.p.ebscohost.com
 HJ web.p.ebscohost.com
 HJ web.s.ebscohost.com
 HJ eds.p.ebscohost.com
@@ -93,6 +96,7 @@ NeverProxy *.footnotelibrary.com
 #NeverProxy *.ebsco-content.com
 NeverProxy app.rs.ebscohost.com
 NeverProxy media.rs.ebscohost.com
+neverProxy neverproxy.ebsco.com
 NeverProxy vttts.rs.ebscohost.com
 NeverProxy nvntts.rs.ebscohost.com
 NeverProxy ivotts.rs.ebscohost.com

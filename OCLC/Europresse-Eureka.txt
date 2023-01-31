@@ -10,6 +10,6 @@ HJ new.europresse.com
 HJ new.eureka.cc
 NeverProxy pro.fontawesome.com
 NeverProxy maxcdn.bootstrapcdn.com
-NeverProxy fonts.googleapis.com
+NeverProxy fonts.googleapis.com 
 NeverProxy ajax.googleapis.com
 NeverProxy cdn.mxpnl.com

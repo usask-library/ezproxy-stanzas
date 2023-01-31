@@ -1,11 +1,14 @@
+#This stanza is required to resolve the Cookie Banner popup issue IncludeFile databases/cookielaw.txt
+
 AnonymousURL https://statcdn.com/*
 AnonymousURL https://cdn.statcdn.com/*
-TITLE Statista (updated 20191218)
+TITLE Statista (IncludeFile Updated 20230116)
 URL https://www.statista.com
 HJ de.statista.com
 HJ en.statista.com
 HJ es.statista.com
 HJ fr.statista.com
+HJ https://statista.com
 HJ https://de.statista.com
 HJ https://en.statista.com
 HJ https://es.statista.com

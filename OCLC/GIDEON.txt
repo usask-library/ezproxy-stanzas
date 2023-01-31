@@ -1,9 +1,9 @@
-Title GIDEON Online (updated 20200824)
-URL https://web.gideononline.com/loginx.php?user=[INSTITUTION_ID]
-HJ http://web.gideononline.com
+AnonymousURL +https://ebooks-gideononline.com*
+Title GIDEON Online (updated 20220621)
+URL https://app.gideononline.com
 HJ app.gideononline.com
-HJ web.gideononline.com
 HJ www.gideononline.com
+HJ https://ebooks.gideononline.com
 DJ gideononline.com
-Find 'web.gideononline.com'
-Replace '^Sweb.gideononline.com^'
+AnonymousURL -*
+NeverProxy https://cloudfront.gideononline.com

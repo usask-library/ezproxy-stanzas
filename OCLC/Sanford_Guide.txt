@@ -1,8 +1,4 @@
-Option X-Forwarded-For
-Title Sanford Guide (updated 20200901)
+Title Sanford Guide (updated 20220922)
+HTTPHeader -response -block Content-Security-Policy
 URL https://webedition.sanfordguide.com
 HJ webedition.sanfordguide.com
-HJ https://register.sanfordguide.com
-HJ register.sanfordguide.com
-DJ sanfordguide.com
-Option NoX-Forwarded-For

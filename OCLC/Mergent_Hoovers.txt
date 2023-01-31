@@ -1,5 +1,5 @@
 Title Mergent Hoovers (updated 20181214)
 URL https://www.mergentonline.com/Hoovers
-HJ https://app.avention.com/
+HJ https://app.avention.com/  
 DJ app.avention.com
 DJ mergentonline.com

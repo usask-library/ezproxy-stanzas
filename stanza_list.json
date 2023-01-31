@@ -22,7 +22,7 @@
         "stanza": "OCLC/AACN_Journals.txt",
         "oclcStanzaId": "AACN_Journals",
         "oclcIncludeFile": "databases/aacnjournals.txt",
-        "lastUpdated": "2020-04-14"
+        "lastUpdated": "2022-06-21"
     },
     "AAIDD_Online_Journals": {
         "name": "AAIDD Online Journals",
@@ -124,14 +124,14 @@
         "stanza": "OCLC/Access_NYT.txt",
         "oclcStanzaId": "Access_NYT",
         "oclcIncludeFile": "databases/accessnyt.txt",
-        "lastUpdated": "2021-07-07"
+        "lastUpdated": "2022-08-05"
     },
     "Access_Science": {
         "name": "Access Science",
         "stanza": "OCLC/Access_Science.txt",
         "oclcStanzaId": "Access_Science",
         "oclcIncludeFile": "databases/accessscience.txt",
-        "lastUpdated": "2019-08-12"
+        "lastUpdated": "2022-09-09"
     },
     "Access_Video_Demand": {
         "name": "Access Video On Demand",
@@ -165,7 +165,7 @@
         "stanza": "OCLC/ACM_Digital_Library.txt",
         "oclcStanzaId": "ACM_Digital_Library",
         "oclcIncludeFile": "databases/acm.txt",
-        "lastUpdated": "2020-09-29"
+        "lastUpdated": "2021-10-19"
     },
     "Acoustical_Society_of_America": {
         "name": "Acoustical Society of America",
@@ -186,7 +186,7 @@
         "stanza": "OCLC/Adam_Matthew_Digital.txt",
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
-        "lastUpdated": "2021-06-04"
+        "lastUpdated": "2023-01-04"
     },
     "Adweek": {
         "name": "Adweek",
@@ -194,6 +194,15 @@
         "oclcStanzaId": "Adweek",
         "oclcIncludeFile": "databases/adweek.txt",
         "lastUpdated": "2021-04-22"
+    },
+    "Ad_Fontes_Media": {
+        "name": "Ad Fontes Media",
+        "stanza": "OCLC/Ad_Fontes_Media.txt",
+        "oclcStanzaId": "Ad_Fontes_Media",
+        "oclcIncludeFile": [
+            "databases/adfontesmedia.txt"
+        ],
+        "lastUpdated": "2022-03-09"
     },
     "Aesthetic_and_Cosmetology_Video_Source": {
         "name": "Aesthetic & Cosmetology Video Source",
@@ -215,6 +224,15 @@
         "oclcStanzaId": "African_Journals_Online",
         "oclcIncludeFile": "databases/ajol.txt",
         "lastUpdated": "2019-11-08"
+    },
+    "Africa_Commons": {
+        "name": "Africa Commons",
+        "stanza": "OCLC/Africa_Commons.txt",
+        "oclcStanzaId": "Africa_Commons",
+        "oclcIncludeFile": [
+            "databases/africacommons.txt"
+        ],
+        "lastUpdated": "2022-12-02"
     },
     "Africa_Knowledge_Project": {
         "name": "Africa Knowledge Project",
@@ -242,6 +260,33 @@
         "oclcStanzaId": "AHA_Journals",
         "oclcIncludeFile": "databases/ahajournals.txt",
         "lastUpdated": "2020-10-23"
+    },
+    "Aida": {
+        "name": "Aida",
+        "stanza": "OCLC/Aida.txt",
+        "oclcStanzaId": "Aida",
+        "oclcIncludeFile": [
+            "databases/bvdinfo.txt"
+        ],
+        "lastUpdated": "2022-07-28"
+    },
+    "Ainosco_Search": {
+        "name": "Ainosco Search",
+        "stanza": "OCLC/Ainosco_Search.txt",
+        "oclcStanzaId": "Ainosco_Search",
+        "oclcIncludeFile": [
+            "databases/ainoscosearch.txt"
+        ],
+        "lastUpdated": "2022-06-02"
+    },
+    "Airiti_Library": {
+        "name": "Airiti Library",
+        "stanza": "OCLC/Airiti_Library.txt",
+        "oclcStanzaId": "Airiti_Library",
+        "oclcIncludeFile": [
+            "databases/airiti_library.txt"
+        ],
+        "lastUpdated": "2022-05-24"
     },
     "Akademiai_Kiado": {
         "name": "Akademiai Kiado",
@@ -279,6 +324,15 @@
         "oclcStanzaId": "Alkem_Library",
         "lastUpdated": "2016-07-13"
     },
+    "Alliance_for_Audited_Media_formerly_Media_Intelligence_Center": {
+        "name": "Alliance for Audited Media (formerly Media Intelligence Center)",
+        "stanza": "OCLC/Alliance_for_Audited_Media_formerly_Media_Intelligence_Center.txt",
+        "oclcStanzaId": "Alliance_for_Audited_Media_formerly_Media_Intelligence_Center",
+        "oclcIncludeFile": [
+            "databases/media_intelligence_center.txt"
+        ],
+        "lastUpdated": "2022-02-23"
+    },
     "All_That_Stats": {
         "name": "All That Stats",
         "stanza": "OCLC/All_That_Stats.txt",
@@ -290,14 +344,17 @@
         "name": "Almanac of the Federal Fiduciary, The",
         "stanza": "OCLC/Almanac_Federal_Fiduciary.txt",
         "oclcStanzaId": "Almanac_Federal_Fiduciary",
-        "lastUpdated": "2016-09-08"
+        "lastUpdated": "2021-07-26",
+        "oclcIncludeFile": [
+            "databases/almanacfederalfiduciary.txt"
+        ]
     },
     "Amadeus": {
         "name": "Amadeus",
         "stanza": "OCLC/Amadeus.txt",
         "oclcStanzaId": "Amadeus",
         "oclcIncludeFile": "databases/amadeus.txt",
-        "lastUpdated": "2015-08-04"
+        "lastUpdated": "2022-07-28"
     },
     "AMA_Manual_of_Style": {
         "name": "AMA Manual of Style",
@@ -318,7 +375,7 @@
         "stanza": "OCLC/American_Academy_of_Pediatrics.txt",
         "oclcStanzaId": "American_Academy_of_Pediatrics_formerly_Pediatrics",
         "oclcIncludeFile": "databases/pediatrics.txt",
-        "lastUpdated": "2019-08-07"
+        "lastUpdated": "2022-06-09"
     },
     "American_Association_for_Cancer_Research": {
         "name": "American Association for Cancer Research",
@@ -416,7 +473,7 @@
         "stanza": "OCLC/American_Meteorological_Society.txt",
         "oclcStanzaId": "American_Meteorological_Society",
         "oclcIncludeFile": "databases/americanmeteorologicalsociety.txt",
-        "lastUpdated": "2020-12-10"
+        "lastUpdated": "2022-06-21"
     },
     "American_National_Biography": {
         "name": "American National Biography",
@@ -431,7 +488,7 @@
         "stanza": "OCLC/American_Occupational_Therapy_Association.txt",
         "oclcStanzaId": "American_Occupational_Therapy_Association",
         "oclcIncludeFile": "databases/aota.txt",
-        "lastUpdated": "2017-10-10"
+        "lastUpdated": "2022-01-24"
     },
     "American_Physical_Therapy_Association": {
         "name": "American Physical Therapy Association",
@@ -462,6 +519,15 @@
         "oclcIncludeFile": "databases/americanphytopathologicalsociety.txt",
         "lastUpdated": "2019-10-25"
     },
+    "American_Podiatric_Medical_Association": {
+        "name": "American Podiatric Medical Association",
+        "stanza": "OCLC/American_Podiatric_Medical_Association.txt",
+        "oclcStanzaId": "American_Podiatric_Medical_Association",
+        "oclcIncludeFile": [
+            "databases/podiatric.txt"
+        ],
+        "lastUpdated": "2022-03-03"
+    },
     "American_Public_Health_Association": {
         "name": "American Public Health Association",
         "stanza": "OCLC/American_Public_Health_Association.txt",
@@ -481,7 +547,7 @@
         "stanza": "OCLC/American_Society_for_Cell_Biology.txt",
         "oclcStanzaId": "American_Society_for_Cell_Biology",
         "oclcIncludeFile": "databases/cellbiology.txt",
-        "lastUpdated": "2019-09-16"
+        "lastUpdated": "2022-06-24"
     },
     "American_Society_for_Clinical_Investigation": {
         "name": "American Society for Clinical Investigation",
@@ -502,7 +568,7 @@
         "stanza": "OCLC/American_Society_Hematology.txt",
         "oclcStanzaId": "American_Society_Hematology",
         "oclcIncludeFile": "databases/hematology.txt",
-        "lastUpdated": "2019-09-17"
+        "lastUpdated": "2022-06-27"
     },
     "American_Society_of_Civil_Engineers": {
         "name": "American Society of Civil Engineers",
@@ -516,7 +582,16 @@
         "stanza": "OCLC/American_Society_of_Clinical_Oncology.txt",
         "oclcStanzaId": "American_Society_of_Clinical_Oncology",
         "oclcIncludeFile": "databases/asco.txt",
-        "lastUpdated": "2019-04-24"
+        "lastUpdated": "2020-05-02"
+    },
+    "American_Society_of_Neuroradiology_and_AJNR": {
+        "name": "American Society of Neuroradiology & AJNR",
+        "stanza": "OCLC/American_Society_of_Neuroradiology_and_AJNR.txt",
+        "oclcStanzaId": "American_Society_of_Neuroradiology_and_AJNR",
+        "oclcIncludeFile": [
+            "databases/ajnr.txt"
+        ],
+        "lastUpdated": "2022-06-21"
     },
     "American_Society_of_Plant_Biologists": {
         "name": "American Society of Plant Biologists",
@@ -537,14 +612,14 @@
         "stanza": "OCLC/American_Speech_Language_Hearing_Association_ASHA.txt",
         "oclcStanzaId": "American_Speech_Language_Hearing_Association_ASHA",
         "oclcIncludeFile": "databases/asha.txt",
-        "lastUpdated": "2020-08-07"
+        "lastUpdated": "2022-12-09"
     },
     "American_Veterinary_Medical_Association": {
         "name": "American Veterinary Medical Association",
         "stanza": "OCLC/American_Veterinary_Medical_Association.txt",
         "oclcStanzaId": "American_Veterinary_Medical_Association",
         "oclcIncludeFile": "databases/avmajournals.txt",
-        "lastUpdated": "2019-11-27"
+        "lastUpdated": "2021-10-28"
     },
     "American_Welding_Society_Digital_Library": {
         "name": "American Welding Society Digital Library",
@@ -565,7 +640,7 @@
         "stanza": "OCLC/Anatomy_TV.txt",
         "oclcStanzaId": "Anatomy_TV",
         "oclcIncludeFile": "databases/anatomytv.txt",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2022-02-24"
     },
     "Ancestry_Library": {
         "name": "Ancestry Library",
@@ -591,7 +666,7 @@
         "stanza": "OCLC/Annual_Reviews.txt",
         "oclcStanzaId": "Annual_Reviews",
         "oclcIncludeFile": "databases/annualreviews.txt",
-        "lastUpdated": "2018-02-20"
+        "lastUpdated": "2021-12-14"
     },
     "AnthroSource": {
         "name": "AnthroSource",
@@ -619,21 +694,21 @@
         "stanza": "OCLC/APA_PsycNET.txt",
         "oclcStanzaId": "APA_PsycNET",
         "oclcIncludeFile": "databases/apa_psycnet.txt",
-        "lastUpdated": "2021-06-07"
+        "lastUpdated": "2022-05-27"
     },
     "APA_Style_CENTRAL": {
         "name": "Academic Writer (formerly APA Style CENTRAL)",
         "stanza": "OCLC/APA_Style_CENTRAL.txt",
         "oclcStanzaId": "apastylecentral",
         "oclcIncludeFile": "databases/apastylecentral.txt",
-        "lastUpdated": "2020-09-23"
+        "lastUpdated": "2021-10-26"
     },
     "APS_Journals": {
         "name": "APS Journals",
         "stanza": "OCLC/APS_Journals.txt",
         "oclcStanzaId": "APS_Journals",
         "oclcIncludeFile": "databases/aps_journals.txt",
-        "lastUpdated": "2019-09-20"
+        "lastUpdated": "2023-01-04"
     },
     "AP_Photo_Archive": {
         "name": "AP Photo Archive",
@@ -654,7 +729,7 @@
         "stanza": "OCLC/Architects_Journal.txt",
         "oclcStanzaId": "Architects_Journal",
         "oclcIncludeFile": "databases/theaj.txt",
-        "lastUpdated": "2015-05-07"
+        "lastUpdated": "2022-06-13"
     },
     "Archivaria": {
         "name": "Archivaria",
@@ -689,6 +764,15 @@
         "oclcIncludeFile": "databases/artinfo.txt",
         "lastUpdated": "2015-12-01"
     },
+    "Artron_Art_Books_Database": {
+        "name": "Artron Art Books Database",
+        "stanza": "OCLC/Artron_Art_Books_Database.txt",
+        "oclcStanzaId": "Artron_Art_Books_Database",
+        "oclcIncludeFile": [
+            "databases/artron.txt"
+        ],
+        "lastUpdated": "2021-12-18"
+    },
     "Artstor": {
         "name": "ARTstor",
         "stanza": "OCLC/Artstor.txt",
@@ -710,6 +794,15 @@
         "oclcIncludeFile": "databases/arts-search.txt",
         "lastUpdated": "2020-05-04"
     },
+    "Asahi_Shimbun_Cross-Search": {
+        "name": "Asahi Shimbun Cross-Search",
+        "stanza": "OCLC/Asahi_Shimbun_Cross-Search.txt",
+        "oclcStanzaId": "Asahi_Shimbun_Cross-Search",
+        "oclcIncludeFile": [
+            "databases/asahi.txt"
+        ],
+        "lastUpdated": "2022-07-12"
+    },
     "Asia_Studies": {
         "name": "Asia-Studies",
         "stanza": "OCLC/Asia_Studies.txt",
@@ -722,35 +815,53 @@
         "stanza": "OCLC/ASME_Digital_Collection.txt",
         "oclcStanzaId": "asme",
         "oclcIncludeFile": "databases/asme.txt",
-        "lastUpdated": "2018-03-19"
+        "lastUpdated": "2022-07-12"
     },
     "ASM_International": {
         "name": "ASM International",
         "stanza": "OCLC/ASM_International.txt",
         "oclcStanzaId": "ASM_International",
         "oclcIncludeFile": "databases/asminternational.txt",
-        "lastUpdated": "2020-01-29"
+        "lastUpdated": "2022-06-21"
     },
     "Aspen_Learning_Library": {
         "name": "Aspen Learning Library (formerly AspenLaw eBooks)",
         "stanza": "OCLC/Aspen_Learning_Library.txt",
         "oclcStanzaId": "Aspen_Learning_Library",
         "oclcIncludeFile": "databases/aspenlaw.txt",
-        "lastUpdated": "2019-06-26"
+        "lastUpdated": "2021-12-21"
     },
     "ASPET_Journals_Online": {
         "name": "ASPET Journals Online",
         "stanza": "OCLC/ASPET_Journals_Online.txt",
         "oclcStanzaId": "ASPET_Journals_Online",
         "oclcIncludeFile": "databases/aspetjournals.txt",
-        "lastUpdated": "2020-11-03"
+        "lastUpdated": "2021-10-28"
+    },
+    "Association_for_Information_Systems_AIS": {
+        "name": "Association for Information Systems (AIS)",
+        "stanza": "OCLC/Association_for_Information_Systems_AIS.txt",
+        "oclcStanzaId": "Association_for_Information_Systems_AIS",
+        "oclcIncludeFile": [
+            "databases/aisnet.txt"
+        ],
+        "lastUpdated": "2022-12-07"
+    },
+    "Association_for_Science_Education": {
+        "name": "Association for Science Education",
+        "stanza": "OCLC/Association_for_Science_Education.txt",
+        "oclcStanzaId": "Association_for_Science_Education",
+        "oclcIncludeFile": [
+            "databases/ase.txt"
+        ],
+        "lastUpdated": "2022-01-11"
     },
     "Association_of_Teachers_of_Mathematics": {
         "name": "Association of Teachers of Mathematics",
         "stanza": "OCLC/Association_of_Teachers_of_Mathematics.txt",
         "oclcStanzaId": "Association_of_Teachers_of_Mathematics",
         "oclcIncludeFile": "databases/atm.txt",
-        "lastUpdated": "2019-12-18"
+        "lastUpdated": "2022-06-21"
     },
     "ASTM_Compass": {
         "name": "ASTM Compass",
@@ -818,7 +929,9 @@
         "name": "AtoZ World Culture",
         "stanza": "OCLC/AtoZ_World_Culture.txt",
         "oclcStanzaId": "AtoZ_World_Culture",
-        "oclcIncludeFile": "databases/abcworldculture.txt",
+        "oclcIncludeFile": [
+            "databases/atozworldculture.txt"
+        ],
         "lastUpdated": "2018-07-11"
     },
     "AtoZ_World_Food": {
@@ -834,6 +947,15 @@
         "oclcStanzaId": "AtoZ_World_Travel",
         "oclcIncludeFile": "databases/atozworldtravel.txt",
         "lastUpdated": "2018-07-11"
+    },
+    "ATS_Journals": {
+        "name": "ATS Journals",
+        "stanza": "OCLC/ATS_Journals.txt",
+        "oclcStanzaId": "ATS_Journals",
+        "oclcIncludeFile": [
+            "databases/ats_journals.txt"
+        ],
+        "lastUpdated": "2022-11-03"
     },
     "Australian_Financial_Review": {
         "name": "Australian Financial Review",
@@ -856,12 +978,21 @@
         "oclcIncludeFile": "databases/autofinanceresource.txt",
         "lastUpdated": "2019-03-20"
     },
+    "AVA_HBZ": {
+        "name": "AVA HBZ",
+        "stanza": "OCLC/AVA_HBZ.txt",
+        "oclcStanzaId": "AVA_HBZ",
+        "oclcIncludeFile": [
+            "databases/AVAHBZ.txt"
+        ],
+        "lastUpdated": "2022-11-29"
+    },
     "Aviation_Week_Intelligence_Network": {
         "name": "Aviation Week Intelligence Network",
         "stanza": "OCLC/Aviation_Week_Intelligence_Network.txt",
         "oclcStanzaId": "Aviation_Week_Intelligence_Network",
         "oclcIncludeFile": "databases/aviation_week.txt",
-        "lastUpdated": "2021-07-06"
+        "lastUpdated": "2022-12-06"
     },
     "Axis360": {
         "name": "Axis360",
@@ -896,7 +1027,7 @@
         "stanza": "OCLC/Bankscope.txt",
         "oclcStanzaId": "Bankscope",
         "oclcIncludeFile": "databases/bankscope.txt",
-        "lastUpdated": "2015-05-06"
+        "lastUpdated": "2022-07-28"
     },
     "Baobab_Ebooks": {
         "name": "Baobab Ebooks",
@@ -904,6 +1035,15 @@
         "oclcStanzaId": "Baobab_Ebooks",
         "oclcIncludeFile": "databases/baobabebooks.txt",
         "lastUpdated": "2019-08-15"
+    },
+    "Bates'_Visual_Guide_to_Physical_Examination": {
+        "name": "Bates' Visual Guide to Physical Examination",
+        "stanza": "OCLC/Bates'_Visual_Guide_to_Physical_Examination.txt",
+        "oclcStanzaId": "Bates'_Visual_Guide_to_Physical_Examination",
+        "oclcIncludeFile": [
+            "databases/batesvisualguide.txt"
+        ],
+        "lastUpdated": "2022-08-26"
     },
     "Begell_Digital_Library": {
         "name": "Begell Digital Library",
@@ -923,7 +1063,7 @@
         "stanza": "OCLC/Bentham_Science_Publisher.txt",
         "oclcStanzaId": "Bentham_Science_Publisher_previously_EurekaSelect",
         "oclcIncludeFile": "databases/eurekaselect.txt",
-        "lastUpdated": "2015-08-18"
+        "lastUpdated": "2022-05-23"
     },
     "Berghahn_Books": {
         "name": "Berghahn Books",
@@ -945,6 +1085,15 @@
         "oclcStanzaId": "BiblioLine",
         "lastUpdated": "2015-12-03"
     },
+    "BiblioScout": {
+        "name": "BiblioScout",
+        "stanza": "OCLC/BiblioScout.txt",
+        "oclcStanzaId": "BiblioScout",
+        "oclcIncludeFile": [
+            "databases/biblioscout.txt"
+        ],
+        "lastUpdated": "2022-10-06"
+    },
     "BIHR": {
         "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
         "stanza": "OCLC/BIHR.txt",
@@ -957,7 +1106,7 @@
         "stanza": "OCLC/Biocentury.txt",
         "oclcStanzaId": "Biocentury",
         "oclcIncludeFile": "databases/biocentury.txt",
-        "lastUpdated": "2021-05-03"
+        "lastUpdated": "2021-11-23"
     },
     "BioCyc": {
         "name": "BioCyc",
@@ -975,7 +1124,7 @@
         "stanza": "OCLC/BioMed_Central.txt",
         "oclcStanzaId": "BioMed_Central",
         "oclcIncludeFile": "databases/biomedcentral.txt",
-        "lastUpdated": "2020-07-31"
+        "lastUpdated": "2021-07-19"
     },
     "BioOne_Complete": {
         "name": "BioOne Complete",
@@ -989,7 +1138,7 @@
         "stanza": "OCLC/Bioscientifica.txt",
         "oclcStanzaId": "Bioscientifica",
         "oclcIncludeFile": "databases/bioscientifica.txt",
-        "lastUpdated": "2020-08-07"
+        "lastUpdated": "2022-06-24"
     },
     "Birds_of_the_World": {
         "name": "Birds of the World (formerly Birds of North America)",
@@ -1026,18 +1175,36 @@
         "oclcIncludeFile": "databases/bloomsburydigitalresources.txt",
         "lastUpdated": "2021-05-20"
     },
+    "Bloomsbury_Video_Library": {
+        "name": "Bloomsbury Video Library",
+        "stanza": "OCLC/Bloomsbury_Video_Library.txt",
+        "oclcStanzaId": "Bloomsbury_Video_Library",
+        "oclcIncludeFile": [
+            "databases/BloomsburyVideoLibrary.txt"
+        ],
+        "lastUpdated": "2023-01-06"
+    },
     "BMJ ": {
         "name": "BMJ",
         "stanza": "OCLC/BMJ.txt",
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
-        "lastUpdated": "2021-06-25"
+        "lastUpdated": "2022-12-20"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
         "stanza": "OCLC/BMJ_Learning.txt",
         "oclcStanzaId": "BMJ_Learning",
         "lastUpdated": "2010-04-21"
+    },
+    "Boards_and_Beyond": {
+        "name": "Boards & Beyond",
+        "stanza": "OCLC/Boards_and_Beyond.txt",
+        "oclcStanzaId": "Boards_and_Beyond",
+        "oclcIncludeFile": [
+            "databases/boardsandbeyond.txt"
+        ],
+        "lastUpdated": "2021-09-08"
     },
     "BoardVitals": {
         "name": "BoardVitals",
@@ -1160,12 +1327,48 @@
         "oclcIncludeFile": "databases/bridgemanimages.txt",
         "lastUpdated": "2015-10-06"
     },
+    "Brief.eco": {
+        "name": "Brief.eco",
+        "stanza": "OCLC/Brief.eco.txt",
+        "oclcStanzaId": "Brief.eco",
+        "oclcIncludeFile": [
+            "databases/briefeco.txt"
+        ],
+        "lastUpdated": "2023-01-24"
+    },
+    "Brief.me": {
+        "name": "Brief.me",
+        "stanza": "OCLC/Brief.me.txt",
+        "oclcStanzaId": "Brief.me",
+        "oclcIncludeFile": [
+            "databases/briefme.txt"
+        ],
+        "lastUpdated": "2023-01-24"
+    },
+    "Brief.science": {
+        "name": "Brief.science",
+        "stanza": "OCLC/Brief.science.txt",
+        "oclcStanzaId": "Brief.science",
+        "oclcIncludeFile": [
+            "databases/briefscience.txt"
+        ],
+        "lastUpdated": "2023-01-24"
+    },
     "BrillOnline": {
         "name": "BrillOnline",
         "stanza": "OCLC/BrillOnline.txt",
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
-        "lastUpdated": "2021-06-30"
+        "lastUpdated": "2022-05-24"
+    },
+    "Bristol_University_Press_Digital": {
+        "name": "Bristol University Press Digital",
+        "stanza": "OCLC/Bristol_University_Press_Digital.txt",
+        "oclcStanzaId": "Bristol_University_Press_Digital",
+        "oclcIncludeFile": [
+            "databases/bristol.txt"
+        ],
+        "lastUpdated": "2022-09-08"
     },
     "Britannica_Academic": {
         "name": "Britannica Academic",
@@ -1205,7 +1408,7 @@
         "stanza": "OCLC/British_Universities_Film_Video_Council.txt",
         "oclcStanzaId": "British_Universities_Film_Video_Council",
         "oclcIncludeFile": "databases/bufvc.txt",
-        "lastUpdated": "2015-07-22"
+        "lastUpdated": "2022-03-21"
     },
     "Broadcast_Dialogue": {
         "name": "Broadcast Dialogue",
@@ -1219,7 +1422,7 @@
         "stanza": "OCLC/BrowZine_Third_Iron.txt",
         "oclcStanzaId": "BrowZine_Third_Iron",
         "oclcIncludeFile": "databases/browzine.txt",
-        "lastUpdated": "2016-11-03"
+        "lastUpdated": "2021-11-16"
     },
     "BuildingGreen": {
         "name": "BuildingGreen",
@@ -1233,7 +1436,7 @@
         "stanza": "OCLC/Building_Cost_and_Information_Service.txt",
         "oclcStanzaId": "Building_Cost_and_Information_Service",
         "oclcIncludeFile": "databases/bcis.txt",
-        "lastUpdated": "2018-06-22"
+        "lastUpdated": "2021-12-14"
     },
     "Bureau_of_National_Affairs": {
         "name": "Bureau of National Affairs (BNA)",
@@ -1247,7 +1450,7 @@
         "stanza": "OCLC/Burlington_Magazine_Publishing_Ltd.txt",
         "oclcStanzaId": "Burlington_Magazine_Publishing_Ltd",
         "oclcIncludeFile": "databases/burlington.txt",
-        "lastUpdated": "2020-06-05"
+        "lastUpdated": "2022-01-10"
     },
     "Businessweek": {
         "name": "Businessweek",
@@ -1261,7 +1464,7 @@
         "stanza": "OCLC/Cabells.txt",
         "oclcStanzaId": "Cabells",
         "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2020-03-16"
+        "lastUpdated": "2022-12-14"
     },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
@@ -1275,7 +1478,7 @@
         "stanza": "OCLC/CABI_Resources.txt",
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
-        "lastUpdated": "2020-06-16"
+        "lastUpdated": "2022-10-10"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -1289,14 +1492,14 @@
         "stanza": "OCLC/Cahiers_dArt_Institute.txt",
         "oclcStanzaId": "Cahiers_dArt_Institute",
         "oclcIncludeFile": "databases/artifexpress.txt",
-        "lastUpdated": "2018-09-12"
+        "lastUpdated": "2021-09-28"
     },
     "Cairn": {
         "name": "Cairn",
         "stanza": "OCLC/Cairn.txt",
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
-        "lastUpdated": "2017-12-06"
+        "lastUpdated": "2022-10-14"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -1311,6 +1514,15 @@
         "oclcStanzaId": "Cambridge_Core",
         "oclcIncludeFile": "databases/cambridgecore.txt",
         "lastUpdated": "2019-10-22"
+    },
+    "Canada_Commons": {
+        "name": "Canada Commons",
+        "stanza": "OCLC/Canada_Commons.txt",
+        "oclcStanzaId": "Canada_Commons",
+        "oclcIncludeFile": [
+            "databases/canadacommons.txt"
+        ],
+        "lastUpdated": "2022-01-06"
     },
     "Canada_Law_Book": {
         "name": "Canada Law Book",
@@ -1486,21 +1698,21 @@
         "stanza": "OCLC/CCH_AnswerConnect.txt",
         "oclcStanzaId": "CCH_AnswerConnect",
         "oclcIncludeFile": "databases/cch_answerconnect.txt",
-        "lastUpdated": "2018-10-25"
+        "lastUpdated": "2022-06-23"
     },
     "CCH_Intelliconnect": {
         "name": "CCH Intelliconnect",
         "stanza": "OCLC/CCH_Intelliconnect.txt",
         "oclcStanzaId": "CCH_Intelliconnect",
         "oclcIncludeFile": "databases/intelliconnect.txt",
-        "lastUpdated": "2019-04-11"
+        "lastUpdated": "2022-01-24"
     },
     "CCOHS": {
         "name": "CCOHS",
         "stanza": "OCLC/CCOHS.txt",
         "oclcStanzaId": "CCOHS",
         "oclcIncludeFile": "databases/ccohs.txt",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2022-10-05"
     },
     "Cell_Press": {
         "name": "Cell Press",
@@ -1513,7 +1725,10 @@
         "name": "Chadwyck Databases",
         "stanza": "OCLC/Chadwyck_Databases.txt",
         "oclcStanzaId": "Chadwyck_Databases",
-        "lastUpdated": "2017-06-27"
+        "lastUpdated": "2021-11-29",
+        "oclcIncludeFile": [
+            "databases/chadwyck.txt"
+        ]
     },
     "Chartered_Financial_Analysts_Institute": {
         "name": "Chartered Financial Analysts Institute",
@@ -1541,14 +1756,14 @@
         "stanza": "OCLC/Chicago_Manual_of_Style.txt",
         "oclcStanzaId": "Chicago_Manual_of_Style",
         "oclcIncludeFile": "databases/chicagomanual.txt",
-        "lastUpdated": "2018-08-21"
+        "lastUpdated": "2022-02-23"
     },
     "Childlink": {
         "name": "Childlink",
         "stanza": "OCLC/Childlink.txt",
         "oclcStanzaId": "Childlink",
         "oclcIncludeFile": "databases/childlink.txt",
-        "lastUpdated": "2016-07-14"
+        "lastUpdated": "2022-12-19"
     },
     "Childrens_Literature_Comprehensive_Database": {
         "name": "Children's Literature Comprehensive Database (CLCD)",
@@ -1571,6 +1786,15 @@
         "oclcIncludeFile": "databases/chinastudies.txt",
         "lastUpdated": "2020-05-27"
     },
+    "Chinese_Recorder_Index_Search_Engine": {
+        "name": "Chinese Recorder Index Search Engine",
+        "stanza": "OCLC/Chinese_Recorder_Index_Search_Engine.txt",
+        "oclcStanzaId": "Chinese_Recorder_Index_Search_Engine",
+        "oclcIncludeFile": [
+            "databases/chiense_recorder_index_search_engine.txt"
+        ],
+        "lastUpdated": "2022-07-01"
+    },
     "Choice_Reviews": {
         "name": "Choice Reviews",
         "stanza": "OCLC/Choice_Reviews.txt",
@@ -1585,12 +1809,39 @@
         "oclcIncludeFile": "databases/chronicle.txt",
         "lastUpdated": "2019-07-26"
     },
+    "Chunichi_Shimbun_and_Tokyo_Shimbun_Database": {
+        "name": "Chunichi Shimbun and Tokyo Shimbun Database",
+        "stanza": "OCLC/Chunichi_Shimbun_and_Tokyo_Shimbun_Database.txt",
+        "oclcStanzaId": "Chunichi_Shimbun_and_Tokyo_Shimbun_Database",
+        "oclcIncludeFile": [
+            "databases/ChunichiShimbunAndTokyoShimbunDatabase.txt"
+        ],
+        "lastUpdated": "2022-12-06"
+    },
     "Cine_Med": {
         "name": "Cine-Med",
         "stanza": "OCLC/Cine_Med.txt",
         "oclcStanzaId": "Cine_Med",
         "oclcIncludeFile": "databases/cine-med.txt",
         "lastUpdated": "2021-05-11"
+    },
+    "Civic_Research_Institute": {
+        "name": "Civic Research Institute",
+        "stanza": "OCLC/Civic_Research_Institute.txt",
+        "oclcStanzaId": "Civic_Research_Institute",
+        "oclcIncludeFile": [
+            "databases/civicresearchinstitute.txt"
+        ],
+        "lastUpdated": "2022-09-28"
+    },
+    "Classical_Singer": {
+        "name": "Classical Singer",
+        "stanza": "OCLC/Classical_Singer.txt",
+        "oclcStanzaId": "Classical_Singer",
+        "oclcIncludeFile": [
+            "databases/classicalsinger.txt"
+        ],
+        "lastUpdated": "2022-03-30"
     },
     "Classroom_Video_Demand": {
         "name": "Classroom Video On Demand",
@@ -1634,28 +1885,28 @@
         "stanza": "OCLC/Clue_Detective_Puzzle_Agency.txt",
         "oclcStanzaId": "Clue_Detective_Puzzle_Agency",
         "oclcIncludeFile": "databases/cluedetective.txt",
-        "lastUpdated": "2014-12-18"
+        "lastUpdated": "2021-09-28"
     },
     "CNKI": {
         "name": "CNKI",
         "stanza": "OCLC/CNKI.txt",
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
-        "lastUpdated": "2021-07-12"
+        "lastUpdated": "2022-06-27"
     },
     "Cobouw": {
         "name": "Cobouw",
         "stanza": "OCLC/Cobouw.txt",
         "oclcStanzaId": "Cobouw",
         "oclcIncludeFile": "databases/cobouw.txt",
-        "lastUpdated": "2020-05-26"
+        "lastUpdated": "2022-05-09"
     },
     "Cochrane_Library": {
         "name": "Cochrane Library",
         "stanza": "OCLC/Cochrane_Library.txt",
         "oclcStanzaId": "Cochrane_Library",
         "oclcIncludeFile": "databases/cochrane.txt",
-        "lastUpdated": "2020-10-27"
+        "lastUpdated": "2022-08-15"
     },
     "Codes_Guide_NRC": {
         "name": "Codes Guide NRC",
@@ -1703,7 +1954,7 @@
         "stanza": "OCLC/Columbia_International_Affairs_Online.txt",
         "oclcStanzaId": "Columbia_International_Affairs_Online_CIAO",
         "oclcIncludeFile": "databases/ciao.txt",
-        "lastUpdated": "2020-07-13"
+        "lastUpdated": "2022-12-27"
     },
     "ComicsPlus": {
         "name": "ComicsPlus",
@@ -1723,14 +1974,17 @@
         "name": "Communication Institute for Online Scholarship (CIOS)",
         "stanza": "OCLC/Communication_Institute_for_Online_Scholarship.txt",
         "oclcStanzaId": "Communication_Institue_for_Online_Scholarship_CIOS",
-        "lastUpdated": "2009-10-09"
+        "lastUpdated": "2022-02-16",
+        "oclcIncludeFile": [
+            "databases/cios.txt"
+        ]
     },
     "Company_of_Biologists": {
         "name": "Company of Biologists, The",
         "stanza": "OCLC/Company_of_Biologists.txt",
         "oclcStanzaId": "Company_of_Biologists",
         "oclcIncludeFile": "databases/biologists.txt",
-        "lastUpdated": "2021-04-13"
+        "lastUpdated": "2022-10-24"
     },
     "Computing_Reviews": {
         "name": "Computing Reviews",
@@ -1738,6 +1992,15 @@
         "oclcStanzaId": "Computing_Reviews",
         "oclcIncludeFile": "databases/computingreviews.txt",
         "lastUpdated": "2015-10-28"
+    },
+    "Conference_Board": {
+        "name": "Conference Board",
+        "stanza": "OCLC/Conference_Board.txt",
+        "oclcStanzaId": "Conference_Board",
+        "oclcIncludeFile": [
+            "databases/conference-board.txt"
+        ],
+        "lastUpdated": "2022-12-02"
     },
     "Conference_Board_of_Canada": {
         "name": "Conference Board of Canada",
@@ -1753,6 +2016,15 @@
         "oclcIncludeFile": "databases/congressionaldigest.txt",
         "lastUpdated": "2020-09-17"
     },
+    "Constellate": {
+        "name": "Constellate",
+        "stanza": "OCLC/Constellate.txt",
+        "oclcStanzaId": "Constellate",
+        "oclcIncludeFile": [
+            "databases/constellate.txt"
+        ],
+        "lastUpdated": "2022-09-27"
+    },
     "Construction_and_Building_Abstracts": {
         "name": "Construction and Building Abstracts",
         "stanza": "OCLC/Construction_and_Building_Abstracts.txt",
@@ -1766,6 +2038,15 @@
         "oclcStanzaId": "Consumer_Brand_Analytics",
         "oclcIncludeFile": "databases/consumerbrandanalytics.txt",
         "lastUpdated": "2018-07-25"
+    },
+    "CookieLaw": {
+        "name": "CookieLaw",
+        "stanza": "OCLC/CookieLaw.txt",
+        "oclcStanzaId": "CookieLaw",
+        "oclcIncludeFile": [
+            "databases/cookielaw.txt"
+        ],
+        "lastUpdated": "2022-07-25"
     },
     "CountryWatch": {
         "name": "CountryWatch",
@@ -1786,7 +2067,7 @@
         "stanza": "OCLC/CQ_Researcher.txt",
         "oclcStanzaId": "CQ_Researcher",
         "oclcIncludeFile": "databases/cq_researcher.txt",
-        "lastUpdated": "2015-10-21"
+        "lastUpdated": "2023-01-06"
     },
     "CRAAQ": {
         "name": "CRAAQ",
@@ -1800,6 +2081,15 @@
         "stanza": "OCLC/Creativity_Human_Development_International_eJournal.txt",
         "oclcStanzaId": "Creativity_Human_Development_International_eJournal",
         "lastUpdated": "2017-08-01"
+    },
+    "Credo_Learning_Tools": {
+        "name": "Credo Learning Tools",
+        "stanza": "OCLC/Credo_Learning_Tools.txt",
+        "oclcStanzaId": "Credo_Learning_Tools",
+        "oclcIncludeFile": [
+            "databases/credo_learning_tools.txt"
+        ],
+        "lastUpdated": "2022-08-15"
     },
     "Credo_Reference": {
         "name": "Credo Reference (formerly Xreferplus)",
@@ -1825,20 +2115,29 @@
         "stanza": "OCLC/Crossref.txt",
         "oclcStanzaId": "Crossref",
         "oclcIncludeFile": "databases/crossref.txt",
-        "lastUpdated": "2020-08-26"
+        "lastUpdated": "2021-10-26"
     },
     "CROW_Kennisbank": {
         "name": "CROW Kennisbank",
         "stanza": "OCLC/CROW_Kennisbank.txt",
         "oclcStanzaId": "CROW_Kennisbank",
         "oclcIncludeFile": "databases/crow_kennisbank.txt",
-        "lastUpdated": "2017-09-26"
+        "lastUpdated": "2021-12-09"
     },
     "CSA_Illumina": {
         "name": "CSA Illumina",
         "stanza": "OCLC/CSA_Illumina.txt",
         "oclcStanzaId": "CSA_Illumina",
         "lastUpdated": "2006-03-22"
+    },
+    "CSIRO_Journals": {
+        "name": "CSIRO Journals",
+        "stanza": "OCLC/CSIRO_Journals.txt",
+        "oclcStanzaId": "CSIRO_Journals",
+        "oclcIncludeFile": [
+            "databases/csiro.txt"
+        ],
+        "lastUpdated": "2022-06-27"
     },
     "CultureGrams": {
         "name": "CultureGrams",
@@ -1899,7 +2198,7 @@
         "stanza": "OCLC/Data_Planet_Statistical_Datasets.txt",
         "oclcStanzaId": "Data_Planet_Statistical_Datasets",
         "oclcIncludeFile": "databases/data_planet_statistical_datasets.txt",
-        "lastUpdated": "2021-06-08"
+        "lastUpdated": "2021-09-09"
     },
     "DawsonEra": {
         "name": "DawsonEra",
@@ -1954,14 +2253,14 @@
         "stanza": "OCLC/De_Gruyter_Online.txt",
         "oclcStanzaId": "De_Gruyter_Online",
         "oclcIncludeFile": "databases/degruyter.txt",
-        "lastUpdated": "2021-04-08"
+        "lastUpdated": "2022-08-05"
     },
     "De_Marque": {
         "name": "De Marque",
         "stanza": "OCLC/De_Marque.txt",
         "oclcStanzaId": "De_Marque",
         "oclcIncludeFile": "databases/demarque.txt",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2021-11-09"
     },
     "Diabetes_Journals": {
         "name": "Diabetes Journals",
@@ -2033,6 +2332,15 @@
         "oclcIncludeFile": "databases/digitaliapubliclibraries.txt",
         "lastUpdated": "2020-02-17"
     },
+    "Digital_Concert_Hall": {
+        "name": "Digital Concert Hall",
+        "stanza": "OCLC/Digital_Concert_Hall.txt",
+        "oclcStanzaId": "Digital_Concert_Hall",
+        "oclcIncludeFile": [
+            "databases/digitalconcerthall.txt"
+        ],
+        "lastUpdated": "2022-08-09"
+    },
     "Digital_National_Security_Archive": {
         "name": "Digital National Security Archive",
         "stanza": "OCLC/Digital_National_Security_Archive.txt",
@@ -2044,14 +2352,14 @@
         "stanza": "OCLC/Digital_Theatre_Plus.txt",
         "oclcStanzaId": "Digital_Theatre_Plus",
         "oclcIncludeFile": "databases/digitaltheatreplus.txt",
-        "lastUpdated": "2021-05-21"
+        "lastUpdated": "2021-12-14"
     },
     "DigiZeitschriften": {
         "name": "DigiZeitschriften",
         "stanza": "OCLC/DigiZeitschriften.txt",
         "oclcStanzaId": "DigiZeitschriften",
         "oclcIncludeFile": "databases/digizeitschriften.txt",
-        "lastUpdated": "2020-05-04"
+        "lastUpdated": "2022-06-13"
     },
     "DinoLingo": {
         "name": "DinoLingo",
@@ -2124,7 +2432,7 @@
         "stanza": "OCLC/Duncker_and_Humblot_eLibrary.txt",
         "oclcStanzaId": "Duncker_and_Humblot_eLibrary",
         "oclcIncludeFile": "databases/dunckerhumblot.txt",
-        "lastUpdated": "2020-08-07"
+        "lastUpdated": "2022-06-10"
     },
     "DUXIU": {
         "name": "DUXIU",
@@ -2137,7 +2445,7 @@
         "stanza": "OCLC/DynaMed.txt",
         "oclcStanzaId": "DynaMed",
         "oclcIncludeFile": "databases/dynamed.txt",
-        "lastUpdated": "2021-04-14"
+        "lastUpdated": "2021-12-06"
     },
     "e-Marefa": {
         "name": "E-Marefa",
@@ -2177,7 +2485,7 @@
         "stanza": "OCLC/EBSCOhost.txt",
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
-        "lastUpdated": "2021-06-29"
+        "lastUpdated": "2022-09-26"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -2258,7 +2566,7 @@
         "stanza": "OCLC/Education_Week.txt",
         "oclcStanzaId": "Education_Week",
         "oclcIncludeFile": "databases/educationweek.txt",
-        "lastUpdated": "2021-06-30"
+        "lastUpdated": "2022-06-27"
     },
     "EHD_Online": {
         "name": "English Historical Documents Online (EHD)",
@@ -2433,6 +2741,15 @@
         "oclcIncludeFile": "databases/emeraldinsight.txt",
         "lastUpdated": "2019-06-24"
     },
+    "EMIMS_Online_Medication_information": {
+        "name": "EMIMS Online Medication information",
+        "stanza": "OCLC/EMIMS_Online_Medication_information.txt",
+        "oclcStanzaId": "EMIMS_Online_Medication_information",
+        "oclcIncludeFile": [
+            "databases/emims.txt"
+        ],
+        "lastUpdated": "2021-09-13"
+    },
     "EMIS": {
         "name": "EMIS",
         "stanza": "OCLC/EMIS.txt",
@@ -2445,7 +2762,16 @@
         "stanza": "OCLC/EMS_Publishing.txt",
         "oclcStanzaId": "EMS_Publishing",
         "oclcIncludeFile": "databases/emspublishing.txt",
-        "lastUpdated": "2019-09-16"
+        "lastUpdated": "2022-10-10"
+    },
+    "Enclave_RAE": {
+        "name": "Enclave RAE",
+        "stanza": "OCLC/Enclave_RAE.txt",
+        "oclcStanzaId": "Enclave_RAE",
+        "oclcIncludeFile": [
+            "databases/enclaverae.txt"
+        ],
+        "lastUpdated": "2021-08-03"
     },
     "Encyclopedia_of_Astronomy_and_Astrophysics": {
         "name": "Encyclopedia of Astronomy and Astrophysics",
@@ -2458,7 +2784,7 @@
         "stanza": "OCLC/Endnote_Online_and_InCites.txt",
         "oclcStanzaId": "Endnote_Online_and_InCites",
         "oclcIncludeFile": "databases/endnoteandincites.txt",
-        "lastUpdated": "2021-04-30"
+        "lastUpdated": "2021-09-15"
     },
     "Endocrine_Society": {
         "name": "Endocrine Society",
@@ -2494,6 +2820,15 @@
         "oclcIncludeFile": "databases/rcycp.txt",
         "lastUpdated": "2021-05-11"
     },
+    "ERIC": {
+        "name": "ERIC",
+        "stanza": "OCLC/ERIC.txt",
+        "oclcStanzaId": "ERIC",
+        "oclcIncludeFile": [
+            "databases/eric.txt"
+        ],
+        "lastUpdated": "2021-12-09"
+    },
     "ESB_Online": {
         "name": "ESB Online",
         "stanza": "OCLC/ESB_Online.txt",
@@ -2512,7 +2847,7 @@
         "stanza": "OCLC/eTG_Complete.txt",
         "oclcStanzaId": "eTG_Complete",
         "oclcIncludeFile": "databases/etg.txt",
-        "lastUpdated": "2020-04-28"
+        "lastUpdated": "2021-08-06"
     },
     "Ethnologue": {
         "name": "Ethnologue",
@@ -2523,7 +2858,7 @@
         "stanza": "OCLC/Europa_World_Plus.txt",
         "oclcStanzaId": "Europa_World_Plus",
         "oclcIncludeFile": "databases/europaworld.txt",
-        "lastUpdated": "2020-10-29"
+        "lastUpdated": "2022-05-12"
     },
     "European_Mathematical_Information_Service": {
         "name": "European Mathematical Information Service",
@@ -2531,6 +2866,15 @@
         "oclcStanzaId": "European_Mathematical_Information_Service",
         "oclcIncludeFile": "databases/emis.txt",
         "lastUpdated": "2016-01-19"
+    },
+    "European_Respiratory_Society_Stanza": {
+        "name": "European Respiratory Society Stanza",
+        "stanza": "OCLC/European_Respiratory_Society_Stanza.txt",
+        "oclcStanzaId": "European_Respiratory_Society_Stanza",
+        "oclcIncludeFile": [
+            "databases/ersjournals.txt"
+        ],
+        "lastUpdated": "2022-06-27"
     },
     "Europresse-Eureka": {
         "name": "Europresse/Eureka",
@@ -2551,6 +2895,15 @@
         "stanza": "OCLC/Exceptional_Parent.txt",
         "oclcStanzaId": "Exceptional_Parent",
         "lastUpdated": "2013-07-26"
+    },
+    "Exchange_Press": {
+        "name": "Exchange Press",
+        "stanza": "OCLC/Exchange_Press.txt",
+        "oclcStanzaId": "Exchange_Press",
+        "oclcIncludeFile": [
+            "databases/exchangepress.txt"
+        ],
+        "lastUpdated": "2022-11-18"
     },
     "Factiva": {
         "name": "Factiva",
@@ -2573,12 +2926,30 @@
         "oclcIncludeFile": "databases/factsandcomparisons.txt",
         "lastUpdated": "2018-07-30"
     },
+    "Faculti": {
+        "name": "Faculti",
+        "stanza": "OCLC/Faculti.txt",
+        "oclcStanzaId": "Faculti",
+        "oclcIncludeFile": [
+            "databases/faculti.txt"
+        ],
+        "lastUpdated": "2021-11-18"
+    },
+    "Faculty_Opinions_formerly_F1000": {
+        "name": "Faculty Opinions (formerly F1000)",
+        "stanza": "OCLC/Faculty_Opinions_formerly_F1000.txt",
+        "oclcStanzaId": "Faculty_Opinions_formerly_F1000",
+        "oclcIncludeFile": [
+            "databases/facultyopinions.txt"
+        ],
+        "lastUpdated": "2022-05-13"
+    },
     "Fame": {
         "name": "Fame",
         "stanza": "OCLC/Fame.txt",
         "oclcStanzaId": "Fame",
         "oclcIncludeFile": "databases/fame.txt",
-        "lastUpdated": "2016-08-08"
+        "lastUpdated": "2022-07-28"
     },
     "Families_in_Society_Journal": {
         "name": "Families in Society Journal",
@@ -2593,6 +2964,15 @@
         "oclcStanzaId": "Family_Law_Online",
         "oclcIncludeFile": "databases/familylaw.txt",
         "lastUpdated": "2015-05-13"
+    },
+    "Fanyunc": {
+        "name": "Fanyunc",
+        "stanza": "OCLC/Fanyunc.txt",
+        "oclcStanzaId": "Fanyunc",
+        "oclcIncludeFile": [
+            "databases/fanyunc.txt"
+        ],
+        "lastUpdated": "2022-08-02"
     },
     "Fashion_Snoops": {
         "name": "Fashion Snoops",
@@ -2648,6 +3028,15 @@
         "oclcStanzaId": "Financial_Times",
         "oclcIncludeFile": "databases/financialtimes.txt",
         "lastUpdated": "2021-04-12"
+    },
+    "Fitch_Connect": {
+        "name": "Fitch Connect",
+        "stanza": "OCLC/Fitch_Connect.txt",
+        "oclcStanzaId": "Fitch_Connect",
+        "oclcIncludeFile": [
+            "databases/fitch_connect.txt"
+        ],
+        "lastUpdated": "2021-11-18"
     },
     "Fold3": {
         "name": "Fold3",
@@ -2722,7 +3111,7 @@
         "stanza": "OCLC/Gale_Products.txt",
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
-        "lastUpdated": "2021-07-06"
+        "lastUpdated": "2023-01-06"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -2730,6 +3119,15 @@
         "oclcStanzaId": "Geofacets",
         "oclcIncludeFile": "databases/geofacets.txt",
         "lastUpdated": "2018-11-29"
+    },
+    "George_Warman_Publications": {
+        "name": "George Warman Publications",
+        "stanza": "OCLC/George_Warman_Publications.txt",
+        "oclcStanzaId": "George_Warman_Publications",
+        "oclcIncludeFile": [
+            "databases/dentalupdate.txt"
+        ],
+        "lastUpdated": "2022-06-27"
     },
     "GeoScienceWorld": {
         "name": "GeoScienceWorld",
@@ -2750,14 +3148,14 @@
         "stanza": "OCLC/GIDEON.txt",
         "oclcStanzaId": "GIDEON_Global_Infectious_Diseases_and_Epidemiology_Online_Network",
         "oclcIncludeFile": "databases/gideononline.txt",
-        "lastUpdated": "2020-08-24"
+        "lastUpdated": "2022-06-21"
     },
     "GlobalData": {
         "name": "GlobalData",
         "stanza": "OCLC/GlobalData.txt",
         "oclcStanzaId": "GlobalData",
         "oclcIncludeFile": "databases/globaldatadisruptor.txt",
-        "lastUpdated": "2020-09-08"
+        "lastUpdated": "2023-01-06"
     },
     "Global_Business_Traveler": {
         "name": "Global Business Traveler",
@@ -2798,7 +3196,10 @@
         "name": "Google Scholar",
         "stanza": "OCLC/Google_Scholar.txt",
         "oclcStanzaId": "Google_Scholar",
-        "lastUpdated": "2017-08-23"
+        "lastUpdated": "2022-10-07",
+        "oclcIncludeFile": [
+            "databases/googlescholar.txt"
+        ]
     },
     "Grant_Connect": {
         "name": "Grant Connect",
@@ -2840,7 +3241,7 @@
         "stanza": "OCLC/Guilford_Publications.txt",
         "oclcStanzaId": "Guilford_Publications",
         "oclcIncludeFile": "databases/guildfordjournals.txt",
-        "lastUpdated": "2018-07-26"
+        "lastUpdated": "2022-06-27"
     },
     "Halesmeds": {
         "name": "Halesmeds",
@@ -2875,14 +3276,23 @@
         "stanza": "OCLC/Healio.txt",
         "oclcStanzaId": "Healio",
         "oclcIncludeFile": "databases/healio.txt",
-        "lastUpdated": "2017-07-28"
+        "lastUpdated": "2022-03-23"
+    },
+    "Health_Poll_Database": {
+        "name": "Health Poll Database",
+        "stanza": "OCLC/Health_Poll_Database.txt",
+        "oclcStanzaId": "Health_Poll_Database",
+        "oclcIncludeFile": [
+            "databases/healthpoll.txt"
+        ],
+        "lastUpdated": "2023-01-20"
     },
     "HeinOnline": {
         "name": "HeinOnline",
         "stanza": "OCLC/HeinOnline.txt",
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
-        "lastUpdated": "2018-03-26"
+        "lastUpdated": "2022-11-04"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
@@ -2908,7 +3318,7 @@
         "stanza": "OCLC/HighWire_Press.txt",
         "oclcStanzaId": "HighWire_Press",
         "oclcIncludeFile": "databases/highwirepress.txt",
-        "lastUpdated": "2021-02-19"
+        "lastUpdated": "2023-01-10"
     },
     "Hispanic_American_Periodicals_HAPI": {
         "name": "Hispanic American Periodicals (HAPI)",
@@ -2917,12 +3327,30 @@
         "oclcIncludeFile": "databases/hapi.txt",
         "lastUpdated": "2020-07-27"
     },
+    "History_Commons": {
+        "name": "History Commons",
+        "stanza": "OCLC/History_Commons.txt",
+        "oclcStanzaId": "History_Commons",
+        "oclcIncludeFile": [
+            "databases/historycommons.txt"
+        ],
+        "lastUpdated": "2022-07-18"
+    },
     "History_Cooperative_Journals": {
         "name": "History Cooperative journals",
         "stanza": "OCLC/History_Cooperative_Journals.txt",
         "oclcStanzaId": "History_Cooperative_journals",
         "oclcIncludeFile": "databases/historycooperative.txt",
         "lastUpdated": "2019-12-31"
+    },
+    "History_of_Economic_Thought": {
+        "name": "History of Economic Thought",
+        "stanza": "OCLC/History_of_Economic_Thought.txt",
+        "oclcStanzaId": "History_of_Economic_Thought",
+        "oclcIncludeFile": [
+            "databases//history_of_economic_thought.txt"
+        ],
+        "lastUpdated": "2022-09-12"
     },
     "History_Study_Center": {
         "name": "History Study Center",
@@ -2998,7 +3426,7 @@
         "stanza": "OCLC/ICE_Learning_Center.txt",
         "oclcStanzaId": "ICE_Learning_Center",
         "oclcIncludeFile": "databases/icelearningcenter.txt",
-        "lastUpdated": "2020-09-15"
+        "lastUpdated": "2021-08-09"
     },
     "ICE_Virtual_Library": {
         "name": "ICE Virtual Library",
@@ -3012,7 +3440,7 @@
         "stanza": "OCLC/Ichushi-Web.txt",
         "oclcStanzaId": "Ichushi-Web",
         "oclcIncludeFile": "databases/ichushi_web.txt",
-        "lastUpdated": "2019-02-21"
+        "lastUpdated": "2022-06-22"
     },
     "ICPSR": {
         "name": "Inter-University Consortium for Political and Social Research (ICPSR)",
@@ -3031,14 +3459,14 @@
         "stanza": "OCLC/IEEE_Computer_Society_Digital_Library.txt",
         "oclcStanzaId": "IEEE_Computer_Society_Digital_Library",
         "oclcIncludeFile": "databases/ieeedigitallibrary.txt",
-        "lastUpdated": "2019-03-15"
+        "lastUpdated": "2022-09-09"
     },
     "IEEE_Xplore": {
         "name": "IEEE Xplore",
         "stanza": "OCLC/IEEE_Xplore.txt",
         "oclcStanzaId": "IEEE_Xplore",
         "oclcIncludeFile": "databases/ieee.txt",
-        "lastUpdated": "2019-07-02"
+        "lastUpdated": "2022-09-09"
     },
     "IET_Inspec_Analytics_in_EngineeringVillage": {
         "name": "IET Inspec Analytics in EngineeringVillage",
@@ -3052,14 +3480,14 @@
         "stanza": "OCLC/IET_Inspec_Analytics_Standalone.txt",
         "oclcStanzaId": "IET_Inspec_Analytics_Standalone",
         "oclcIncludeFile": "databases/iet_ias.txt",
-        "lastUpdated": "2021-03-31"
+        "lastUpdated": "2021-09-14"
     },
     "IET_Inspec_Direct_Platform": {
         "name": "IET Inspec Direct Platform",
         "stanza": "OCLC/IET_Inspec_Direct_Platform.txt",
         "oclcStanzaId": "IET_Inspec_Direct_Platform",
         "oclcIncludeFile": "databases/iet_idf.txt",
-        "lastUpdated": "2021-03-31"
+        "lastUpdated": "2022-06-27"
     },
     "IGAKU-SHOIN_Library": {
         "name": "IGAKU-SHOIN Library",
@@ -3163,14 +3591,14 @@
         "stanza": "OCLC/Indo_European_Studies.txt",
         "oclcStanzaId": "Indo_European_Studies",
         "oclcIncludeFile": "databases/jiesonline.txt",
-        "lastUpdated": "2019-10-15"
+        "lastUpdated": "2022-04-04"
     },
     "Infobaselearning": {
         "name": "Infobaselearning",
         "stanza": "OCLC/Infobaselearning.txt",
         "oclcStanzaId": "Infobaselearning",
         "oclcIncludeFile": "databases/infobaselearning.txt",
-        "lastUpdated": "2021-03-03"
+        "lastUpdated": "2022-01-28"
     },
     "informaworld": {
         "name": "Informaworld",
@@ -3204,7 +3632,7 @@
         "stanza": "OCLC/INFORMS_PubsOnline.txt",
         "oclcStanzaId": "INFORMS_PubsOnline",
         "oclcIncludeFile": "databases/informspubs.txt",
-        "lastUpdated": "2018-01-12"
+        "lastUpdated": "2021-07-19"
     },
     "INGENTAconnect": {
         "name": "INGENTAconnect",
@@ -3220,19 +3648,28 @@
         "oclcIncludeFile": "databases/inovestor.txt",
         "lastUpdated": "2020-06-19"
     },
+    "Institute_of_Arts_and_Ideas": {
+        "name": "Institute of Arts and Ideas",
+        "stanza": "OCLC/Institute_of_Arts_and_Ideas.txt",
+        "oclcStanzaId": "Institute_of_Arts_and_Ideas",
+        "oclcIncludeFile": [
+            "databases/iai.txt"
+        ],
+        "lastUpdated": "2022-03-07"
+    },
     "Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences": {
         "name": "Institute of Mathematics of the Polish Academy of Sciences",
         "stanza": "OCLC/Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences.txt",
         "oclcStanzaId": "Institute_of_Mathematics_of_the_Polish_Academy_of_Sciences",
         "oclcIncludeFile": "databases/impan.txt",
-        "lastUpdated": "2021-01-06"
+        "lastUpdated": "2022-05-04"
     },
     "Institute_of_Physics": {
         "name": "Institute of Physics",
         "stanza": "OCLC/Institute_of_Physics.txt",
         "oclcStanzaId": "Institute_of_Physics",
         "oclcIncludeFile": "databases/iop.txt",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2021-07-20"
     },
     "Intelecom": {
         "name": "Intelecom",
@@ -3247,6 +3684,15 @@
         "oclcStanzaId": "Intelex_Past_Masters",
         "oclcIncludeFile": "databases/nlxpm.txt",
         "lastUpdated": "2016-07-27"
+    },
+    "Intellect_Discover": {
+        "name": "Intellect Discover",
+        "stanza": "OCLC/Intellect_Discover.txt",
+        "oclcStanzaId": "Intellect_Discover",
+        "oclcIncludeFile": [
+            "databases/IntellectDiscover.txt"
+        ],
+        "lastUpdated": "2023-01-04"
     },
     "Inter-Research_Science_Publisher": {
         "name": "Inter-Research Science Publisher",
@@ -3294,7 +3740,7 @@
         "stanza": "OCLC/International_Monetary_Fund.txt",
         "oclcStanzaId": "International_Monetary_Fund_IMF",
         "oclcIncludeFile": "databases/imf.txt",
-        "lastUpdated": "2020-08-07"
+        "lastUpdated": "2022-06-27"
     },
     "International_Press": {
         "name": "International Press",
@@ -3329,7 +3775,7 @@
         "stanza": "OCLC/Iter_Gateway_to_the_Middle_Ages_and_Renaissance.txt",
         "oclcStanzaId": "Iter_Gateway_to_the_Middle_Ages_and_Renaissance",
         "oclcIncludeFile": "databases/iter.txt",
-        "lastUpdated": "2021-02-02"
+        "lastUpdated": "2022-06-27"
     },
     "IWA_Publishing": {
         "name": "IWA Publishing",
@@ -3349,7 +3795,10 @@
         "name": "JAMA",
         "stanza": "OCLC/JAMA.txt",
         "oclcStanzaId": "JAMA",
-        "lastUpdated": "2017-03-15"
+        "lastUpdated": "2022-06-27",
+        "oclcIncludeFile": [
+            "databases/jama.txt"
+        ]
     },
     "Janes_Online_Service": {
         "name": "Jane's Online Service",
@@ -3377,6 +3826,15 @@
         "oclcStanzaId": "Jeugd_LiteRom",
         "oclcIncludeFile": "databases/jeugdliterom.txt",
         "lastUpdated": "2020-03-02"
+    },
+    "JINFM": {
+        "name": "JINFM",
+        "stanza": "OCLC/JINFM.txt",
+        "oclcStanzaId": "JINFM",
+        "oclcIncludeFile": [
+            "databases/jinfm.txt"
+        ],
+        "lastUpdated": "2022-04-11"
     },
     "JISC": {
         "name": "JISC",
@@ -3410,7 +3868,7 @@
         "stanza": "OCLC/John_Libbey_Eurotext.txt",
         "oclcStanzaId": "John_Libbey_Eurotext",
         "oclcIncludeFile": "databases/jle.txt",
-        "lastUpdated": "2019-12-23"
+        "lastUpdated": "2022-03-04"
     },
     "Joint_Commission_Resources": {
         "name": "Joint Commission Resources",
@@ -3437,7 +3895,7 @@
         "stanza": "OCLC/Journal_of_Chinese_Medicine.txt",
         "oclcStanzaId": "Journal_of_Chinese_Medicine",
         "oclcIncludeFile": "databases/jcm.txt",
-        "lastUpdated": "2019-12-31"
+        "lastUpdated": "2022-04-29"
     },
     "Journal_of_Emergency_Medical_Services": {
         "name": "Journal of Emergency Medical Services",
@@ -3458,7 +3916,7 @@
         "stanza": "OCLC/Journal_of_Jewish_Studies.txt",
         "oclcStanzaId": "Journal_of_Jewish_Studies",
         "oclcIncludeFile": "databases/jewishstudies.txt",
-        "lastUpdated": "2015-08-25"
+        "lastUpdated": "2022-06-27"
     },
     "Journal_of_Neuroscience": {
         "name": "Journal of Neuroscience, The",
@@ -3486,14 +3944,23 @@
         "stanza": "OCLC/Journal_of_Orthopaedic_and_Sports_Physical_Therapy.txt",
         "oclcStanzaId": "Journal_of_Orthopaedic_and_Sports_Physical_Therapy",
         "oclcIncludeFile": "databases/jospt.txt",
-        "lastUpdated": "2018-10-16"
+        "lastUpdated": "2022-06-27"
+    },
+    "Journal_of_Rheumatology": {
+        "name": "Journal of Rheumatology",
+        "stanza": "OCLC/Journal_of_Rheumatology.txt",
+        "oclcStanzaId": "Journal_of_Rheumatology",
+        "oclcIncludeFile": [
+            "databases/journal_of_rheumatology.txt"
+        ],
+        "lastUpdated": "2022-03-09"
     },
     "Journal_of_the_American_Animal_Hospital_Association": {
         "name": "Journal of the American Animal Hospital Association",
         "stanza": "OCLC/Journal_of_the_American_Animal_Hospital_Association.txt",
         "oclcStanzaId": "Journal_of_the_American_Animal_Hospital_Association",
         "oclcIncludeFile": "databases/jaaha.txt",
-        "lastUpdated": "2019-12-23"
+        "lastUpdated": "2022-01-20"
     },
     "Journal_of_the_Motherhood_Initiative": {
         "name": "Journal of the Motherhood Initiative",
@@ -3535,7 +4002,7 @@
         "stanza": "OCLC/JSTOR.txt",
         "oclcStanzaId": "JSTOR",
         "oclcIncludeFile": "databases/jstor.txt",
-        "lastUpdated": "2019-06-26"
+        "lastUpdated": "2022-10-13"
     },
     "JUltra_Sound": {
         "name": "JUltra Sound",
@@ -3624,7 +4091,7 @@
         "stanza": "OCLC/Kluwer_Arbitration.txt",
         "oclcStanzaId": "Kluwer_Arbitration",
         "oclcIncludeFile": "databases/kluwerarbitration.txt",
-        "lastUpdated": "2021-03-11"
+        "lastUpdated": "2022-06-27"
     },
     "Kluwer_Competition_Law": {
         "name": "Kluwer Competition Law",
@@ -3685,7 +4152,7 @@
         "stanza": "OCLC/Knovel.txt",
         "oclcStanzaId": "Knovel",
         "oclcIncludeFile": "databases/knovel.txt",
-        "lastUpdated": "2021-05-21"
+        "lastUpdated": "2022-05-09"
     },
     "Kompass": {
         "name": "Kompass",
@@ -3700,6 +4167,15 @@
         "oclcIncludeFile": "databases/kotarlibrary.txt",
         "lastUpdated": "2020-07-23"
     },
+    "Kweli_TV": {
+        "name": "Kweli TV",
+        "stanza": "OCLC/Kweli_TV.txt",
+        "oclcStanzaId": "Kweli_TV",
+        "oclcIncludeFile": [
+            "databases/kwelitv.txt"
+        ],
+        "lastUpdated": "2023-01-24"
+    },
     "Lamyline": {
         "name": "Lamyline",
         "stanza": "OCLC/Lamyline.txt",
@@ -3712,6 +4188,15 @@
         "oclcStanzaId": "Latin-American_Studies",
         "oclcIncludeFile": "databases/latinamericanstudies.txt",
         "lastUpdated": "2019-05-16"
+    },
+    "Lawsnote": {
+        "name": "Lawsnote",
+        "stanza": "OCLC/Lawsnote.txt",
+        "oclcStanzaId": "Lawsnote",
+        "oclcIncludeFile": [
+            "databases/lawsnote.txt"
+        ],
+        "lastUpdated": "2022-07-29"
     },
     "Lawtel": {
         "name": "Lawtel",
@@ -3750,7 +4235,10 @@
         "name": "Learning and Technology Library, The",
         "stanza": "OCLC/Learning_Technology_Library.txt",
         "oclcStanzaId": "Learning_Technology_Library",
-        "lastUpdated": "2016-02-29"
+        "lastUpdated": "2021-08-26",
+        "oclcIncludeFile": [
+            "databases/learningandtechnology.txt"
+        ]
     },
     "Lexbase": {
         "name": "Lexbase",
@@ -3771,7 +4259,7 @@
         "stanza": "OCLC/LexisNexis.txt",
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
-        "lastUpdated": "2019-10-02"
+        "lastUpdated": "2022-12-06"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
@@ -3783,7 +4271,10 @@
         "name": "Lexis Advance Quicklaw",
         "stanza": "OCLC/Lexis_Advance_Quicklaw.txt",
         "oclcStanzaId": "Lexis_Advance_Quicklaw",
-        "lastUpdated": "2018-04-23"
+        "lastUpdated": "2022-01-21",
+        "oclcIncludeFile": [
+            "databases/lexisadvancequicklaw.txt"
+        ]
     },
     "Lextenso": {
         "name": "Lextenso",
@@ -3812,6 +4303,15 @@
         "oclcStanzaId": "Library_of_Congress",
         "oclcIncludeFile": "databases/loc.txt",
         "lastUpdated": "2020-04-17"
+    },
+    "Library_Stack": {
+        "name": "Library Stack",
+        "stanza": "OCLC/Library_Stack.txt",
+        "oclcStanzaId": "Library_Stack",
+        "oclcIncludeFile": [
+            "databases/librarystack.txt"
+        ],
+        "lastUpdated": "2021-10-25"
     },
     "Liebert": {
         "name": "Liebert",
@@ -3846,7 +4346,7 @@
         "stanza": "OCLC/Lippincott_TelemedInsights.txt",
         "oclcStanzaId": "Lippincott_TelemedInsights",
         "oclcIncludeFile": "databases/lippincott_telemedInsights.txt",
-        "lastUpdated": "2021-05-07"
+        "lastUpdated": "2022-04-26"
     },
     "Literary_Encyclopedia": {
         "name": "Literary Encyclopedia, The",
@@ -3866,7 +4366,7 @@
         "stanza": "OCLC/Liverpool_University_Press.txt",
         "oclcStanzaId": "Liverpool_University_Press",
         "oclcIncludeFile": "databases/liverpoolunipress.txt",
-        "lastUpdated": "2021-06-15"
+        "lastUpdated": "2022-12-02"
     },
     "LLMC_Digital": {
         "name": "LLMC Digital",
@@ -3901,7 +4401,7 @@
         "stanza": "OCLC/Love_the_Work.txt",
         "oclcStanzaId": "Love_the_Work",
         "oclcIncludeFile": "databases/lovethework.txt",
-        "lastUpdated": "2020-07-21"
+        "lastUpdated": "2023-01-06"
     },
     "LWW_Health_Library": {
         "name": "LWW Health Library",
@@ -3915,7 +4415,7 @@
         "stanza": "OCLC/Lyell_Collection.txt",
         "oclcStanzaId": "Lyell_Collection",
         "oclcIncludeFile": "databases/lyellcollection.txt",
-        "lastUpdated": "2019-03-18"
+        "lastUpdated": "2022-03-04"
     },
     "Lynda": {
         "name": "Lynda.com",
@@ -3923,6 +4423,33 @@
         "oclcStanzaId": "Lynda",
         "oclcIncludeFile": "databases/lynda.txt",
         "lastUpdated": "2017-03-23"
+    },
+    "Lynne_Rienner_Publishers": {
+        "name": "Lynne Rienner Publishers",
+        "stanza": "OCLC/Lynne_Rienner_Publishers.txt",
+        "oclcStanzaId": "Lynne_Rienner_Publishers",
+        "oclcIncludeFile": [
+            "databases/rienner.txt"
+        ],
+        "lastUpdated": "2022-06-28"
+    },
+    "Lyrasis_Learning": {
+        "name": "Lyrasis Learning",
+        "stanza": "OCLC/Lyrasis_Learning.txt",
+        "oclcStanzaId": "Lyrasis_Learning",
+        "oclcIncludeFile": [
+            "databases/lyrasislearning.txt"
+        ],
+        "lastUpdated": "2021-08-16"
+    },
+    "Maisaku": {
+        "name": "Maisaku",
+        "stanza": "OCLC/Maisaku.txt",
+        "oclcStanzaId": "Maisaku",
+        "oclcIncludeFile": [
+            "databases/maisaku.txt"
+        ],
+        "lastUpdated": "2022-09-20"
     },
     "Malaysiakini": {
         "name": "Malaysiakini",
@@ -3991,7 +4518,10 @@
         "stanza": "OCLC/Mark_Allen_Group.txt",
         "note": "Includes stanzas for Nursery World, Children & Young People Now, Optician",
         "oclcStanzaId": "Mark_Allen_Group",
-        "lastUpdated": "2018-01-02"
+        "lastUpdated": "2018-01-02",
+        "oclcIncludeFile": [
+            "databases/magonline.txt"
+        ]
     },
     "Marquis_Biographies_Online": {
         "name": "Marquis Biographies Online",
@@ -4018,7 +4548,7 @@
         "stanza": "OCLC/MathSciNet.txt",
         "oclcStanzaId": "MathSciNet",
         "oclcIncludeFile": "databases/mathscinet.txt",
-        "lastUpdated": "2017-12-19"
+        "lastUpdated": "2022-06-28"
     },
     "Matthew_Bender_Online": {
         "name": "Matthew Bender Online",
@@ -4040,12 +4570,21 @@
         "oclcIncludeFile": "databases/mcgrawhillebook.txt",
         "lastUpdated": "2019-07-11"
     },
+    "McGraw-Hill_Education": {
+        "name": "McGraw-Hill Education",
+        "stanza": "OCLC/McGraw-Hill_Education.txt",
+        "oclcStanzaId": "McGraw-Hill_Education",
+        "oclcIncludeFile": [
+            "databases/mheducation.txt"
+        ],
+        "lastUpdated": "2021-10-01"
+    },
     "McGraw-Hill_Medical": {
         "name": "McGraw-Hill Medical",
         "stanza": "OCLC/McGraw-Hill_Medical.txt",
         "oclcStanzaId": "McGraw-Hill_Medical",
         "oclcIncludeFile": "databases/mhmedical.txt",
-        "lastUpdated": "2020-01-02"
+        "lastUpdated": "2022-09-29"
     },
     "McIntyre_Media": {
         "name": "McIntyre Media",
@@ -4099,7 +4638,7 @@
         "stanza": "OCLC/Medical_Online.txt",
         "oclcStanzaId": "Medical_Online",
         "oclcIncludeFile": "databases/medicalonline.txt",
-        "lastUpdated": "2021-06-07"
+        "lastUpdated": "2021-09-06"
     },
     "Medici_tv_EDU": {
         "name": "Medici.tv EDU",
@@ -4172,7 +4711,7 @@
         "stanza": "OCLC/MERIP.txt",
         "oclcStanzaId": "MERIP",
         "oclcIncludeFile": "databases/merip.txt",
-        "lastUpdated": "2020-05-20"
+        "lastUpdated": "2021-10-28"
     },
     "Metapress": {
         "name": "Metapress",
@@ -4242,14 +4781,14 @@
         "stanza": "OCLC/Mindscape_Commons.txt",
         "oclcStanzaId": "Mindscape_Commons",
         "oclcIncludeFile": "databases/mindscape_commons.txt",
-        "lastUpdated": "2021-01-06"
+        "lastUpdated": "2021-10-21"
     },
     "Mintel": {
         "name": "Mintel",
         "stanza": "OCLC/Mintel.txt",
         "oclcStanzaId": "Mintel",
         "oclcIncludeFile": "databases/mintel.txt",
-        "lastUpdated": "2021-06-15"
+        "lastUpdated": "2022-08-05"
     },
     "Mission_Nexus": {
         "name": "Mission Nexus",
@@ -4290,7 +4829,7 @@
         "stanza": "OCLC/Modern_Language_Association.txt",
         "oclcStanzaId": "Modern_Language_Association",
         "oclcIncludeFile": "databases/mla.txt",
-        "lastUpdated": "2021-02-11"
+        "lastUpdated": "2021-09-20"
     },
     "Mohr_Siebeck": {
         "name": "Mohr Siebeck",
@@ -4311,7 +4850,7 @@
         "stanza": "OCLC/Morningstar.txt",
         "oclcStanzaId": "Morningstar",
         "oclcIncludeFile": "databases/morningstar.txt",
-        "lastUpdated": "2021-05-20"
+        "lastUpdated": "2021-11-25"
     },
     "Motologic": {
         "name": "Motologic",
@@ -4339,7 +4878,7 @@
         "stanza": "OCLC/NAACE.txt",
         "oclcStanzaId": "NAACE",
         "oclcIncludeFile": "databases/naace.txt",
-        "lastUpdated": "2015-03-24"
+        "lastUpdated": "2021-11-25"
     },
     "NachschlageNET": {
         "name": "Nachschlage.NET",
@@ -4366,7 +4905,7 @@
         "stanza": "OCLC/National_Council_of_Teachers_of_Mathematics.txt",
         "oclcStanzaId": "National_Council_of_Teachers_of_Mathematics",
         "oclcIncludeFile": "databases/nctm.txt",
-        "lastUpdated": "2020-08-07"
+        "lastUpdated": "2023-01-03"
     },
     "National_Film_Board_of_Canada": {
         "name": "National Film Board of Canada",
@@ -4411,7 +4950,7 @@
         "stanza": "OCLC/Nature_Publishing.txt",
         "oclcStanzaId": "Nature_Publishing",
         "oclcIncludeFile": "databases/nature_publishing_group.txt",
-        "lastUpdated": "2019-05-31"
+        "lastUpdated": "2021-11-16"
     },
     "Naxos": {
         "name": "Naxos",
@@ -4424,7 +4963,16 @@
                 "placeholder": "The unique site identifier for your institution"
             }
         ],
-        "lastUpdated": "2021-06-02"
+        "lastUpdated": "2021-10-26"
+    },
+    "Naxos_Music_Library_(Japanese_Version)": {
+        "name": "Naxos Music Library (Japanese Version)",
+        "stanza": "OCLC/Naxos_Music_Library_(Japanese_Version).txt",
+        "oclcStanzaId": "Naxos_Music_Library_(Japanese_Version)",
+        "oclcIncludeFile": [
+            "databases/naxos_japan.txt"
+        ],
+        "lastUpdated": "2022-12-02"
     },
     "Naxos_Sheet_Music_Library": {
         "name": "Naxos Sheet Music Library",
@@ -4466,6 +5014,15 @@
         "oclcIncludeFile": "databases/nejm_catalyst.txt",
         "lastUpdated": "2020-10-09"
     },
+    "NEJM_Group": {
+        "name": "NEJM Group",
+        "stanza": "OCLC/NEJM_Group.txt",
+        "oclcStanzaId": "NEJM_Group",
+        "oclcIncludeFile": [
+            "databases/nejm_group.txt"
+        ],
+        "lastUpdated": "2022-06-28"
+    },
     "NEJM_Journal_Watch": {
         "name": "NEJM Journal Watch",
         "stanza": "OCLC/NEJM_Journal_Watch.txt",
@@ -4499,7 +5056,7 @@
         "stanza": "OCLC/NewsBank.txt",
         "oclcStanzaId": "NewsBank",
         "oclcIncludeFile": "databases/newsbank.txt",
-        "lastUpdated": "2021-02-23"
+        "lastUpdated": "2022-06-28"
     },
     "Newspaper_Archive": {
         "name": "Newspaper Archive",
@@ -4546,7 +5103,7 @@
         "stanza": "OCLC/New_York_Times.txt",
         "oclcStanzaId": "New_York_Times",
         "oclcIncludeFile": "databases/nytimes.txt",
-        "lastUpdated": "2020-04-03"
+        "lastUpdated": "2021-09-03"
     },
     "Nexis_Uni": {
         "name": "Nexis Uni",
@@ -4554,7 +5111,7 @@
         "oclcStanzaId": "Nexis_Uni",
         "oclcIncludeFile": "databases/nexisuni.txt",
         "note": "Important: Customers migrating from LexisNexis Academic to Nexis Uni must place the Nexis Uni stanza above any legacy LexisNexis stanzas in config.txt",
-        "lastUpdated": "2021-05-07"
+        "lastUpdated": "2022-07-13"
     },
     "NFPA_Codes_Online": {
         "name": "NFPA Codes Online",
@@ -4604,6 +5161,15 @@
         "oclcStanzaId": "NRIT_Media",
         "oclcIncludeFile": "databases/nritmedia.txt",
         "lastUpdated": "2015-06-23"
+    },
+    "NTC_Economic_Financial_Publishing": {
+        "name": "NTC Economic & Financial Publishing",
+        "stanza": "OCLC/NTC_Economic_Financial_Publishing.txt",
+        "oclcStanzaId": "NTC_Economic_Financial_Publishing",
+        "oclcIncludeFile": [
+            "databases/worldeconomics.txt"
+        ],
+        "lastUpdated": "2021-08-09"
     },
     "Nursing_Consult": {
         "name": "Nursing Consult",
@@ -4779,7 +5345,7 @@
         "stanza": "OCLC/Open_Book_Publishers.txt",
         "oclcStanzaId": "Open_Book_Publishers",
         "oclcIncludeFile": "databases/openbookpublishers.txt",
-        "lastUpdated": "2017-07-18"
+        "lastUpdated": "2022-07-22"
     },
     "Opinion_Archives": {
         "name": "Opinion Archives",
@@ -4787,12 +5353,21 @@
         "oclcStanzaId": "Opinion_Archives",
         "lastUpdated": "2014-06-03"
     },
+    "Optica_Publishing_Group": {
+        "name": "Optica Publishing Group (formerly OSA)",
+        "stanza": "OCLC/Optica_Publishing_Group.txt",
+        "oclcStanzaId": "Optica_Publishing_Group",
+        "oclcIncludeFile": [
+            "databases/osapublishing.txt"
+        ],
+        "lastUpdated": "2022-01-27"
+    },
     "Orbis": {
         "name": "Orbis",
         "stanza": "OCLC/Orbis.txt",
         "oclcStanzaId": "Orbis",
         "oclcIncludeFile": "databases/orbis.txt",
-        "lastUpdated": "2020-12-14"
+        "lastUpdated": "2022-07-28"
     },
     "Origins_Online": {
         "name": "Origins Online",
@@ -4805,7 +5380,7 @@
         "stanza": "OCLC/Osiris.txt",
         "oclcStanzaId": "Osiris",
         "oclcIncludeFile": "databases/osiris.txt",
-        "lastUpdated": "2015-05-13"
+        "lastUpdated": "2022-07-28"
     },
     "Ovid": {
         "name": "Ovid",
@@ -4840,14 +5415,14 @@
         "stanza": "OCLC/Oxford_Academic.txt",
         "oclcStanzaId": "Oxford_Academic",
         "oclcIncludeFile": "databases/oxfordjournals.txt",
-        "lastUpdated": "2019-04-11"
+        "lastUpdated": "2023-01-06"
     },
     "Oxford_African_American_Studies_Center": {
         "name": "Oxford African American Studies Center",
         "stanza": "OCLC/Oxford_African_American_Studies_Center.txt",
         "oclcStanzaId": "Oxford_African_American_Studies_Center",
         "oclcIncludeFile": "databases/oxfordaasc.txt",
-        "lastUpdated": "2020-01-24"
+        "lastUpdated": "2023-01-18"
     },
     "Oxford_Art_Online": {
         "name": "Oxford Art Online",
@@ -4974,7 +5549,7 @@
         "note": "This resource also requires the Oxford Reference stanza",
         "oclcStanzaId": "Oxford_Scholarship_Online_OSO",
         "oclcIncludeFile": "databases/oxfordscholarship.txt",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2021-07-14"
     },
     "Oxford_Social_Work": {
         "name": "Oxford Social Work",
@@ -5037,7 +5612,7 @@
         "stanza": "OCLC/Passport_Euromonitor_International.txt",
         "oclcStanzaId": "Passport_Euromonitor_International",
         "oclcIncludeFile": "databases/gmid.txt",
-        "lastUpdated": "2021-05-31"
+        "lastUpdated": "2023-01-23"
     },
     "Peeters_Publishers": {
         "name": "Peeters Publishers",
@@ -5046,19 +5621,28 @@
         "oclcIncludeFile": "databases/peeters.txt",
         "lastUpdated": "2019-08-22"
     },
+    "PEP_Web": {
+        "name": "PEP Web",
+        "stanza": "OCLC/PEP_Web.txt",
+        "oclcStanzaId": "PEP_Web",
+        "oclcIncludeFile": [
+            "databases/pepweb.txt"
+        ],
+        "lastUpdated": "2022-07-15"
+    },
     "Pharmaceutical_Press": {
         "name": "Pharmaceutical Press",
         "stanza": "OCLC/Pharmaceutical_Press.txt",
         "oclcStanzaId": "Pharmaceutical_Press",
         "oclcIncludeFile": "databases/pharmaceuticalpress.txt",
-        "lastUpdated": "2021-02-16"
+        "lastUpdated": "2021-09-24"
     },
     "Pharmacy_Library": {
         "name": "Pharmacy Library",
         "stanza": "OCLC/Pharmacy_Library.txt",
         "oclcStanzaId": "Pharmacy_Library",
         "oclcIncludeFile": "databases/pharmacy_library.txt",
-        "lastUpdated": "2021-03-25"
+        "lastUpdated": "2022-03-10"
     },
     "Philosophia_Reformata": {
         "name": "Philosophia Reformata",
@@ -5121,6 +5705,24 @@
         "oclcIncludeFile": "databases/playbackonline.txt",
         "lastUpdated": "2021-05-11"
     },
+    "PLI_PLUS": {
+        "name": "PLI PLUS",
+        "stanza": "OCLC/PLI_PLUS.txt",
+        "oclcStanzaId": "PLI_PLUS",
+        "oclcIncludeFile": [
+            "databases/pliplus.txt"
+        ],
+        "lastUpdated": "2022-08-23"
+    },
+    "Plumbs_Veterinary_Drugs": {
+        "name": "Plumb's Veterinary Drugs",
+        "stanza": "OCLC/Plumbs_Veterinary_Drugs.txt",
+        "oclcStanzaId": "Plumbs_Veterinary_Drugs",
+        "oclcIncludeFile": [
+            "databases/plumbsveterinarydrugs.txt"
+        ],
+        "lastUpdated": "2021-08-10"
+    },
     "Plunkett_Research_Online": {
         "name": "Plunkett Research Online",
         "stanza": "OCLC/Plunkett_Research_Online.txt",
@@ -5162,6 +5764,15 @@
         "oclcIncludeFile": "databases/politicopro.txt",
         "lastUpdated": "2019-07-16"
     },
+    "Politique_%C3%A9trang%C3%A8re": {
+        "name": "Politique \u00e9trang\u00e8re",
+        "stanza": "OCLC/Politique_%C3%A9trang%C3%A8re.txt",
+        "oclcStanzaId": "Politique_%C3%A9trang%C3%A8re",
+        "oclcIncludeFile": [
+            "databases/peg.txt"
+        ],
+        "lastUpdated": "2020-02-25"
+    },
     "Politique_etrangere": {
         "name": "Politique \u00e9trang\u00e8re",
         "stanza": "OCLC/Politique_etrangere.txt",
@@ -5188,7 +5799,7 @@
         "stanza": "OCLC/Practical_Law.txt",
         "oclcStanzaId": "Practical_Law",
         "oclcIncludeFile": "databases/practicallaw.txt",
-        "lastUpdated": "2019-06-04"
+        "lastUpdated": "2021-11-05"
     },
     "Practice-based_Evidence_in_Nutrition": {
         "name": "Practice-based Evidence in Nutrition",
@@ -5249,7 +5860,16 @@
         "stanza": "OCLC/Proceedings_of_the_National_Academy_of_Sciences.txt",
         "oclcStanzaId": "Proceedings_of_the_National_Academy_of_Sciences",
         "oclcIncludeFile": "databases/pnas.txt",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2021-10-19"
+    },
+    "Projectr_TV": {
+        "name": "Projectr TV",
+        "stanza": "OCLC/Projectr_TV.txt",
+        "oclcStanzaId": "Projectr_TV",
+        "oclcIncludeFile": [
+            "databases/projectr_tv.txt"
+        ],
+        "lastUpdated": "2022-02-09"
     },
     "Project_Euclid": {
         "name": "Project Euclid",
@@ -5269,7 +5889,10 @@
         "name": "Prometheus",
         "stanza": "OCLC/Prometheus.txt",
         "oclcStanzaId": "Prometheus",
-        "lastUpdated": "2011-11-12"
+        "lastUpdated": "2022-05-27",
+        "oclcIncludeFile": [
+            "databases/prometheus.txt"
+        ]
     },
     "Pronunciator": {
         "name": "Pronunciator",
@@ -5283,14 +5906,17 @@
                 "enabled": true
             }
         ],
-        "lastUpdated": "2017-10-04"
+        "lastUpdated": "2017-10-04",
+        "oclcIncludeFile": [
+            "databases/pronunciator.txt"
+        ]
     },
     "ProQuest": {
         "name": "ProQuest",
         "stanza": "OCLC/ProQuest.txt",
         "oclcStanzaId": "ProQuest",
         "oclcIncludeFile": "databases/proquest.txt",
-        "lastUpdated": "2021-04-20"
+        "lastUpdated": "2022-08-04"
     },
     "Pro_Demand": {
         "name": "Pro Demand",
@@ -5298,6 +5924,15 @@
         "oclcStanzaId": "Pro_Demand",
         "oclcIncludeFile": "databases/prodemand.txt",
         "lastUpdated": "2021-05-11"
+    },
+    "Psik_Ebooks": {
+        "name": "Psik Ebooks",
+        "stanza": "OCLC/Psik_Ebooks.txt",
+        "oclcStanzaId": "Psik_Ebooks",
+        "oclcIncludeFile": [
+            "databases/psik.txt"
+        ],
+        "lastUpdated": "2022-11-22"
     },
     "PsycCRITIQUES": {
         "name": "PsycCRITIQUES",
@@ -5310,7 +5945,7 @@
         "stanza": "OCLC/Psychiatrist.txt",
         "oclcStanzaId": "Psychiatrist",
         "oclcIncludeFile": "databases/psychiatrist.txt",
-        "lastUpdated": "2019-08-07"
+        "lastUpdated": "2022-07-15"
     },
     "PsychiatryOnline": {
         "name": "PsychiatryOnline",
@@ -5344,7 +5979,7 @@
         "stanza": "OCLC/PubMed.txt",
         "oclcStanzaId": "PubMed",
         "oclcIncludeFile": "databases/pubmed.txt",
-        "lastUpdated": "2018-03-04"
+        "lastUpdated": "2021-11-30"
     },
     "Qinsight": {
         "name": "Qinsight",
@@ -5371,7 +6006,19 @@
         "name": "R2 Digital Library",
         "stanza": "OCLC/R2_Digital_Library.txt",
         "oclcStanzaId": "R2_Digital_Library",
-        "lastUpdated": "2010-10-08"
+        "lastUpdated": "2022-05-30",
+        "oclcIncludeFile": [
+            "databases/r2library.txt"
+        ]
+    },
+    "Radical_Philosophy": {
+        "name": "Radical Philosophy",
+        "stanza": "OCLC/Radical_Philosophy.txt",
+        "oclcStanzaId": "Radical_Philosophy",
+        "oclcIncludeFile": [
+            "databases/radicalphilosophy.txt"
+        ],
+        "lastUpdated": "2021-10-29"
     },
     "RAND_State_Statistics": {
         "name": "RAND State Statistics",
@@ -5413,7 +6060,7 @@
         "stanza": "OCLC/RCN_Publishing.txt",
         "oclcStanzaId": "RCN_Publishing",
         "oclcIncludeFile": "databases/rcnpublishing.txt",
-        "lastUpdated": "2018-05-10"
+        "lastUpdated": "2022-01-24"
     },
     "RDA_Tool_Kit": {
         "name": "RDA Tool Kit",
@@ -5427,7 +6074,7 @@
         "stanza": "OCLC/Reach-Bureau_van_Dijk.txt",
         "oclcStanzaId": "Reach-Bureau_van_Dijk",
         "oclcIncludeFile": "databases/reach.txt",
-        "lastUpdated": "2015-08-04"
+        "lastUpdated": "2022-07-28"
     },
     "Rechtsorde": {
         "name": "Rechtsorde",
@@ -5441,6 +6088,15 @@
         "stanza": "OCLC/Redbooks.txt",
         "oclcStanzaId": "Redbooks",
         "lastUpdated": "2012-09-07"
+    },
+    "Red_Book_of_Scotland_Online": {
+        "name": "Red Book of Scotland Online",
+        "stanza": "OCLC/Red_Book_of_Scotland_Online.txt",
+        "oclcStanzaId": "Red_Book_of_Scotland_Online",
+        "oclcIncludeFile": [
+            "databases/redbookofscotland.txt"
+        ],
+        "lastUpdated": "2022-11-02"
     },
     "Red_Book_Online": {
         "name": "Red Book Online",
@@ -5536,7 +6192,7 @@
         "stanza": "OCLC/Rockefeller_University_Press.txt",
         "oclcStanzaId": "Rockefeller_University_Press",
         "oclcIncludeFile": "databases/rupress.txt",
-        "lastUpdated": "2020-04-13"
+        "lastUpdated": "2021-11-05"
     },
     "Rocks_Backpages": {
         "name": "Rock's Backpages",
@@ -5625,7 +6281,7 @@
         "stanza": "OCLC/Royal_Society_of_Chemistry.txt",
         "oclcStanzaId": "Royal_Society_of_Chemistry",
         "oclcIncludeFile": "databases/royal_society_chemistry.txt",
-        "lastUpdated": "2019-02-07"
+        "lastUpdated": "2022-12-20"
     },
     "Royal_Society_Publishing_The": {
         "name": "Royal Society Publishing, The",
@@ -5638,7 +6294,10 @@
         "name": "Radiological Society of North America",
         "stanza": "OCLC/RSNA.txt",
         "oclcStanzaId": "RSNA",
-        "lastUpdated": "2016-08-10"
+        "lastUpdated": "2021-10-29",
+        "oclcIncludeFile": [
+            "databases/rsna.txt"
+        ]
     },
     "Ruimte_Wonen": {
         "name": "Ruimte + Wonen",
@@ -5673,7 +6332,7 @@
         "stanza": "OCLC/Sabinet_Discover.txt",
         "oclcStanzaId": "Sabinet_Discover",
         "oclcIncludeFile": "databases/sabinetref.txt",
-        "lastUpdated": "2018-04-19"
+        "lastUpdated": "2022-11-28"
     },
     "SAE_International": {
         "name": "SAE International",
@@ -5687,7 +6346,7 @@
         "stanza": "OCLC/SAE_MOBILUS.txt",
         "oclcStanzaId": "SAE_MOBILUS",
         "oclcIncludeFile": "databases/sae.txt",
-        "lastUpdated": "2020-04-08"
+        "lastUpdated": "2022-12-08"
     },
     "Safari_Books_Online": {
         "name": "Safari Books Online",
@@ -5701,7 +6360,7 @@
         "stanza": "OCLC/Sagamore_Publishing.txt",
         "oclcStanzaId": "Sagamore_Publishing",
         "oclcIncludeFile": "databases/sagamorepub.txt",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2022-07-25"
     },
     "SAGE_Journals": {
         "name": "SAGE Publications and Journals",
@@ -5722,7 +6381,7 @@
         "stanza": "OCLC/SAI_Global.txt",
         "oclcStanzaId": "SAI_Global",
         "oclcIncludeFile": "databases/saiglobal.txt",
-        "lastUpdated": "2019-07-12"
+        "lastUpdated": "2022-01-11"
     },
     "Salem_Press": {
         "name": "Salem Press",
@@ -5750,7 +6409,7 @@
         "stanza": "OCLC/Sanford_Guide.txt",
         "oclcStanzaId": "Sanford_Guide",
         "oclcIncludeFile": "databases/sanfordguide.txt",
-        "lastUpdated": "2020-09-01"
+        "lastUpdated": "2022-09-22"
     },
     "Schattauer_Publishers": {
         "name": "Schattauer Publishers",
@@ -5764,6 +6423,15 @@
         "stanza": "OCLC/Scholarly_Digital_Editions.txt",
         "oclcStanzaId": "Scholarly_Digital_Editions",
         "lastUpdated": "2018-01-10"
+    },
+    "Scholarly_Publishing_Collective": {
+        "name": "Scholarly Publishing Collective",
+        "stanza": "OCLC/Scholarly_Publishing_Collective.txt",
+        "oclcStanzaId": "Scholarly_Publishing_Collective",
+        "oclcIncludeFile": [
+            "databases/scholarlypulishingcollective.txt"
+        ],
+        "lastUpdated": "2021-10-13"
     },
     "ScholarsPortal": {
         "name": "Scholars Portal (Books, Journals, GeoPortal, RACER, DataVerse)",
@@ -5783,6 +6451,15 @@
         "oclcIncludeFile": "databases/schulzkirchner.txt",
         "lastUpdated": "2020-01-13"
     },
+    "Schweizerbart_Borntraeger_Journals_Stuttgart": {
+        "name": "Schweizerbart/Borntraeger Journals, Stuttgart",
+        "stanza": "OCLC/Schweizerbart_Borntraeger_Journals_Stuttgart.txt",
+        "oclcStanzaId": "Schweizerbart_Borntraeger_Journals_Stuttgart",
+        "oclcIncludeFile": [
+            "databases/schweizerbart.txt"
+        ],
+        "lastUpdated": "2022-07-18"
+    },
     "ScienceAAAS": {
         "name": "Science - AAAS",
         "stanza": "OCLC/ScienceAAAS.txt",
@@ -5801,7 +6478,9 @@
         "name": "Sciencenow: Faculty Opinions & Sciwheel (formerly F1000)",
         "stanza": "OCLC/Sciencenow.txt",
         "oclcStanzaId": "Sciencenow_Formerly_F1000",
-        "oclcIncludeFile": "databases/f1000.txt",
+        "oclcIncludeFile": [
+            "databases/sciwheel.txt"
+        ],
         "lastUpdated": "2020-06-17"
     },
     "ScienceXpress": {
@@ -5809,6 +6488,15 @@
         "stanza": "OCLC/ScienceXpress.txt",
         "oclcStanzaId": "ScienceXpress",
         "lastUpdated": "2014-04-04"
+    },
+    "Science_and_Medicine": {
+        "name": "Science & Medicine",
+        "stanza": "OCLC/Science_and_Medicine.txt",
+        "oclcStanzaId": "Science_and_Medicine",
+        "oclcIncludeFile": [
+            "databases/sciandmed.txt"
+        ],
+        "lastUpdated": "2021-12-14"
     },
     "Science_Signaling": {
         "name": "Science Signaling",
@@ -5853,28 +6541,28 @@
         "stanza": "OCLC/SciFinder.txt",
         "oclcStanzaId": "SciFinder",
         "oclcIncludeFile": "databases/scifinder.txt",
-        "lastUpdated": "2020-09-18"
+        "lastUpdated": "2021-08-04"
     },
     "Sciquest": {
         "name": "Sciquest",
         "stanza": "OCLC/Sciquest.txt",
         "oclcStanzaId": "Sciquest",
         "oclcIncludeFile": "databases/sciquest.txt",
-        "lastUpdated": "2019-12-23"
+        "lastUpdated": "2023-01-23"
     },
     "Scitation": {
         "name": "Scitation",
         "stanza": "OCLC/Scitation.txt",
         "oclcStanzaId": "Scitation",
         "oclcIncludeFile": "databases/scitation.txt",
-        "lastUpdated": "2017-02-03"
+        "lastUpdated": "2021-11-05"
     },
     "Scite": {
         "name": "Scite",
         "stanza": "OCLC/Scite.txt",
         "oclcStanzaId": "Scite",
         "oclcIncludeFile": "databases/scite.txt",
-        "lastUpdated": "2020-12-28"
+        "lastUpdated": "2021-11-12"
     },
     "SciVal": {
         "name": "SciVal",
@@ -5882,6 +6570,15 @@
         "oclcStanzaId": "SciVal",
         "oclcIncludeFile": "databases/scival.txt",
         "lastUpdated": "2019-01-15"
+    },
+    "Sciwheel": {
+        "name": "Sciwheel",
+        "stanza": "OCLC/Sciwheel.txt",
+        "oclcStanzaId": "Sciwheel",
+        "oclcIncludeFile": [
+            "databases/sciwheel.txt"
+        ],
+        "lastUpdated": "2022-05-13"
     },
     "SCMP_COMPASS": {
         "name": "SCMP COMPASS",
@@ -5896,6 +6593,15 @@
         "oclcStanzaId": "Score_Follower",
         "oclcIncludeFile": "databases/score_follower.txt",
         "lastUpdated": "2021-01-22"
+    },
+    "Scotlands_History_Online": {
+        "name": "Scotland's History Online",
+        "stanza": "OCLC/Scotlands_History_Online.txt",
+        "oclcStanzaId": "Scotlands_History_Online",
+        "oclcIncludeFile": [
+            "databases/sho.txt"
+        ],
+        "lastUpdated": "2022-09-02"
     },
     "Scotts_Directories": {
         "name": "Scott's Directories",
@@ -5916,7 +6622,7 @@
         "stanza": "OCLC/SDU.txt",
         "oclcStanzaId": "SDU",
         "oclcIncludeFile": "databases/sdu.txt",
-        "lastUpdated": "2020-05-28"
+        "lastUpdated": "2021-10-26"
     },
     "Secret_Files_from_World_Wars_to_Cold_War": {
         "name": "Secret Files from World Wars to Cold War",
@@ -6018,12 +6724,30 @@
         "oclcIncludeFile": "databases/socialexplorer.txt",
         "lastUpdated": "2019-12-13"
     },
+    "Society_for_Nuclear_Medicine_SNM_Journals": {
+        "name": "Society for Nuclear Medicine (SNM) Journals",
+        "stanza": "OCLC/Society_for_Nuclear_Medicine_SNM_Journals.txt",
+        "oclcStanzaId": "Society_for_Nuclear_Medicine_SNM_Journals",
+        "oclcIncludeFile": [
+            "databases/snm_journals.txt"
+        ],
+        "lastUpdated": "2022-02-03"
+    },
     "Sociological_Research_Online": {
         "name": "Sociological Research Online",
         "stanza": "OCLC/Sociological_Research_Online.txt",
         "oclcStanzaId": "Sociological_Research_Online",
         "oclcIncludeFile": "databases/socresonline.txt",
         "lastUpdated": "2019-12-31"
+    },
+    "Sourcing_Journal": {
+        "name": "Sourcing Journal",
+        "stanza": "OCLC/Sourcing_Journal.txt",
+        "oclcStanzaId": "Sourcing_Journal",
+        "oclcIncludeFile": [
+            "databases/sourcingjournal.txt"
+        ],
+        "lastUpdated": "2022-09-08"
     },
     "Southern_Medical_Association": {
         "name": "Southern Medical Association",
@@ -6037,6 +6761,15 @@
         "oclcStanzaId": "South_Asia_Archive",
         "oclcIncludeFile": "databases/sacha.txt",
         "lastUpdated": "2021-06-04"
+    },
+    "South_Asia_Commons": {
+        "name": "South Asia Commons",
+        "stanza": "OCLC/South_Asia_Commons.txt",
+        "oclcStanzaId": "South_Asia_Commons",
+        "oclcIncludeFile": [
+            "databases/southasiacommons.txt"
+        ],
+        "lastUpdated": "2022-08-03"
     },
     "SPIE_Digital_Library": {
         "name": "SPIE Digital Library",
@@ -6077,7 +6810,7 @@
         "stanza": "OCLC/Springer_Publishing_Company_Connect.txt",
         "oclcStanzaId": "Springer_Publishing_Company_Connect",
         "oclcIncludeFile": "databases/springerpub.txt",
-        "lastUpdated": "2020-03-24"
+        "lastUpdated": "2022-06-28"
     },
     "SRDS": {
         "name": "SRDS",
@@ -6097,21 +6830,21 @@
         "stanza": "OCLC/Stash_Media.txt",
         "oclcStanzaId": "Stash_Media",
         "oclcIncludeFile": "databases/stashmedia.txt",
-        "lastUpdated": "2021-03-02"
+        "lastUpdated": "2023-01-19"
     },
     "Statista": {
         "name": "Statista",
         "stanza": "OCLC/Statista.txt",
         "oclcStanzaId": "Statista",
         "oclcIncludeFile": "databases/statista.txt",
-        "lastUpdated": "2019-12-18"
+        "lastUpdated": "2023-01-17"
     },
     "STATRef": {
         "name": "STAT!Ref",
         "stanza": "OCLC/STATRef.txt",
         "oclcStanzaId": "statref",
         "oclcIncludeFile": "databases/statref.txt",
-        "lastUpdated": "2020-11-12"
+        "lastUpdated": "2021-10-04"
     },
     "Strada_Lex": {
         "name": "Strada Lex",
@@ -6165,14 +6898,14 @@
         "stanza": "OCLC/S_P_Capital_IQ_Pro.txt",
         "oclcStanzaId": "S_P_Capital_IQ_Pro",
         "oclcIncludeFile": "databases/snl.txt",
-        "lastUpdated": "2020-09-20"
+        "lastUpdated": "2021-11-04"
     },
     "S_P_Global_Capital_IQ": {
         "name": "S&P Global Capital IQ",
         "stanza": "OCLC/S_P_Global_Capital_IQ.txt",
         "oclcStanzaId": "S_P_Global_Capital_IQ",
         "oclcIncludeFile": "databases/sandpcapitaliq.txt",
-        "lastUpdated": "2020-12-11"
+        "lastUpdated": "2021-09-23"
     },
     "S_P_Global_NetAdvantage": {
         "name": "S&P Global NetAdvantage",
@@ -6186,7 +6919,10 @@
                 "enabled": true
             }
         ],
-        "lastUpdated": "2018-07-11"
+        "lastUpdated": "2022-07-20",
+        "oclcIncludeFile": [
+            "databases/sandpnetadvantage.txt"
+        ]
     },
     "Taxnet_Pro": {
         "name": "Taxnet Pro",
@@ -6194,6 +6930,15 @@
         "oclcStanzaId": "Taxnet_Pro",
         "oclcIncludeFile": "databases/taxnetpro.txt",
         "lastUpdated": "2021-04-19"
+    },
+    "TaxNotes": {
+        "name": "TaxNotes",
+        "stanza": "OCLC/TaxNotes.txt",
+        "oclcStanzaId": "TaxNotes",
+        "oclcIncludeFile": [
+            "databases/taxnotes.txt"
+        ],
+        "lastUpdated": "2022-05-09"
     },
     "TaxWin": {
         "name": "TaxWin",
@@ -6262,7 +7007,7 @@
         "stanza": "OCLC/Theatre_Record.txt",
         "oclcStanzaId": "Theatre_Record",
         "oclcIncludeFile": "databases/theatrerecord.txt",
-        "lastUpdated": "2018-11-29"
+        "lastUpdated": "2022-06-28"
     },
     "Thesaurus_Linguae_Graecae": {
         "name": "Thesaurus Linguae Graecae",
@@ -6278,6 +7023,24 @@
         "oclcIncludeFile": "databases/atlantic.txt",
         "lastUpdated": "2021-05-11"
     },
+    "The_China_Project": {
+        "name": "The China Project",
+        "stanza": "OCLC/The_China_Project.txt",
+        "oclcStanzaId": "The_China_Project",
+        "oclcIncludeFile": [
+            "databases/thechinaproject.txt"
+        ],
+        "lastUpdated": "2022-09-12"
+    },
+    "The_Diplomat": {
+        "name": "Diplomat, The",
+        "stanza": "OCLC/The_Diplomat.txt",
+        "oclcStanzaId": "The_Diplomat",
+        "oclcIncludeFile": [
+            "databases/thediplomat.txt"
+        ],
+        "lastUpdated": "2022-03-09"
+    },
     "The_HistoryMakers_African_American_Oral_History_Archive": {
         "name": "HistoryMakers African American Oral History Archive, The",
         "stanza": "OCLC/The_HistoryMakers_African_American_Oral_History_Archive.txt",
@@ -6292,11 +7055,29 @@
         "oclcIncludeFile": "databases/theiet.txt",
         "lastUpdated": "2021-03-29"
     },
+    "The_Japan_Times_Digital_Archives": {
+        "name": "The Japan Times Digital Archives",
+        "stanza": "OCLC/The_Japan_Times_Digital_Archives.txt",
+        "oclcStanzaId": "The_Japan_Times_Digital_Archives",
+        "oclcIncludeFile": [
+            "databases/TheJapanTimesDigitalArchives.txt"
+        ],
+        "lastUpdated": "2022-10-14"
+    },
     "The_Oklahoman": {
         "name": "The Oklahoman",
         "stanza": "OCLC/The_Oklahoman.txt",
         "oclcStanzaId": "The_Oklahoman",
         "lastUpdated": "2012-01-04"
+    },
+    "The_Salt_Lake_Tribune": {
+        "name": "The Salt Lake Tribune",
+        "stanza": "OCLC/The_Salt_Lake_Tribune.txt",
+        "oclcStanzaId": "The_Salt_Lake_Tribune",
+        "oclcIncludeFile": [
+            "databases/sltrib.txt"
+        ],
+        "lastUpdated": "2022-08-05"
     },
     "The_Source_Magpies_Magazine": {
         "name": "Source Magpies Magazine, The",
@@ -6309,7 +7090,7 @@
         "stanza": "OCLC/The_Washington_Post.txt",
         "oclcStanzaId": "The_Washington_Post",
         "oclcIncludeFile": "databases/thewashingtonpost.txt",
-        "lastUpdated": "2021-01-11"
+        "lastUpdated": "2021-08-05"
     },
     "Thieme": {
         "name": "Thieme",
@@ -6357,7 +7138,7 @@
         "stanza": "OCLC/Thomson_Reuters_Checkpoint_Edge.txt",
         "oclcStanzaId": "Thomson_Reuters_Checkpoint_Edge",
         "oclcIncludeFile": "databases/riacheckpoint.txt",
-        "lastUpdated": "2020-12-02"
+        "lastUpdated": "2021-09-02"
     },
     "TMC_Asser_Instituut": {
         "name": "TMC Asser Instituut",
@@ -6377,7 +7158,7 @@
         "stanza": "OCLC/Torrossa.txt",
         "oclcStanzaId": "Torrossa",
         "oclcIncludeFile": "databases/torrossa.txt",
-        "lastUpdated": "2021-05-05"
+        "lastUpdated": "2021-09-16"
     },
     "Transnational_Dispute_Management": {
         "name": "Transnational Dispute Management",
@@ -6391,7 +7172,7 @@
         "stanza": "OCLC/Transparent_Language.txt",
         "oclcStanzaId": "Transparent_Language",
         "oclcIncludeFile": "databases/transparent.txt",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2022-06-07"
     },
     "Travel-42": {
         "name": "Travel-42",
@@ -6432,7 +7213,7 @@
         "stanza": "OCLC/Tumblebooks.txt",
         "oclcStanzaId": "Tumblebooks",
         "oclcIncludeFile": "databases/tumblebooks.txt",
-        "lastUpdated": "2020-05-20"
+        "lastUpdated": "2022-01-28"
     },
     "Turnitin": {
         "name": "Turnitin",
@@ -6447,11 +7228,32 @@
         "oclcIncludeFile": "databases/ucpress.txt",
         "lastUpdated": "2021-06-15"
     },
+    "UHM_Society_Journal": {
+        "name": "UHM Society Journal",
+        "stanza": "OCLC/UHM_Society_Journal.txt",
+        "oclcStanzaId": "UHM_Society_Journal",
+        "oclcIncludeFile": [
+            "databases/uhms.txt"
+        ],
+        "lastUpdated": "2022-06-28"
+    },
     "Ulrichsweb": {
         "name": "Ulrichsweb",
         "stanza": "OCLC/Ulrichsweb.txt",
         "oclcStanzaId": "Ulrichsweb",
-        "lastUpdated": "2017-06-27"
+        "lastUpdated": "2017-06-27",
+        "oclcIncludeFile": [
+            "databases/ulrichsweb.txt"
+        ]
+    },
+    "UN-iLibrary": {
+        "name": "UN-iLibrary",
+        "stanza": "OCLC/UN-iLibrary.txt",
+        "oclcStanzaId": "UN-iLibrary",
+        "oclcIncludeFile": [
+            "databases/unilibrary.txt"
+        ],
+        "lastUpdated": "2022-02-23"
     },
     "Understanding_Hate_in_America": {
         "name": "Understanding Hate in America",
@@ -6465,21 +7267,30 @@
         "stanza": "OCLC/Unebook.txt",
         "oclcStanzaId": "Unebook",
         "oclcIncludeFile": "databases/unebook.txt",
-        "lastUpdated": "2021-05-18"
+        "lastUpdated": "2022-03-24"
+    },
+    "Universit%C3%A4tsverlag_Winter": {
+        "name": "Universit\u00e4tsverlag Winter",
+        "stanza": "OCLC/Universit%C3%A4tsverlag_Winter.txt",
+        "oclcStanzaId": "Universit%C3%A4tsverlag_Winter",
+        "oclcIncludeFile": [
+            "databases/universitatsverlagwinter.txt"
+        ],
+        "lastUpdated": "2022-09-15"
     },
     "University_of_Buckingham_Press": {
         "name": "University of Buckingham Press",
         "stanza": "OCLC/University_of_Buckingham_Press.txt",
         "oclcStanzaId": "University_of_Buckingham_Press",
         "oclcIncludeFile": "databases/ubplj.txt",
-        "lastUpdated": "2019-12-31"
+        "lastUpdated": "2021-11-17"
     },
     "University_of_Chicago_Press": {
         "name": "University of Chicago Press",
         "stanza": "OCLC/University_of_Chicago_Press.txt",
         "oclcStanzaId": "University_of_Chicago_Press",
         "oclcIncludeFile": "databases/uchicago.txt",
-        "lastUpdated": "2018-05-02"
+        "lastUpdated": "2022-08-10"
     },
     "University_of_Fashion": {
         "name": "University of Fashion",
@@ -6513,14 +7324,17 @@
         "name": "University of Wisconsin Press",
         "stanza": "OCLC/University_of_Wisconsin_Press.txt",
         "oclcStanzaId": "University_of_Wisconsin_Press",
-        "lastUpdated": "2015-06-17"
+        "lastUpdated": "2022-06-17",
+        "oclcIncludeFile": [
+            "databases/uwpress.txt"
+        ]
     },
     "University_Press_Scholarship_Online": {
         "name": "University Press Scholarship Online",
         "stanza": "OCLC/University_Press_Scholarship_Online.txt",
         "oclcStanzaId": "University_Press_Scholarship_Online",
         "oclcIncludeFile": "databases/universitypressscholarship.txt",
-        "lastUpdated": "2020-07-10"
+        "lastUpdated": "2021-11-24"
     },
     "University_Texas_Press_Journals": {
         "name": "University of Texas Press Journals",
@@ -6569,6 +7383,15 @@
         "oclcStanzaId": "Vanderbilt_Television_News_Archive",
         "lastUpdated": "2016-11-01"
     },
+    "Variety_Archives": {
+        "name": "Variety Archives",
+        "stanza": "OCLC/Variety_Archives.txt",
+        "oclcStanzaId": "Variety_Archives",
+        "oclcIncludeFile": [
+            "databases/varietyarchives.txt"
+        ],
+        "lastUpdated": "2022-04-26"
+    },
     "Veritrade": {
         "name": "Veritrade",
         "stanza": "OCLC/Veritrade.txt",
@@ -6602,14 +7425,32 @@
         "stanza": "OCLC/Visible_Body.txt",
         "oclcStanzaId": "Visible_Body",
         "oclcIncludeFile": "databases/visiblebody.txt",
-        "lastUpdated": "2021-01-20"
+        "lastUpdated": "2022-07-21"
+    },
+    "Visual_History_Archive_(SHOAH)": {
+        "name": "Visual History Archive (SHOAH)",
+        "stanza": "OCLC/Visual_History_Archive_(SHOAH).txt",
+        "oclcStanzaId": "Visual_History_Archive_(SHOAH)",
+        "oclcIncludeFile": [
+            "databases//VisualHistoryArchive(SHOAH).txt"
+        ],
+        "lastUpdated": "2023-01-04"
     },
     "Vitallaw_Premium": {
         "name": "Vitallaw Premium",
         "stanza": "OCLC/Vitallaw_Premium.txt",
         "oclcStanzaId": "Vitallaw_Premium",
         "oclcIncludeFile": "databases/cheetah.txt",
-        "lastUpdated": "2019-05-24"
+        "lastUpdated": "2021-11-01"
+    },
+    "VitalSource_Resolver": {
+        "name": "VitalSource Resolver",
+        "stanza": "OCLC/VitalSource_Resolver.txt",
+        "oclcStanzaId": "VitalSource_Resolver",
+        "oclcIncludeFile": [
+            "databases/vitalsource.txt"
+        ],
+        "lastUpdated": "2022-01-10"
     },
     "vLex": {
         "name": "vLex",
@@ -6646,12 +7487,27 @@
         "oclcIncludeFile": "databases/warstate_and_society.txt",
         "lastUpdated": "2021-05-26"
     },
+    "Webenglish.tv": {
+        "name": "Webenglish.tv",
+        "stanza": "OCLC/Webenglish.tv.txt",
+        "oclcStanzaId": "Webenglish.tv",
+        "lastUpdated": "2021-08-09"
+    },
     "Web_of_Knowledge": {
         "name": "Web of Science (formerly Web of Knowledge)",
         "stanza": "OCLC/Web_of_Knowledge.txt",
         "oclcStanzaId": "Web_of_Knowledge",
         "oclcIncludeFile": "databases/webofknowledge.txt",
-        "lastUpdated": "2020-12-09"
+        "lastUpdated": "2022-08-05"
+    },
+    "Wenxinge": {
+        "name": "Wenxinge",
+        "stanza": "OCLC/Wenxinge.txt",
+        "oclcStanzaId": "Wenxinge",
+        "oclcIncludeFile": [
+            "databases/wenxinge.txt"
+        ],
+        "lastUpdated": "2022-10-04"
     },
     "Westlaw": {
         "name": "Westlaw",
@@ -6702,7 +7558,7 @@
         "stanza": "OCLC/Wharton_Research_Data_Services_WRDS.txt",
         "oclcStanzaId": "Wharton_Research_Data_Services_WRDS",
         "oclcIncludeFile": "databases/wrds.txt",
-        "lastUpdated": "2019-10-09"
+        "lastUpdated": "2022-01-10"
     },
     "What_Everyone_Needs_to_Know": {
         "name": "What Everyone Needs to Know\u00ae",
@@ -6723,7 +7579,7 @@
         "stanza": "OCLC/Wiley_Online_Library.txt",
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
-        "lastUpdated": "2021-04-20"
+        "lastUpdated": "2023-01-19"
     },
     "WisersOne": {
         "name": "WisersOne",
@@ -6737,7 +7593,7 @@
         "stanza": "OCLC/Wolters_Kluwer_Online_Deutschland.txt",
         "oclcStanzaId": "Wolters_Kluwer_Online_Deutschland",
         "oclcIncludeFile": "databases/wkdeutschland.txt",
-        "lastUpdated": "2020-04-28"
+        "lastUpdated": "2022-05-10"
     },
     "Womens_Pregnancy_and_Breastfeeding_Medicines_Guide": {
         "name": "Women's Pregnancy and Breastfeeding Medicines Guide",
@@ -6765,6 +7621,24 @@
         "oclcStanzaId": "worldbookonline",
         "oclcIncludeFile": "databases/worldbookonline.txt",
         "lastUpdated": "2019-04-10"
+    },
+    "World_Library": {
+        "name": "World Library",
+        "stanza": "OCLC/World_Library.txt",
+        "oclcStanzaId": "World_Library",
+        "oclcIncludeFile": [
+            "databases/worldlibrary.txt"
+        ],
+        "lastUpdated": "2021-07-19"
+    },
+    "World_of_Learning": {
+        "name": "World of Learning",
+        "stanza": "OCLC/World_of_Learning.txt",
+        "oclcStanzaId": "World_of_Learning",
+        "oclcIncludeFile": [
+            "databases/world_of_learning.txt"
+        ],
+        "lastUpdated": "2022-05-12"
     },
     "World_Scientific_Publishing": {
         "name": "World Scientific Publishing",
@@ -6794,11 +7668,23 @@
         "oclcIncludeFile": "databases/worldtraderef.txt",
         "lastUpdated": "2018-07-11"
     },
+    "World_Whos_Who": {
+        "name": "World Who's Who",
+        "stanza": "OCLC/World_Whos_Who.txt",
+        "oclcStanzaId": "World_Whos_Who",
+        "oclcIncludeFile": [
+            "databases/world_whos_who.txt"
+        ],
+        "lastUpdated": "2022-05-12"
+    },
     "WWD_Womens_Wear_Daily": {
         "name": "WWD (Women's Wear Daily)",
         "stanza": "OCLC/WWD_Womens_Wear_Daily.txt",
         "oclcStanzaId": "WWD_Womens_Wear_Daily",
-        "lastUpdated": "2016-09-22"
+        "lastUpdated": "2022-06-27",
+        "oclcIncludeFile": [
+            "databases/womenswear.txt"
+        ]
     },
     "WWO": {
         "name": "Women Writers Online",
@@ -6809,7 +7695,7 @@
         "name": "Zephyr",
         "stanza": "OCLC/Zephyr.txt",
         "oclcStanzaId": "Zephyr",
-        "lastUpdated": "2015-08-31"
+        "lastUpdated": "2022-07-28"
     },
     "Zero_to_Three": {
         "name": "Zero to Three",

@@ -1,4 +1,7 @@
-Title Naace (updated 20150324)
-URL http://www.naace.co.uk
-H naace.co.uk
-D naace.co.uk
+Title NAACE (updated 20211125)
+URL https://www.naace.co.uk
+HJ https://naace.co.uk
+HJ https://www.naace.co.uk
+HJ naace.co.uk
+HJ www.naace.co.uk
+DJ naace.co.uk

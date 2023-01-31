@@ -1,10 +1,8 @@
 Option CookiePassThrough
-Title WWD.com (Women's Wear Daily) (updated 20160922)
+Title Women's Wear Daily (updated 20220627)
 URL http://wwd.com/
-D wwd.com
+HJ https://wwd.com
 DJ wwd.com
-Find "cookie_domain":"wwd.com"
-Replace "cookie_domain":"^D"
-Find "detect_cookie=js; path=\/; domain=.wwd.com"
-Replace "detect_cookie=js; path=\/; domain=.^D"
+Find https:\/\/
+Replace https://
 Option Cookie
