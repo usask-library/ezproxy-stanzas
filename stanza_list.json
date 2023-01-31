@@ -1899,7 +1899,7 @@
         "stanza": "OCLC/Cobouw.txt",
         "oclcStanzaId": "Cobouw",
         "oclcIncludeFile": "databases/cobouw.txt",
-        "lastUpdated": "2022-05-09"
+        "lastUpdated": "2023-01-31"
     },
     "Cochrane_Library": {
         "name": "Cochrane Library",
@@ -6268,7 +6268,7 @@
         "stanza": "OCLC/Royal_Boom_Publishing.txt",
         "oclcStanzaId": "Royal_Boom_Publishing",
         "oclcIncludeFile": "databases/royalboom.txt",
-        "lastUpdated": "2021-03-15"
+        "lastUpdated": "2023-01-27"
     },
     "Royal_College_of_Physicians": {
         "name": "Royal College of Physicians",
@@ -6516,7 +6516,7 @@
         "stanza": "OCLC/Scientific.NET_Trans_Tech_Publications.txt",
         "oclcStanzaId": "Scientific.NET_Trans_Tech_Publications",
         "oclcIncludeFile": "databases/scientific.txt",
-        "lastUpdated": "2020-12-28"
+        "lastUpdated": "2023-01-31"
     },
     "Scientific_American": {
         "name": "Scientific American",
