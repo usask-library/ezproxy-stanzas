@@ -1554,7 +1554,7 @@
         "stanza": "OCLC/British_Universities_Film_Video_Council.txt",
         "oclcStanzaId": "British_Universities_Film_%26_Video_Council",
         "oclcIncludeFile": "databases/bufvc.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Universities_Film_%26_Video_Council",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Universities_Film_%26_Video_Council",
         "lastUpdated": "2022-03-21"
     },
     "Broadcast_Dialogue": {
@@ -2297,7 +2297,7 @@
         "name": "Creativity & Human Development International eJournal",
         "stanza": "OCLC/Creativity_Human_Development_International_eJournal.txt",
         "oclcStanzaId": "Creativity_%26_Human_Development_International_eJournal",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Creativity_%26_Human_Development_International_eJournal",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Creativity_%26_Human_Development_International_eJournal",
         "lastUpdated": "2017-08-01"
     },
     "Credo_Learning_Tools": {
@@ -2699,7 +2699,7 @@
         "stanza": "OCLC/Duncker_and_Humblot_eLibrary.txt",
         "oclcStanzaId": "Duncker_%26_Humblot_eLibrary",
         "oclcIncludeFile": "databases/dunckerhumblot.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duncker_%26_Humblot_eLibrary",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duncker_%26_Humblot_eLibrary",
         "lastUpdated": "2022-06-10"
     },
     "DUXIU": {
@@ -3248,7 +3248,7 @@
         "stanza": "OCLC/Facts_and_Comparisons.txt",
         "oclcStanzaId": "Facts_%26_Comparisons",
         "oclcIncludeFile": "databases/factsandcomparisons.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Facts_%26_Comparisons",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Facts_%26_Comparisons",
         "lastUpdated": "2018-07-30"
     },
     "Faculti": {
@@ -3429,7 +3429,7 @@
         "stanza": "OCLC/Frost_and_Sullivan.txt",
         "oclcStanzaId": "Frost_%26_Sullivan",
         "oclcIncludeFile": "databases/frost.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Frost_%26_Sullivan",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Frost_%26_Sullivan",
         "lastUpdated": "2022-09-21"
     },
     "Fulcrum": {
@@ -4160,9 +4160,9 @@
     "International_Journal_of_E-Learning_and_Distance_Education": {
         "name": "International Journal of E-Learning & Distance Education",
         "stanza": "OCLC/International_Journal_of_E-Learning_and_Distance_Education.txt",
-        "oclcStanzaId": "International_Journal_of_E-Learning_and_Distance_Education",
+        "oclcStanzaId": "International_Journal_of_E-Learning_%26_Distance_Education",
         "oclcIncludeFile": "databases/ijede.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/International_Journal_of_E-Learning_and_Distance_Education",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Journal_of_E-Learning_%26_Distance_Education",
         "lastUpdated": "2021-05-11"
     },
     "International_journal_of_human_sciences": {
@@ -5149,9 +5149,9 @@
     "Media_Names_and_Numbers": {
         "name": "Media Names & Numbers",
         "stanza": "OCLC/Media_Names_and_Numbers.txt",
-        "oclcStanzaId": "Media_Names_and_Numbers",
+        "oclcStanzaId": "Media_Names_%26_Numbers",
         "oclcIncludeFile": "databases/sources.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Media_Names_and_Numbers",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Media_Names_%26_Numbers",
         "lastUpdated": "2021-05-11"
     },
     "Media_Source_Incorporated": {
@@ -5459,8 +5459,8 @@
     "NachschlageNET": {
         "name": "Nachschlage.NET",
         "stanza": "OCLC/NachschlageNET.txt",
-        "oclcStanzaId": "NachschlageNET",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NachschlageNET",
+        "oclcStanzaId": "Nachschlage.NET",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nachschlage.NET",
         "lastUpdated": "2010-05-28"
     },
     "National_Bureau_of_Economic_Research": {
@@ -5468,7 +5468,7 @@
         "stanza": "OCLC/National_Bureau_of_Economic_Research.txt",
         "oclcStanzaId": "National_Bureau_of_Economic_Research",
         "oclcIncludeFile": "databases/nber.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Bureau_of_Economic_Research",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Bureau_of_Economic_Research",
         "lastUpdated": "2019-05-16"
     },
     "National_Council_of_Teachers_of_English": {
@@ -5476,7 +5476,7 @@
         "stanza": "OCLC/National_Council_of_Teachers_of_English.txt",
         "oclcStanzaId": "National_Council_of_Teachers_of_English",
         "oclcIncludeFile": "databases/ncte.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Council_of_Teachers_of_English",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Council_of_Teachers_of_English",
         "lastUpdated": "2020-04-15"
     },
     "National_Council_of_Teachers_of_Mathematics": {
@@ -5484,7 +5484,7 @@
         "stanza": "OCLC/National_Council_of_Teachers_of_Mathematics.txt",
         "oclcStanzaId": "National_Council_of_Teachers_of_Mathematics",
         "oclcIncludeFile": "databases/nctm.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Council_of_Teachers_of_Mathematics",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Council_of_Teachers_of_Mathematics",
         "lastUpdated": "2023-01-03"
     },
     "National_Film_Board_of_Canada": {
@@ -5492,7 +5492,7 @@
         "stanza": "OCLC/National_Film_Board_of_Canada.txt",
         "oclcStanzaId": "National_Film_Board_of_Canada",
         "oclcIncludeFile": "databases/nfbcanada.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Film_Board_of_Canada",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Film_Board_of_Canada",
         "lastUpdated": "2016-01-27"
     },
     "National_Journal": {
@@ -5500,7 +5500,7 @@
         "stanza": "OCLC/National_Journal.txt",
         "oclcStanzaId": "National_Journal",
         "oclcIncludeFile": "databases/nationaljournal.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Journal",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Journal",
         "lastUpdated": "2019-08-13"
     },
     "National_Technical_Information_Service_NTIS": {
@@ -5526,7 +5526,7 @@
         "name": "Natural Medicines",
         "stanza": "OCLC/Natural_Medicines.txt",
         "oclcStanzaId": "Natural_Medicines",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Natural_Medicines",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Natural_Medicines",
         "lastUpdated": "2017-03-20"
     },
     "Nature_Publishing": {
@@ -5534,7 +5534,7 @@
         "stanza": "OCLC/Nature_Publishing.txt",
         "oclcStanzaId": "Nature_Publishing",
         "oclcIncludeFile": "databases/nature_publishing_group.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nature_Publishing",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nature_Publishing",
         "lastUpdated": "2021-11-16"
     },
     "Naxos": {
@@ -5548,7 +5548,7 @@
                 "placeholder": "The unique site identifier for your institution"
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naxos",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Naxos",
         "lastUpdated": "2021-10-26"
     },
     "Naxos_Music_Library_(Japanese_Version)": {
@@ -5563,7 +5563,7 @@
                 "placeholder": "The unique site identifier for your institution"
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naxos_Music_Library_(Japanese_Version)",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Naxos_Music_Library_(Japanese_Version)",
         "lastUpdated": "2022-12-02"
     },
     "Naxos_Sheet_Music_Library": {
@@ -5571,7 +5571,7 @@
         "stanza": "OCLC/Naxos_Sheet_Music_Library.txt",
         "oclcStanzaId": "Naxos_Sheet_Music_Library",
         "oclcIncludeFile": "databases/naxossheetmusiclibrary.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naxos_Sheet_Music_Library",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Naxos_Sheet_Music_Library",
         "lastUpdated": "2021-03-16"
     },
     "NBC_Learn": {
@@ -5585,7 +5585,7 @@
         "name": "Nederlandse Artikelendatabank voor de Zorg",
         "stanza": "OCLC/Nederlandse_Artikelendatabank_voor_de_Zorg.txt",
         "oclcStanzaId": "Nederlandse_Artikelendatabank_voor_de_Zorg",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nederlandse_Artikelendatabank_voor_de_Zorg",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nederlandse_Artikelendatabank_voor_de_Zorg",
         "lastUpdated": "2015-09-03"
     },
     "Nederlandse_Documentatie_Fiscaal_Recht": {
@@ -5593,7 +5593,7 @@
         "stanza": "OCLC/Nederlandse_Documentatie_Fiscaal_Recht.txt",
         "oclcStanzaId": "Nederlandse_Documentatie_Fiscaal_Recht",
         "oclcIncludeFile": "databases/ndfr.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nederlandse_Documentatie_Fiscaal_Recht",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nederlandse_Documentatie_Fiscaal_Recht",
         "lastUpdated": "2020-01-09"
     },
     "Nederlands_Tijdschrift_voor_Geneeskunde": {
@@ -5601,7 +5601,7 @@
         "stanza": "OCLC/Nederlands_Tijdschrift_voor_Geneeskunde.txt",
         "oclcStanzaId": "Nederlands_Tijdschrift_voor_Geneeskunde",
         "oclcIncludeFile": "databases/ntvg.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nederlands_Tijdschrift_voor_Geneeskunde",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nederlands_Tijdschrift_voor_Geneeskunde",
         "lastUpdated": "2015-06-23"
     },
     "NEJM_Catalyst": {
@@ -5635,7 +5635,7 @@
         "stanza": "OCLC/NEN_Connect.txt",
         "oclcStanzaId": "NEN_Connect",
         "oclcIncludeFile": "databases/nenconnect.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEN_Connect",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEN_Connect",
         "lastUpdated": "2015-11-26"
     },
     "Nesstar": {
@@ -5643,7 +5643,7 @@
         "stanza": "OCLC/Nesstar.txt",
         "oclcStanzaId": "Nesstar",
         "oclcIncludeFile": "databases/nesstar.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nesstar",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nesstar",
         "lastUpdated": "2021-05-11"
     },
     "NetAnatomy": {
@@ -5651,7 +5651,7 @@
         "stanza": "OCLC/NetAnatomy.txt",
         "oclcStanzaId": "NetAnatomy",
         "oclcIncludeFile": "databases/netanatomy.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NetAnatomy",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NetAnatomy",
         "lastUpdated": "2015-02-27"
     },
     "NewsBank": {
@@ -5659,14 +5659,14 @@
         "stanza": "OCLC/NewsBank.txt",
         "oclcStanzaId": "NewsBank",
         "oclcIncludeFile": "databases/newsbank.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NewsBank",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NewsBank",
         "lastUpdated": "2022-06-28"
     },
     "Newspaper_Archive": {
         "name": "Newspaper Archive",
         "stanza": "OCLC/Newspaper_Archive.txt",
         "oclcStanzaId": "Newspaper_Archive",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Newspaper_Archive",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Newspaper_Archive",
         "lastUpdated": "2017-03-01"
     },
     "New_England_Journal_of_Medicine": {
@@ -5675,7 +5675,7 @@
         "oclcStanzaId": "New_England_Journal_of_Medicine",
         "oclcIncludeFile": "databases/new_england_journal_medicine.txt",
         "note": "Remove the stanza on this page and replace it with NEJM Group.",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_England_Journal_of_Medicine",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_England_Journal_of_Medicine",
         "lastUpdated": "2021-06-03"
     },
     "New_Generation_Research": {
@@ -5683,14 +5683,14 @@
         "stanza": "OCLC/New_Generation_Research.txt",
         "oclcStanzaId": "New_Generation_Research",
         "oclcIncludeFile": "databases/newgenerationresearch.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Generation_Research",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_Generation_Research",
         "lastUpdated": "2020-11-23"
     },
     "New_Left_Review": {
         "name": "New Left Review",
         "stanza": "OCLC/New_Left_Review.txt",
         "oclcStanzaId": "New_Left_Review",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Left_Review",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_Left_Review",
         "lastUpdated": "2015-06-18"
     },
     "New_Play_Exchange": {
@@ -5698,7 +5698,7 @@
         "stanza": "OCLC/New_Play_Exchange.txt",
         "oclcStanzaId": "New_Play_Exchange",
         "oclcIncludeFile": "databases/newplayexchange.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Play_Exchange",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_Play_Exchange",
         "lastUpdated": "2019-02-07"
     },
     "New_York_Review_of_Books": {
@@ -5706,15 +5706,15 @@
         "stanza": "OCLC/New_York_Review_of_Books.txt",
         "oclcStanzaId": "New_York_Review_of_Books",
         "oclcIncludeFile": "databases/nybooks.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_York_Review_of_Books",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Review_of_Books",
         "lastUpdated": "2018-07-25"
     },
     "New_York_Times": {
         "name": "New York Times (NYT)",
         "stanza": "OCLC/New_York_Times.txt",
-        "oclcStanzaId": "New_York_Times",
+        "oclcStanzaId": "New_York_Times_(NYT)",
         "oclcIncludeFile": "databases/nytimes.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_York_Times",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Times_(NYT)",
         "lastUpdated": "2021-09-03"
     },
     "Nexis_Uni": {
@@ -5723,7 +5723,7 @@
         "oclcStanzaId": "Nexis_Uni",
         "oclcIncludeFile": "databases/nexisuni.txt",
         "note": "Important: Customers migrating from LexisNexis Academic to Nexis Uni must place the Nexis Uni stanza above any legacy LexisNexis stanzas in config.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nexis_Uni",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nexis_Uni",
         "lastUpdated": "2022-07-13"
     },
     "NFPA_Codes_Online": {
@@ -5731,7 +5731,7 @@
         "stanza": "OCLC/NFPA_Codes_Online.txt",
         "oclcStanzaId": "NFPA_Codes_Online",
         "oclcIncludeFile": "databases/nfpa.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NFPA_Codes_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NFPA_Codes_Online",
         "lastUpdated": "2018-01-17"
     },
     "Nikkei_Telecom": {
@@ -5739,7 +5739,7 @@
         "stanza": "OCLC/Nikkei_Telecom.txt",
         "oclcStanzaId": "Nikkei_Telecom",
         "oclcIncludeFile": "databases/nikkeitelecom.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nikkei_Telecom",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nikkei_Telecom",
         "lastUpdated": "2019-12-20"
     },
     "Nomos_eLibrary": {
@@ -5747,23 +5747,23 @@
         "stanza": "OCLC/Nomos_eLibrary.txt",
         "oclcStanzaId": "Nomos_eLibrary",
         "oclcIncludeFile": "databases/nomoselibrary.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nomos_eLibrary",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nomos_eLibrary",
         "lastUpdated": "2019-01-28"
     },
     "Noodletools": {
         "name": "NoodleTools",
         "stanza": "OCLC/Noodletools.txt",
-        "oclcStanzaId": "Noodletools",
+        "oclcStanzaId": "NoodleTools",
         "oclcIncludeFile": "databases/noodletools.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Noodletools",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NoodleTools",
         "lastUpdated": "2020-03-13"
     },
     "NORD_Medical_Assistance_Program": {
         "name": "NORD (Medical Assistance Program)",
         "stanza": "OCLC/NORD_Medical_Assistance_Program.txt",
-        "oclcStanzaId": "NORD_Medical_Assistance_Program",
+        "oclcStanzaId": "NORD_(Medical_Assistance_Program)",
         "oclcIncludeFile": "databases/rarediseases.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NORD_Medical_Assistance_Program",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NORD_(Medical_Assistance_Program)",
         "lastUpdated": "2021-05-11"
     },
     "Now_Publishers": {
@@ -5771,7 +5771,7 @@
         "stanza": "OCLC/Now_Publishers.txt",
         "oclcStanzaId": "Now_Publishers",
         "oclcIncludeFile": "databases/nowpublishers.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Now_Publishers",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Now_Publishers",
         "lastUpdated": "2020-03-03"
     },
     "NRIT_Media": {
@@ -5779,15 +5779,15 @@
         "stanza": "OCLC/NRIT_Media.txt",
         "oclcStanzaId": "NRIT_Media",
         "oclcIncludeFile": "databases/nritmedia.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NRIT_Media",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NRIT_Media",
         "lastUpdated": "2015-06-23"
     },
     "NTC_Economic_Financial_Publishing": {
         "name": "NTC Economic & Financial Publishing",
         "stanza": "OCLC/NTC_Economic_Financial_Publishing.txt",
-        "oclcStanzaId": "NTC_Economic_Financial_Publishing",
+        "oclcStanzaId": "NTC_Economic_%26_Financial_Publishing",
         "oclcIncludeFile": "databases/worldeconomics.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NTC_Economic_Financial_Publishing",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NTC_Economic_%26_Financial_Publishing",
         "lastUpdated": "2021-08-09"
     },
     "Nursing_Consult": {
@@ -5795,14 +5795,14 @@
         "stanza": "OCLC/Nursing_Consult.txt",
         "oclcStanzaId": "Nursing_Consult",
         "oclcIncludeFile": "databases/nursingconsult.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nursing_Consult",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nursing_Consult",
         "lastUpdated": "2015-09-02"
     },
     "Nutrition_Care_Manual": {
         "name": "Nutrition Care Manual",
         "stanza": "OCLC/Nutrition_Care_Manual.txt",
         "oclcStanzaId": "Nutrition_Care_Manual",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nutrition_Care_Manual",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nutrition_Care_Manual",
         "lastUpdated": "2009-09-21"
     },
     "OCLC_ArchiveGrid": {
@@ -5810,7 +5810,7 @@
         "stanza": "OCLC/OCLC_ArchiveGrid.txt",
         "oclcStanzaId": "OCLC_ArchiveGrid",
         "oclcIncludeFile": "databases/oclcarchivegrid.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_ArchiveGrid",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_ArchiveGrid",
         "lastUpdated": "2018-01-14"
     },
     "OCLC_FirstSearch": {
@@ -5818,7 +5818,7 @@
         "stanza": "OCLC/OCLC_FirstSearch.txt",
         "oclcStanzaId": "OCLC_FirstSearch",
         "oclcIncludeFile": "databases/firstsearch.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_FirstSearch",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_FirstSearch",
         "lastUpdated": "2018-08-24"
     },
     "OCLC_WorldCat_Discovery": {
@@ -5839,7 +5839,7 @@
                 "enabled": true
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Discovery",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_WorldCat_Discovery",
         "lastUpdated": "2021-08-06"
     },
     "OCLC_WorldCat_Local": {
@@ -5854,7 +5854,7 @@
                 "enabled": true
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Local",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_WorldCat_Local",
         "lastUpdated": "2018-11-28"
     },
     "OCLC_WorldCat_Local_WMS": {
@@ -5875,8 +5875,8 @@
     "OCLC_WorldCat_org": {
         "name": "OCLC WorldCat.org",
         "stanza": "OCLC/OCLC_WorldCat_org.txt",
-        "oclcStanzaId": "OCLC_WorldCat_org",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_org",
+        "oclcStanzaId": "OCLC_WorldCat.org",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OCLC_WorldCat.org",
         "lastUpdated": "2018-11-28"
     },
     "Odesi": {
@@ -5884,7 +5884,7 @@
         "stanza": "OCLC/Odesi.txt",
         "oclcStanzaId": "Odesi",
         "oclcIncludeFile": "databases/odesi.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Odesi",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Odesi",
         "lastUpdated": "2016-03-04"
     },
     "OECD_iLibrary": {
@@ -5892,7 +5892,7 @@
         "stanza": "OCLC/OECD_iLibrary.txt",
         "oclcStanzaId": "OECD_iLibrary",
         "oclcIncludeFile": "databases/oecdilibrary.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OECD_iLibrary",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OECD_iLibrary",
         "lastUpdated": "2018-05-30"
     },
     "Official_Museum_Directory": {
@@ -5900,15 +5900,15 @@
         "stanza": "OCLC/Official_Museum_Directory.txt",
         "oclcStanzaId": "Official_Museum_Directory",
         "oclcIncludeFile": "databases/officialmuseumdirectory.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Official_Museum_Directory",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Official_Museum_Directory",
         "lastUpdated": "2021-02-15"
     },
     "Oil_Gas_Energy_Law_Intelligence": {
         "name": "Oil Gas & Energy Law Intelligence",
         "stanza": "OCLC/Oil_Gas_Energy_Law_Intelligence.txt",
-        "oclcStanzaId": "Oil_Gas_Energy_Law_Intelligence",
+        "oclcStanzaId": "Oil_Gas_%26_Energy_Law_Intelligence",
         "oclcIncludeFile": "databases/ogel.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oil_Gas_Energy_Law_Intelligence",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oil_Gas_%26_Energy_Law_Intelligence",
         "lastUpdated": "2020-02-05"
     },
     "Old_City_Publishing": {
@@ -5916,7 +5916,7 @@
         "stanza": "OCLC/Old_City_Publishing.txt",
         "oclcStanzaId": "Old_City_Publishing",
         "oclcIncludeFile": "databases/oldcitypublishing.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Old_City_Publishing",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Old_City_Publishing",
         "lastUpdated": "2021-04-01"
     },
     "Omega_Sources": {
@@ -5924,7 +5924,7 @@
         "stanza": "OCLC/Omega_Sources.txt",
         "oclcStanzaId": "Omega_Sources",
         "oclcIncludeFile": "databases/omegasources.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Omega_Sources",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Omega_Sources",
         "lastUpdated": "2015-06-08"
     },
     "Oncology_Nursing_Society": {
@@ -5932,15 +5932,15 @@
         "stanza": "OCLC/Oncology_Nursing_Society.txt",
         "oclcStanzaId": "Oncology_Nursing_Society",
         "oclcIncludeFile": "databases/ons.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oncology_Nursing_Society",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oncology_Nursing_Society",
         "lastUpdated": "2020-09-21"
     },
     "OnePetro": {
         "name": "OnePetro (formerly Society of Petroleum Engineers)",
         "stanza": "OCLC/OnePetro.txt",
-        "oclcStanzaId": "OnePetro",
+        "oclcStanzaId": "OnePetro_(formerly_Society_of_Petroleum_Engineers)",
         "oclcIncludeFile": "databases/onepetro.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OnePetro",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OnePetro_(formerly_Society_of_Petroleum_Engineers)",
         "lastUpdated": "2015-05-13"
     },
     "OneSource_Global_Business_Browser": {
@@ -5948,7 +5948,7 @@
         "stanza": "OCLC/OneSource_Global_Business_Browser.txt",
         "oclcStanzaId": "OneSource_Global_Business_Browser",
         "oclcIncludeFile": "databases/onesourceglobal.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OneSource_Global_Business_Browser",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OneSource_Global_Business_Browser",
         "lastUpdated": "2016-08-18"
     },
     "ONF": {
@@ -5956,7 +5956,7 @@
         "stanza": "OCLC/ONF.txt",
         "oclcStanzaId": "ONF",
         "oclcIncludeFile": "databases/onf.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ONF",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/ONF",
         "lastUpdated": "2021-05-11"
     },
     "OpenEdition": {
@@ -5964,21 +5964,21 @@
         "stanza": "OCLC/OpenEdition.txt",
         "oclcStanzaId": "OpenEdition",
         "oclcIncludeFile": "databases/openedition.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenEdition",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OpenEdition",
         "lastUpdated": "2021-04-27"
     },
     "OpenLibrary": {
         "name": "OpenLibrary",
         "stanza": "OCLC/OpenLibrary.txt",
         "oclcStanzaId": "OpenLibrary",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenLibrary",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OpenLibrary",
         "lastUpdated": "2011-12-16"
     },
     "OpenThesis": {
         "name": "OpenThesis",
         "stanza": "OCLC/OpenThesis.txt",
         "oclcStanzaId": "OpenThesis",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenThesis",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OpenThesis",
         "lastUpdated": "2011-01-11"
     },
     "Open_Book_Publishers": {
@@ -5986,22 +5986,22 @@
         "stanza": "OCLC/Open_Book_Publishers.txt",
         "oclcStanzaId": "Open_Book_Publishers",
         "oclcIncludeFile": "databases/openbookpublishers.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Open_Book_Publishers",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Open_Book_Publishers",
         "lastUpdated": "2022-07-22"
     },
     "Opinion_Archives": {
         "name": "Opinion Archives",
         "stanza": "OCLC/Opinion_Archives.txt",
         "oclcStanzaId": "Opinion_Archives",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Opinion_Archives",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Opinion_Archives",
         "lastUpdated": "2014-06-03"
     },
     "Optica_Publishing_Group": {
         "name": "Optica Publishing Group (formerly OSA)",
         "stanza": "OCLC/Optica_Publishing_Group.txt",
-        "oclcStanzaId": "Optica_Publishing_Group",
+        "oclcStanzaId": "Optica_Publishing_Group_(formerly_OSA)",
         "oclcIncludeFile": "databases/osapublishing.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Optica_Publishing_Group",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Optica_Publishing_Group_(formerly_OSA)",
         "lastUpdated": "2022-01-27"
     },
     "Orbis": {
@@ -6009,14 +6009,14 @@
         "stanza": "OCLC/Orbis.txt",
         "oclcStanzaId": "Orbis",
         "oclcIncludeFile": "databases/orbis.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Orbis",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Orbis",
         "lastUpdated": "2022-07-28"
     },
     "Origins_Online": {
         "name": "Origins Online",
         "stanza": "OCLC/Origins_Online.txt",
         "oclcStanzaId": "Origins_Online",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Origins_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Origins_Online",
         "lastUpdated": "2011-07-26"
     },
     "Osiris": {
@@ -6024,7 +6024,7 @@
         "stanza": "OCLC/Osiris.txt",
         "oclcStanzaId": "Osiris",
         "oclcIncludeFile": "databases/osiris.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Osiris",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Osiris",
         "lastUpdated": "2022-07-28"
     },
     "Ovid": {
@@ -6032,7 +6032,7 @@
         "stanza": "OCLC/Ovid.txt",
         "oclcStanzaId": "Ovid",
         "oclcIncludeFile": "databases/ovid.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ovid",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid",
         "lastUpdated": "2021-10-22"
     },
     "OvidChinese": {
@@ -6040,7 +6040,7 @@
         "stanza": "OCLC/OvidChinese.txt",
         "oclcStanzaId": "OvidChinese",
         "oclcIncludeFile": "databases/ovidchinese.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidChinese",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OvidChinese",
         "lastUpdated": "2020-07-21"
     },
     "OvidEspanol": {
@@ -6048,7 +6048,7 @@
         "stanza": "OCLC/OvidEspanol.txt",
         "oclcStanzaId": "OvidEspanol",
         "oclcIncludeFile": "databases/ovidespano.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidEspanol",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OvidEspanol",
         "lastUpdated": "2020-07-21"
     },
     "OvidFrancais": {
@@ -6056,15 +6056,15 @@
         "stanza": "OCLC/OvidFrancais.txt",
         "oclcStanzaId": "OvidFrancais",
         "oclcIncludeFile": "databases/ovidfrancais.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidFrancais",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OvidFrancais",
         "lastUpdated": "2020-07-21"
     },
     "Oxford_Academic": {
         "name": "Oxford Academic (formerly Oxford Journals)",
         "stanza": "OCLC/Oxford_Academic.txt",
-        "oclcStanzaId": "Oxford_Academic",
+        "oclcStanzaId": "Oxford_Academic_(formerly_Oxford_Journals)",
         "oclcIncludeFile": "databases/oxfordjournals.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Academic",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Academic_(formerly_Oxford_Journals)",
         "lastUpdated": "2023-01-06"
     },
     "Oxford_African_American_Studies_Center": {
@@ -6072,7 +6072,7 @@
         "stanza": "OCLC/Oxford_African_American_Studies_Center.txt",
         "oclcStanzaId": "Oxford_African_American_Studies_Center",
         "oclcIncludeFile": "databases/oxfordaasc.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_African_American_Studies_Center",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_African_American_Studies_Center",
         "lastUpdated": "2023-01-18"
     },
     "Oxford_Art_Online": {
@@ -6081,7 +6081,7 @@
         "note": "This resource also requires the Oxford Reference stanza",
         "oclcStanzaId": "Oxford_Art_Online",
         "oclcIncludeFile": "databases/oxfordartonline.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Art_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Art_Online",
         "lastUpdated": "2020-02-05"
     },
     "Oxford_Bibliographies": {
@@ -6089,7 +6089,7 @@
         "stanza": "OCLC/Oxford_Bibliographies.txt",
         "oclcStanzaId": "Oxford_Bibliographies",
         "oclcIncludeFile": "databases/oxfordbibliographies.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Bibliographies",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Bibliographies",
         "lastUpdated": "2020-01-20"
     },
     "Oxford_Clinical_Psychology": {
@@ -6097,7 +6097,7 @@
         "stanza": "OCLC/Oxford_Clinical_Psychology.txt",
         "oclcStanzaId": "Oxford_Clinical_Psychology",
         "oclcIncludeFile": "databases/oxfordclinicalpsychology.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Clinical_Psychology",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Clinical_Psychology",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Dictionaries": {
@@ -6105,7 +6105,7 @@
         "stanza": "OCLC/Oxford_Dictionaries.txt",
         "oclcStanzaId": "Oxford_Dictionaries",
         "oclcIncludeFile": "databases/oxforddictionaries.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Dictionaries",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Dictionaries",
         "lastUpdated": "2016-10-05"
     },
     "Oxford_Dictionary_of_National_Biography": {
@@ -6113,15 +6113,15 @@
         "stanza": "OCLC/Oxford_Dictionary_of_National_Biography.txt",
         "oclcStanzaId": "Oxford_Dictionary_of_National_Biography",
         "oclcIncludeFile": "databases/oxforddnb.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Dictionary_of_National_Biography",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Dictionary_of_National_Biography",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_English_Dictionary_OED": {
         "name": "Oxford English Dictionary (OED)",
         "stanza": "OCLC/Oxford_English_Dictionary_OED.txt",
-        "oclcStanzaId": "Oxford_English_Dictionary_OED",
+        "oclcStanzaId": "Oxford_English_Dictionary_(OED)",
         "oclcIncludeFile": "databases/oed.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_English_Dictionary_OED",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_English_Dictionary_(OED)",
         "lastUpdated": "2020-11-04"
     },
     "Oxford_First_Source": {
@@ -6129,7 +6129,7 @@
         "stanza": "OCLC/Oxford_First_Source.txt",
         "oclcStanzaId": "Oxford_First_Source",
         "oclcIncludeFile": "databases/oxfordfirstsource.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_First_Source",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_First_Source",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_History_of_Western_Music": {
@@ -6137,21 +6137,21 @@
         "stanza": "OCLC/Oxford_History_of_Western_Music.txt",
         "oclcStanzaId": "Oxford_History_of_Western_Music",
         "oclcIncludeFile": "databases/oxfordwesternmusic.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_History_of_Western_Music",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_History_of_Western_Music",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Islamic_Studies": {
         "name": "Oxford Islamic Studies",
         "stanza": "OCLC/Oxford_Islamic_Studies.txt",
         "oclcStanzaId": "Oxford_Islamic_Studies",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Islamic_Studies",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Islamic_Studies",
         "lastUpdated": "2013-03-01"
     },
     "Oxford_Language_Dictionaries": {
         "name": "Oxford Language Dictionaries",
         "stanza": "OCLC/Oxford_Language_Dictionaries.txt",
         "oclcStanzaId": "Oxford_Language_Dictionaries",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Language_Dictionaries",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Language_Dictionaries",
         "lastUpdated": "2015-06-17"
     },
     "Oxford_Law_Trove": {
@@ -6159,7 +6159,7 @@
         "stanza": "OCLC/Oxford_Law_Trove.txt",
         "oclcStanzaId": "Oxford_Law_Trove",
         "oclcIncludeFile": "databases/oxfordlawtrove.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Law_Trove",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Medicine_Online": {
@@ -6167,7 +6167,7 @@
         "stanza": "OCLC/Oxford_Medicine_Online.txt",
         "oclcStanzaId": "Oxford_Medicine_Online",
         "oclcIncludeFile": "databases/oxfordmedicine.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Medicine_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Medicine_Online",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Music_Online": {
@@ -6176,7 +6176,7 @@
         "note": "This resource also requires the Oxford Reference stanza",
         "oclcStanzaId": "Oxford_Music_Online",
         "oclcIncludeFile": "databases/oxfordmusiconline.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Music_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Music_Online",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Politics_Trove": {
@@ -6184,7 +6184,7 @@
         "stanza": "OCLC/Oxford_Politics_Trove.txt",
         "oclcStanzaId": "Oxford_Politics_Trove",
         "oclcIncludeFile": "databases/oxfordpoliticstrove.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Politics_Trove",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Politics_Trove",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Reference": {
@@ -6192,7 +6192,7 @@
         "stanza": "OCLC/Oxford_Reference.txt",
         "oclcStanzaId": "Oxford_Reference",
         "oclcIncludeFile": "databases/oxfordreference.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Reference",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Reference",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Research_Encyclopedia": {
@@ -6200,7 +6200,7 @@
         "stanza": "OCLC/Oxford_Research_Encyclopedia.txt",
         "oclcStanzaId": "Oxford_Research_Encyclopedia",
         "oclcIncludeFile": "databases/oxfordre.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Research_Encyclopedia",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Research_Encyclopedia",
         "lastUpdated": "2019-10-02"
     },
     "Oxford_Scholarly_Editions_Online": {
@@ -6208,16 +6208,16 @@
         "stanza": "OCLC/Oxford_Scholarly_Editions_Online.txt",
         "oclcStanzaId": "Oxford_Scholarly_Editions_Online",
         "oclcIncludeFile": "databases/oxfordscholarlyeditions.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Scholarly_Editions_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarly_Editions_Online",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Scholarship_Online": {
         "name": "Oxford Scholarship Online (OSO)",
         "stanza": "OCLC/Oxford_Scholarship_Online.txt",
         "note": "This resource also requires the Oxford Reference stanza",
-        "oclcStanzaId": "Oxford_Scholarship_Online_OSO",
+        "oclcStanzaId": "Oxford_Scholarship_Online_(OSO)",
         "oclcIncludeFile": "databases/oxfordscholarship.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Scholarship_Online_OSO",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarship_Online_(OSO)",
         "lastUpdated": "2021-07-14"
     },
     "Oxford_Social_Work": {
@@ -6225,7 +6225,7 @@
         "stanza": "OCLC/Oxford_Social_Work.txt",
         "oclcStanzaId": "Oxford_Social_Work",
         "oclcIncludeFile": "databases/oxfordsocialwork.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Social_Work",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Social_Work",
         "lastUpdated": "2015-01-12"
     },
     "Oxford_University_Press_Law": {
@@ -6233,7 +6233,7 @@
         "stanza": "OCLC/Oxford_University_Press_Law.txt",
         "oclcStanzaId": "Oxford_University_Press_Law",
         "oclcIncludeFile": "databases/ouplaw.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_University_Press_Law",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_University_Press_Law",
         "lastUpdated": "2019-04-10"
     },
     "Oxford_Worlds_Classics": {
@@ -6241,7 +6241,7 @@
         "stanza": "OCLC/Oxford_Worlds_Classics.txt",
         "oclcStanzaId": "Oxford_Worlds_Classics",
         "oclcIncludeFile": "databases/oxfordworldsclassics.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Worlds_Classics",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Worlds_Classics",
         "lastUpdated": "2020-12-16"
     },
     "Palgrave_Connect": {
