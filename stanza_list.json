@@ -4200,9 +4200,9 @@
     "Invert": {
         "name": "Invert",
         "stanza": "OCLC/Invert.txt",
-        "oclcStanzaId": "invert",
+        "oclcStanzaId": "Invert",
         "oclcIncludeFile": "databases/invert.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/invert",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Invert",
         "lastUpdated": "2019-08-01"
     },
     "IOS_Press": {
@@ -5514,7 +5514,6 @@
     "National_Technical_Information_Service_NTIS": {
         "name": "National Technical Information Service (NTIS)",
         "stanza": "OCLC/National_Technical_Information_Service_NTIS.txt",
-        "oclcStanzaId": "National_Technical_Information_Service_NTIS",
         "rules": [
             {
                 "rule": "Replace",
@@ -5527,7 +5526,8 @@
                 "placeholder": "Your NTIS Password"
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Technical_Information_Service_NTIS",
+        "oclcStanzaId": "National_Technical_Information_Service_(NTIS)",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Technical_Information_Service_(NTIS)",
         "lastUpdated": "2007-05-09"
     },
     "Natural_Medicines": {
@@ -5723,7 +5723,7 @@
         "oclcStanzaId": "New_York_Times_(NYT)",
         "oclcIncludeFile": "databases/nytimes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Times_(NYT)",
-        "lastUpdated": "2021-09-03"
+        "lastUpdated": "2023-02-22"
     },
     "Nexis_Uni": {
         "name": "Nexis Uni",
@@ -7038,14 +7038,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Royal_Society_Publishing%2C_The",
         "lastUpdated": "2019-10-09"
     },
-    "RSNA": {
-        "name": "Radiological Society of North America",
-        "stanza": "OCLC/RSNA.txt",
-        "oclcStanzaId": "RSNA",
-        "oclcIncludeFile": "databases/rsna.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RSNA",
-        "lastUpdated": "2021-10-29"
-    },
     "Ruimte_Wonen": {
         "name": "Ruimte + Wonen",
         "stanza": "OCLC/Ruimte_Wonen.txt",
@@ -7118,12 +7110,12 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sagamore_Publishing",
         "lastUpdated": "2022-07-25"
     },
-    "SAGE_Journals": {
+    "SAGE_Publications_and_Journals": {
         "name": "SAGE Publications and Journals",
         "stanza": "OCLC/SAGE_Journals.txt",
-        "oclcStanzaId": "SAGE_Journals",
+        "oclcStanzaId": "SAGE_Publications_and_Journals",
         "oclcIncludeFile": "databases/sagepub.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SAGE_Journals",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAGE_Publications_and_Journals",
         "lastUpdated": "2022-06-21"
     },
     "Saishin_Kango_Sakuin_Web": {
@@ -7421,9 +7413,9 @@
     "SFDE": {
         "name": "SFDE",
         "stanza": "OCLC/SFDE.txt",
-        "oclcStanzaId": "sfde",
+        "oclcStanzaId": "SFDE",
         "oclcIncludeFile": "databases/sfde.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/sfde",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SFDE",
         "lastUpdated": "2019-11-15"
     },
     "Sheet_Music_Now": {
@@ -7478,10 +7470,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sixteenth_Century_Journal",
         "lastUpdated": "2015-09-01"
     },
-    "Skillsoft-Skillport": {
+    "Skillsoft_Skillport": {
         "name": "Skillsoft - Skillport",
         "stanza": "OCLC/Skillsoft-Skillport.txt",
-        "oclcStanzaId": "Skillsoft-Skillport",
         "rules": [
             {
                 "rule": "Replace",
@@ -7496,7 +7487,8 @@
                 "enabled": true
             }
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport",
+        "oclcStanzaId": "Skillsoft_-_Skillport",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Skillsoft_-_Skillport",
         "lastUpdated": "2018-04-23"
     },
     "SocialWin": {
