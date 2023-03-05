@@ -1,13 +1,25 @@
-Title The Royal Society Publishing (updated 20191009)
+#This stanza is required to resolve the Cookie Banner pop-up issue IncludeFile databases/cookielaw.txt
+Title The Royal Society Publishing (OCLC IncludeFile updated 20230303)
+HTTPHeader -response -edit Location RewriteURL(REReplace("!https%3A%2F%2Froyalsocietypublishing\.org!g", RewriteURL("https://royalsocietypublishing.org"), hh:value))
 URL https://royalsociety.org/journals/
-HJ https://www.royalsociety.org
-HJ www.royalsociety.org
-HJ royalsociety.org
-HJ www.royalsociety.org
-HJ royalsocietypublishing.org
-HJ www.royalsocietypublishing.org
 HJ https://royalsocietypublishing.org
+HJ https://rsbl.royalsocietypublishing.org
+HJ https://rsbm.royalsocietypublishing.org
+HJ https://rsfs.royalsocietypublishing.org
+HJ https://rsif.royalsocietypublishing.org
+HJ https://rsnr.royalsocietypublishing.org
+HJ https://rsob.royalsocietypublishing.org
+HJ https://rsos.royalsocietypublishing.org
+HJ https://rspa.royalsocietypublishing.org
+HJ https://rspb.royalsocietypublishing.org
+HJ https://rspl.royalsocietypublishing.org
+HJ https://rsta.royalsocietypublishing.org
+HJ https://rstb.royalsocietypublishing.org
+HJ https://rstl.royalsocietypublishing.org
+HJ https://www.royalsociety.org
 HJ https://www.royalsocietypublishing.org
+HJ royalsociety.org
+HJ royalsocietypublishing.org
 HJ rsbl.royalsocietypublishing.org
 HJ rsbm.royalsocietypublishing.org
 HJ rsfs.royalsocietypublishing.org
@@ -21,6 +33,7 @@ HJ rspl.royalsocietypublishing.org
 HJ rsta.royalsocietypublishing.org
 HJ rstb.royalsocietypublishing.org
 HJ rstl.royalsocietypublishing.org
+HJ www.royalsociety.org
 HJ www.royalsocietypublishing.org
 DJ royalsociety.org
 DJ royalsocietypublishing.org

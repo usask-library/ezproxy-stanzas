@@ -92,7 +92,7 @@
         "stanza": "OCLC/ABC_World_Culture.txt",
         "oclcStanzaId": "ABC_World_Culture",
         "oclcIncludeFile": "databases/abcworldculture.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_World_Culture",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ABC_World_Culture",
         "lastUpdated": "2018-07-11"
     },
     "ABC_World_Food": {
@@ -1501,7 +1501,7 @@
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrillOnline",
-        "lastUpdated": "2022-05-24"
+        "lastUpdated": "2023-03-03"
     },
     "Bristol_University_Press_Digital": {
         "name": "Bristol University Press Digital",
@@ -1675,7 +1675,7 @@
         "oclcStanzaId": "Cambridge_Core",
         "oclcIncludeFile": "databases/cambridgecore.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cambridge_Core",
-        "lastUpdated": "2019-10-22"
+        "lastUpdated": "2023-03-03"
     },
     "Canada_Commons": {
         "name": "Canada Commons",
@@ -1898,7 +1898,7 @@
         "oclcStanzaId": "CCOHS",
         "oclcIncludeFile": "databases/ccohs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCOHS",
-        "lastUpdated": "2022-10-05"
+        "lastUpdated": "2023-03-03"
     },
     "Cell_Press": {
         "name": "Cell Press",
@@ -2028,6 +2028,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Civic_Research_Institute",
         "lastUpdated": "2022-09-28"
     },
+    "Clarivate_Authentication": {
+        "name": "Clarivate Authentication",
+        "stanza": "OCLC/Clarivate_Authentication.txt",
+        "oclcStanzaId": "Clarivate_Authentication",
+        "oclcIncludeFile": "databases/clarivate_auth.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Clarivate_Authentication",
+        "lastUpdated": "2023-03-01"
+    },
     "Classical_Singer": {
         "name": "Classical Singer",
         "stanza": "OCLC/Classical_Singer.txt",
@@ -2100,7 +2108,7 @@
         "oclcStanzaId": "Cobouw",
         "oclcIncludeFile": "databases/cobouw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cobouw",
-        "lastUpdated": "2023-01-31"
+        "lastUpdated": "2023-03-03"
     },
     "Cochrane_Library": {
         "name": "Cochrane Library",
@@ -3096,7 +3104,7 @@
         "oclcStanzaId": "Endnote_Online_and_InCites",
         "oclcIncludeFile": "databases/endnoteandincites.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Endnote_Online_and_InCites",
-        "lastUpdated": "2021-09-15"
+        "lastUpdated": "2023-03-01"
     },
     "Endocrine_Society": {
         "name": "Endocrine Society",
@@ -7036,7 +7044,7 @@
         "oclcStanzaId": "Royal_Society_Publishing%2C_The",
         "oclcIncludeFile": "databases/royalsocietypublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Royal_Society_Publishing%2C_The",
-        "lastUpdated": "2019-10-09"
+        "lastUpdated": "2023-03-03"
     },
     "Ruimte_Wonen": {
         "name": "Ruimte + Wonen",
@@ -8185,7 +8193,7 @@
         "stanza": "OCLC/Vanderbilt_Television_News_Archive.txt",
         "oclcStanzaId": "Vanderbilt_Television_News_Archive",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Vanderbilt_Television_News_Archive",
-        "lastUpdated": "2016-11-01"
+        "lastUpdated": "2023-03-03"
     },
     "Variety_Archives": {
         "name": "Variety Archives",
@@ -8329,7 +8337,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2022-08-05"
+        "lastUpdated": "2023-03-01"
     },
     "Wenxinge": {
         "name": "Wenxinge",
