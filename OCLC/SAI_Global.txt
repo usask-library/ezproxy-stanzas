@@ -1,5 +1,5 @@
 Option DomainCookieOnly
-Title SAI Global (Australian Standards Online) (updated 20220111)
+Title SAI Global (Australian Standards Online) (updated 20230314)
 HTTPHeader -request -process Nonce
 URL https://www.saiglobal.com/online/autologin.asp
 HJ bca.saiglobal.com
@@ -28,6 +28,8 @@ HJ https://newrelic.com
 HJ newrelic.com
 HJ https://uat.i2.saiglobal.com
 HJ uat.i2.saiglobal.com
+HJ https://i2.saiglobal.com
+HJ i2.saiglobal.com
 DJ newrelic.com
 DJ saiglobal.com
 DJ sai-global.com

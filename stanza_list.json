@@ -1898,7 +1898,7 @@
         "oclcStanzaId": "CCOHS",
         "oclcIncludeFile": "databases/ccohs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCOHS",
-        "lastUpdated": "2023-03-03"
+        "lastUpdated": "2023-03-16"
     },
     "Cell_Press": {
         "name": "Cell Press",
@@ -4480,7 +4480,7 @@
         "oclcStanzaId": "JoVE",
         "oclcIncludeFile": "databases/jove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JoVE",
-        "lastUpdated": "2020-11-17"
+        "lastUpdated": "2023-03-14"
     },
     "JSTOR": {
         "name": "JSTOR",
@@ -7140,7 +7140,7 @@
         "oclcStanzaId": "SAI_Global_(Australian_Standards_Online)",
         "oclcIncludeFile": "databases/saiglobal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAI_Global_(Australian_Standards_Online)",
-        "lastUpdated": "2022-01-11"
+        "lastUpdated": "2023-03-14"
     },
     "Salem_Press": {
         "name": "Salem Press",
@@ -8156,6 +8156,14 @@
         "oclcIncludeFile": "databases/universitypressscholarship.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_Press_Scholarship_Online",
         "lastUpdated": "2021-11-24"
+    },
+    "urbanNet_Lexicon": {
+        "name": "urbanNet Lexicon",
+        "stanza": "OCLC/urbanNet_Lexicon.txt",
+        "oclcStanzaId": "urbanNet_Lexicon",
+        "oclcIncludeFile": "databases/urbanNet_lexicon.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/urbanNet_Lexicon",
+        "lastUpdated": "2023-03-14"
     },
     "US_Documents_Masterfile": {
         "name": "U.S. Documents Masterfile",
