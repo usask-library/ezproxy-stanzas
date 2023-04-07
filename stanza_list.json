@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-03-29"
+        "lastUpdated": "2023-04-04"
     },
     "Adweek": {
         "name": "Adweek",
@@ -1501,7 +1501,7 @@
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrillOnline",
-        "lastUpdated": "2023-03-03"
+        "lastUpdated": "2023-04-04"
     },
     "Bristol_University_Press_Digital": {
         "name": "Bristol University Press Digital",
@@ -3677,7 +3677,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2022-11-04"
+        "lastUpdated": "2023-04-06"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
@@ -4628,7 +4628,7 @@
         "oclcStanzaId": "Kluwer_Navigator",
         "oclcIncludeFile": "databases/kluwernavigator.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kluwer_Navigator",
-        "lastUpdated": "2020-07-17"
+        "lastUpdated": "2023-04-04"
     },
     "Kluwer_Online": {
         "name": "Kluwer Online",
@@ -6944,6 +6944,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rock's_Backpages",
         "lastUpdated": "2015-05-13"
     },
+    "Rolling_Stone": {
+        "name": "Rolling Stone",
+        "stanza": "OCLC/Rolling_Stone.txt",
+        "oclcStanzaId": "Rolling_Stone",
+        "oclcIncludeFile": "databases/rollingstone.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rolling_Stone",
+        "lastUpdated": "2023-04-04"
+    },
     "Roper_iPoll": {
         "name": "Roper iPoll",
         "stanza": "OCLC/Roper_iPoll.txt",
@@ -7881,7 +7889,7 @@
         "oclcStanzaId": "Thieme",
         "oclcIncludeFile": "databases/thiemeconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2021-09-27"
+        "lastUpdated": "2023-04-04"
     },
     "Thieme_MedOne": {
         "name": "Thieme MedOne",
