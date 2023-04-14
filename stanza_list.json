@@ -3220,6 +3220,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Exact_Editions",
         "lastUpdated": "2019-04-10"
     },
+    "Examine": {
+        "name": "Examine",
+        "stanza": "OCLC/Examine.txt",
+        "oclcStanzaId": "Examine",
+        "oclcIncludeFile": "databases/examine.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine",
+        "lastUpdated": "2023-04-13"
+    },
     "Exceptional_Parent": {
         "name": "Exceptional Parent",
         "stanza": "OCLC/Exceptional_Parent.txt",
