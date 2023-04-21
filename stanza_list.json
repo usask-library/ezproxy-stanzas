@@ -291,7 +291,7 @@
         "oclcStanzaId": "AHA_Journals",
         "oclcIncludeFile": "databases/ahajournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AHA_Journals",
-        "lastUpdated": "2020-10-23"
+        "lastUpdated": "2023-04-20"
     },
     "Aida": {
         "name": "Aida",
@@ -308,6 +308,14 @@
         "oclcIncludeFile": "databases/ainoscosearch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ainosco_Search",
         "lastUpdated": "2022-06-02"
+    },
+    "AIPP_Publishing_Platform_(formerly_Scitation)": {
+        "name": "AIPP Publishing Platform (formerly Scitation)",
+        "stanza": "OCLC/AIPP_Publishing_Platform_(formerly_Scitation).txt",
+        "oclcStanzaId": "AIPP_Publishing_Platform_(formerly_Scitation)",
+        "oclcIncludeFile": "databases/scitation.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AIPP_Publishing_Platform_(formerly_Scitation)",
+        "lastUpdated": "2023-04-19"
     },
     "Airiti_Library": {
         "name": "Airiti Library",
@@ -597,7 +605,7 @@
         "oclcStanzaId": "American_Society_for_Biochemistry_and_Molecular_Biology",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Society_for_Biochemistry_and_Molecular_Biology",
         "oclcIncludeFile": "databases/asbmb.txt",
-        "lastUpdated": "2016-08-24"
+        "lastUpdated": "2023-04-18"
     },
     "American_Society_for_Cell_Biology": {
         "name": "American Society for Cell Biology",
@@ -1587,7 +1595,7 @@
         "oclcStanzaId": "Building_Cost_and_Information_Service",
         "oclcIncludeFile": "databases/bcis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Building_Cost_and_Information_Service",
-        "lastUpdated": "2021-12-14"
+        "lastUpdated": "2023-04-19"
     },
     "Bureau_of_National_Affairs": {
         "name": "Bureau of National Affairs (BNA)",
@@ -2132,7 +2140,7 @@
         "oclcStanzaId": "Cold_Spring_Harbor_Laboratory_Press",
         "oclcIncludeFile": "databases/cshlpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cold_Spring_Harbor_Laboratory_Press",
-        "lastUpdated": "2020-12-10"
+        "lastUpdated": "2023-04-19"
     },
     "Cold_War_Eastern_Europe_CWEE": {
         "name": "Cold War Eastern Europe (CWEE)",
@@ -2211,7 +2219,7 @@
         "oclcStanzaId": "Computing_Reviews",
         "oclcIncludeFile": "databases/computingreviews.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Computing_Reviews",
-        "lastUpdated": "2015-10-28"
+        "lastUpdated": "2023-04-17"
     },
     "Conference_Board": {
         "name": "Conference Board",
@@ -2693,6 +2701,14 @@
         "oclcStanzaId": "Draw_It_To_Know_It",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Draw_It_To_Know_It",
         "lastUpdated": "2015-09-25"
+    },
+    "Duke_Journals": {
+        "name": "Duke Journals",
+        "stanza": "OCLC/Duke_Journals.txt",
+        "oclcStanzaId": "Duke_Journals",
+        "oclcIncludeFile": "databases/dukejournals.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duke_Journals",
+        "lastUpdated": "2023-04-18"
     },
     "Duke_University_Press": {
         "name": "Duke University Press Books and Journals",
@@ -3438,7 +3454,7 @@
         "oclcStanzaId": "Free_Medical",
         "oclcIncludeFile": "databases/freemedicaljournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Free_Medical",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2023-04-19"
     },
     "Frost_and_Sullivan": {
         "name": "Frost & Sullivan",
@@ -6801,7 +6817,7 @@
         "oclcStanzaId": "RDA_Tool_Kit",
         "oclcIncludeFile": "databases/rdatoolkit.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RDA_Tool_Kit",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2023-04-18"
     },
     "Reach-Bureau_van_Dijk": {
         "name": "Reach - Bureau van Dijk",
@@ -7897,7 +7913,7 @@
         "oclcStanzaId": "Thieme",
         "oclcIncludeFile": "databases/thiemeconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2023-04-04"
+        "lastUpdated": "2023-04-19"
     },
     "Thieme_MedOne": {
         "name": "Thieme MedOne",

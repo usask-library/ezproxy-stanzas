@@ -1,11 +1,12 @@
-Title Building Cost and Information Service (BCIS) (updated 20211214)
-URL http://service.bcis.co.uk/
+T Building Cost and Information Service (BCIS) (OCLC IncludeFile updated 20230419)
+U https://service.bcis.co.uk/
 HJ bcis.co.uk
 HJ https://bcis.co.uk
+HJ https://online.bcis.co.uk
 HJ https://rics.org
-HJ https://service.bcis.co.uk
 HJ https://www.bcis.co.uk
 HJ https://www.rics.org
+HJ online.bcis.co.uk
 HJ rics.org
 HJ service.bcis.co.uk
 HJ www.bcis.co.uk
