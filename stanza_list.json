@@ -1318,7 +1318,7 @@
         "oclcStanzaId": "Bloomsbury_Digital_Resources",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bloomsbury_Digital_Resources",
         "oclcIncludeFile": "databases/bloomsburydigitalresources.txt",
-        "lastUpdated": "2022-12-16"
+        "lastUpdated": "2023-03-21"
     },
     "Bloomsbury_Video_Library": {
         "name": "Bloomsbury Video Library",
@@ -2076,7 +2076,7 @@
             "databases/embase.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/ClinicalKey_and_Embase",
-        "lastUpdated": "2021-02-05"
+        "lastUpdated": "2023-05-01"
     },
     "Clinical_Evidence": {
         "name": "Clinical Evidence",
@@ -6089,7 +6089,7 @@
         "oclcStanzaId": "Ovid",
         "oclcIncludeFile": "databases/ovid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid",
-        "lastUpdated": "2021-10-22"
+        "lastUpdated": "2023-05-03"
     },
     "OvidChinese": {
         "name": "OvidChinese",
@@ -7638,7 +7638,7 @@
         "oclcStanzaId": "SpringerLink",
         "oclcIncludeFile": "databases/springer.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SpringerLink",
-        "lastUpdated": "2022-05-17"
+        "lastUpdated": "2023-05-02"
     },
     "SpringerMaterials": {
         "name": "SpringerMaterials",
