@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-04-04"
+        "lastUpdated": "2023-04-27"
     },
     "Adweek": {
         "name": "Adweek",
@@ -857,6 +857,14 @@
         "oclcIncludeFile": "databases/artinfo.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Artists_Information_Group",
         "lastUpdated": "2015-12-01"
+    },
+    "Artnet": {
+        "name": "Artnet",
+        "stanza": "OCLC/Artnet.txt",
+        "oclcStanzaId": "Artnet",
+        "oclcIncludeFile": "databases/artnet.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Artnet",
+        "lastUpdated": "2023-05-01"
     },
     "Artron_Art_Books_Database": {
         "name": "Artron Art Books Database",
@@ -2251,7 +2259,7 @@
         "oclcStanzaId": "Constellate",
         "oclcIncludeFile": "databases/constellate.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Constellate",
-        "lastUpdated": "2022-09-27"
+        "lastUpdated": "2023-05-01"
     },
     "Construction_and_Building_Abstracts": {
         "name": "Construction and Building Abstracts",
@@ -2283,7 +2291,7 @@
         "oclcStanzaId": "CountryWatch",
         "oclcIncludeFile": "databases/countrywatch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CountryWatch",
-        "lastUpdated": "2014-11-05"
+        "lastUpdated": "2023-04-28"
     },
     "CPA_Canada": {
         "name": "CPA Canada",
@@ -2785,7 +2793,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2023-02-06"
+        "lastUpdated": "2023-05-01"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -2870,7 +2878,7 @@
         "oclcStanzaId": "Editorial_Grao",
         "oclcIncludeFile": "databases/grao.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Editorial_Grao",
-        "lastUpdated": "2020-04-14"
+        "lastUpdated": "2023-04-27"
     },
     "Education_Week": {
         "name": "Education Week",
@@ -5101,6 +5109,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Material_ConneXion",
         "lastUpdated": "2018-05-16"
     },
+    "Mathematical_Reports": {
+        "name": "Mathematical Reports",
+        "stanza": "OCLC/Mathematical_Reports.txt",
+        "oclcStanzaId": "Mathematical_Reports",
+        "oclcIncludeFile": "databases/mathematical_reports.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mathematical_Reports",
+        "lastUpdated": "2023-05-01"
+    },
     "Mathematical_Sciences_Publishers": {
         "name": "Mathematical Sciences Publishers",
         "stanza": "OCLC/Mathematical_Sciences_Publishers.txt",
@@ -6518,7 +6534,7 @@
         "oclcStanzaId": "Portland_Press_Limited",
         "oclcIncludeFile": "databases/portlandpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Portland_Press_Limited",
-        "lastUpdated": "2020-05-13"
+        "lastUpdated": "2023-04-25"
     },
     "Practical_Law": {
         "name": "Practical Law",
@@ -6565,7 +6581,7 @@
         "oclcStanzaId": "PressReader",
         "oclcIncludeFile": "databases/pressreader.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PressReader",
-        "lastUpdated": "2020-07-14"
+        "lastUpdated": "2023-04-25"
     },
     "Primark": {
         "name": "Primark (including Global Access)",
@@ -7819,7 +7835,7 @@
         "oclcStanzaId": "Teaching_Times",
         "oclcIncludeFile": "databases/teachingtimes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Teaching_Times",
-        "lastUpdated": "2018-12-10"
+        "lastUpdated": "2023-04-25"
     },
     "Techniques-Ingenieur": {
         "name": "Techniques de l'Ing\u00e9nieur",
@@ -8243,6 +8259,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Vanderbilt_Television_News_Archive",
         "lastUpdated": "2023-03-03"
     },
+    "Variety": {
+        "name": "Variety",
+        "stanza": "OCLC/Variety.txt",
+        "oclcStanzaId": "Variety",
+        "oclcIncludeFile": "databases/varietyarchives.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Variety",
+        "lastUpdated": "2023-05-01"
+    },
     "Variety_Archives": {
         "name": "Variety Archives",
         "stanza": "OCLC/Variety_Archives.txt",
@@ -8289,7 +8313,7 @@
         "oclcStanzaId": "Visible_Body",
         "oclcIncludeFile": "databases/visiblebody.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Visible_Body",
-        "lastUpdated": "2022-07-21"
+        "lastUpdated": "2023-05-03"
     },
     "Visual_History_Archive_(SHOAH)": {
         "name": "Visual History Archive (SHOAH)",
