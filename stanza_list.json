@@ -543,6 +543,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography",
         "lastUpdated": "2019-04-10"
     },
+    "American_National_Biography_Online": {
+        "name": "American National Biography Online",
+        "stanza": "OCLC/American_National_Biography_Online.txt",
+        "oclcStanzaId": "American_National_Biography_Online",
+        "oclcIncludeFile": "databases/americannationalbiography.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography_Online",
+        "lastUpdated": "2023-05-15"
+    },
     "American_Occupational_Therapy_Association": {
         "name": "American Occupational Therapy Association",
         "stanza": "OCLC/American_Occupational_Therapy_Association.txt",
@@ -2259,7 +2267,7 @@
         "oclcStanzaId": "Constellate",
         "oclcIncludeFile": "databases/constellate.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Constellate",
-        "lastUpdated": "2023-05-01"
+        "lastUpdated": "2023-05-15"
     },
     "Construction_and_Building_Abstracts": {
         "name": "Construction and Building Abstracts",
@@ -2793,7 +2801,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2023-05-01"
+        "lastUpdated": "2023-05-15"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -3175,7 +3183,7 @@
         "oclcStanzaId": "ERIC",
         "oclcIncludeFile": "databases/eric.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/ERIC",
-        "lastUpdated": "2021-12-09"
+        "lastUpdated": "2023-05-12"
     },
     "ESB_Online": {
         "name": "ESB Online",
@@ -5447,6 +5455,14 @@
         "oclcIncludeFile": "databases/sloanreview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MIT_Sloan_Management_Review",
         "lastUpdated": "2020-10-12"
+    },
+    "Modern_Chinese_Books_Database": {
+        "name": "Modern Chinese Books Database",
+        "stanza": "OCLC/Modern_Chinese_Books_Database.txt",
+        "oclcStanzaId": "Modern_Chinese_Books_Database",
+        "oclcIncludeFile": "databases/mgebooks.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Modern_Chinese_Books_Database",
+        "lastUpdated": "2023-05-15"
     },
     "Modern_Language_Association": {
         "name": "Modern Language Association",
