@@ -5726,6 +5726,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NetAnatomy",
         "lastUpdated": "2015-02-27"
     },
+    "Neurosurgical_Atlas": {
+        "name": "Neurosurgical Atlas",
+        "stanza": "OCLC/Neurosurgical_Atlas.txt",
+        "oclcStanzaId": "Neurosurgical_Atlas",
+        "oclcIncludeFile": "databases/neurosurgicalatlas.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Neurosurgical_Atlas",
+        "lastUpdated": "2023-05-16"
+    },
     "NewsBank": {
         "name": "NewsBank",
         "stanza": "OCLC/NewsBank.txt",
