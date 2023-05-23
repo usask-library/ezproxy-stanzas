@@ -2156,7 +2156,7 @@
         "oclcStanzaId": "Cold_Spring_Harbor_Laboratory_Press",
         "oclcIncludeFile": "databases/cshlpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cold_Spring_Harbor_Laboratory_Press",
-        "lastUpdated": "2023-04-19"
+        "lastUpdated": "2023-05-19"
     },
     "Cold_War_Eastern_Europe_CWEE": {
         "name": "Cold War Eastern Europe (CWEE)",
@@ -3250,7 +3250,7 @@
         "oclcStanzaId": "Exact_Editions",
         "oclcIncludeFile": "databases/exacteditions.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Exact_Editions",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2023-05-19"
     },
     "Examine": {
         "name": "Examine",
