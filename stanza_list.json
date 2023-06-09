@@ -3511,6 +3511,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Geofacets",
         "lastUpdated": "2018-11-29"
     },
+    "Geographical_Association": {
+        "name": "Geographical Association",
+        "stanza": "OCLC/Geographical_Association.txt",
+        "oclcStanzaId": "Geographical_Association",
+        "oclcIncludeFile": "databases/geography.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Geographical_Association",
+        "lastUpdated": "2023-06-06"
+    },
     "George_Warman_Publications": {
         "name": "George Warman Publications",
         "stanza": "OCLC/George_Warman_Publications.txt",
