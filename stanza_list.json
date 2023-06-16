@@ -214,6 +214,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
         "lastUpdated": "2023-04-27"
     },
+    "Advanced_Intros": {
+        "name": "Advanced Intros",
+        "stanza": "OCLC/Advanced_Intros.txt",
+        "oclcStanzaId": "Advanced_Intros",
+        "oclcIncludeFile": "databases/advandedintros.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Advanced_Intros",
+        "lastUpdated": "2023-06-13"
+    },
     "Adweek": {
         "name": "Adweek",
         "stanza": "OCLC/Adweek.txt",
@@ -2894,7 +2902,7 @@
         "oclcStanzaId": "Education_Week",
         "oclcIncludeFile": "databases/educationweek.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Education_Week",
-        "lastUpdated": "2023-06-01"
+        "lastUpdated": "2023-06-15"
     },
     "EHD_Online": {
         "name": "English Historical Documents Online (EHD)",
