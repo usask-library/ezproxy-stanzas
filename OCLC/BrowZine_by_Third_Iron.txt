@@ -1,4 +1,7 @@
-Title Third Iron Library Technologies (Updated 20211116)
+AnonymousURL +*.woff
+AnonymousURL +*.woff2
+AnonymousURL +*.ttf
+Title Third Iron Library Technologies (Updated 20230421)
 URL http://thirdiron.com
 HJ https://thirdiron.com
 HJ https://api.thirdiron.com
@@ -15,8 +18,9 @@ Find url = "http://
 Replace url = "http://^A
 NeverProxy public-api.thirdiron.com
 NeverProxy libkey.io
+AnonymousURL -*
 
-Title BrowZine by Third Iron (Updated 20211116)
+Title BrowZine by Third Iron (Updated 20230421)
 URL https://browzine.com
 HJ https://browzine.com
 HJ https://api.browzine.com

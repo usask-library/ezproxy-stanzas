@@ -1603,7 +1603,7 @@
         "oclcStanzaId": "BrowZine_by_Third_Iron",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrowZine_by_Third_Iron",
         "oclcIncludeFile": "databases/browzine.txt",
-        "lastUpdated": "2021-11-16"
+        "lastUpdated": "2023-06-19"
     },
     "BuildingGreen": {
         "name": "BuildingGreen",
@@ -8322,6 +8322,14 @@
         "oclcIncludeFile": "databases/veritrade.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Veritrade",
         "lastUpdated": "2019-03-26"
+    },
+    "Verlag_C.H.Beck": {
+        "name": "Verlag C.H.Beck",
+        "stanza": "OCLC/Verlag_C.H.Beck.txt",
+        "oclcStanzaId": "Verlag_C.H.Beck",
+        "oclcIncludeFile": "databases/beckonline.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Verlag_C.H.Beck",
+        "lastUpdated": "2023-04-14"
     },
     "Very_Short_Introductions": {
         "name": "Very Short Introductions",
