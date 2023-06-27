@@ -1886,6 +1886,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Career_Cruising",
         "lastUpdated": "2018-01-28"
     },
+    "CareLit": {
+        "name": "CareLit",
+        "stanza": "OCLC/CareLit.txt",
+        "oclcStanzaId": "CareLit",
+        "oclcIncludeFile": "databases/carelit.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CareLit",
+        "lastUpdated": "2023-06-23"
+    },
     "Casting_About": {
         "name": "Casting About",
         "stanza": "OCLC/Casting_About.txt",
@@ -6143,7 +6151,9 @@
         "name": "OvidEspanol",
         "stanza": "OCLC/OvidEspanol.txt",
         "oclcStanzaId": "OvidEspanol",
-        "oclcIncludeFile": "databases/ovidespano.txt",
+        "oclcIncludeFile": [
+            "databases/ovidespanol.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OvidEspanol",
         "lastUpdated": "2020-07-21"
     },
@@ -7946,7 +7956,7 @@
         "oclcStanzaId": "The_Japan_Times_Digital_Archives",
         "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/The_Japan_Times_Digital_Archives",
-        "lastUpdated": "2022-10-14"
+        "lastUpdated": "2023-06-26"
     },
     "The_Oklahoman": {
         "name": "The Oklahoman",
