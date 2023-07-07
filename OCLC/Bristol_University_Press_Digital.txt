@@ -1,9 +1,10 @@
-Title Bristol University Press Digital (updated 20220502)
+Title Bristol University Press Digital (OCLC IncludeFile updated 20220908)
 HTTPHeader -request -process X-Requested-With
 URL https://bristoluniversitypressdigital.com/
-HJ www.bristoluniversitypressdigital.com
-HJ bristoluniversitypressdigital.com
-HJ https://bristoluniversitypressdigital.com
-HJ https://ams.bristoluniversitypressdigital.com
 HJ ams.bristoluniversitypressdigital.com
+HJ bristoluniversitypressdigital.com
+HJ https://ams.bristoluniversitypressdigital.com
+HJ https://bristoluniversitypressdigital.com
+HJ https://www.bristoluniversitypressdigital.com
+HJ www.bristoluniversitypressdigital.com
 DJ bristoluniversitypressdigital.com

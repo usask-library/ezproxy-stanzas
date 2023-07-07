@@ -2414,7 +2414,7 @@
         "oclcStanzaId": "CultureGrams",
         "oclcIncludeFile": "databases/culturegrams.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CultureGrams",
-        "lastUpdated": "2018-02-07"
+        "lastUpdated": "2023-07-06"
     },
     "Current_History": {
         "name": "Current History",
@@ -5544,6 +5544,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MyiLibrary",
         "lastUpdated": "2015-08-05"
     },
+    "My_China_Roots_Library_Edition": {
+        "name": "My China Roots Library Edition",
+        "stanza": "OCLC/My_China_Roots_Library_Edition.txt",
+        "oclcStanzaId": "My_China_Roots_Library_Edition",
+        "oclcIncludeFile": "databases/MyChinaRoots.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/My_China_Roots_Library_Edition",
+        "lastUpdated": "2023-07-06"
+    },
     "NAACE": {
         "name": "NAACE",
         "stanza": "OCLC/NAACE.txt",
@@ -6228,7 +6236,7 @@
         "oclcStanzaId": "Oxford_English_Dictionary_(OED)",
         "oclcIncludeFile": "databases/oed.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_English_Dictionary_(OED)",
-        "lastUpdated": "2020-11-04"
+        "lastUpdated": "2023-07-05"
     },
     "Oxford_First_Source": {
         "name": "Oxford First Source",
@@ -7949,6 +7957,14 @@
         "oclcIncludeFile": "databases/thechinaproject.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_China_Project",
         "lastUpdated": "2022-09-12"
+    },
+    "The_Japan_Times_Digital": {
+        "name": "The Japan Times Digital",
+        "stanza": "OCLC/The_Japan_Times_Digital.txt",
+        "oclcStanzaId": "The_Japan_Times_Digital",
+        "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Digital",
+        "lastUpdated": "2023-07-06"
     },
     "The_Japan_Times_Digital_Archives": {
         "name": "The Japan Times Digital Archives",
