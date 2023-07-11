@@ -2329,7 +2329,6 @@
         "name": "CQ Researcher",
         "stanza": "OCLC/CQ_Researcher.txt",
         "oclcStanzaId": "CQ_Researcher",
-        "oclcIncludeFile": "databases/cq_researcher.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CQ_Researcher",
         "lastUpdated": "2023-01-06"
     },
@@ -3119,7 +3118,9 @@
         "name": "EMIS",
         "stanza": "OCLC/EMIS.txt",
         "oclcStanzaId": "EMIS",
-        "oclcIncludeFile": "databases/emis.txt",
+        "oclcIncludeFile": [
+            "databases/emerging_markets_research.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EMIS",
         "lastUpdated": "2017-05-23"
     },
@@ -3875,7 +3876,7 @@
         "oclcStanzaId": "IBFD_Tax_Research_Platform",
         "oclcIncludeFile": "databases/ibfd.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IBFD_Tax_Research_Platform",
-        "lastUpdated": "2019-08-22"
+        "lastUpdated": "2023-07-07"
     },
     "IBISWorld": {
         "name": "IBISWorld",
