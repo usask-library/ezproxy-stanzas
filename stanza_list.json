@@ -1477,7 +1477,7 @@
         "oclcStanzaId": "BREPOLiS",
         "oclcIncludeFile": "databases/brepolis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BREPOLiS",
-        "lastUpdated": "2019-04-19"
+        "lastUpdated": "2023-07-17"
     },
     "Brepols_Online": {
         "name": "Brepols Online",
@@ -2156,7 +2156,7 @@
         "oclcStanzaId": "Cochrane_Library",
         "oclcIncludeFile": "databases/cochrane.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cochrane_Library",
-        "lastUpdated": "2022-08-15"
+        "lastUpdated": "2023-07-17"
     },
     "Codes_Guide_NRC": {
         "name": "Codes Guide NRC",
@@ -3719,6 +3719,14 @@
         "oclcIncludeFile": "databases/hepgjournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Harvard_Education_Publishing_Group",
         "lastUpdated": "2019-04-10"
+    },
+    "HathiTrust_Digital_Library": {
+        "name": "HathiTrust Digital Library",
+        "stanza": "OCLC/HathiTrust_Digital_Library.txt",
+        "oclcStanzaId": "HathiTrust_Digital_Library",
+        "oclcIncludeFile": "databases/hathitrust.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HathiTrust_Digital_Library",
+        "lastUpdated": "2023-07-17"
     },
     "Healio": {
         "name": "Healio",
