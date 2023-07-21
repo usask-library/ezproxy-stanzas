@@ -1477,7 +1477,7 @@
         "oclcStanzaId": "BREPOLiS",
         "oclcIncludeFile": "databases/brepolis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BREPOLiS",
-        "lastUpdated": "2023-07-17"
+        "lastUpdated": "2023-07-18"
     },
     "Brepols_Online": {
         "name": "Brepols Online",
@@ -1930,7 +1930,7 @@
         "oclcStanzaId": "CCH_Intelliconnect",
         "oclcIncludeFile": "databases/intelliconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_Intelliconnect",
-        "lastUpdated": "2022-01-24"
+        "lastUpdated": "2023-07-18"
     },
     "CCOHS": {
         "name": "CCOHS",
@@ -8340,7 +8340,7 @@
         "oclcStanzaId": "Variety",
         "oclcIncludeFile": "databases/varietyarchives.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Variety",
-        "lastUpdated": "2023-05-01"
+        "lastUpdated": "2023-07-18"
     },
     "Variety_Archives": {
         "name": "Variety Archives",
