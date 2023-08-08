@@ -1,6 +1,12 @@
 Option CookiePassThrough
-Title CNKI (updated 20220627)
-URL https://oversea.cnki.net
+AnonymousURL +https://o.oversea.cnki.net/EcpApi_oversea/OLoginApi/IpLogin*
+Title CNKI Main Page (OCLC IncludeFile updated 20230803)
+HTTPHeader -request -process Appid
+HTTPHeader -request -process Clientid
+HTTPHeader -request -process Signature
+HTTPHeader -request -process Timestamp
+HTTPHeader -request -process Nonce
+U https://oversea.cnki.net
 HJ ar.cnki.net
 HJ big5.oversea.cnki.net
 HJ book.oversea.cnki.net
@@ -84,4 +90,5 @@ HJ usad.cnki.net
 HJ www.cnki.net
 DJ cnki.net
 DJ oversea.cnki.net
+AnonymousURL -*
 OPTION Cookie
