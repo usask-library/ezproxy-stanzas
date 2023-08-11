@@ -1924,6 +1924,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect",
         "lastUpdated": "2022-06-23"
     },
+    "CCH_IknowConnect": {
+        "name": "CCH IknowConnect",
+        "stanza": "OCLC/CCH_IknowConnect.txt",
+        "oclcStanzaId": "CCH_IknowConnect",
+        "oclcIncludeFile": "databases/iknowconnect.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_IknowConnect",
+        "lastUpdated": "2023-08-08"
+    },
     "CCH_Intelliconnect": {
         "name": "CCH Intelliconnect",
         "stanza": "OCLC/CCH_Intelliconnect.txt",
@@ -2838,7 +2846,7 @@
         "stanza": "OCLC/EBSCO_LinkSource.txt",
         "oclcStanzaId": "EBSCO_LinkSource",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource",
-        "lastUpdated": "2017-03-22"
+        "lastUpdated": "2023-08-10"
     },
     "EB_Medicine": {
         "name": "EB Medicine",
@@ -3518,7 +3526,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2023-05-09"
+        "lastUpdated": "2023-07-10"
     },
     "Geofacets": {
         "name": "Geofacets",
