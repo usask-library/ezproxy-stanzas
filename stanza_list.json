@@ -3450,6 +3450,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
         "lastUpdated": "2021-01-15"
     },
+    "Fold3_Direct": {
+        "name": "Fold3 Direct",
+        "stanza": "OCLC/Fold3_Direct.txt",
+        "oclcStanzaId": "Fold3_Direct",
+        "oclcIncludeFile": "databases/fold3.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Direct",
+        "lastUpdated": "2023-08-14"
+    },
     "Foreign_Policy": {
         "name": "Foreign Policy",
         "stanza": "OCLC/Foreign_Policy.txt",
@@ -8563,7 +8571,6 @@
         "name": "Wharton Research Data Services (WRDS)",
         "stanza": "OCLC/Wharton_Research_Data_Services_WRDS.txt",
         "oclcStanzaId": "Wharton_Research_Data_Services_(WRDS)",
-        "oclcIncludeFile": "databases/wrds.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wharton_Research_Data_Services_(WRDS)",
         "lastUpdated": "2022-01-10"
     },
@@ -8613,6 +8620,14 @@
         "oclcStanzaId": "Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "lastUpdated": "2018-10-11"
+    },
+    "WorldShare_ILL_Form": {
+        "name": "WorldShare ILL Form",
+        "stanza": "OCLC/WorldShare_ILL_Form.txt",
+        "oclcStanzaId": "WorldShare_ILL_Form",
+        "oclcIncludeFile": "databases/worldshare_ill_form.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WorldShare_ILL_Form",
+        "lastUpdated": "2023-08-14"
     },
     "WorldTradeLaw": {
         "name": "WorldTradeLaw",
