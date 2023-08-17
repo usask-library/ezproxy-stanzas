@@ -94,8 +94,11 @@ HJ https://www.bloomsburyvisualarts.com
 HJ https://bloomsburyvisualarts.com
 DJ bloomsburyvisualarts.com
 
-Title Churchill Archive (OCLC IncludeFile updated 20200423)
+Title Churchill Archive (OCLC IncludeFile updated 20230721)
 URL http://www.churchillarchive.com/
+HJ https://churchillarchive.com
+HJ https://www.churchillarchive.com
+HJ www.churchillarchive.com
 HJ churchillarchive.com
 DJ churchillarchive.com
 
@@ -210,3 +213,11 @@ HJ bloomsburyvideolibrary.com
 HJ https://www.bloomsburyvideolibrary.com
 HJ https://bloomsburyvideolibrary.com
 DJ bloomsburyvideolibrary.com
+
+T Cite Them Right Online (Updated 20220602)
+U https://www.citethemrightonline.com/
+HJ citethemrightonline.com
+HJ https://citethemrightonline.com
+HJ https://www.citethemrightonline.com
+HJ www.citethemrightonline.com
+DJ citethemrightonline.com

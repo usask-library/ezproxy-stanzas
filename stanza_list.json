@@ -542,15 +542,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Meteorological_Society",
         "lastUpdated": "2022-06-21"
     },
-    "American_National_Biography": {
-        "name": "American National Biography",
-        "stanza": "OCLC/American_National_Biography.txt",
-        "note": "This resource also requires the Oxford Reference stanza.",
-        "oclcStanzaId": "American_National_Biography",
-        "oclcIncludeFile": "databases/americannationalbiography.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography",
-        "lastUpdated": "2019-04-10"
-    },
     "American_National_Biography_Online": {
         "name": "American National Biography Online",
         "stanza": "OCLC/American_National_Biography_Online.txt",
@@ -746,8 +737,8 @@
     "Animal_Science_Publications": {
         "name": "Journal of Animal Science and Animal Frontiers",
         "stanza": "OCLC/Animal_Science_Publications.txt",
-        "oclcStanzaId": "animalsciencepublications",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/animalsciencepublications",
+        "oclcStanzaId": "Journal_of_Animal_Science_and_Animal_Frontiers",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Animal_Science_and_Animal_Frontiers",
         "lastUpdated": "2016-07-13"
     },
     "Annee_Philologique": {
@@ -1250,7 +1241,7 @@
         "oclcStanzaId": "Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
         "oclcIncludeFile": "databases/bihr.txt",
-        "lastUpdated": "2022-010-12"
+        "lastUpdated": "2022-10-12"
     },
     "Biocentury": {
         "name": "Biocentury",
@@ -1334,7 +1325,7 @@
         "oclcStanzaId": "Bloomsbury_Digital_Resources",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bloomsbury_Digital_Resources",
         "oclcIncludeFile": "databases/bloomsburydigitalresources.txt",
-        "lastUpdated": "2023-03-21"
+        "lastUpdated": "2023-07-21"
     },
     "Bloomsbury_Video_Library": {
         "name": "Bloomsbury Video Library",
@@ -2338,7 +2329,7 @@
         "stanza": "OCLC/CQ_Researcher.txt",
         "oclcStanzaId": "CQ_Researcher",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CQ_Researcher",
-        "lastUpdated": "2023-01-06"
+        "lastUpdated": "2023-07-10"
     },
     "CRAAQ": {
         "name": "CRAAQ",
@@ -3306,7 +3297,7 @@
         "oclcStanzaId": "Factiva",
         "oclcIncludeFile": "databases/factiva.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Factiva",
-        "lastUpdated": "2022-05-06"
+        "lastUpdated": "2023-07-25"
     },
     "FactoMediaBase": {
         "name": "FactoMediaBase",
@@ -3443,19 +3434,27 @@
         "lastUpdated": "2021-11-18"
     },
     "Fold3": {
-        "name": "Fold3",
+        "name": "Fold3 Direct",
         "stanza": "OCLC/Fold3.txt",
         "oclcStanzaId": "Fold3",
         "oclcIncludeFile": "databases/fold3.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
-        "lastUpdated": "2021-01-15"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Direct",
+        "lastUpdated": "2023-08-14"
     },
     "Fold3_Direct": {
-        "name": "Fold3 Direct",
+        "name": "Fold3 Direct (Proquest)",
         "stanza": "OCLC/Fold3_Direct.txt",
         "oclcStanzaId": "Fold3_Direct",
         "oclcIncludeFile": "databases/fold3.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Direct",
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "[siteID]",
+                "placeholder": "Your institutions Site ID as provided by the vendor",
+                "enabled": true
+            }
+        ],
         "lastUpdated": "2023-08-14"
     },
     "Foreign_Policy": {
@@ -4311,11 +4310,11 @@
         "lastUpdated": "2018-11-09"
     },
     "iPolitics": {
-        "name": "iPolitics",
+        "name": "IPolitics",
         "stanza": "OCLC/iPolitics.txt",
-        "oclcStanzaId": "iPolitics",
+        "oclcStanzaId": "IPolitics",
         "oclcIncludeFile": "databases/ipolitics.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iPolitics",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IPolitics",
         "lastUpdated": "2019-12-19"
     },
     "Iter_Gateway_to_the_Middle_Ages_and_Renaissance": {
@@ -4331,8 +4330,8 @@
         "stanza": "OCLC/IWA_Publishing.txt",
         "oclcStanzaId": "IWA_Publishing",
         "oclcIncludeFile": "databases/iwapublishing.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IWA_Publishing",
-        "lastUpdated": "2019-12-09"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IWA_Publishing",
+        "lastUpdated": "2021-10-28"
     },
     "J-STAGE": {
         "name": "J-STAGE",
@@ -5556,9 +5555,9 @@
     "MusicID_ARP": {
         "name": "MusicID ARP (formerly Academic Rights Press)",
         "stanza": "OCLC/MusicID_ARP.txt",
-        "oclcStanzaId": "MusicID_ARP_formerly_Academic_Rights_Press",
+        "oclcStanzaId": "MusicID_ARP_(formerly_Academic_Rights_Press)",
         "oclcIncludeFile": "databases/musicid.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MusicID_ARP_formerly_Academic_Rights_Press",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MusicID_ARP_(formerly_Academic_Rights_Press)",
         "lastUpdated": "2020-08-26"
     },
     "MyiLibrary": {
@@ -6170,7 +6169,7 @@
         "oclcStanzaId": "Ovid",
         "oclcIncludeFile": "databases/ovid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid",
-        "lastUpdated": "2023-05-03"
+        "lastUpdated": "2023-06-12"
     },
     "OvidChinese": {
         "name": "OvidChinese",
@@ -7255,7 +7254,7 @@
         "oclcStanzaId": "SAGE_Publications_and_Journals",
         "oclcIncludeFile": "databases/sagepub.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAGE_Publications_and_Journals",
-        "lastUpdated": "2022-06-21"
+        "lastUpdated": "2023-07-10"
     },
     "Saishin_Kango_Sakuin_Web": {
         "name": "Saishin Kango Sakuin Web",
@@ -7367,7 +7366,10 @@
         "name": "Sciencenow (Formerly F1000)",
         "stanza": "OCLC/Sciencenow.txt",
         "oclcStanzaId": "Sciencenow_(Formerly_F1000)",
-        "oclcIncludeFile": "databases/sciwheel.txt",
+        "oclcIncludeFile": [
+            "databases/sciwheel.txt",
+            "databases/facultyopinions.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_(Formerly_F1000)",
         "lastUpdated": "2022-05-18"
     },
@@ -7453,14 +7455,6 @@
         "oclcIncludeFile": "databases/sciquest.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciquest",
         "lastUpdated": "2023-01-23"
-    },
-    "Scitation": {
-        "name": "Scitation",
-        "stanza": "OCLC/Scitation.txt",
-        "oclcStanzaId": "Scitation",
-        "oclcIncludeFile": "databases/scitation.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scitation",
-        "lastUpdated": "2021-11-05"
     },
     "Scite": {
         "name": "Scite",
@@ -8358,14 +8352,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Variety",
         "lastUpdated": "2023-07-18"
     },
-    "Variety_Archives": {
-        "name": "Variety Archives",
-        "stanza": "OCLC/Variety_Archives.txt",
-        "oclcStanzaId": "Variety_Archives",
-        "oclcIncludeFile": "databases/varietyarchives.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Variety_Archives",
-        "lastUpdated": "2022-04-26"
-    },
     "Veritrade": {
         "name": "Veritrade",
         "stanza": "OCLC/Veritrade.txt",
@@ -8508,7 +8494,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2023-03-01"
+        "lastUpdated": "2023-08-11"
     },
     "Wenxinge": {
         "name": "Wenxinge",
@@ -8559,6 +8545,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Westlaw_China",
         "lastUpdated": "2018-10-11"
     },
+    "Weston_Medical_Publishing": {
+        "name": "Weston Medical Publishing",
+        "stanza": "OCLC/Weston_Medical_Publishing.txt",
+        "oclcStanzaId": "Weston_Medical_Publishing",
+        "oclcIncludeFile": "databases/weston_medical_publishing.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Weston_Medical_Publishing",
+        "lastUpdated": "2023-07-14"
+    },
     "WGSN_Creative_Intelligence": {
         "name": "WGSN Creative Intelligence",
         "stanza": "OCLC/WGSN_Creative_Intelligence.txt",
@@ -8571,6 +8565,7 @@
         "name": "Wharton Research Data Services (WRDS)",
         "stanza": "OCLC/Wharton_Research_Data_Services_WRDS.txt",
         "oclcStanzaId": "Wharton_Research_Data_Services_(WRDS)",
+        "oclcIncludeFile": "databases/wrds.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wharton_Research_Data_Services_(WRDS)",
         "lastUpdated": "2022-01-10"
     },
@@ -8626,6 +8621,14 @@
         "stanza": "OCLC/WorldShare_ILL_Form.txt",
         "oclcStanzaId": "WorldShare_ILL_Form",
         "oclcIncludeFile": "databases/worldshare_ill_form.txt",
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "[regid]",
+                "placeholder": "Your institutions Registry ID",
+                "enabled": true
+            }
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WorldShare_ILL_Form",
         "lastUpdated": "2023-08-14"
     },
