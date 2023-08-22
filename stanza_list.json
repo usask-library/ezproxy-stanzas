@@ -8577,6 +8577,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wharton_Research_Data_Services_(WRDS)",
         "lastUpdated": "2022-01-10"
     },
+    "WhatIsMyIP": {
+        "name": "WhatIsMyIP",
+        "stanza": "OCLC/WhatIsMyIP.txt",
+        "oclcStanzaId": "WhatIsMyIP",
+        "oclcIncludeFile": "databases/whatismyip.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WhatIsMyIP",
+        "lastUpdated": "2023-08-18"
+    },
     "What_Everyone_Needs_to_Know": {
         "name": "What Everyone Needs to Know\u00ae",
         "stanza": "OCLC/What_Everyone_Needs_to_Know.txt",
