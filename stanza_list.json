@@ -422,6 +422,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ambrose_Digital_Video",
         "lastUpdated": "2021-02-12"
     },
+    "American_Academy_of_Opthalmology_Publications": {
+        "name": "American Academy of Opthalmology Publications",
+        "stanza": "OCLC/American_Academy_of_Opthalmology_Publications.txt",
+        "oclcStanzaId": "American_Academy_of_Opthalmology_Publications",
+        "oclcIncludeFile": "databases/aao.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Academy_of_Opthalmology_Publications",
+        "lastUpdated": "2023-08-29"
+    },
     "American_Academy_of_Pediatrics": {
         "name": "American Academy of Pediatrics (formerly Pediatrics)",
         "stanza": "OCLC/American_Academy_of_Pediatrics.txt",
@@ -912,6 +920,14 @@
         "oclcIncludeFile": "databases/asahi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Asahi_Shimbun_Cross-Search",
         "lastUpdated": "2022-07-12"
+    },
+    "ASHP_eBooks": {
+        "name": "ASHP eBooks",
+        "stanza": "OCLC/ASHP_eBooks.txt",
+        "oclcStanzaId": "ASHP_eBooks",
+        "oclcIncludeFile": "databases/ashp.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASHP_eBooks",
+        "lastUpdated": "2023-08-29"
     },
     "Asia_Studies": {
         "name": "Asia-Studies",
@@ -2809,6 +2825,22 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebook_Central",
         "lastUpdated": "2017-09-08"
     },
+    "Ebook_Library": {
+        "name": "Ebook Library",
+        "stanza": "OCLC/Ebook_Library.txt",
+        "oclcStanzaId": "Ebook_Library",
+        "oclcIncludeFile": "databases/eblib.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebook_Library",
+        "lastUpdated": "2023-08-29"
+    },
+    "Ebrary": {
+        "name": "Ebrary",
+        "stanza": "OCLC/Ebrary.txt",
+        "oclcStanzaId": "Ebrary",
+        "oclcIncludeFile": "databases/ebrary.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebrary",
+        "lastUpdated": "2023-08-29"
+    },
     "EBSCOhost": {
         "name": "EBSCO Information Services",
         "stanza": "OCLC/EBSCOhost.txt",
@@ -4063,6 +4095,14 @@
         "oclcIncludeFile": "databases/imagequest.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/ImageQuest",
         "lastUpdated": "2018-03-05"
+    },
+    "IMAIOS_e-Anatomy": {
+        "name": "IMAIOS e-Anatomy",
+        "stanza": "OCLC/IMAIOS_e-Anatomy.txt",
+        "oclcStanzaId": "IMAIOS_e-Anatomy",
+        "oclcIncludeFile": "databases/imaios.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IMAIOS_e-Anatomy",
+        "lastUpdated": "2023-08-29"
     },
     "IMentor": {
         "name": "IMentor",
@@ -6071,6 +6111,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Omega_Sources",
         "lastUpdated": "2015-06-08"
     },
+    "OMICS_Publications": {
+        "name": "OMICS Publications",
+        "stanza": "OCLC/OMICS_Publications.txt",
+        "oclcStanzaId": "OMICS_Publications",
+        "oclcIncludeFile": "databases/omicsgroup.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OMICS_Publications",
+        "lastUpdated": "2023-08-29"
+    },
     "Oncology_Nursing_Society": {
         "name": "Oncology Nursing Society",
         "stanza": "OCLC/Oncology_Nursing_Society.txt",
@@ -6696,6 +6744,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PrivCo",
         "lastUpdated": "2019-01-22"
     },
+    "ProceduresConsult": {
+        "name": "ProceduresConsult",
+        "stanza": "OCLC/ProceduresConsult.txt",
+        "oclcStanzaId": "ProceduresConsult",
+        "oclcIncludeFile": "databases/proceduresconsult.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/ProceduresConsult",
+        "lastUpdated": "2023-08-29"
+    },
     "Proceedings_of_the_National_Academy_of_Sciences": {
         "name": "Proceedings of the National Academy of Sciences",
         "stanza": "OCLC/Proceedings_of_the_National_Academy_of_Sciences.txt",
@@ -6790,6 +6846,14 @@
         "oclcIncludeFile": "databases/psychiatryonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PsychiatryOnline",
         "lastUpdated": "2017-12-26"
+    },
+    "Psychiatry_Legacy_Collection_Online_Journals_1844-1996": {
+        "name": "Psychiatry Legacy Collection Online Journals 1844-1996",
+        "stanza": "OCLC/Psychiatry_Legacy_Collection_Online_Journals_1844-1996.txt",
+        "oclcStanzaId": "Psychiatry_Legacy_Collection_Online_Journals_1844-1996",
+        "oclcIncludeFile": "databases/appi.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Psychiatry_Legacy_Collection_Online_Journals_1844-1996",
+        "lastUpdated": "2023-08-29"
     },
     "Psychotherapy_net": {
         "name": "Psychotherapy.net",
