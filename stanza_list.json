@@ -6286,6 +6286,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Bibliographies",
         "lastUpdated": "2020-01-20"
     },
+    "Oxford_Business_Trove": {
+        "name": "Oxford Business Trove",
+        "stanza": "OCLC/Oxford_Business_Trove.txt",
+        "oclcStanzaId": "Oxford_Business_Trove",
+        "oclcIncludeFile": "databases/oxfordbusinesstrove.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Business_Trove",
+        "lastUpdated": "2023-08-30"
+    },
     "Oxford_Clinical_Psychology": {
         "name": "Oxford Clinical Psychology",
         "stanza": "OCLC/Oxford_Clinical_Psychology.txt",
@@ -6413,6 +6421,14 @@
         "oclcIncludeFile": "databases/oxfordscholarship.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarship_Online_(OSO)",
         "lastUpdated": "2021-07-14"
+    },
+    "Oxford_Science_Trove": {
+        "name": "Oxford Science Trove",
+        "stanza": "OCLC/Oxford_Science_Trove.txt",
+        "oclcStanzaId": "Oxford_Science_Trove",
+        "oclcIncludeFile": "databases/oxfordsciencetrove.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Science_Trove",
+        "lastUpdated": "2023-08-30"
     },
     "Oxford_Social_Work": {
         "name": "Oxford Social Work",
