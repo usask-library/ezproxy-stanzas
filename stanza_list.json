@@ -2838,6 +2838,14 @@
         "stanza": "OCLC/Ebrary.txt",
         "oclcStanzaId": "Ebrary",
         "oclcIncludeFile": "databases/ebrary.txt",
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "[sitename]",
+                "placeholder": "The [sitename] provided by the vendor",
+                "enabled": true
+            }
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebrary",
         "lastUpdated": "2023-08-29"
     },
