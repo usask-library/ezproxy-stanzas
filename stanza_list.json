@@ -2322,7 +2322,7 @@
         "oclcStanzaId": "CookieLaw",
         "oclcIncludeFile": "databases/cookielaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CookieLaw",
-        "lastUpdated": "2022-07-25"
+        "lastUpdated": "2023-09-05"
     },
     "CountryWatch": {
         "name": "CountryWatch",
@@ -3322,6 +3322,14 @@
         "oclcIncludeFile": "databases/exchangepress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Exchange_Press",
         "lastUpdated": "2022-11-18"
+    },
+    "Explorer_for_Institutions": {
+        "name": "Altmetric Explorer for Institutions",
+        "stanza": "OCLC/Explorer_for_Institutions.txt",
+        "oclcStanzaId": "Explorer_for_Institutions",
+        "oclcIncludeFile": "databases/altmetric.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Explorer_for_Institutions",
+        "lastUpdated": "2023-09-07"
     },
     "Factiva": {
         "name": "Factiva",
@@ -5353,6 +5361,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medieval_and_Early_Modern_Sources_Online",
         "lastUpdated": "2020-04-06"
     },
+    "Meiner_eLibrary": {
+        "name": "Meiner eLibrary",
+        "stanza": "OCLC/Meiner_eLibrary.txt",
+        "oclcStanzaId": "Meiner_eLibrary",
+        "oclcIncludeFile": "databases/meiner-e-library.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Meiner_eLibrary",
+        "lastUpdated": "2023-09-05"
+    },
     "Mergent_Archives": {
         "name": "Mergent Archives",
         "stanza": "OCLC/Mergent_Archives.txt",
@@ -5756,6 +5772,14 @@
         "oclcStanzaId": "NBC_Learn",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NBC_Learn",
         "lastUpdated": "2018-12-14"
+    },
+    "Ncpro": {
+        "name": "Ncpro",
+        "stanza": "OCLC/Ncpro.txt",
+        "oclcStanzaId": "Ncpro",
+        "oclcIncludeFile": "databases/ncpro.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Ncpro",
+        "lastUpdated": "2023-08-28"
     },
     "Nederlandse_Artikelendatabank_voor_de_Zorg": {
         "name": "Nederlandse Artikelendatabank voor de Zorg",
