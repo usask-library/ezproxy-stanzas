@@ -1,5 +1,5 @@
-Title MAG Online Library (updated 20210811)
-URL http://www.magonlinelibrary.com
+T MAG Online Library (OCLC IncludeFile updated 20210829)
+U http://www.magonlinelibrary.com
 HJ https://magonlinelibrary.com
 HJ https://mag.scienceconnect.io
 HJ https://www.magonlinelibrary.com
@@ -25,3 +25,8 @@ Title Optician (updated 20180102)
 URL https://www.opticianonline.net
 HJ www.opticianonline.net
 DJ opticianonline.net
+
+Title Farmers Weekly (added 20230829)
+URL https://www.fwi.co.uk/
+HJ www.fwi.co.uk
+DJ fwi.co.uk

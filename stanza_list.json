@@ -5208,11 +5208,11 @@
     "Mark_Allen_Group": {
         "name": "Mark Allen Group",
         "stanza": "OCLC/Mark_Allen_Group.txt",
-        "note": "Includes stanzas for Nursery World, Children & Young People Now, Optician",
-        "oclcStanzaId": "Mark_Allen_Group",
+        "note": "Includes stanzas for Nursery World, Children & Young People Now, Optician, Farmers Weekly",
+        "oclcStanzaId": "Mark_Allen_Group_(MAG_Online_Library)",
         "oclcIncludeFile": "databases/magonline.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mark_Allen_Group",
-        "lastUpdated": "2021-08-11"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mark_Allen_Group_(MAG_Online_Library)",
+        "lastUpdated": "2023-08-29"
     },
     "Marquis_Biographies_Online": {
         "name": "Marquis Biographies Online",
