@@ -8520,6 +8520,11 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Visible_Body",
         "lastUpdated": "2023-05-03"
     },
+    "VisualDX": {
+        "name": "VisualDX",
+        "stanza": "contrib/VisualDX.txt",
+        "lastUpdated": "2023-09-08"
+    },
     "Visual_History_Archive_(SHOAH)": {
         "name": "Visual History Archive (SHOAH)",
         "stanza": "OCLC/Visual_History_Archive_(SHOAH).txt",
