@@ -1,3 +1,5 @@
+Update EBSCO Information Services stanza page.  The Include file was updated, but not the page.
+The stanza on the page should be:
 #this seems to now be required before any EBSCOhost stanza to prevent linking issues
 Option DomainCookieOnly
 Title -hide EBSCO LinkSource
@@ -9,7 +11,7 @@ Option Cookie
 ProxyHostnameEdit healthlibrary.epnet.com$ healthlibrary-epnet-com
 AddUserHeader -base64 X-EBSCO-PROXY-Username
 AnonymousURL https://ppws.ebsco-content.com/*
-Title EBSCOhost (OCLC IncludeFile updated 20230515)
+Title EBSCOhost (OCLC IncludeFile updated 20230810)
 HTTPHeader -request -process userIdentifier
 HTTPHeader -request -process Authorization
 HTTPHeader -request -process X-EIS-STSTOKEN
@@ -36,6 +38,8 @@ HJ eds.e.ebscohost.com
 HJ ehis.ebscohost.com
 HJ connection.ebscohost.com
 HJ eoncontent.ebscohost.com
+HJ discovery.ebsco.com
+HJ https://discovery.ebsco.com
 HJ m.ebscohost.com
 HJ https://openurl.ebsco.com
 HJ openurl.ebscohost.com
