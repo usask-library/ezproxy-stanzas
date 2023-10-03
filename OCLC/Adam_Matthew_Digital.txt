@@ -21,6 +21,7 @@ HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.amscholar.amdigital.co.uk
 HJ https://www.archiveexplorer.amdigital.co.uk
 HJ https://www.archivesdirect.amdigital.co.uk
+HJ https://www.britishnewsreels.amdigital.co.uk 
 HJ https://www.broadcastingamerica.amdigital.co.uk
 HJ https://www.childrensliterature.amdigital.co.uk
 HJ https://www.china.amdigital.co.uk

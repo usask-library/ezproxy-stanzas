@@ -2163,7 +2163,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2023-08-28"
+        "lastUpdated": "2023-09-25"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -5543,7 +5543,7 @@
         "oclcStanzaId": "Mintel",
         "oclcIncludeFile": "databases/mintel.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mintel",
-        "lastUpdated": "2022-08-05"
+        "lastUpdated": "2023-09-25"
     },
     "Mission_Nexus": {
         "name": "Mission Nexus",
@@ -6540,7 +6540,7 @@
         "oclcStanzaId": "Passport_(Euromonitor_International)",
         "oclcIncludeFile": "databases/gmid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Passport_(Euromonitor_International)",
-        "lastUpdated": "2023-01-23"
+        "lastUpdated": "2023-10-25"
     },
     "Peeters_Publishers": {
         "name": "Peeters Publishers",
@@ -8471,6 +8471,14 @@
         "oclcStanzaId": "Vanderbilt_Television_News_Archive",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Vanderbilt_Television_News_Archive",
         "lastUpdated": "2023-03-03"
+    },
+    "Van_Dale_Online": {
+        "name": "Van Dale Online",
+        "stanza": "OCLC/Van_Dale_Online.txt",
+        "oclcStanzaId": "Van_Dale_Online",
+        "oclcIncludeFile": "databases/vandale.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Van_Dale_Online",
+        "lastUpdated": "2023-09-29"
     },
     "Variety": {
         "name": "Variety",
