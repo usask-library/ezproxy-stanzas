@@ -1,0 +1,8 @@
+Title WorldCat.org (updated 20231002)
+URL https://www.worldcat.org/
+HJ https://search.worldcat.org
+HJ http://search.worldcat.org
+HJ https://worldcat.org
+HJ www.worldcat.org
+HJ worldcat.org
+DJ worldcat.org

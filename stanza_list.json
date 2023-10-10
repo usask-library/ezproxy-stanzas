@@ -1674,7 +1674,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2022-10-10"
+        "lastUpdated": "2023-10-06"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -8764,6 +8764,14 @@
         "oclcStanzaId": "Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "lastUpdated": "2018-10-11"
+    },
+    "Worldcat.org": {
+        "name": "WorldCat.org",
+        "stanza": "OCLC/Worldcat.org.txt",
+        "oclcStanzaId": "Worldcat.org",
+        "oclcIncludeFile": "databases/OCLC_WorldCat_org.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Worldcat.org",
+        "lastUpdated": "2023-10-02"
     },
     "WorldShare_ILL_Form": {
         "name": "WorldShare ILL Form",
