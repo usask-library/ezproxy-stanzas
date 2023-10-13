@@ -8140,9 +8140,11 @@
         "name": "Thieme",
         "stanza": "OCLC/Thieme.txt",
         "oclcStanzaId": "Thieme",
-        "oclcIncludeFile": "databases/thiemeconnect.txt",
+        "oclcIncludeFile": [
+            "databases/thieme.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2023-04-19"
+        "lastUpdated": "2023-10-04"
     },
     "Thieme_MedOne": {
         "name": "Thieme MedOne",
