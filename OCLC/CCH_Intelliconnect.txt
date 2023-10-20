@@ -4,7 +4,7 @@ ProxyHostnameEdit taxcalendar.cch.com$ taxcalendar-cch-com
 ProxyHostnameEdit tools.cch.com$ tools-cch-com
 ProxyHostnameEdit smartcharts.cch.com$ smartcharts-cch-com
 ProxyHostnameEdit intelliconnect.cch.com$ intelliconnect
-Title CCH IntelliConnect (OCLC IncludeFile udpated 20230718)
+Title CCH IntelliConnect (OCLC IncludeFile updated 20230718)
 Mimefilter application/json .* javascript
 HTTPHeader -request -process X-GWT-*
 HTTPHeader -request -process X-ApiKey
