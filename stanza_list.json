@@ -2398,7 +2398,8 @@
     "CRL": {
         "name": "Center for Research Libraries",
         "stanza": "contrib/CRL.txt",
-        "url": "https://www.crl.edu/services/digital-services/access-crl-digitized-resources/off-campus-access"
+        "url": "https://www.crl.edu/services/digital-services/access-crl-digitized-resources/off-campus-access",
+        "lastUpdated": "2023-10-23"
     },
     "Crossref": {
         "name": "Crossref",

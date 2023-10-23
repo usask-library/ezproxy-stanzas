@@ -6,6 +6,7 @@ T Center for Research Libraries
 U http://www.crl.edu
 DJ crl.edu
 HJ catalog.crl.edu
+HJ https://catalog.crl.edu
 HJ dds.crl.edu
 HJ https://dds.crl.edu
 HJ ddsnext.crl.edu
@@ -13,5 +14,4 @@ HJ https://ddsnext.crl.edu
 HJ edesiderata.crl.edu
 HJ https://edesiderata.crl.edu
 HJ ecollections.crl.edu
-DJ llmcdigital.org
-HJ llmc.com
+HJ https://ecollections.crl.edu
