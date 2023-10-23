@@ -1734,7 +1734,8 @@
     },
     "Canadiana_Online": {
         "name": "Canadiana Online",
-        "stanza": "contrib/Canadiana_Online.txt"
+        "stanza": "contrib/Canadiana_Online.txt",
+        "lastUpdated": "2023-10-23"
     },
     "Canadian_Architect": {
         "name": "Canadian Architect, The",
