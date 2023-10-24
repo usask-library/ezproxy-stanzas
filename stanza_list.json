@@ -7074,6 +7074,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Reach_-_Bureau_van_Dijk",
         "lastUpdated": "2022-07-28"
     },
+    "Reaxys": {
+        "name": "Reaxys",
+        "stanza": "OCLC/Reaxys.txt",
+        "oclcStanzaId": "Reaxys",
+        "oclcIncludeFile": "databases/reaxys.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Reaxys",
+        "lastUpdated": "2022-06-02"
+    },
     "Rechtsorde": {
         "name": "Rechtsorde",
         "stanza": "OCLC/Rechtsorde.txt",
