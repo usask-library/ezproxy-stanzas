@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-04-27"
+        "lastUpdated": "2023-10-23"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -1357,7 +1357,7 @@
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ",
-        "lastUpdated": "2022-12-20"
+        "lastUpdated": "2023-10-20"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
