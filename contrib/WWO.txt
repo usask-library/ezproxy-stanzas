@@ -1,11 +1,23 @@
 #
 # Name: Women Writers Online
-# URL: http://www.wwp.northeastern.edu/wwo/help/lib_help.html
 #
-Title Women Writers Project
-U https://www.wwp.northeastern.edu/wwo/
-H wwp.northeastern.edu.edu
-H www.wwp.northeastern.edu
-H wwo.wwp.northeastern.edu
-H textbase.wwp.northeastern.edu
-H wwp.neu.edu
+# The following stanza was taken from the Women Writers Project website
+# https://wwp.northeastern.edu/wwo/help/lib_help.html
+#
+Neverproxy fonts.googleapis.com
+Neverproxy lab.wwp.northeastern.edu/wwvt
+T Women Writers Online (WWO)
+HTTPHeader -request -process Accept-Encoding
+U https://wwp.northeastern.edu/wwo
+HJ wwp.northeastern.edu
+HJ https://wwp.northeastern.edu
+HJ wwo.wwp.northeastern.edu
+HJ www.wwp.northeastern.edu
+HJ https://wwo.wwp.northeastern.edu
+HJ https://www.wwp.northeastern.edu
+HJ lab.wwp.northeastern.edu
+HJ wwp.neu.edu
+DJ wwp.northeastern.edu
+# Find lab.wwp.northeastern.edu/wwvt/
+# Replace lab.wwp.northeastern.edu/wwvt/?proxy=https://link.ezproxy.neu.edu/login?url%3D^p
+HJ lab.wwp.northeastern.edu
