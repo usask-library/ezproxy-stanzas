@@ -8919,7 +8919,8 @@
     "WWO": {
         "name": "Women Writers Online",
         "stanza": "contrib/WWO.txt",
-        "url": "http://www.wwp.northeastern.edu/wwo/help/lib_help.html"
+        "url": "http://www.wwp.northeastern.edu/wwo/help/lib_help.html",
+        "lastUpdated": "2023-10-26"
     },
     "Zephyr": {
         "name": "Zephyr",
