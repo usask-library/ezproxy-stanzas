@@ -8142,14 +8142,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital",
         "lastUpdated": "2023-10-25"
     },
-    "The_Japan_Times_Digital": {
-        "name": "The Japan Times Digital",
-        "stanza": "OCLC/The_Japan_Times_Digital.txt",
-        "oclcStanzaId": "The_Japan_Times_Digital",
-        "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Digital",
-        "lastUpdated": "2023-07-06"
-    },
     "The_Japan_Times_Digital_Archives": {
         "name": "The Japan Times Digital Archives",
         "stanza": "OCLC/The_Japan_Times_Digital_Archives.txt",
