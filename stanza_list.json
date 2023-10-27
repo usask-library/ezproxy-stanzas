@@ -1660,6 +1660,14 @@
         "oclcIncludeFile": "databases/cabells.txt",
         "lastUpdated": "2022-12-14"
     },
+    "Cabells_Directories": {
+        "name": "Cabells Directories",
+        "stanza": "OCLC/Cabells_Directories.txt",
+        "oclcStanzaId": "Cabells_Directories",
+        "oclcIncludeFile": "databases/cabells.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
+        "lastUpdated": "2023-10-25"
+    },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
         "stanza": "OCLC/Cabinet_Magazine.txt",
@@ -8133,6 +8141,14 @@
         "oclcIncludeFile": "databases/thechinaproject.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_China_Project",
         "lastUpdated": "2022-09-12"
+    },
+    "The_Japan_Times_Alpha_Digital": {
+        "name": "The Japan Times Alpha Digital",
+        "stanza": "OCLC/The_Japan_Times_Alpha_Digital.txt",
+        "oclcStanzaId": "The_Japan_Times_Alpha_Digital",
+        "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital",
+        "lastUpdated": "2023-10-25"
     },
     "The_Japan_Times_Digital": {
         "name": "The Japan Times Digital",
