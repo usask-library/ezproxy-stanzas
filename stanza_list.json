@@ -1653,19 +1653,11 @@
         "lastUpdated": "2021-05-11"
     },
     "Cabells": {
-        "name": "Cabell's",
-        "stanza": "OCLC/Cabells.txt",
-        "oclcStanzaId": "Cabell's",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabell's",
-        "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2022-12-14"
-    },
-    "Cabells_Directories": {
         "name": "Cabells Directories",
         "stanza": "OCLC/Cabells_Directories.txt",
         "oclcStanzaId": "Cabells_Directories",
-        "oclcIncludeFile": "databases/cabells.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
+        "oclcIncludeFile": "databases/cabells.txt",
         "lastUpdated": "2023-10-25"
     },
     "Cabinet_Magazine": {
