@@ -1357,7 +1357,7 @@
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ",
-        "lastUpdated": "2023-10-20"
+        "lastUpdated": "2023-10-31"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
@@ -1658,7 +1658,7 @@
         "oclcStanzaId": "Cabells_Directories",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
         "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2023-10-25"
+        "lastUpdated": "2023-10-31"
     },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
@@ -3236,7 +3236,7 @@
         "oclcStanzaId": "Equinox_Publishing_Ltd.",
         "oclcIncludeFile": "databases/equinox.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Equinox_Publishing_Ltd.",
-        "lastUpdated": "2021-06-29"
+        "lastUpdated": "2023-10-31"
     },
     "ERCYCP": {
         "name": "ERCYCP",
@@ -3819,6 +3819,14 @@
         "oclcIncludeFile": "databases/healio.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Healio",
         "lastUpdated": "2022-03-23"
+    },
+    "Health_Affairs": {
+        "name": "Health Affairs",
+        "stanza": "OCLC/Health_Affairs.txt",
+        "oclcStanzaId": "Health_Affairs",
+        "oclcIncludeFile": "databases/healthaffairs.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Health_Affairs",
+        "lastUpdated": "2023-10-31"
     },
     "Health_Poll_Database": {
         "name": "Health Poll Database",
@@ -4940,7 +4948,7 @@
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis",
-        "lastUpdated": "2022-12-06"
+        "lastUpdated": "2023-10-31"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
@@ -6577,7 +6585,7 @@
         "oclcStanzaId": "Pharmaceutical_Press",
         "oclcIncludeFile": "databases/pharmaceuticalpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pharmaceutical_Press",
-        "lastUpdated": "2021-09-24"
+        "lastUpdated": "2023-10-31"
     },
     "Pharmacy_Library": {
         "name": "Pharmacy Library",
@@ -8142,6 +8150,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital",
         "lastUpdated": "2023-10-25"
     },
+    "The_Japan_Times_Alpha_Digital_Viewer": {
+        "name": "The Japan Times Alpha Digital Viewer",
+        "stanza": "OCLC/The_Japan_Times_Alpha_Digital_Viewer.txt",
+        "oclcStanzaId": "The_Japan_Times_Alpha_Digital_Viewer",
+        "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital_Viewer",
+        "lastUpdated": "2023-10-25"
+    },
     "The_Japan_Times_Digital": {
         "name": "The Japan Times Digital",
         "stanza": "OCLC/The_Japan_Times_Digital.txt",
@@ -8181,7 +8197,7 @@
             "databases/thieme.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2023-10-04"
+        "lastUpdated": "2023-10-31"
     },
     "Thieme_MedOne": {
         "name": "Thieme MedOne",
