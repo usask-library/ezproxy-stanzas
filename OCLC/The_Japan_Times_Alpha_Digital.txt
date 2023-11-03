@@ -1,5 +1,0 @@
-T The Japan Times Alpha Digital Viewer (20231025)
-U https://jtpublishing.co.jp
-HJ https://jtpublishing.co.jp
-HJ http://jtpublishing.co.jp
-DJ jtpublishing.co.jp

@@ -8142,14 +8142,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_China_Project",
         "lastUpdated": "2022-09-12"
     },
-    "The_Japan_Times_Alpha_Digital": {
-        "name": "The Japan Times Alpha Digital",
-        "stanza": "OCLC/The_Japan_Times_Alpha_Digital.txt",
-        "oclcStanzaId": "The_Japan_Times_Alpha_Digital",
-        "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital",
-        "lastUpdated": "2023-10-25"
-    },
     "The_Japan_Times_Alpha_Digital_Viewer": {
         "name": "The Japan Times Alpha Digital Viewer",
         "stanza": "OCLC/The_Japan_Times_Alpha_Digital_Viewer.txt",
