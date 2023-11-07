@@ -3499,8 +3499,8 @@
         "stanza": "OCLC/Fold3.txt",
         "oclcStanzaId": "Fold3",
         "oclcIncludeFile": "databases/fold3.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Direct",
-        "lastUpdated": "2023-08-14"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
+        "lastUpdated": "2023-11-02"
     },
     "Fold3_Direct": {
         "name": "Fold3 Direct (Proquest)",
