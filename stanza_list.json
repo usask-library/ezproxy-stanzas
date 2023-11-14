@@ -3495,7 +3495,7 @@
         "lastUpdated": "2021-11-18"
     },
     "Fold3": {
-        "name": "Fold3 Direct",
+        "name": "Fold3",
         "stanza": "OCLC/Fold3.txt",
         "oclcStanzaId": "Fold3",
         "oclcIncludeFile": "databases/fold3.txt",
@@ -3503,11 +3503,11 @@
         "lastUpdated": "2023-11-02"
     },
     "Fold3_Direct": {
-        "name": "Fold3 Direct (Proquest)",
+        "name": "Fold3 (Proquest)",
         "stanza": "OCLC/Fold3_Direct.txt",
-        "oclcStanzaId": "Fold3_Direct",
+        "oclcStanzaId": "Fold3",
         "oclcIncludeFile": "databases/fold3.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Direct",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
         "rules": [
             {
                 "rule": "Replace",
@@ -3516,7 +3516,7 @@
                 "enabled": true
             }
         ],
-        "lastUpdated": "2023-08-14"
+        "lastUpdated": "2023-11-02"
     },
     "Foreign_Policy": {
         "name": "Foreign Policy",

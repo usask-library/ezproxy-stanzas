@@ -1,4 +1,4 @@
-Title Fold3 Proquest (updated 20230814)
+Title Fold3 Proquest (updated 20231102)
 MimeFilter application/json .* javascript
 URL https://[siteID].proquest.com
 HJ [siteID].proquest.com
