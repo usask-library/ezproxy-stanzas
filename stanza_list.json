@@ -7379,7 +7379,7 @@
         "oclcStanzaId": "Sabinet_Discover",
         "oclcIncludeFile": "databases/sabinetref.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sabinet_Discover",
-        "lastUpdated": "2022-11-28"
+        "lastUpdated": "2023-11-10"
     },
     "SAE_International": {
         "name": "SAE International",
@@ -8604,7 +8604,7 @@
         "oclcStanzaId": "Vitallaw_Premium",
         "oclcIncludeFile": "databases/cheetah.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Vitallaw_Premium",
-        "lastUpdated": "2023-06-12"
+        "lastUpdated": "2023-11-10"
     },
     "VitalSource_Resolver": {
         "name": "VitalSource Resolver",
