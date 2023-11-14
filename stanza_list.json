@@ -7398,11 +7398,10 @@
         "lastUpdated": "2022-12-08"
     },
     "Safari_Books_Online": {
-        "name": "Safari Books Online",
+        "name": "O'Reilly Learning (formerly Safari Books Online)",
         "stanza": "OCLC/Safari_Books_Online.txt",
-        "oclcStanzaId": "Safari_Books_Online",
-        "oclcIncludeFile": "databases/safaribooks.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Safari_Books_Online",
+        "oclcStanzaId": "OReilly_Learning_(formerly_Safari_Books_Online)",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OReilly_Learning_(formerly_Safari_Books_Online)",
         "lastUpdated": "2020-05-26"
     },
     "Sagamore_Publishing": {

@@ -1,21 +1,6 @@
-Option AllowSendGZip
-Option CookiePassThrough
-Title Safari Books (updated 20200526)
-URL https://proquest.safaribooksonline.com
-HJ https://proquestpubliclibrary.safaribooksonline.com/
-HJ https://proquest.safaribooksonline.com
-HJ https://proquestcombo.safaribooksonline.com
-HJ https://www.safaribooksonline.com
-HJ https://academic.safaribooksonline.com
-HJ academic.safaribooksonline.com
-HJ proquestcombo.safaribooksonline.com
-HJ www.safaribooksonline.com
-HJ m.proquest.safaribooksonline.com
-DJ safaribooksonline.com
-Find targetpage=https://
-Replace targetpage=https://^A
-Find document.location.replace(redirectPage);
-Replace redirectPage = redirectPage.replace(/^^http:\/\/proquest.safaribooksonline.com/, "http://^pproquest.safaribooksonline.com^/").replace(/^^https:\/\/ssl.safaribooksonline.com/, "https://^sssl.safaribooksonline.com^/"); document.location.replace(redirectPage);
-Find window.location.replace('http://m' + subDomain + '.safaribooksonline.com
-Replace window.location.replace('http://m' + subDomain + '.^psafaribooksonline.com^
-Option Cookie
+# Safari Books Online Classic Platform has been discontinued and replaced with
+# O'Reilly Learning / O'Reilly for Public Libraries. For information on EZproxy
+# access for the new OPL platform, please contact O'Reilly Customer Care. (customercare@oreilly.com)
+#
+# For more information please visit ProQuest's support page.
+# https://support.proquest.com/s/article/EZproxy-Configuration-for-Safari-Books-Online?language=en_US
