@@ -1,4 +1,4 @@
-nonymousURL +https://api.taylorfrancis.com/*
+AnonymousURL +https://api.taylorfrancis.com/*
 AnonymousURL +https://events.taylorandfrancis.com/*
 Title World Who's Who (updated 20220512)
 URL https://www.worldwhoswho.com
