@@ -5497,14 +5497,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Metropolitan_Opera_on_Demand",
         "lastUpdated": "2023-11-07"
     },
-    "Metropolitan_Opera_on_Demand": {
-        "name": "Metropolitan Opera on Demand",
-        "stanza": "OCLC/Metropolitan_Opera_on_Demand.txt",
-        "oclcStanzaId": "Metropolitan_Opera_on_Demand",
-        "oclcIncludeFile": "databases/metopera.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Metropolitan_Opera_on_Demand",
-        "lastUpdated": "2019-05-02"
-    },
     "MGG_Online": {
         "name": "MGG Online",
         "stanza": "OCLC/MGG_Online.txt",
