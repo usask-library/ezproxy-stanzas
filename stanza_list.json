@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-10-23"
+        "lastUpdated": "2023-11-10"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -525,6 +525,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Institute_of_Aeronautics_and_Astronautics_(AIAA)",
         "oclcIncludeFile": "databases/aiaa.txt",
         "lastUpdated": "2016-07-04"
+    },
+    "American_Journal_of_Roentgenology_AJR": {
+        "name": "American Journal of Roentgenology AJR",
+        "stanza": "OCLC/American_Journal_of_Roentgenology_AJR.txt",
+        "oclcStanzaId": "American_Journal_of_Roentgenology_AJR",
+        "oclcIncludeFile": "databases/ajronline.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Journal_of_Roentgenology_AJR",
+        "lastUpdated": "2023-11-21"
     },
     "American_Journal_of_Science": {
         "name": "American Journal of Science",
@@ -1187,7 +1195,7 @@
         "oclcStanzaId": "Baobab_Ebooks",
         "oclcIncludeFile": "databases/baobabebooks.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Baobab_Ebooks",
-        "lastUpdated": "2019-08-15"
+        "lastUpdated": "2023-11-14"
     },
     "Bates_Visual_Guide_to_Physical_Examination": {
         "name": "Bates' Visual Guide to Physical Examination",
@@ -2407,7 +2415,7 @@
         "oclcStanzaId": "Crossref",
         "oclcIncludeFile": "databases/crossref.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Crossref",
-        "lastUpdated": "2021-10-26"
+        "lastUpdated": "2023-11-22"
     },
     "CROW_Kennisbank": {
         "name": "CROW Kennisbank",
@@ -2753,6 +2761,13 @@
         "oclcStanzaId": "DOI_System",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DOI_System",
         "lastUpdated": "2016-05-09"
+    },
+    "Dove_Medical_Press": {
+        "name": "Dove Medical Press",
+        "stanza": "OCLC/Dove_Medical_Press.txt",
+        "oclcStanzaId": "Dove_Medical_Press",
+        "oclcIncludeFile": "databases/dovepress.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dove_Medical_Press"
     },
     "Draw_It_To_Know_It": {
         "name": "Draw It To Know It",
@@ -3140,7 +3155,7 @@
         "oclcStanzaId": "El_Croquis_Digital_Library",
         "oclcIncludeFile": "databases/el_croquis_digital_library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/El_Croquis_Digital_Library",
-        "lastUpdated": "2020-11-07"
+        "lastUpdated": "2020-12-04"
     },
     "EMarketer_Pro": {
         "name": "EMarketer Pro",
@@ -3984,7 +3999,7 @@
         "oclcStanzaId": "IBISWorld",
         "oclcIncludeFile": "databases/ibisworld.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IBISWorld",
-        "lastUpdated": "2019-11-27"
+        "lastUpdated": "2023-11-29"
     },
     "Ibuk": {
         "name": "Ibuk",
@@ -4217,7 +4232,7 @@
         "oclcStanzaId": "Informa_Healthcare",
         "oclcIncludeFile": "databases/informahealthcare.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Informa_Healthcare",
-        "lastUpdated": "2015-03-30"
+        "lastUpdated": "2023-11-15"
     },
     "Informed_Librarian_Online": {
         "name": "Informed Librarian Online",
@@ -4723,7 +4738,7 @@
         "oclcStanzaId": "Karger",
         "oclcIncludeFile": "databases/karger.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Karger",
-        "lastUpdated": "2017-11-08"
+        "lastUpdated": "2023-11-29"
     },
     "Keesings_Historisch_Archief": {
         "name": "Keesings Historisch Archief",
@@ -5643,7 +5658,7 @@
         "oclcStanzaId": "Morningstar",
         "oclcIncludeFile": "databases/morningstar.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Morningstar",
-        "lastUpdated": "2023-10-17"
+        "lastUpdated": "2023-12-05"
     },
     "Motologic": {
         "name": "Motologic",
@@ -6741,7 +6756,7 @@
         "oclcStanzaId": "Politique_%C3%A9trang%C3%A8re",
         "oclcIncludeFile": "databases/peg.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Politique_%C3%A9trang%C3%A8re",
-        "lastUpdated": "2020-02-25"
+        "lastUpdated": "2023-11-29"
     },
     "Portico": {
         "name": "Portico",
@@ -8516,7 +8531,7 @@
         "oclcStanzaId": "Van_Dale_Online",
         "oclcIncludeFile": "databases/vandale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Van_Dale_Online",
-        "lastUpdated": "2023-09-29"
+        "lastUpdated": "2023-11-29"
     },
     "Variety": {
         "name": "Variety",
