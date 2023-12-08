@@ -2767,7 +2767,8 @@
         "stanza": "OCLC/Dove_Medical_Press.txt",
         "oclcStanzaId": "Dove_Medical_Press",
         "oclcIncludeFile": "databases/dovepress.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dove_Medical_Press"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dove_Medical_Press",
+        "lastUpdated": "2023-12-08"
     },
     "Draw_It_To_Know_It": {
         "name": "Draw It To Know It",
