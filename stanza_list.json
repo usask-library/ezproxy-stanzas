@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-11-10"
+        "lastUpdated": "2023-12-06"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -3533,6 +3533,14 @@
         ],
         "lastUpdated": "2023-11-02"
     },
+    "Fold3_Proquest": {
+        "name": "Fold3 Proquest",
+        "stanza": "OCLC/Fold3_Proquest.txt",
+        "oclcStanzaId": "Fold3_Proquest",
+        "oclcIncludeFile": "databases/fold3_proquest.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3_Proquest",
+        "lastUpdated": "2023-12-01"
+    },
     "Foreign_Policy": {
         "name": "Foreign Policy",
         "stanza": "OCLC/Foreign_Policy.txt",
@@ -6672,6 +6680,14 @@
         "oclcIncludeFile": "databases/picmonic.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Picmonic",
         "lastUpdated": "2021-05-11"
+    },
+    "Pidgeon_Digital": {
+        "name": "Pidgeon Digital",
+        "stanza": "OCLC/Pidgeon_Digital.txt",
+        "oclcStanzaId": "Pidgeon_Digital",
+        "oclcIncludeFile": "databases/pidgeondigital_1701963191.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pidgeon_Digital",
+        "lastUpdated": "2023-12-06"
     },
     "Plant_Management_Network": {
         "name": "Plant Management Network",
