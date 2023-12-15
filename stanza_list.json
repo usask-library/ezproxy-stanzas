@@ -1015,7 +1015,7 @@
         "oclcStanzaId": "AST_Publications",
         "oclcIncludeFile": "databases/ast.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AST_Publications",
-        "lastUpdated": "2020-08-12"
+        "lastUpdated": "2020-12-11"
     },
     "Atlantic_Monthly": {
         "name": "Atlantic Monthly, The",
@@ -1548,7 +1548,7 @@
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrillOnline",
-        "lastUpdated": "2023-04-04"
+        "lastUpdated": "2023-12-12"
     },
     "Bristol_University_Press_Digital": {
         "name": "Bristol University Press Digital",
@@ -3617,7 +3617,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2023-08-10"
+        "lastUpdated": "2023-12-12"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -4818,6 +4818,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kluwer_Law",
         "lastUpdated": "2020-04-21"
     },
+    "Kluwer_Law_Digital_Book_Platform": {
+        "name": "Kluwer Law Digital Book Platform",
+        "stanza": "OCLC/Kluwer_Law_Digital_Book_Platform.txt",
+        "oclcStanzaId": "Kluwer_Law_Digital_Book_Platform",
+        "oclcIncludeFile": "databases/kluwer_law_digital_book_platform_1702319115.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kluwer_Law_Digital_Book_Platform",
+        "lastUpdated": "2023-12-12"
+    },
     "Kluwer_Navigator": {
         "name": "Kluwer Navigator",
         "stanza": "OCLC/Kluwer_Navigator.txt",
@@ -5879,7 +5887,7 @@
         "oclcStanzaId": "NEJM_Group",
         "oclcIncludeFile": "databases/nejm_group.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group",
-        "lastUpdated": "2022-06-28"
+        "lastUpdated": "2022-12-11"
     },
     "NEJM_Journal_Watch": {
         "name": "NEJM Journal Watch",
@@ -8060,6 +8068,14 @@
         "oclcIncludeFile": "databases/symptommedia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Symptom_Media",
         "lastUpdated": "2022-02-16"
+    },
+    "S_and_P_Global": {
+        "name": "S&P Global",
+        "stanza": "OCLC/S_and_P_Global.txt",
+        "oclcStanzaId": "S_and_P_Global",
+        "oclcIncludeFile": "databases/s_and_p_global.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S_and_P_Global",
+        "lastUpdated": "2023-12-13"
     },
     "Taxnet_Pro": {
         "name": "Taxnet Pro",
