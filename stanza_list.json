@@ -7947,7 +7947,6 @@
         "name": "S&P Capital IQ Pro (formerly Market Intelligence Platform)",
         "stanza": "OCLC/SP_Capital_IQ_Pro.txt",
         "oclcStanzaId": "S%26P_Capital_IQ_Pro_(formerly_Market_Intelligence_Platform)",
-        "oclcIncludeFile": "databases/snl.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Capital_IQ_Pro_(formerly_Market_Intelligence_Platform)",
         "lastUpdated": "2021-11-04"
     },
@@ -7955,23 +7954,13 @@
         "name": "S&P Global Capital IQ",
         "stanza": "OCLC/SP_Global_Capital_IQ.txt",
         "oclcStanzaId": "S%26P_Global_Capital_IQ",
-        "oclcIncludeFile": "databases/sandpcapitaliq.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Global_Capital_IQ",
         "lastUpdated": "2021-09-23"
     },
     "SP_Global_NetAdvantage": {
         "name": "S&P Global NetAdvantage",
         "stanza": "OCLC/SP_Global_NetAdvantage.txt",
-        "rules": [
-            {
-                "rule": "Replace",
-                "term": "[SITEID]",
-                "placeholder": "The Site ID provided by the vendor",
-                "enabled": true
-            }
-        ],
         "oclcStanzaId": "S%26P_Global_NetAdvantage",
-        "oclcIncludeFile": "databases/sandpnetadvantage.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Global_NetAdvantage",
         "lastUpdated": "2022-07-20"
     },

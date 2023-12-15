@@ -1,16 +1,1 @@
-AnonymousURL -Options +https://qt-iag-ciqplus.capitaliq.com/*
-AnonymousURL -Options +https://charting.capitaliq.com/*
-AnonymousURL -Options +https://iag-ciqplus.capitaliq.com/*
-Option CookiePassThrough
-TITLE S&P Global Capital IQ (updated 20210923)
-URL https://www.capitaliq.com
-HJ https://www.capitaliq.com
-HJ http://www.capitaliq.com
-HJ https://capitaliq.com
-HJ http://capitaliq.com
-DJ capitaliq.com
-DJ sso.mhfi.com
-DJ sso.spglobal.com
-DJ login.spglobal.com
-Option Cookie
-AnonymousURL -*
+# This stanza is deprecated. Please use S&P Global.
