@@ -1,4 +1,4 @@
-Title Fold3 (updated 20231102)
+Title Fold3
 MimeFilter application/json .* javascript
 URL https://www.fold3.com
 HJ go.fold3.com

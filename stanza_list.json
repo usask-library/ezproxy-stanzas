@@ -3518,22 +3518,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
         "lastUpdated": "2023-11-02"
     },
-    "Fold3_Direct": {
-        "name": "Fold3 (Proquest)",
-        "stanza": "OCLC/Fold3_Direct.txt",
-        "oclcStanzaId": "Fold3",
-        "oclcIncludeFile": "databases/fold3.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fold3",
-        "rules": [
-            {
-                "rule": "Replace",
-                "term": "[siteID]",
-                "placeholder": "Your institutions Site ID as provided by the vendor",
-                "enabled": true
-            }
-        ],
-        "lastUpdated": "2023-11-02"
-    },
     "Fold3_Proquest": {
         "name": "Fold3 Proquest",
         "stanza": "OCLC/Fold3_Proquest.txt",
