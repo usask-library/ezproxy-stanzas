@@ -2767,7 +2767,8 @@
         "stanza": "OCLC/Dove_Medical_Press.txt",
         "oclcStanzaId": "Dove_Medical_Press",
         "oclcIncludeFile": "databases/dovepress.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dove_Medical_Press"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dove_Medical_Press",
+        "lastUpdated": "2023-12-08"
     },
     "Draw_It_To_Know_It": {
         "name": "Draw It To Know It",
@@ -6827,7 +6828,21 @@
         "oclcStanzaId": "Preqin",
         "oclcIncludeFile": "databases/preqin.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Preqin",
-        "lastUpdated": "2022-07-18"
+        "rules": [
+            {
+                "rule": "Replace",
+                "term": "[USERID]",
+                "placeholder": "Your Preqin USERID",
+                "enabled": true
+            },
+            {
+                "rule": "Replace",
+                "term": "[PASSWORD]",
+                "placeholder": "Your Preqin PASSWORD",
+                "enabled": true
+            }
+        ],
+        "lastUpdated": "2023-11-13"
     },
     "PressDisplay": {
         "name": "PressDisplay",
