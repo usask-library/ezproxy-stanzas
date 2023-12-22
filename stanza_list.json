@@ -5037,6 +5037,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lingo_Lite",
         "lastUpdated": "2018-07-11"
     },
+    "Lippincott": {
+        "name": "Lippincott",
+        "stanza": "OCLC/Lippincott.txt",
+        "oclcStanzaId": "Lippincott",
+        "oclcIncludeFile": "databases/lippincott_procedures.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott",
+        "lastUpdated": "2023-12-17"
+    },
     "Lippincott_Advisor": {
         "name": "Lippincott Advisor",
         "stanza": "OCLC/Lippincott_Advisor.txt",
@@ -8033,6 +8041,14 @@
         "oclcIncludeFile": "databases/stjerome.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/St_Jerome_Publishing",
         "lastUpdated": "2015-05-14"
+    },
+    "SuperStar_Book_World": {
+        "name": "SuperStar Book World",
+        "stanza": "OCLC/SuperStar_Book_World.txt",
+        "oclcStanzaId": "SuperStar_Book_World",
+        "oclcIncludeFile": "databases/superstar_book_world_1702938919826.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SuperStar_Book_World",
+        "lastUpdated": "2023-12-17"
     },
     "SVAR": {
         "name": "SVAR",
