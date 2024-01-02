@@ -3814,9 +3814,7 @@
     },
     "HathiTrust_Digital_Library": {
         "name": "HathiTrust Digital Library",
-        "stanza": "OCLC/HathiTrust_Digital_Library.txt",
-        "oclcStanzaId": "HathiTrust_Digital_Library",
-        "oclcIncludeFile": "databases/hathitrust.txt",
+        "stanza": "contrib/HathiTrust_Digital_Library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HathiTrust_Digital_Library",
         "lastUpdated": "2023-07-17"
     },
