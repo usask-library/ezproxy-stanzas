@@ -3374,7 +3374,7 @@
         "oclcStanzaId": "Factiva",
         "oclcIncludeFile": "databases/factiva.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Factiva",
-        "lastUpdated": "2023-07-25"
+        "lastUpdated": "2023-12-18"
     },
     "FactoMediaBase": {
         "name": "FactoMediaBase",
