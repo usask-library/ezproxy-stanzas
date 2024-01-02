@@ -5920,15 +5920,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Newspaper_Archive",
         "lastUpdated": "2017-03-01"
     },
-    "New_England_Journal_of_Medicine": {
-        "name": "New England Journal of Medicine",
-        "stanza": "OCLC/New_England_Journal_of_Medicine.txt",
-        "oclcStanzaId": "New_England_Journal_of_Medicine",
-        "oclcIncludeFile": "databases/new_england_journal_medicine.txt",
-        "note": "Remove the stanza on this page and replace it with NEJM Group.",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_England_Journal_of_Medicine",
-        "lastUpdated": "2021-06-03"
-    },
     "New_Generation_Research": {
         "name": "New Generation Research",
         "stanza": "OCLC/New_Generation_Research.txt",
