@@ -7924,13 +7924,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Publishing_Company_Connect",
         "lastUpdated": "2022-06-28"
     },
-    "SP_Global_NetAdvantage": {
-        "name": "S&P Global NetAdvantage",
-        "stanza": "OCLC/SP_Global_NetAdvantage.txt",
-        "oclcStanzaId": "S%26P_Global_NetAdvantage",
-        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Global_NetAdvantage",
-        "lastUpdated": "2022-07-20"
-    },
     "SRDS": {
         "name": "SRDS",
         "stanza": "OCLC/SRDS.txt",
