@@ -5043,14 +5043,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott",
         "lastUpdated": "2023-12-17"
     },
-    "Lippincott_Procedures": {
-        "name": "Lippincott Procedures",
-        "stanza": "OCLC/Lippincott_Procedures.txt",
-        "oclcStanzaId": "Lippincott_Procedures",
-        "oclcIncludeFile": "databases/lippincott_procedures.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott_Procedures",
-        "lastUpdated": "2021-04-06"
-    },
     "Lippincott_TelemedInsights": {
         "name": "Lippincott TelemedInsights",
         "stanza": "OCLC/Lippincott_TelemedInsights.txt",
