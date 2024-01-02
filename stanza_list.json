@@ -7924,13 +7924,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Publishing_Company_Connect",
         "lastUpdated": "2022-06-28"
     },
-    "SP_Capital_IQ_Pro": {
-        "name": "S&P Capital IQ Pro (formerly Market Intelligence Platform)",
-        "stanza": "OCLC/SP_Capital_IQ_Pro.txt",
-        "oclcStanzaId": "S%26P_Capital_IQ_Pro_(formerly_Market_Intelligence_Platform)",
-        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Capital_IQ_Pro_(formerly_Market_Intelligence_Platform)",
-        "lastUpdated": "2021-11-04"
-    },
     "SP_Global_Capital_IQ": {
         "name": "S&P Global Capital IQ",
         "stanza": "OCLC/SP_Global_Capital_IQ.txt",
