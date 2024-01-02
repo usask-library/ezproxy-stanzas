@@ -7924,13 +7924,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Publishing_Company_Connect",
         "lastUpdated": "2022-06-28"
     },
-    "SP_Global_Capital_IQ": {
-        "name": "S&P Global Capital IQ",
-        "stanza": "OCLC/SP_Global_Capital_IQ.txt",
-        "oclcStanzaId": "S%26P_Global_Capital_IQ",
-        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S%26P_Global_Capital_IQ",
-        "lastUpdated": "2021-09-23"
-    },
     "SP_Global_NetAdvantage": {
         "name": "S&P Global NetAdvantage",
         "stanza": "OCLC/SP_Global_NetAdvantage.txt",
