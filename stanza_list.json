@@ -5043,14 +5043,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott",
         "lastUpdated": "2023-12-17"
     },
-    "Lippincott_Advisor": {
-        "name": "Lippincott Advisor",
-        "stanza": "OCLC/Lippincott_Advisor.txt",
-        "oclcStanzaId": "Lippincott_Advisor",
-        "oclcIncludeFile": "databases/lippincott_advisor.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott_Advisor",
-        "lastUpdated": "2021-04-06"
-    },
     "Lippincott_Procedures": {
         "name": "Lippincott Procedures",
         "stanza": "OCLC/Lippincott_Procedures.txt",
