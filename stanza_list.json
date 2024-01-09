@@ -5043,6 +5043,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott",
         "lastUpdated": "2023-12-17"
     },
+    "Lippincott_Nursing_Solutions": {
+        "name": "Lippincott Nursing Solutions",
+        "stanza": "OCLC/Lippincott_Nursing_Solutions.txt",
+        "oclcStanzaId": "Lippincott_Nursing_Solutions",
+        "oclcIncludeFile": "databases/lippincott_procedures.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott_Nursing_Solutions",
+        "lastUpdated": "2023-12-17"
+    },
     "Lippincott_TelemedInsights": {
         "name": "Lippincott TelemedInsights",
         "stanza": "OCLC/Lippincott_TelemedInsights.txt",
@@ -5562,7 +5570,7 @@
         "oclcStanzaId": "Mindscape_Commons",
         "oclcIncludeFile": "databases/mindscape_commons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mindscape_Commons",
-        "lastUpdated": "2021-10-21"
+        "lastUpdated": "2024-01-03"
     },
     "Mintel": {
         "name": "Mintel",
@@ -8124,9 +8132,11 @@
         "name": "Thesaurus Linguae Graecae",
         "stanza": "OCLC/Thesaurus_Linguae_Graecae.txt",
         "oclcStanzaId": "Thesaurus_Linguae_Graecae",
-        "oclcIncludeFile": "databases/tlg.txt",
+        "oclcIncludeFile": [
+            "databases/thesauruslinguaegraecae.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thesaurus_Linguae_Graecae",
-        "lastUpdated": "2023-05-05"
+        "lastUpdated": "2024-01-03"
     },
     "The_Age": {
         "name": "The Age (Digital Edition)",
