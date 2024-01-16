@@ -8031,7 +8031,7 @@
         "oclcStanzaId": "Symptom_Media",
         "oclcIncludeFile": "databases/symptommedia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Symptom_Media",
-        "lastUpdated": "2022-02-16"
+        "lastUpdated": "2024-01-11"
     },
     "S_and_P_Global": {
         "name": "S&P Global",
@@ -8467,7 +8467,7 @@
         "oclcStanzaId": "University_of_Wisconsin_Press",
         "oclcIncludeFile": "databases/uwpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Wisconsin_Press",
-        "lastUpdated": "2022-06-17"
+        "lastUpdated": "2024-01-11"
     },
     "University_Press_Scholarship_Online": {
         "name": "University Press Scholarship Online",
