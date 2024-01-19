@@ -71,13 +71,3 @@ HJ slh.lwwhealthlibrary.com
 HJ surgery.lwwhealthlibrary.com
 HJ www.lwwhealthlibrary.com
 DJ lwwhealthlibrary.com
-
-Title Medical Education LWW Health Library (updated 20180304)
-URL http://meded.lwwhealthlibrary.com
-HJ meded.lwwhealthlibrary.com
-DJ lwwhealthlibrary.com
-
-Title Pharmacy LWW Health Library (updated 20180304)
-URL http://pharmacy.lwwhealthlibrary.com
-HJ pharmacy.lwwhealthlibrary.com
-DJ lwwhealthlibrary.com

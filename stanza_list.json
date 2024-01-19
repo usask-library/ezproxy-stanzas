@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2023-12-06"
+        "lastUpdated": "2024-01-16"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -3156,7 +3156,7 @@
         "oclcStanzaId": "El_Croquis_Digital_Library",
         "oclcIncludeFile": "databases/el_croquis_digital_library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/El_Croquis_Digital_Library",
-        "lastUpdated": "2020-12-04"
+        "lastUpdated": "2024-01-16"
     },
     "EMarketer_Pro": {
         "name": "EMarketer Pro",
@@ -4438,7 +4438,7 @@
         "oclcStanzaId": "JAMA",
         "oclcIncludeFile": "databases/jama.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JAMA",
-        "lastUpdated": "2022-06-27"
+        "lastUpdated": "2024-01-15"
     },
     "Janes_Online_Service": {
         "name": "Jane's Online Service",
@@ -8136,7 +8136,7 @@
             "databases/thesauruslinguaegraecae.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thesaurus_Linguae_Graecae",
-        "lastUpdated": "2024-01-03"
+        "lastUpdated": "2024-01-16"
     },
     "The_Age": {
         "name": "The Age (Digital Edition)",
