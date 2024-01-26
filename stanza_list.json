@@ -836,6 +836,14 @@
         "oclcIncludeFile": "databases/arabidopsis.txt",
         "lastUpdated": "2016-01-28"
     },
+    "Archaeopress_Journals": {
+        "name": "Archaeopress Journals",
+        "stanza": "OCLC/Archaeopress_Journals.txt",
+        "oclcStanzaId": "Archaeopress_Journals",
+        "oclcIncludeFile": "databases/archaeopress_journals_1706029912980.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Archaeopress_Journals",
+        "lastUpdated": "2024-01-24"
+    },
     "Architects_Journal": {
         "name": "Architects Journal, The",
         "stanza": "OCLC/Architects_Journal.txt",
@@ -3856,7 +3864,7 @@
         "oclcStanzaId": "Heldermann_Verlag",
         "oclcIncludeFile": "databases/heldermann.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Heldermann_Verlag",
-        "lastUpdated": "2021-01-12"
+        "lastUpdated": "2024-01-23"
     },
     "Henry_Stewart_Talks": {
         "name": "Henry Stewart Talks",
