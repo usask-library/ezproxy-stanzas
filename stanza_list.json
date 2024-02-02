@@ -1948,6 +1948,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect",
         "lastUpdated": "2022-06-23"
     },
+    "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0": {
+        "name": "CCH AnswerConnect and CCH Account Research Manager 3.0",
+        "stanza": "OCLC/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0.txt",
+        "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
+        "oclcIncludeFile": "databases/cch_answerconnect.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
+        "lastUpdated": "2024-02-01"
+    },
     "CCH_IknowConnect": {
         "name": "CCH IknowConnect",
         "stanza": "OCLC/CCH_IknowConnect.txt",
@@ -2364,6 +2372,14 @@
         "oclcIncludeFile": "databases/cpacanada.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPA_Canada",
         "lastUpdated": "2018-10-05"
+    },
+    "CPS_(formerly_RxTx_(CPhA))": {
+        "name": "CPS (formerly RxTx (CPhA))",
+        "stanza": "OCLC/CPS_(formerly_RxTx_(CPhA)).txt",
+        "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
+        "oclcIncludeFile": "databases/myrxtx.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
+        "lastUpdated": "2024-01-30"
     },
     "CQ_Researcher": {
         "name": "CQ Researcher",
@@ -2784,6 +2800,14 @@
         "oclcStanzaId": "Draw_It_To_Know_It",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Draw_It_To_Know_It",
         "lastUpdated": "2015-09-25"
+    },
+    "DrugBasePlus": {
+        "name": "DrugBasePlus",
+        "stanza": "OCLC/DrugBasePlus.txt",
+        "oclcStanzaId": "DrugBasePlus",
+        "oclcIncludeFile": "databases/drugbaseplus_1706016903620.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DrugBasePlus",
+        "lastUpdated": "2024-01-30"
     },
     "Duke_Journals": {
         "name": "Duke Journals",
@@ -3610,7 +3634,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2023-12-12"
+        "lastUpdated": "2024-01-31"
     },
     "Geofacets": {
         "name": "Geofacets",
