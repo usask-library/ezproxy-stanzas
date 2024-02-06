@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-01-16"
+        "lastUpdated": "2024-02-05"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -413,6 +413,14 @@
         "oclcIncludeFile": "databases/amamanualofstyle.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AMA_Manual_of_Style",
         "lastUpdated": "2019-04-10"
+    },
+    "AMBOSS": {
+        "name": "AMBOSS",
+        "stanza": "OCLC/AMBOSS.txt",
+        "oclcStanzaId": "AMBOSS",
+        "oclcIncludeFile": "databases/amboss.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AMBOSS",
+        "lastUpdated": "2024-02-05"
     },
     "Ambrose_Digital_Video": {
         "name": "Ambrose Digital Video",
