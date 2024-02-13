@@ -1564,7 +1564,7 @@
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrillOnline",
-        "lastUpdated": "2023-12-12"
+        "lastUpdated": "2024-02-08"
     },
     "Bristol_University_Press_Digital": {
         "name": "Bristol University Press Digital",
@@ -2807,7 +2807,7 @@
         "stanza": "OCLC/Draw_It_To_Know_It.txt",
         "oclcStanzaId": "Draw_It_To_Know_It",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Draw_It_To_Know_It",
-        "lastUpdated": "2015-09-25"
+        "lastUpdated": "2024-02-08"
     },
     "DrugBasePlus": {
         "name": "DrugBasePlus",
@@ -7304,7 +7304,7 @@
         "oclcStanzaId": "Rolling_Stone",
         "oclcIncludeFile": "databases/rollingstone.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rolling_Stone",
-        "lastUpdated": "2023-04-04"
+        "lastUpdated": "2024-02-08"
     },
     "Roper_iPoll": {
         "name": "Roper iPoll",
@@ -8577,7 +8577,7 @@
         "oclcStanzaId": "Variety",
         "oclcIncludeFile": "databases/varietyarchives.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Variety",
-        "lastUpdated": "2023-07-18"
+        "lastUpdated": "2024-02-08"
     },
     "Veritrade": {
         "name": "Veritrade",
@@ -8958,7 +8958,7 @@
         "oclcStanzaId": "WWD_(Women's_Wear_Daily)",
         "oclcIncludeFile": "databases/womenswear.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WWD_(Women's_Wear_Daily)",
-        "lastUpdated": "2022-06-27"
+        "lastUpdated": "2024-02-08"
     },
     "WWO": {
         "name": "Women Writers Online",
