@@ -1948,14 +1948,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_Accounting_Research_Manager",
         "lastUpdated": "2021-01-21"
     },
-    "CCH_AnswerConnect": {
-        "name": "CCH AnswerConnect",
-        "stanza": "OCLC/CCH_AnswerConnect.txt",
-        "oclcStanzaId": "CCH_AnswerConnect",
-        "oclcIncludeFile": "databases/cch_answerconnect.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect",
-        "lastUpdated": "2022-06-23"
-    },
     "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0": {
         "name": "CCH AnswerConnect and CCH Account Research Manager 3.0",
         "stanza": "OCLC/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0.txt",
@@ -2383,7 +2375,7 @@
     },
     "CPS_(formerly_RxTx_(CPhA))": {
         "name": "CPS (formerly RxTx (CPhA))",
-        "stanza": "OCLC/CPS_(formerly_RxTx_(CPhA)).txt",
+        "stanza": "OCLC/CPS_formerly_RxTx_CPhA.txt",
         "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
         "oclcIncludeFile": "databases/myrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
@@ -5075,14 +5067,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lingo_Lite",
         "lastUpdated": "2018-07-11"
     },
-    "Lippincott": {
-        "name": "Lippincott",
-        "stanza": "OCLC/Lippincott.txt",
-        "oclcStanzaId": "Lippincott",
-        "oclcIncludeFile": "databases/lippincott_procedures.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lippincott",
-        "lastUpdated": "2023-12-17"
-    },
     "Lippincott_Nursing_Solutions": {
         "name": "Lippincott Nursing Solutions",
         "stanza": "OCLC/Lippincott_Nursing_Solutions.txt",
@@ -5910,7 +5894,7 @@
         "oclcStanzaId": "NEJM_Group",
         "oclcIncludeFile": "databases/nejm_group.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group",
-        "lastUpdated": "2022-12-11"
+        "lastUpdated": "2023-12-11"
     },
     "NEJM_Journal_Watch": {
         "name": "NEJM Journal Watch",
@@ -6855,7 +6839,7 @@
                 "enabled": true
             }
         ],
-        "lastUpdated": "2023-11-13"
+        "lastUpdated": "2024-01-16"
     },
     "PressDisplay": {
         "name": "PressDisplay",
@@ -7416,14 +7400,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Ruimte___Wonen",
         "lastUpdated": "2020-10-20"
     },
-    "RxTx_CPhA": {
-        "name": "RxTx (CPhA)",
-        "stanza": "OCLC/RxTx_CPhA.txt",
-        "oclcStanzaId": "RxTx_(CPhA)",
-        "oclcIncludeFile": "databases/myrxtx.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RxTx_(CPhA)",
-        "lastUpdated": "2021-05-11"
-    },
     "RxTx_French_CPhA": {
         "name": "RxTx French (CPhA)",
         "stanza": "OCLC/RxTx_French_CPhA.txt",
@@ -7601,7 +7577,7 @@
             "databases/sciwheel.txt",
             "databases/facultyopinions.txt"
         ],
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_(Formerly_F1000)",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_(formerly_F1000)",
         "lastUpdated": "2022-05-18"
     },
     "ScienceXpress": {
