@@ -874,7 +874,7 @@
         "oclcStanzaId": "ArsAequi",
         "oclcIncludeFile": "databases/arsaequi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ArsAequi",
-        "lastUpdated": "2020-05-22"
+        "lastUpdated": "2024-02-18"
     },
     "Artfilms_Digital": {
         "name": "Artfilms-Digital",
@@ -1403,7 +1403,7 @@
         "stanza": "OCLC/BoardVitals.txt",
         "oclcStanzaId": "BoardVitals",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BoardVitals",
-        "lastUpdated": "2015-12-10"
+        "lastUpdated": "2024-02-19"
     },
     "Bone_and_Joint_Journal": {
         "name": "Bone and Joint Journal, The",
@@ -4652,6 +4652,14 @@
         "oclcIncludeFile": "databases/jaaha.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_the_American_Animal_Hospital_Association",
         "lastUpdated": "2022-01-20"
+    },
+    "Journal_of_the_American_Podiatric_Medical_Association_JAPMA": {
+        "name": "Journal of the American Podiatric Medical Association JAPMA",
+        "stanza": "OCLC/Journal_of_the_American_Podiatric_Medical_Association_JAPMA.txt",
+        "oclcStanzaId": "Journal_of_the_American_Podiatric_Medical_Association_JAPMA",
+        "oclcIncludeFile": "databases/Journal_of_the_American_Podiatric_Medical_Associa.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_the_American_Podiatric_Medical_Association_JAPMA",
+        "lastUpdated": "2024-02-20"
     },
     "Journal_of_the_Motherhood_Initiative": {
         "name": "Journal of the Motherhood Initiative",
@@ -7970,6 +7978,14 @@
         "oclcIncludeFile": "databases/stashmedia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Stash_Media",
         "lastUpdated": "2023-01-19"
+    },
+    "STATdx": {
+        "name": "STATdx",
+        "stanza": "OCLC/STATdx.txt",
+        "oclcStanzaId": "STATdx",
+        "oclcIncludeFile": "databases/STATdx.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/STATdx",
+        "lastUpdated": "2024-02-19"
     },
     "Statista": {
         "name": "Statista",
