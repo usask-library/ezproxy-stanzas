@@ -1564,7 +1564,7 @@
         "oclcStanzaId": "BrillOnline",
         "oclcIncludeFile": "databases/brillonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrillOnline",
-        "lastUpdated": "2024-02-08"
+        "lastUpdated": "2024-02-21"
     },
     "Bristol_University_Press_Digital": {
         "name": "Bristol University Press Digital",
@@ -1580,7 +1580,7 @@
         "oclcStanzaId": "Britannica_Academic",
         "oclcIncludeFile": "databases/britannica.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Britannica_Academic",
-        "lastUpdated": "2021-04-28"
+        "lastUpdated": "2024-02-22"
     },
     "Britannica_E-Stax": {
         "name": "Britannica E-Stax",
@@ -1682,7 +1682,7 @@
         "oclcStanzaId": "Cabells_Directories",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
         "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2023-10-31"
+        "lastUpdated": "2024-02-26"
     },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
@@ -3903,6 +3903,14 @@
         "oclcStanzaId": "HeritageQuest_Online",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeritageQuest_Online",
         "lastUpdated": "2017-11-20"
+    },
+    "Heritage_Broadcasting_Service": {
+        "name": "Heritage Broadcasting Service",
+        "stanza": "OCLC/Heritage_Broadcasting_Service.txt",
+        "oclcStanzaId": "Heritage_Broadcasting_Service",
+        "oclcIncludeFile": "databases/heritage_broadcasting_service_1708553191430.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Heritage_Broadcasting_Service",
+        "lastUpdated": "2024-02-21"
     },
     "HighWire_Press": {
         "name": "HighWire Press",
@@ -8903,6 +8911,14 @@
         "oclcIncludeFile": "databases/world_of_learning.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_of_Learning",
         "lastUpdated": "2022-05-12"
+    },
+    "World_Politics_Review": {
+        "name": "World Politics Review",
+        "stanza": "OCLC/World_Politics_Review.txt",
+        "oclcStanzaId": "World_Politics_Review",
+        "oclcIncludeFile": "databases/World_Politics_Review.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Politics_Review",
+        "lastUpdated": "2024-02-26"
     },
     "World_Scientific_Publishing": {
         "name": "World Scientific Publishing",
