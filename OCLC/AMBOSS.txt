@@ -1,9 +1,11 @@
 AnonymousURL +https://nextapide.amboss.com*
 AnonymousURL +https://nextapius.amboss.com*
-Title AMBOSS (updated 20240205)
+AnonymousURL +https://www.amboss.com/*/api/graphql
+Title AMBOSS (updated 20240229)
 URL https://www.amboss.com
 HJ amboss.miamed.de
 HJ next.amboss.com
+HJ https://next.amboss.com
 HJ nextapide.amboss.com
 HJ nextapius.amboss.com
 HJ sentry.miamed.de
