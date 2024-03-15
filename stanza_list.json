@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-02-05"
+        "lastUpdated": "2024-03-11"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -252,7 +252,7 @@
         "oclcStanzaId": "Africa-Confidential",
         "oclcIncludeFile": "databases/africaconfidential.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa-Confidential",
-        "lastUpdated": "2016-01-21"
+        "lastUpdated": "2024-03-12"
     },
     "African_Journals_Online": {
         "name": "African Journals Online",
@@ -461,6 +461,14 @@
         "oclcIncludeFile": "databases/clinicalchemistry.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Association_for_Clinical_Chemistry",
         "lastUpdated": "2019-08-22"
+    },
+    "American_Association_for_the_Advancement_of_Science_(AAAS)": {
+        "name": "American Association for the Advancement of Science (AAAS)",
+        "stanza": "OCLC/American_Association_for_the_Advancement_of_Science_(AAAS).txt",
+        "oclcStanzaId": "American_Association_for_the_Advancement_of_Science_(AAAS)",
+        "oclcIncludeFile": "databases/aaas.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Association_for_the_Advancement_of_Science_(AAAS)",
+        "lastUpdated": "2024-03-13"
     },
     "American_Botanical_Council": {
         "name": "American Botanical Council",
@@ -844,6 +852,14 @@
         "oclcIncludeFile": "databases/arabidopsis.txt",
         "lastUpdated": "2016-01-28"
     },
+    "Archaeopress": {
+        "name": "Archaeopress",
+        "stanza": "OCLC/Archaeopress.txt",
+        "oclcStanzaId": "Archaeopress",
+        "oclcIncludeFile": "databases/archaeopress_1706029080398.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Archaeopress",
+        "lastUpdated": "2024-03-11"
+    },
     "Archaeopress_Journals": {
         "name": "Archaeopress Journals",
         "stanza": "OCLC/Archaeopress_Journals.txt",
@@ -867,6 +883,14 @@
         "oclcIncludeFile": "databases/archivaria.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Archivaria",
         "lastUpdated": "2020-08-25"
+    },
+    "Armand_Colin_Revues": {
+        "name": "Armand Colin Revues",
+        "stanza": "OCLC/Armand_Colin_Revues.txt",
+        "oclcStanzaId": "Armand_Colin_Revues",
+        "oclcIncludeFile": "databases/peg.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Armand_Colin_Revues",
+        "lastUpdated": "2024-03-11"
     },
     "ArsAequi": {
         "name": "ArsAequi",
@@ -3888,7 +3912,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2023-04-06"
+        "lastUpdated": "2024-03-11"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
