@@ -1,4 +1,3 @@
-#this seems to now be required before any EBSCOhost stanza to prevent linking issues
 Option DomainCookieOnly
 Title -hide EBSCO LinkSource
 URL https://linksource.ebsco.com

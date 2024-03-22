@@ -299,7 +299,7 @@
         "oclcStanzaId": "AHA_Journals",
         "oclcIncludeFile": "databases/ahajournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AHA_Journals",
-        "lastUpdated": "2023-04-20"
+        "lastUpdated": "2024-03-18"
     },
     "Aida": {
         "name": "Aida",
@@ -6006,7 +6006,7 @@
         "oclcStanzaId": "New_Generation_Research",
         "oclcIncludeFile": "databases/newgenerationresearch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_Generation_Research",
-        "lastUpdated": "2020-11-23"
+        "lastUpdated": "2024-03-18"
     },
     "New_Left_Review": {
         "name": "New Left Review",
@@ -6119,6 +6119,14 @@
         "oclcIncludeFile": "databases/nursingconsult.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nursing_Consult",
         "lastUpdated": "2015-09-02"
+    },
+    "Nursing_Times": {
+        "name": "Nursing Times",
+        "stanza": "OCLC/Nursing_Times.txt",
+        "oclcStanzaId": "Nursing_Times",
+        "oclcIncludeFile": "databases/ nursingtimes.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nursing_Times",
+        "lastUpdated": "2024-03-20"
     },
     "Nutrition_Care_Manual": {
         "name": "Nutrition Care Manual",
@@ -6405,7 +6413,7 @@
         "oclcStanzaId": "Oxford_African_American_Studies_Center",
         "oclcIncludeFile": "databases/oxfordaasc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_African_American_Studies_Center",
-        "lastUpdated": "2023-01-18"
+        "lastUpdated": "2024-03-18"
     },
     "Oxford_Art_Online": {
         "name": "Oxford Art Online",
