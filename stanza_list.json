@@ -2886,7 +2886,7 @@
         "oclcStanzaId": "East_View_Information_Services_Inc",
         "oclcIncludeFile": "databases/eastview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/East_View_Information_Services_Inc",
-        "lastUpdated": "2024-03-04"
+        "lastUpdated": "2024-03-22"
     },
     "Ebook_Central_PatronLogin": {
         "name": "Ebook Central (Patron Login + EZproxy)",
@@ -2948,7 +2948,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2023-08-10"
+        "lastUpdated": "2024-03-20"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -2970,7 +2970,7 @@
         "stanza": "OCLC/EBSCO_LinkSource.txt",
         "oclcStanzaId": "EBSCO_LinkSource",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource",
-        "lastUpdated": "2023-08-10"
+        "lastUpdated": "2024-03-20"
     },
     "EB_Medicine": {
         "name": "EB Medicine",
