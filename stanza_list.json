@@ -818,7 +818,7 @@
         "oclcStanzaId": "APA_PsycNET",
         "oclcIncludeFile": "databases/apa_psycnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET",
-        "lastUpdated": "2023-01-10"
+        "lastUpdated": "2024-03-25"
     },
     "APA_Style_CENTRAL": {
         "name": "Academic Writer (formerly APA Style CENTRAL)",
@@ -2027,6 +2027,14 @@
         "oclcIncludeFile": "databases/cfa.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Chartered_Financial_Analysts_Institute",
         "lastUpdated": "2018-07-26"
+    },
+    "Chasing_Time_English": {
+        "name": "Chasing Time English",
+        "stanza": "OCLC/Chasing_Time_English.txt",
+        "oclcStanzaId": "Chasing_Time_English",
+        "oclcIncludeFile": "databases/chaseingtimeenglish.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Chasing_Time_English",
+        "lastUpdated": "2024-03-25"
     },
     "CHEMnetBASE": {
         "name": "CHEMnetBASE",
@@ -3573,6 +3581,14 @@
         "oclcIncludeFile": "databases/fitch_connect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fitch_Connect",
         "lastUpdated": "2021-11-18"
+    },
+    "Flyover_Zone_Virtual_Museum": {
+        "name": "Flyover Zone Virtual Museum",
+        "stanza": "OCLC/Flyover_Zone_Virtual_Museum.txt",
+        "oclcStanzaId": "Flyover_Zone_Virtual_Museum",
+        "oclcIncludeFile": "databases/ flyover_zone_virtual_museum.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Flyover_Zone_Virtual_Museum",
+        "lastUpdated": "2024-03-25"
     },
     "Fold3": {
         "name": "Fold3",
