@@ -1978,7 +1978,7 @@
         "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
         "oclcIncludeFile": "databases/cch_answerconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
-        "lastUpdated": "2024-02-01"
+        "lastUpdated": "2024-04-05"
     },
     "CCH_IknowConnect": {
         "name": "CCH IknowConnect",
@@ -2387,7 +2387,7 @@
         "oclcStanzaId": "CookieLaw",
         "oclcIncludeFile": "databases/cookielaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CookieLaw",
-        "lastUpdated": "2023-10-19"
+        "lastUpdated": "2024-04-05"
     },
     "CountryWatch": {
         "name": "CountryWatch",
@@ -2411,7 +2411,7 @@
         "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
         "oclcIncludeFile": "databases/myrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
-        "lastUpdated": "2024-01-30"
+        "lastUpdated": "2024-04-05"
     },
     "CQ_Researcher": {
         "name": "CQ Researcher",
@@ -5483,7 +5483,7 @@
         "oclcStanzaId": "Medical_Online",
         "oclcIncludeFile": "databases/medicalonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medical_Online",
-        "lastUpdated": "2021-09-06"
+        "lastUpdated": "2024-04-05"
     },
     "Medici.tv_EDU": {
         "name": "Medici.tv EDU",
