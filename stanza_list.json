@@ -766,6 +766,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ancestry_Library",
         "lastUpdated": "2017-11-20"
     },
+    "Ancient_Books": {
+        "name": "Ancient Books",
+        "stanza": "OCLC/Ancient_Books.txt",
+        "oclcStanzaId": "Ancient_Books",
+        "oclcIncludeFile": "databases/ancient_books.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ancient_Books",
+        "lastUpdated": "2024-04-11"
+    },
     "Animal_Science_Publications": {
         "name": "Journal of Animal Science and Animal Frontiers",
         "stanza": "OCLC/Animal_Science_Publications.txt",
@@ -2956,7 +2964,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2024-03-20"
+        "lastUpdated": "2024-04-10"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -2978,7 +2986,7 @@
         "stanza": "OCLC/EBSCO_LinkSource.txt",
         "oclcStanzaId": "EBSCO_LinkSource",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource",
-        "lastUpdated": "2024-03-20"
+        "lastUpdated": "2024-04-10"
     },
     "EB_Medicine": {
         "name": "EB Medicine",
