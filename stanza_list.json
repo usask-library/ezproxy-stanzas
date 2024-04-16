@@ -1612,7 +1612,7 @@
         "oclcStanzaId": "Britannica_Academic",
         "oclcIncludeFile": "databases/britannica.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Britannica_Academic",
-        "lastUpdated": "2024-02-22"
+        "lastUpdated": "2024-04-12"
     },
     "Britannica_E-Stax": {
         "name": "Britannica E-Stax",
@@ -2395,7 +2395,7 @@
         "oclcStanzaId": "CookieLaw",
         "oclcIncludeFile": "databases/cookielaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CookieLaw",
-        "lastUpdated": "2024-04-05"
+        "lastUpdated": "2024-04-15"
     },
     "CountryWatch": {
         "name": "CountryWatch",
@@ -5816,7 +5816,7 @@
         "oclcStanzaId": "National_Council_of_Teachers_of_English",
         "oclcIncludeFile": "databases/ncte.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Council_of_Teachers_of_English",
-        "lastUpdated": "2020-04-15"
+        "lastUpdated": "2024-04-12"
     },
     "National_Council_of_Teachers_of_Mathematics": {
         "name": "National Council of Teachers of Mathematics",
@@ -6494,7 +6494,7 @@
         "oclcStanzaId": "Oxford_English_Dictionary_(OED)",
         "oclcIncludeFile": "databases/oed.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_English_Dictionary_(OED)",
-        "lastUpdated": "2023-08-15"
+        "lastUpdated": "2024-04-12"
     },
     "Oxford_First_Source": {
         "name": "Oxford First Source",
