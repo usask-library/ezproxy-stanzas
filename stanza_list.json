@@ -858,7 +858,7 @@
         "oclcStanzaId": "Arabidopsis_Information_Resource%2C_The",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Arabidopsis_Information_Resource%2C_The",
         "oclcIncludeFile": "databases/arabidopsis.txt",
-        "lastUpdated": "2016-01-28"
+        "lastUpdated": "2024-04-15"
     },
     "Archaeopress": {
         "name": "Archaeopress",
@@ -1666,7 +1666,7 @@
         "oclcStanzaId": "BrowZine_by_Third_Iron",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrowZine_by_Third_Iron",
         "oclcIncludeFile": "databases/browzine.txt",
-        "lastUpdated": "2023-06-19"
+        "lastUpdated": "2024-04-17"
     },
     "BuildingGreen": {
         "name": "BuildingGreen",
@@ -2371,7 +2371,7 @@
         "oclcStanzaId": "Constellate",
         "oclcIncludeFile": "databases/constellate.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Constellate",
-        "lastUpdated": "2023-05-15"
+        "lastUpdated": "2024-04-17"
     },
     "Construction_and_Building_Abstracts": {
         "name": "Construction and Building Abstracts",
@@ -3936,7 +3936,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2024-03-11"
+        "lastUpdated": "2024-04-17"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
