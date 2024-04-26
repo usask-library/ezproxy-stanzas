@@ -7266,7 +7266,7 @@
         "oclcStanzaId": "ReferenceUSA",
         "oclcIncludeFile": "databases/referenceusa.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/ReferenceUSA",
-        "lastUpdated": "2016-02-29"
+        "lastUpdated": "2024-04-24"
     },
     "Reference_Universe": {
         "name": "Reference Universe",
@@ -8088,7 +8088,7 @@
         "stanza": "OCLC/STRATFOR.txt",
         "oclcStanzaId": "STRATFOR",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/STRATFOR",
-        "lastUpdated": "2015-03-31"
+        "lastUpdated": "2024-04-23"
     },
     "Structural_Engineer": {
         "name": "Structural Engineer",
