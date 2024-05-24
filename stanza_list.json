@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-03-11"
+        "lastUpdated": "2024-05-20"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -7518,7 +7518,7 @@
         "oclcStanzaId": "SAE_MOBILUS",
         "oclcIncludeFile": "databases/sae.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
-        "lastUpdated": "2022-12-08"
+        "lastUpdated": "2024-05-20"
     },
     "Safari_Books_Online": {
         "name": "O'Reilly Learning (formerly Safari Books Online)",
@@ -7926,6 +7926,14 @@
         "oclcIncludeFile": "databases/socialexplorer.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Social_Explorer",
         "lastUpdated": "2019-12-13"
+    },
+    "Society_for_Industrial_and_Applied_Mathematics": {
+        "name": "Society for Industrial and Applied Mathematics",
+        "stanza": "OCLC/Society_for_Industrial_and_Applied_Mathematics.txt",
+        "oclcStanzaId": "Society_for_Industrial_and_Applied_Mathematics",
+        "oclcIncludeFile": "databases/siam.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Society_for_Industrial_and_Applied_Mathematics",
+        "lastUpdated": "2024-05-22"
     },
     "Society_for_Nuclear_Medicine_SNM_Journals": {
         "name": "Society for Nuclear Medicine (SNM) Journals",
@@ -8507,7 +8515,7 @@
         "oclcStanzaId": "University_of_Buckingham_Press",
         "oclcIncludeFile": "databases/ubplj.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Buckingham_Press",
-        "lastUpdated": "2024-04-29"
+        "lastUpdated": "2024-05-23"
     },
     "University_of_Chicago_Press": {
         "name": "University of Chicago Press",
