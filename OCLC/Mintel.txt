@@ -1,12 +1,13 @@
 Option MetaEZproxyRewriting
 HTTPMethod OPTIONS
+AnonymousURL +https://api.mintel.com/*
 AnonymousURL -OPTIONS +https://www.gnpd.com/sinatra/api/*
 AnonymousURL +https://oauth.mintel.com/token/
 AnonymousURL -OPTIONS +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://eks-prod-appshell.otlp-frontend.mintel.cloud/collect
 AnonymousURL +https://notifications.mintel.com/notification/*
 AnonymousURL +https://portal.mintel.com/*
-Title Mintel (updated 20230925)
+Title Mintel (updated 20240602)
 HTTPHeader -request -process X-CSRFToken
 URL https://clients.mintel.com/
 HJ clients.mintel.com

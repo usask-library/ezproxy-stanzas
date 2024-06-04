@@ -842,7 +842,7 @@
         "oclcStanzaId": "APS_Journals",
         "oclcIncludeFile": "databases/aps_journals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APS_Journals",
-        "lastUpdated": "2023-01-04"
+        "lastUpdated": "2024-06-03"
     },
     "AP_Photo_Archive": {
         "name": "AP Photo Archive",
@@ -1667,6 +1667,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BrowZine_by_Third_Iron",
         "oclcIncludeFile": "databases/browzine.txt",
         "lastUpdated": "2024-04-17"
+    },
+    "Buddhist_Digital_Resource_Center_(BUDA)": {
+        "name": "Buddhist Digital Resource Center (BUDA)",
+        "stanza": "OCLC/Buddhist_Digital_Resource_Center_(BUDA).txt",
+        "oclcStanzaId": "Buddhist_Digital_Resource_Center_(BUDA)",
+        "oclcIncludeFile": "databases/buddhist_digital_resource_center_1717017711846.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Buddhist_Digital_Resource_Center_(BUDA)",
+        "lastUpdated": "2024-06-02"
     },
     "BuildingGreen": {
         "name": "BuildingGreen",
@@ -2863,7 +2871,7 @@
         "oclcStanzaId": "Duke_University_Press_Books_and_Journals",
         "oclcIncludeFile": "databases/dukepress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duke_University_Press_Books_and_Journals",
-        "lastUpdated": "2019-06-11"
+        "lastUpdated": "2024-06-03"
     },
     "Duncker_and_Humblot_eLibrary": {
         "name": "Duncker & Humblot eLibrary",
@@ -4016,6 +4024,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/History_of_Economic_Thought",
         "lastUpdated": "2022-09-12"
     },
+    "History_of_the_Communist_Party_of_China_Database": {
+        "name": "History of the Communist Party of China Database",
+        "stanza": "OCLC/History_of_the_Communist_Party_of_China_Database.txt",
+        "oclcStanzaId": "History_of_the_Communist_Party_of_China_Database",
+        "oclcIncludeFile": "databases/history_of_the_communist_party_of_china_database.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/History_of_the_Communist_Party_of_China_Database",
+        "lastUpdated": "2024-06-02"
+    },
     "History_Study_Center": {
         "name": "History Study Center",
         "stanza": "OCLC/History_Study_Center.txt",
@@ -5066,7 +5082,7 @@
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis",
-        "lastUpdated": "2023-10-31"
+        "lastUpdated": "2024-06-02"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
@@ -5498,7 +5514,10 @@
         "stanza": "OCLC/Medici.tv_EDU.txt",
         "oclcStanzaId": "Medici.tv_EDU",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medici.tv_EDU",
-        "lastUpdated": "2018-06-12"
+        "lastUpdated": "2024-06-02",
+        "oclcIncludeFile": [
+            "databases/medicitv.txt"
+        ]
     },
     "Medieval_and_Early_Modern_Sources_Online": {
         "name": "Medieval and Early Modern Sources Online",
@@ -5674,7 +5693,7 @@
         "oclcStanzaId": "Mintel",
         "oclcIncludeFile": "databases/mintel.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mintel",
-        "lastUpdated": "2023-09-25"
+        "lastUpdated": "2024-06-02"
     },
     "Mission_Nexus": {
         "name": "Mission Nexus",
@@ -5833,6 +5852,14 @@
         "oclcIncludeFile": "databases/nfbcanada.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Film_Board_of_Canada",
         "lastUpdated": "2016-01-27"
+    },
+    "National_History_Database_of_PRC%2C_The": {
+        "name": "National History Database of PRC, The",
+        "stanza": "OCLC/National_History_Database_of_PRC%2C_The.txt",
+        "oclcStanzaId": "National_History_Database_of_PRC%2C_The",
+        "oclcIncludeFile": "databases/he_national_history_database_of_prc.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_History_Database_of_PRC%2C_The",
+        "lastUpdated": "2024-06-02"
     },
     "National_Journal": {
         "name": "National Journal",
@@ -6860,6 +6887,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Politique_%C3%A9trang%C3%A8re",
         "lastUpdated": "2023-11-29"
     },
+    "Portfolio_Management_Research": {
+        "name": "Portfolio Management Research",
+        "stanza": "OCLC/Portfolio_Management_Research.txt",
+        "oclcStanzaId": "Portfolio_Management_Research",
+        "oclcIncludeFile": "databases/pmresearch_1716480595750.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Portfolio_Management_Research",
+        "lastUpdated": "2024-06-02"
+    },
     "Portico": {
         "name": "Portico",
         "stanza": "OCLC/Portico.txt",
@@ -7589,7 +7624,7 @@
         "oclcStanzaId": "Sanford_Guide",
         "oclcIncludeFile": "databases/sanfordguide.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sanford_Guide",
-        "lastUpdated": "2022-09-22"
+        "lastUpdated": "2024-06-02"
     },
     "Schattauer_Publishers": {
         "name": "Schattauer Publishers",
