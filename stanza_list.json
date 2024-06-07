@@ -1636,6 +1636,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_History_Online",
         "lastUpdated": "2015-07-22"
     },
+    "British_Online_Archives": {
+        "name": "British Online Archives",
+        "stanza": "OCLC/British_Online_Archives.txt",
+        "oclcStanzaId": "British_Online_Archives",
+        "oclcIncludeFile": "databases/british_online_archives.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Online_Archives",
+        "lastUpdated": "2024-06-06"
+    },
     "British_Standards_Online": {
         "name": "British Standards Online",
         "stanza": "OCLC/British_Standards_Online.txt",
