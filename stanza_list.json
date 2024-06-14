@@ -2108,6 +2108,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/China_Research_Gateway",
         "lastUpdated": "2021-07-12"
     },
+    "China_Social_Science_Excellence": {
+        "name": "China Social Science Excellence",
+        "stanza": "OCLC/China_Social_Science_Excellence.txt",
+        "oclcStanzaId": "China_Social_Science_Excellence",
+        "oclcIncludeFile": "databases/china_social_science_excellence.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/China_Social_Science_Excellence",
+        "lastUpdated": "2024-06-09"
+    },
     "China_Studies": {
         "name": "China Studies",
         "stanza": "OCLC/China_Studies.txt",
