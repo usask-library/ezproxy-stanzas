@@ -352,14 +352,14 @@
     "Alexander_Street_Press": {
         "name": "Alexander Street Press",
         "stanza": "OCLC/Alexander_Street_Press.txt",
-        "note": "Includes stanzas for MARC records and Academic Video Store",
+        "note": "Includes stanzas for Alexander Street Press MARC Records and Alexander Street Video",
         "oclcStanzaId": "Alexander_Street_Press",
         "oclcIncludeFile": [
             "databases/alexanderstreet.txt",
             "databases/alexanderstreetvideo.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Alexander_Street_Press",
-        "lastUpdated": "2021-11-05"
+        "lastUpdated": "2024-04-11"
     },
     "Alexander_Street_Press_Old": {
         "name": "Alexander Street Press (Old Interface)",
