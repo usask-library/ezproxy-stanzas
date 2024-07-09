@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-05-20"
+        "lastUpdated": "2024-07-08"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -5461,7 +5461,7 @@
         "oclcStanzaId": "McGraw-Hill_Medical",
         "oclcIncludeFile": "databases/mhmedical.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical",
-        "lastUpdated": "2022-09-29"
+        "lastUpdated": "2024-07-08"
     },
     "McIntyre_Media": {
         "name": "McIntyre Media",
@@ -8954,7 +8954,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2023-07-25"
+        "lastUpdated": "2024-07-08"
     },
     "WisersOne": {
         "name": "WisersOne",
