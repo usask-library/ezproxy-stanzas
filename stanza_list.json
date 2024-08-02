@@ -1642,7 +1642,7 @@
         "oclcStanzaId": "British_Online_Archives",
         "oclcIncludeFile": "databases/british_online_archives.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Online_Archives",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2024-07-30"
     },
     "British_Standards_Online": {
         "name": "British Standards Online",
@@ -4281,7 +4281,7 @@
         "oclcStanzaId": "IMAIOS_e-Anatomy",
         "oclcIncludeFile": "databases/imaios.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IMAIOS_e-Anatomy",
-        "lastUpdated": "2023-08-29"
+        "lastUpdated": "2024-07-30"
     },
     "IMentor": {
         "name": "IMentor",
