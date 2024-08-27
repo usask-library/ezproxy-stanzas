@@ -2988,7 +2988,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2024-04-10"
+        "lastUpdated": "2024-08-15"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -5709,7 +5709,7 @@
         "oclcStanzaId": "Mintel",
         "oclcIncludeFile": "databases/mintel.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mintel",
-        "lastUpdated": "2024-06-24"
+        "lastUpdated": "2024-08-14"
     },
     "Mission_Nexus": {
         "name": "Mission Nexus",
@@ -5883,7 +5883,7 @@
         "oclcStanzaId": "National_Journal",
         "oclcIncludeFile": "databases/nationaljournal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Journal",
-        "lastUpdated": "2019-08-13"
+        "lastUpdated": "2024-08-15"
     },
     "National_Technical_Information_Service_NTIS": {
         "name": "National Technical Information Service (NTIS)",
@@ -6713,7 +6713,7 @@
         "oclcStanzaId": "Passport_(Euromonitor_International)",
         "oclcIncludeFile": "databases/gmid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Passport_(Euromonitor_International)",
-        "lastUpdated": "2023-10-25"
+        "lastUpdated": "2024-08-15"
     },
     "Peeters_Publishers": {
         "name": "Peeters Publishers",
@@ -6737,7 +6737,7 @@
         "oclcStanzaId": "Pharmaceutical_Press",
         "oclcIncludeFile": "databases/pharmaceuticalpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pharmaceutical_Press",
-        "lastUpdated": "2023-10-31"
+        "lastUpdated": "2024-08-22"
     },
     "Pharmacy_Library": {
         "name": "Pharmacy Library",
@@ -6785,7 +6785,7 @@
         "oclcStanzaId": "Phytotherapy_Desk_Reference",
         "oclcIncludeFile": "databases/phytotherapy_desk_reference.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Phytotherapy_Desk_Reference",
-        "lastUpdated": "2023-10-17"
+        "lastUpdated": "2024-08-14"
     },
     "Piano_Media": {
         "name": "Piano Media",
@@ -8661,7 +8661,7 @@
         "oclcStanzaId": "UTB_Elibrary",
         "oclcIncludeFile": "databases/utb_elibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/UTB_Elibrary",
-        "lastUpdated": "2021-02-05"
+        "lastUpdated": "2024-08-22"
     },
     "Value_Line": {
         "name": "Value Line",
