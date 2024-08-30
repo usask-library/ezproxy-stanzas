@@ -1770,7 +1770,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2022-10-14"
+        "lastUpdated": "2024-08-26"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -2652,7 +2652,7 @@
         "oclcStanzaId": "DETAIL_Inspiration",
         "oclcIncludeFile": "databases/detailonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DETAIL_Inspiration",
-        "lastUpdated": "2023-10-26"
+        "lastUpdated": "2024-08-29"
     },
     "De_Gruyter_Online": {
         "name": "De Gruyter Online",
@@ -3462,7 +3462,7 @@
         "oclcStanzaId": "Exchange_Press",
         "oclcIncludeFile": "databases/exchangepress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Exchange_Press",
-        "lastUpdated": "2022-11-18"
+        "lastUpdated": "2024-08-28"
     },
     "Explorer_for_Institutions": {
         "name": "Altmetric Explorer for Institutions",
@@ -3899,6 +3899,14 @@
         "oclcIncludeFile": "databases/hbcpnetbase.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Handbook_of_Chemistry_and_Physics",
         "lastUpdated": "2021-03-29"
+    },
+    "Hanyucidian": {
+        "name": "Hanyucidian",
+        "stanza": "OCLC/Hanyucidian.txt",
+        "oclcStanzaId": "Hanyucidian",
+        "oclcIncludeFile": "databases/hanyucidian_1724379444912.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Hanyucidian",
+        "lastUpdated": "2024-08-27"
     },
     "HarpWeek": {
         "name": "HarpWeek",
@@ -5249,6 +5257,14 @@
         "oclcIncludeFile": "databases/lrb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/London_Review_of_Books",
         "lastUpdated": "2016-01-13"
+    },
+    "Longwoods_Publishing_Journals": {
+        "name": "Longwoods Publishing Journals",
+        "stanza": "OCLC/Longwoods_Publishing_Journals.txt",
+        "oclcStanzaId": "Longwoods_Publishing_Journals",
+        "oclcIncludeFile": "databases/longwoods.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Longwoods_Publishing_Journals",
+        "lastUpdated": "2024-08-27"
     },
     "Love_the_Work": {
         "name": "Love the Work",
@@ -6713,7 +6729,7 @@
         "oclcStanzaId": "Passport_(Euromonitor_International)",
         "oclcIncludeFile": "databases/gmid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Passport_(Euromonitor_International)",
-        "lastUpdated": "2024-08-15"
+        "lastUpdated": "2024-08-29"
     },
     "Peeters_Publishers": {
         "name": "Peeters Publishers",
@@ -7513,7 +7529,7 @@
         "oclcStanzaId": "Royal_Society_of_Chemistry",
         "oclcIncludeFile": "databases/royal_society_chemistry.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Royal_Society_of_Chemistry",
-        "lastUpdated": "2022-12-20"
+        "lastUpdated": "2024-08-27"
     },
     "Royal_Society_Publishing_The": {
         "name": "Royal Society Publishing, The",
@@ -7747,6 +7763,14 @@
         "oclcStanzaId": "Science_Translational_Medicine",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Science_Translational_Medicine",
         "lastUpdated": "2014-04-03"
+    },
+    "Sciendo": {
+        "name": "Sciendo",
+        "stanza": "OCLC/Sciendo.txt",
+        "oclcStanzaId": "Sciendo",
+        "oclcIncludeFile": "databases/ sciendo_1722607698805.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciendo",
+        "lastUpdated": "2024-08-27"
     },
     "Scientific.NET_Trans_Tech_Publications": {
         "name": "Scientific.NET - Trans Tech Publications",
