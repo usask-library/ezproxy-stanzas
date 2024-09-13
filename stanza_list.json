@@ -1770,7 +1770,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2024-08-26"
+        "lastUpdated": "2024-09-10"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -6197,6 +6197,14 @@
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NTC_Economic_%26_Financial_Publishing",
         "lastUpdated": "2021-08-09"
     },
+    "Numerique_Premium": {
+        "name": "Numerique Premium",
+        "stanza": "OCLC/Numerique_Premium.txt",
+        "oclcStanzaId": "Numerique_Premium",
+        "oclcIncludeFile": "databases/numerique_premium.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Numerique_Premium",
+        "lastUpdated": "2024-09-10"
+    },
     "Nursing_Consult": {
         "name": "Nursing Consult",
         "stanza": "OCLC/Nursing_Consult.txt",
@@ -8381,6 +8389,14 @@
         "oclcIncludeFile": "databases/sltrib.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Salt_Lake_Tribune",
         "lastUpdated": "2022-08-05"
+    },
+    "The_Social_History_Archive": {
+        "name": "The Social History Archive",
+        "stanza": "OCLC/The_Social_History_Archive.txt",
+        "oclcStanzaId": "The_Social_History_Archive",
+        "oclcIncludeFile": "databases/the_social_history_archive_1722610743721.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Social_History_Archive",
+        "lastUpdated": "2024-09-08"
     },
     "Thieme": {
         "name": "Thieme",
