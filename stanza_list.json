@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-07-08"
+        "lastUpdated": "2024-09-16"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -1746,7 +1746,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2023-10-06"
+        "lastUpdated": "2024-09-16"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -2550,7 +2550,7 @@
         "oclcStanzaId": "Dalloz",
         "oclcIncludeFile": "databases/dalloz.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dalloz",
-        "lastUpdated": "2020-11-26"
+        "lastUpdated": "2024-09-16"
     },
     "Dalloz_Revues": {
         "name": "Dalloz Revues",
@@ -3778,7 +3778,7 @@
         "oclcStanzaId": "GlobalData",
         "oclcIncludeFile": "databases/globaldatadisruptor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GlobalData",
-        "lastUpdated": "2023-01-06"
+        "lastUpdated": "2024-09-13"
     },
     "Global_Business_Traveler": {
         "name": "Global Business Traveler",
