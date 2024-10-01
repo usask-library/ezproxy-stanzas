@@ -1746,7 +1746,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2024-09-16"
+        "lastUpdated": "2024-09-27"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -4584,7 +4584,7 @@
         "oclcStanzaId": "Jane's_Online_Service",
         "oclcIncludeFile": "databases/janes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jane's_Online_Service",
-        "lastUpdated": "2020-09-08"
+        "lastUpdated": "2020-09-27"
     },
     "JapanKnowledge": {
         "name": "JapanKnowledge",
