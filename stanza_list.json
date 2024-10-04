@@ -906,7 +906,7 @@
         "oclcStanzaId": "ArsAequi",
         "oclcIncludeFile": "databases/arsaequi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ArsAequi",
-        "lastUpdated": "2024-02-18"
+        "lastUpdated": "2024-09-30"
     },
     "Artfilms_Digital": {
         "name": "Artfilms-Digital",
@@ -1517,6 +1517,14 @@
         "oclcIncludeFile": "databases/botany.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Botanical_Society_of_America",
         "lastUpdated": "2016-01-19"
+    },
+    "Bouwkosten_Kompas": {
+        "name": "Bouwkosten Kompas",
+        "stanza": "OCLC/Bouwkosten_Kompas.txt",
+        "oclcStanzaId": "Bouwkosten_Kompas",
+        "oclcIncludeFile": "databases/bouwkosten_kompas.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bouwkosten_Kompas",
+        "lastUpdated": "2024-07-17"
     },
     "Brainfuse": {
         "name": "Brainfuse",
@@ -5806,7 +5814,7 @@
         "oclcStanzaId": "Morningstar",
         "oclcIncludeFile": "databases/morningstar.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Morningstar",
-        "lastUpdated": "2023-12-05"
+        "lastUpdated": "2024-09-30"
     },
     "Motologic": {
         "name": "Motologic",
@@ -6739,7 +6747,7 @@
         "oclcStanzaId": "Passport_(Euromonitor_International)",
         "oclcIncludeFile": "databases/gmid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Passport_(Euromonitor_International)",
-        "lastUpdated": "2024-08-29"
+        "lastUpdated": "2024-09-30"
     },
     "Peeters_Publishers": {
         "name": "Peeters Publishers",
@@ -6911,7 +6919,7 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Policy_Map",
-        "lastUpdated": "2015-09-25"
+        "lastUpdated": "2024-10-01"
     },
     "Politico_Pro": {
         "name": "Politico Pro",
@@ -7241,7 +7249,7 @@
         "oclcStanzaId": "Rangefindr.ca",
         "oclcIncludeFile": "databases/rangefindr.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rangefindr.ca",
-        "lastUpdated": "2021-03-11"
+        "lastUpdated": "2024-09-30"
     },
     "Rarebookhub": {
         "name": "Rarebookhub",
@@ -7595,7 +7603,7 @@
         "oclcStanzaId": "SAE_MOBILUS",
         "oclcIncludeFile": "databases/sae.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
-        "lastUpdated": "2024-05-20"
+        "lastUpdated": "2024-09-30"
     },
     "Safari_Books_Online": {
         "name": "O'Reilly Learning (formerly Safari Books Online)",
