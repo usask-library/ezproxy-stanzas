@@ -3075,6 +3075,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Edina_Digimap",
         "lastUpdated": "2020-07-31"
     },
+    "Edinburgh_University_Press": {
+        "name": "Edinburgh University Press",
+        "stanza": "OCLC/Edinburgh_University_Press.txt",
+        "oclcStanzaId": "Edinburgh_University_Press",
+        "oclcIncludeFile": "databases/euppublishing.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Edinburgh_University_Press",
+        "lastUpdated": "2024-10-07"
+    },
     "Editorial_Grao": {
         "name": "Editorial Grao",
         "stanza": "OCLC/Editorial_Grao.txt",
@@ -4385,7 +4393,7 @@
         "oclcStanzaId": "Informit",
         "oclcIncludeFile": "databases/informit.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Informit",
-        "lastUpdated": "2021-04-02"
+        "lastUpdated": "2024-10-04"
     },
     "INFORMS_PubsOnline": {
         "name": "INFORMS PubsOnline",
