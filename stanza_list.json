@@ -5242,7 +5242,7 @@
         "oclcStanzaId": "Liverpool_University_Press",
         "oclcIncludeFile": "databases/liverpoolunipress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Liverpool_University_Press",
-        "lastUpdated": "2023-10-03"
+        "lastUpdated": "2024-10-09"
     },
     "LLMC_Digital": {
         "name": "LLMC Digital",
@@ -5806,7 +5806,7 @@
         "oclcStanzaId": "Mohr_Siebeck",
         "oclcIncludeFile": "databases/mohrsiebeck.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mohr_Siebeck",
-        "lastUpdated": "2021-05-19"
+        "lastUpdated": "2024-10-08"
     },
     "Mometrix_eLibrary": {
         "name": "Mometrix eLibrary",
@@ -7067,7 +7067,7 @@
         "oclcStanzaId": "Proceedings_of_the_National_Academy_of_Sciences",
         "oclcIncludeFile": "databases/pnas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Proceedings_of_the_National_Academy_of_Sciences",
-        "lastUpdated": "2021-10-19"
+        "lastUpdated": "2024-10-09"
     },
     "Projectr_TV": {
         "name": "Projectr TV",
@@ -7914,7 +7914,7 @@
         "oclcStanzaId": "SDU",
         "oclcIncludeFile": "databases/sdu.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SDU",
-        "lastUpdated": "2023-05-09"
+        "lastUpdated": "2024-10-08"
     },
     "Secret_Files_from_World_Wars_to_Cold_War": {
         "name": "Secret Files from World Wars to Cold War",
