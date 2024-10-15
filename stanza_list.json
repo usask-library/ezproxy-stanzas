@@ -1548,7 +1548,7 @@
         "oclcStanzaId": "BREPOLiS",
         "oclcIncludeFile": "databases/brepolis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BREPOLiS",
-        "lastUpdated": "2023-07-21"
+        "lastUpdated": "2024-10-11"
     },
     "Brepols_Online": {
         "name": "Brepols Online",
@@ -5306,7 +5306,7 @@
         "oclcStanzaId": "Lyell_Collection",
         "oclcIncludeFile": "databases/lyellcollection.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lyell_Collection",
-        "lastUpdated": "2022-03-04"
+        "lastUpdated": "2024-10-11"
     },
     "Lynda": {
         "name": "Lynda.com",
@@ -7611,7 +7611,7 @@
         "oclcStanzaId": "SAE_MOBILUS",
         "oclcIncludeFile": "databases/sae.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
-        "lastUpdated": "2024-09-30"
+        "lastUpdated": "2024-10-14"
     },
     "Safari_Books_Online": {
         "name": "O'Reilly Learning (formerly Safari Books Online)",
@@ -8735,7 +8735,7 @@
         "oclcStanzaId": "Vandenhoeck_%26_Ruprecht",
         "oclcIncludeFile": "databases/vandr.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Vandenhoeck_%26_Ruprecht",
-        "lastUpdated": "2021-01-11"
+        "lastUpdated": "2024-10-11"
     },
     "Vanderbilt_Television_News_Archive": {
         "name": "Vanderbilt Television News Archive",
@@ -9107,7 +9107,7 @@
         "oclcStanzaId": "World_Scientific_Publishing",
         "oclcIncludeFile": "databases/worldscientific.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Scientific_Publishing",
-        "lastUpdated": "2018-11-30"
+        "lastUpdated": "2024-10-11"
     },
     "World_Shakespeare_Bibliography": {
         "name": "World Shakespeare Bibliography",
