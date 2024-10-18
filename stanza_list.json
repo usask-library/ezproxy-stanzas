@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-09-16"
+        "lastUpdated": "2024-10-15"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -1778,7 +1778,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2024-09-10"
+        "lastUpdated": "2024-10-15"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -3276,7 +3276,7 @@
         "oclcStanzaId": "El_Croquis_Digital_Library",
         "oclcIncludeFile": "databases/el_croquis_digital_library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/El_Croquis_Digital_Library",
-        "lastUpdated": "2024-01-16"
+        "lastUpdated": "2024-10-17"
     },
     "EMarketer_Pro": {
         "name": "EMarketer Pro",
