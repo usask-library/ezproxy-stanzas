@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-10-15"
+        "lastUpdated": "2024-10-21"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -3730,7 +3730,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2024-01-31"
+        "lastUpdated": "2024-10-21"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -7834,7 +7834,7 @@
         "oclcStanzaId": "SciFinder",
         "oclcIncludeFile": "databases/scifinder.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SciFinder",
-        "lastUpdated": "2021-08-04"
+        "lastUpdated": "2024-10-21"
     },
     "Sciquest": {
         "name": "Sciquest",
