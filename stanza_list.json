@@ -5133,14 +5133,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis_Legal_AU",
         "lastUpdated": "2016-03-18"
     },
-    "Lexis_Advance_Quicklaw": {
-        "name": "Lexis Advance Quicklaw",
-        "stanza": "OCLC/Lexis_Advance_Quicklaw.txt",
-        "oclcStanzaId": "Lexis_Advance_Quicklaw",
-        "oclcIncludeFile": "databases/lexisadvancequicklaw.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lexis_Advance_Quicklaw",
-        "lastUpdated": "2022-01-21"
-    },
     "Lextenso": {
         "name": "Lextenso",
         "stanza": "OCLC/Lextenso.txt",
