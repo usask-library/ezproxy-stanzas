@@ -6132,15 +6132,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Times_(NYT)",
         "lastUpdated": "2023-02-22"
     },
-    "Nexis_Uni": {
-        "name": "Nexis Uni",
-        "stanza": "OCLC/Nexis_Uni.txt",
-        "oclcStanzaId": "Nexis_Uni",
-        "oclcIncludeFile": "databases/nexisuni.txt",
-        "note": "Important: Customers migrating from LexisNexis Academic to Nexis Uni must place the Nexis Uni stanza above any legacy LexisNexis stanzas in config.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nexis_Uni",
-        "lastUpdated": "2022-07-13"
-    },
     "NFPA_Codes_Online": {
         "name": "NFPA Codes Online",
         "stanza": "OCLC/NFPA_Codes_Online.txt",
