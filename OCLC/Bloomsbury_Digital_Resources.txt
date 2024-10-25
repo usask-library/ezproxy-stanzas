@@ -221,3 +221,11 @@ HJ https://citethemrightonline.com
 HJ https://www.citethemrightonline.com
 HJ www.citethemrightonline.com
 DJ citethemrightonline.com
+
+Title Jessica Kingsley Publishers Library
+URL https://www.jkplibrary.com/
+HJ https://jkplibrary.com
+HJ https://www.jkplibrary.com
+HJ jkplibrary.com
+HJ www.jkplibrary.com
+DJ jkplibrary.com
