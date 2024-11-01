@@ -1982,6 +1982,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CareLit",
         "lastUpdated": "2023-06-23"
     },
+    "Carnegie_Hall": {
+        "name": "Carnegie Hall +",
+        "stanza": "OCLC/Carnegie_Hall.txt",
+        "oclcStanzaId": "Carnegie_Hall",
+        "oclcIncludeFile": "databases/carnegie_hall_plus.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Carnegie_Hall",
+        "lastUpdated": "2024-10-27"
+    },
     "Casting_About": {
         "name": "Casting About",
         "stanza": "OCLC/Casting_About.txt",
@@ -3465,6 +3473,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine",
         "lastUpdated": "2023-12-12"
     },
+    "Examine_Test": {
+        "name": "Examine Test",
+        "stanza": "OCLC/Examine_Test.txt",
+        "oclcStanzaId": "Examine_Test",
+        "oclcIncludeFile": "databases/examine.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine_Test",
+        "lastUpdated": "2024-10-27"
+    },
     "Exceptional_Parent": {
         "name": "Exceptional Parent",
         "stanza": "OCLC/Exceptional_Parent.txt",
@@ -3804,6 +3820,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Global_Business_Traveler",
         "lastUpdated": "2018-07-11"
     },
+    "Global_Financial_Data": {
+        "name": "Global Financial Data",
+        "stanza": "OCLC/Global_Financial_Data.txt",
+        "oclcStanzaId": "Global_Financial_Data",
+        "oclcIncludeFile": "databases/globalfinancialdata.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Global_Financial_Data",
+        "lastUpdated": "2024-10-27"
+    },
     "Global_Local_Living": {
         "name": "Global Local Living",
         "stanza": "OCLC/Global_Local_Living.txt",
@@ -3953,6 +3977,14 @@
         "stanza": "contrib/HathiTrust_Digital_Library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HathiTrust_Digital_Library",
         "lastUpdated": "2023-07-17"
+    },
+    "Haymarket_Media_Group": {
+        "name": "Haymarket Media Group",
+        "stanza": "OCLC/Haymarket_Media_Group.txt",
+        "oclcStanzaId": "Haymarket_Media_Group",
+        "oclcIncludeFile": "databases/dcponline.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Haymarket_Media_Group",
+        "lastUpdated": "2021-10-10"
     },
     "Healio": {
         "name": "Healio",
@@ -4767,6 +4799,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Rheumatology",
         "lastUpdated": "2022-03-09"
     },
+    "Journal_of_Studies_on_Alcohol_and_Drugs": {
+        "name": "Journal of Studies on Alcohol and Drugs",
+        "stanza": "OCLC/Journal_of_Studies_on_Alcohol_and_Drugs.txt",
+        "oclcStanzaId": "Journal_of_Studies_on_Alcohol_and_Drugs",
+        "oclcIncludeFile": "databases/Journal_of_Studies_on_Alcohol_and_Drugs.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Studies_on_Alcohol_and_Drugs",
+        "lastUpdated": "2024-10-29"
+    },
     "Journal_of_the_American_Animal_Hospital_Association": {
         "name": "Journal of the American Animal Hospital Association",
         "stanza": "OCLC/Journal_of_the_American_Animal_Hospital_Association.txt",
@@ -5487,7 +5527,7 @@
         "oclcStanzaId": "McGraw-Hill_Medical",
         "oclcIncludeFile": "databases/mhmedical.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical",
-        "lastUpdated": "2024-07-08"
+        "lastUpdated": "2024-10-27"
     },
     "McIntyre_Media": {
         "name": "McIntyre Media",
@@ -7586,7 +7626,7 @@
         "oclcStanzaId": "SAE_MOBILUS",
         "oclcIncludeFile": "databases/sae.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
-        "lastUpdated": "2024-10-14"
+        "lastUpdated": "2024-10-27"
     },
     "Safari_Books_Online": {
         "name": "O'Reilly Learning (formerly Safari Books Online)",
@@ -8387,7 +8427,7 @@
         "oclcStanzaId": "The_Social_History_Archive",
         "oclcIncludeFile": "databases/the_social_history_archive_1722610743721.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Social_History_Archive",
-        "lastUpdated": "2024-09-08"
+        "lastUpdated": "2024-10-27"
     },
     "Thieme": {
         "name": "Thieme",
