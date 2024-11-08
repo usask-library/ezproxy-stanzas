@@ -7446,6 +7446,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RICS_isurv",
         "lastUpdated": "2015-05-13"
     },
+    "Rinsho": {
+        "name": "Rinsho",
+        "stanza": "OCLC/Rinsho.txt",
+        "oclcStanzaId": "Rinsho",
+        "oclcIncludeFile": "databases/rinsho.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rinsho",
+        "lastUpdated": "2024-09-23"
+    },
     "RIPM_Jazz_Periodicals": {
         "name": "RIPM Jazz Periodicals",
         "stanza": "OCLC/RIPM_Jazz_Periodicals.txt",
