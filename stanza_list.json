@@ -1754,7 +1754,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2024-09-27"
+        "lastUpdated": "2024-11-10"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
