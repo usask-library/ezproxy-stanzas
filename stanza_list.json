@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-10-21"
+        "lastUpdated": "2024-11-10"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -3441,6 +3441,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/European_Mathematical_Information_Service",
         "lastUpdated": "2016-01-19"
     },
+    "European_Respiratory_Society": {
+        "name": "European Respiratory Society",
+        "stanza": "OCLC/European_Respiratory_Society.txt",
+        "oclcStanzaId": "European_Respiratory_Society",
+        "oclcIncludeFile": "databases/ersjournals.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/European_Respiratory_Society",
+        "lastUpdated": "2024-11-10"
+    },
     "European_Respiratory_Society_Stanza": {
         "name": "European Respiratory Society Stanza",
         "stanza": "OCLC/European_Respiratory_Society_Stanza.txt",
@@ -3471,7 +3479,7 @@
         "oclcStanzaId": "Examine",
         "oclcIncludeFile": "databases/examine.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine",
-        "lastUpdated": "2023-12-12"
+        "lastUpdated": "2024-11-10"
     },
     "Examine_Test": {
         "name": "Examine Test",
@@ -4902,6 +4910,14 @@
         "oclcIncludeFile": "databases/jusmundi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research_with_Brill",
         "lastUpdated": "2020-01-20"
+    },
+    "Jus_Mundi_-_Academic_Research": {
+        "name": "Jus Mundi - Academic Research",
+        "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
+        "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
+        "oclcIncludeFile": "databases/jusmundi.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
+        "lastUpdated": "2024-11-10"
     },
     "Kaltura": {
         "name": "Kaltura",
