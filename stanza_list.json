@@ -398,6 +398,14 @@
         "oclcIncludeFile": "databases/almanacfederalfiduciary.txt",
         "lastUpdated": "2021-07-26"
     },
+    "Al_Manhal": {
+        "name": "Al Manhal",
+        "stanza": "OCLC/Al_Manhal.txt",
+        "oclcStanzaId": "Al_Manhal",
+        "oclcIncludeFile": "databases/al_manhal.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Al_Manhal",
+        "lastUpdated": "2024-11-18"
+    },
     "Amadeus": {
         "name": "Amadeus",
         "stanza": "OCLC/Amadeus.txt",
