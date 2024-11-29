@@ -2950,7 +2950,7 @@
         "oclcStanzaId": "East_View_Information_Services_Inc",
         "oclcIncludeFile": "databases/eastview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/East_View_Information_Services_Inc",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2024-11-25"
     },
     "Ebook_Central_PatronLogin": {
         "name": "Ebook Central (Patron Login + EZproxy)",
@@ -4805,7 +4805,7 @@
         "oclcStanzaId": "Journal_of_Orthopaedic_and_Sports_Physical_Therapy",
         "oclcIncludeFile": "databases/jospt.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Orthopaedic_and_Sports_Physical_Therapy",
-        "lastUpdated": "2022-06-27"
+        "lastUpdated": "2024-11-27"
     },
     "Journal_of_Rheumatology": {
         "name": "Journal of Rheumatology",
