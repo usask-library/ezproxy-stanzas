@@ -7758,6 +7758,14 @@
         "name": "Scholars Portal (Books, Journals, GeoPortal, RACER, DataVerse)",
         "stanza": "contrib/ScholarsPortal.txt"
     },
+    "Scholastic": {
+        "name": "Scholastic",
+        "stanza": "OCLC/Scholastic.txt",
+        "oclcStanzaId": "Scholastic",
+        "oclcIncludeFile": "databases/scholastic_1727710943952.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scholastic",
+        "lastUpdated": "2024-09-19"
+    },
     "Scholastic_Learning_Zone": {
         "name": "Scholastic Learning Zone",
         "stanza": "OCLC/Scholastic_Learning_Zone.txt",
@@ -8719,7 +8727,7 @@
         "oclcStanzaId": "University_of_Toronto_Press_Journals",
         "oclcIncludeFile": "databases/utorontopress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Toronto_Press_Journals",
-        "lastUpdated": "2020-07-31"
+        "lastUpdated": "2024-12-02"
     },
     "University_of_Virginia_Press_Rotunda": {
         "name": "University of Virginia Press - Rotunda",
