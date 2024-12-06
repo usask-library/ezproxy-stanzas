@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-11-10"
+        "lastUpdated": "2024-12-03"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -3050,7 +3050,7 @@
         "oclcStanzaId": "EcommerceDB",
         "oclcIncludeFile": "databases/ecommercedb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EcommerceDB",
-        "lastUpdated": "2020-01-13"
+        "lastUpdated": "2024-12-03"
     },
     "Economics_of_Peace_and_Security_Journal": {
         "name": "Economics of Peace and Security Journal, The",
@@ -4877,7 +4877,7 @@
         "oclcStanzaId": "JoVE",
         "oclcIncludeFile": "databases/jove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JoVE",
-        "lastUpdated": "2023-03-14"
+        "lastUpdated": "2024-12-03"
     },
     "JSTOR": {
         "name": "JSTOR",
