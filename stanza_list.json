@@ -3646,6 +3646,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Film_Platform",
         "lastUpdated": "2017-10-25"
     },
+    "Finaeon": {
+        "name": "Finaeon",
+        "stanza": "OCLC/Finaeon.txt",
+        "oclcStanzaId": "Finaeon",
+        "oclcIncludeFile": "databases/finaeon.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Finaeon",
+        "lastUpdated": "2024-12-03"
+    },
     "Financial_Times": {
         "name": "Financial Times",
         "stanza": "OCLC/Financial_Times.txt",
@@ -8727,7 +8735,7 @@
         "oclcStanzaId": "University_of_Toronto_Press_Journals",
         "oclcIncludeFile": "databases/utorontopress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Toronto_Press_Journals",
-        "lastUpdated": "2024-12-02"
+        "lastUpdated": "2024-12-09"
     },
     "University_of_Virginia_Press_Rotunda": {
         "name": "University of Virginia Press - Rotunda",
