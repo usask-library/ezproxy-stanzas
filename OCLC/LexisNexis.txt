@@ -1,8 +1,9 @@
 AnonymousURL +https://dniaeeyvroj2l.cloudfront.net/index.html
+AnonymousURL +https://static.law360news.com/*
 PHE www.lexisnexis.com$ www-lexisnexis-com
 PHE www.nexis.com$ www-nexis-com
 Option CookiePassThrough
-Title Lexis Nexis (updated 20240603)
+Title Lexis Nexis (updated 20241208)
 HTTPMethod PUT
 HTTPMethod DELETE
 HTTPMethod PATCH
@@ -66,6 +67,14 @@ HJ https://www.nexisuni.com
 HJ www.nexisuni.com
 HJ https://www.totalpatentone.com
 HJ www.totalpatentone.com
+HJ https://www.law360.com
+HJ www.law360.com
+HJ https://www.law360.ca
+HJ www.law360.ca
+HJ https://www.law360.co.uk
+HJ www.law360.co.uk
+HJ https://static.law360news.com
+HJ static.law360news.com
 DJ lexis-nexis.com
 DJ lexis360intelligence.fr
 DJ lexis.com
@@ -77,6 +86,9 @@ DJ mylexisnexis.co.za
 DJ nexis.com
 DJ nexisuni.com
 DJ plus.lexis.com
+DJ law360.com
+DJ law360.ca
+DJ law360.co.uk
 Find location.hostname
 Replace location.host
 Find = "www.lexisnexis.com"
