@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2024-12-13"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -2676,7 +2676,7 @@
         "oclcStanzaId": "DETAIL_Inspiration",
         "oclcIncludeFile": "databases/detailonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DETAIL_Inspiration",
-        "lastUpdated": "2024-11-20"
+        "lastUpdated": "2024-12-13"
     },
     "De_Gruyter_Online": {
         "name": "De Gruyter Online",
