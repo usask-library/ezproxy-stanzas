@@ -943,7 +943,7 @@
         "oclcStanzaId": "Artnet",
         "oclcIncludeFile": "databases/artnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Artnet",
-        "lastUpdated": "2023-05-01"
+        "lastUpdated": "2024-12-23"
     },
     "Artron_Art_Books_Database": {
         "name": "Artron Art Books Database",
@@ -2106,7 +2106,7 @@
         "oclcStanzaId": "Chicago_Manual_of_Style_Online",
         "oclcIncludeFile": "databases/chicagomanual.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Chicago_Manual_of_Style_Online",
-        "lastUpdated": "2022-02-23"
+        "lastUpdated": "2024-12-23"
     },
     "Childlink": {
         "name": "Childlink",
@@ -2437,6 +2437,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Consumer_Brand_Analytics",
         "lastUpdated": "2018-07-25"
     },
+    "Contexte": {
+        "name": "Contexte",
+        "stanza": "OCLC/Contexte.txt",
+        "oclcStanzaId": "Contexte",
+        "oclcIncludeFile": "databases/contexte_1731940232865.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Contexte",
+        "lastUpdated": "2024-12-23"
+    },
     "CookieLaw": {
         "name": "CookieLaw",
         "stanza": "OCLC/CookieLaw.txt",
@@ -2556,7 +2564,6 @@
         "name": "CultureGrams",
         "stanza": "OCLC/CultureGrams.txt",
         "oclcStanzaId": "CultureGrams",
-        "oclcIncludeFile": "databases/culturegrams.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CultureGrams",
         "lastUpdated": "2023-07-06"
     },
@@ -3487,7 +3494,7 @@
         "oclcStanzaId": "Examine",
         "oclcIncludeFile": "databases/examine.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine",
-        "lastUpdated": "2024-11-10"
+        "lastUpdated": "2024-12-23"
     },
     "Examine_Test": {
         "name": "Examine Test",
@@ -5072,7 +5079,7 @@
         "oclcStanzaId": "Knotia_(CPA)",
         "oclcIncludeFile": "databases/knotia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Knotia_(CPA)",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2024-12-23"
     },
     "Knovel": {
         "name": "Knovel",
@@ -5621,7 +5628,7 @@
         "oclcStanzaId": "Medical_Online",
         "oclcIncludeFile": "databases/medicalonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medical_Online",
-        "lastUpdated": "2024-04-05"
+        "lastUpdated": "2024-12-23"
     },
     "Medici.tv_EDU": {
         "name": "Medici.tv EDU",
@@ -7170,7 +7177,7 @@
         "oclcStanzaId": "ProQuest",
         "oclcIncludeFile": "databases/proquest.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/ProQuest",
-        "lastUpdated": "2022-08-04"
+        "lastUpdated": "2024-12-23"
     },
     "Pro_Demand": {
         "name": "Pro Demand",
