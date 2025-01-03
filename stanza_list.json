@@ -3241,7 +3241,6 @@
         "name": "Elsevier Clinical Skills and Elsevier Performance Manager",
         "stanza": "OCLC/Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager.txt",
         "oclcStanzaId": "Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager",
-        "oclcIncludeFile": "databases/elsevierperformancemanager.txt",
         "rules": [
             {
                 "rule": "Replace",
