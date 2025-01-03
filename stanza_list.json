@@ -3479,14 +3479,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine",
         "lastUpdated": "2024-12-23"
     },
-    "Examine_Test": {
-        "name": "Examine Test",
-        "stanza": "OCLC/Examine_Test.txt",
-        "oclcStanzaId": "Examine_Test",
-        "oclcIncludeFile": "databases/examine.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Examine_Test",
-        "lastUpdated": "2024-10-27"
-    },
     "Exceptional_Parent": {
         "name": "Exceptional Parent",
         "stanza": "OCLC/Exceptional_Parent.txt",
