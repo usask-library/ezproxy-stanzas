@@ -3455,14 +3455,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/European_Respiratory_Society",
         "lastUpdated": "2024-11-10"
     },
-    "European_Respiratory_Society_Stanza": {
-        "name": "European Respiratory Society Stanza",
-        "stanza": "OCLC/European_Respiratory_Society_Stanza.txt",
-        "oclcStanzaId": "European_Respiratory_Society_Stanza",
-        "oclcIncludeFile": "databases/ersjournals.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/European_Respiratory_Society_Stanza",
-        "lastUpdated": "2022-06-27"
-    },
     "Europresse-Eureka": {
         "name": "Europresse/Eureka",
         "stanza": "OCLC/Europresse-Eureka.txt",
