@@ -2653,14 +2653,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DawsonEra",
         "lastUpdated": "2019-11-15"
     },
-    "DCP_Online": {
-        "name": "DCP Online",
-        "stanza": "OCLC/DCP_Online.txt",
-        "oclcStanzaId": "DCP_Online",
-        "oclcIncludeFile": "databases/dcponline.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DCP_Online",
-        "lastUpdated": "2021-05-11"
-    },
     "Den_Hollander": {
         "name": "Den Hollander",
         "stanza": "OCLC/Den_Hollander.txt",
@@ -4669,7 +4661,7 @@
         "oclcStanzaId": "Jane's_Online_Service",
         "oclcIncludeFile": "databases/janes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jane's_Online_Service",
-        "lastUpdated": "2020-09-27"
+        "lastUpdated": "2024-09-27"
     },
     "JapanKnowledge": {
         "name": "JapanKnowledge",
