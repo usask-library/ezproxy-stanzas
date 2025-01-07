@@ -3242,7 +3242,10 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager",
-        "lastUpdated": "2021-03-01"
+        "lastUpdated": "2021-03-01",
+        "oclcIncludeFile": [
+            "databases/elsevierperformancemanager.txt"
+        ]
     },
     "Elsevier_eLibrary_APAC": {
         "name": "Elsevier eLibrary APAC",
@@ -3511,7 +3514,7 @@
             {
                 "rule": "Replace",
                 "term": "[PLACE-XSID-HERE]",
-                "placeholder": "Your institution’s unique ID"
+                "placeholder": "Your institution\u2019s unique ID"
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Factiva",
@@ -4907,6 +4910,14 @@
         "oclcIncludeFile": "databases/justis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Justis",
         "lastUpdated": "2020-09-07"
+    },
+    "Jus_Mundi_-_Academic_Research": {
+        "name": "Jus Mundi - Academic Research",
+        "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
+        "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
+        "oclcIncludeFile": "databases/jusmundi.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
+        "lastUpdated": "2024-11-10"
     },
     "Jus_Mundi_Academic_Research": {
         "name": "Jus Mundi - Academic Research",
@@ -8466,7 +8477,7 @@
             "databases/thieme.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2024-11-16"
+        "lastUpdated": "2025-01-03"
     },
     "Thinkmap_Visual_Thesaurus": {
         "name": "Thinkmap: Visual Thesaurus",
