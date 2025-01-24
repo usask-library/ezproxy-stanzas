@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2024-12-13"
+        "lastUpdated": "2025-01-23"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -236,7 +236,7 @@
         "oclcStanzaId": "Ad_Fontes_Media",
         "oclcIncludeFile": "databases/adfontesmedia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ad_Fontes_Media",
-        "lastUpdated": "2022-03-09"
+        "lastUpdated": "2025-01-18"
     },
     "Aesthetic_and_Cosmetology_Video_Source": {
         "name": "Aesthetic & Cosmetology Video Source",
@@ -1604,7 +1604,7 @@
         "oclcStanzaId": "Brief.science",
         "oclcIncludeFile": "databases/briefscience.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Brief.science",
-        "lastUpdated": "2025-01-13"
+        "lastUpdated": "2025-01-23"
     },
     "BrillOnline": {
         "name": "BrillOnline",
@@ -3011,7 +3011,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2024-08-15"
+        "lastUpdated": "2025-01-18"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -3826,7 +3826,7 @@
         "oclcStanzaId": "GlobalData",
         "oclcIncludeFile": "databases/globaldatadisruptor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GlobalData",
-        "lastUpdated": "2024-09-13"
+        "lastUpdated": "2025-01-18"
     },
     "Global_Business_Traveler": {
         "name": "Global Business Traveler",
@@ -5583,6 +5583,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medcom_Trainex",
         "lastUpdated": "2015-06-22"
     },
+    "Media_Education_Foundation_Films": {
+        "name": "Media Education Foundation Films",
+        "stanza": "OCLC/Media_Education_Foundation_Films.txt",
+        "oclcStanzaId": "Media_Education_Foundation_Films",
+        "oclcIncludeFile": "databases/media_education_foundation_films_1735651578204.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Media_Education_Foundation_Films",
+        "lastUpdated": "2025-01-18"
+    },
     "Media_Names_and_Numbers": {
         "name": "Media Names & Numbers",
         "stanza": "OCLC/Media_Names_and_Numbers.txt",
@@ -6140,7 +6148,7 @@
         "oclcStanzaId": "Neurosurgical_Atlas",
         "oclcIncludeFile": "databases/neurosurgicalatlas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Neurosurgical_Atlas",
-        "lastUpdated": "2023-05-16"
+        "lastUpdated": "2025-01-18"
     },
     "NewsBank": {
         "name": "NewsBank",
@@ -9114,7 +9122,7 @@
         "oclcStanzaId": "WorldTradeLaw",
         "oclcIncludeFile": "databases/worldtradelaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WorldTradeLaw",
-        "lastUpdated": "2016-06-03"
+        "lastUpdated": "2025-01-18"
     },
     "World_Bank_eLibrary": {
         "name": "World Bank eLibrary",
