@@ -442,7 +442,9 @@
         "name": "American Academy of Opthalmology Publications",
         "stanza": "OCLC/American_Academy_of_Opthalmology_Publications.txt",
         "oclcStanzaId": "American_Academy_of_Opthalmology_Publications",
-        "oclcIncludeFile": "databases/aao.txt",
+        "oclcIncludeFile": [
+            "databases/American_Academy_of_Opthalmology.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Academy_of_Opthalmology_Publications",
         "lastUpdated": "2023-08-29"
     },
@@ -5188,7 +5190,7 @@
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis",
-        "lastUpdated": "2024-12-08"
+        "lastUpdated": "2025-01-27"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
