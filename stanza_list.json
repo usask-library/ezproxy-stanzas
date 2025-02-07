@@ -1510,7 +1510,7 @@
         "oclcStanzaId": "Boomportaal",
         "oclcIncludeFile": "databases/boomportaal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boomportaal",
-        "lastUpdated": "2022-02-08"
+        "lastUpdated": "2025-02-06"
     },
     "Boston_College_Open_Access_Journals": {
         "name": "Boston College Open Access Journals",
@@ -4562,7 +4562,7 @@
         "oclcStanzaId": "International_Journal_of_E-Learning_%26_Distance_Education",
         "oclcIncludeFile": "databases/ijede.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Journal_of_E-Learning_%26_Distance_Education",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2025-02-06"
     },
     "International_journal_of_human_sciences": {
         "name": "International journal of human sciences",
