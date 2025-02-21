@@ -53,7 +53,7 @@
         "oclcStanzaId": "ABCMouse",
         "oclcIncludeFile": "databases/abcmouse.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ABCMouse",
-        "lastUpdated": "2020-11-20"
+        "lastUpdated": "2025-02-17"
     },
     "ABC_CLIO_Databases_and_Ebooks": {
         "name": "ABC-CLIO Databases and Ebooks",
@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-01-23"
+        "lastUpdated": "2025-02-17"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -236,7 +236,7 @@
         "oclcStanzaId": "Ad_Fontes_Media",
         "oclcIncludeFile": "databases/adfontesmedia.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ad_Fontes_Media",
-        "lastUpdated": "2025-01-18"
+        "lastUpdated": "2025-02-17"
     },
     "Aesthetic_and_Cosmetology_Video_Source": {
         "name": "Aesthetic & Cosmetology Video Source",
@@ -1206,7 +1206,7 @@
         "oclcStanzaId": "Aviation_Week_Intelligence_Network",
         "oclcIncludeFile": "databases/aviation_week.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Aviation_Week_Intelligence_Network",
-        "lastUpdated": "2022-12-06"
+        "lastUpdated": "2025-02-17"
     },
     "Axis360": {
         "name": "Axis360",
@@ -1748,7 +1748,7 @@
         "oclcStanzaId": "Cabells_Directories",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
         "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2024-02-26"
+        "lastUpdated": "2025-02-17"
     },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
@@ -2445,7 +2445,7 @@
         "oclcStanzaId": "Contexte",
         "oclcIncludeFile": "databases/contexte_1731940232865.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Contexte",
-        "lastUpdated": "2024-12-23"
+        "lastUpdated": "2025-02-17"
     },
     "CookieLaw": {
         "name": "CookieLaw",
@@ -2685,7 +2685,7 @@
         "oclcStanzaId": "De_Gruyter_Online",
         "oclcIncludeFile": "databases/degruyter.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/De_Gruyter_Online",
-        "lastUpdated": "2022-08-05"
+        "lastUpdated": "2025-02-17"
     },
     "De_Marque": {
         "name": "De Marque",
@@ -4049,7 +4049,7 @@
         "stanza": "OCLC/Henry_Stewart_Talks.txt",
         "oclcStanzaId": "Henry_Stewart_Talks",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Henry_Stewart_Talks",
-        "lastUpdated": "2017-02-22"
+        "lastUpdated": "2025-02-17"
     },
     "HeritageQuest_Online": {
         "name": "HeritageQuest Online",
@@ -6506,7 +6506,7 @@
         "oclcStanzaId": "Optica_Publishing_Group_(formerly_OSA)",
         "oclcIncludeFile": "databases/osapublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Optica_Publishing_Group_(formerly_OSA)",
-        "lastUpdated": "2022-01-27"
+        "lastUpdated": "2025-02-17"
     },
     "Orbis": {
         "name": "Orbis",
@@ -7172,7 +7172,7 @@
         "oclcStanzaId": "ProQuest",
         "oclcIncludeFile": "databases/proquest.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/ProQuest",
-        "lastUpdated": "2024-12-23"
+        "lastUpdated": "2025-02-17"
     },
     "Pro_Demand": {
         "name": "Pro Demand",
@@ -9077,7 +9077,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2024-10-20"
+        "lastUpdated": "2025-02-17"
     },
     "WisersOne": {
         "name": "WisersOne",
