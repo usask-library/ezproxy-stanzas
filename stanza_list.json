@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-02-17"
+        "lastUpdated": "2025-02-27"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -1259,7 +1259,6 @@
         "name": "Bates' Visual Guide to Physical Examination",
         "stanza": "OCLC/Bates_Visual_Guide_to_Physical_Examination.txt",
         "oclcStanzaId": "Bates'_Visual_Guide_to_Physical_Examination",
-        "oclcIncludeFile": "databases/batesvisualguide.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bates'_Visual_Guide_to_Physical_Examination",
         "lastUpdated": "2022-08-26"
     },
@@ -7464,6 +7463,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Responsible_Investor",
         "lastUpdated": "2021-04-07"
     },
+    "RetroNews": {
+        "name": "RetroNews",
+        "stanza": "OCLC/RetroNews.txt",
+        "oclcStanzaId": "RetroNews",
+        "oclcIncludeFile": "databases/retronews.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RetroNews",
+        "lastUpdated": "2025-02-24"
+    },
     "Richard_K_Miller_Associates": {
         "name": "Richard K. Miller & Associates",
         "stanza": "OCLC/Richard_K_Miller_Associates.txt",
@@ -7899,7 +7906,7 @@
         "oclcStanzaId": "SciFinder",
         "oclcIncludeFile": "databases/scifinder.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SciFinder",
-        "lastUpdated": "2024-10-21"
+        "lastUpdated": "2025-02-26"
     },
     "Sciquest": {
         "name": "Sciquest",
