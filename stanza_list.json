@@ -172,7 +172,7 @@
         "oclcStanzaId": "ACF_Streaming_Service",
         "oclcIncludeFile": "databases/acf-film.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ACF_Streaming_Service",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2025-02-28"
     },
     "AclandAnatomy": {
         "name": "Acland's Video Atlas of Human Anatomy",
@@ -3763,7 +3763,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2024-10-22"
+        "lastUpdated": "2025-02-28"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -8680,7 +8680,7 @@
         "oclcStanzaId": "Unebook",
         "oclcIncludeFile": "databases/unebook.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/Unebook",
-        "lastUpdated": "2022-03-24"
+        "lastUpdated": "2025-02-28"
     },
     "Universitatsverlag_Winter": {
         "name": "Universit\u00e4tsverlag Winter",
