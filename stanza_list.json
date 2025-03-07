@@ -5189,7 +5189,7 @@
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis",
-        "lastUpdated": "2025-01-27"
+        "lastUpdated": "2025-03-02"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
@@ -8169,6 +8169,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SPIE_Digital_Library",
         "lastUpdated": "2017-08-15"
     },
+    "Sports_Business_Journal": {
+        "name": "Sports Business Journal",
+        "stanza": "OCLC/Sports_Business_Journal.txt",
+        "oclcStanzaId": "Sports_Business_Journal",
+        "oclcIncludeFile": "databases/sportsbusinessjournal_1741030746921.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sports_Business_Journal",
+        "lastUpdated": "2025-03-02"
+    },
     "Sports_Market_Analytics": {
         "name": "Sports Market Analytics",
         "stanza": "OCLC/Sports_Market_Analytics.txt",
@@ -9084,7 +9092,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2025-02-17"
+        "lastUpdated": "2025-03-03"
     },
     "WisersOne": {
         "name": "WisersOne",
