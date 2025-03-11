@@ -5441,7 +5441,7 @@
         "oclcStanzaId": "Marketing_Week",
         "oclcIncludeFile": "databases/marketingweek.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Marketing_Week",
-        "lastUpdated": "2019-11-26"
+        "lastUpdated": "2025-03-04"
     },
     "MarketLine_Advantage": {
         "name": "MarketLine Advantage",
@@ -6149,7 +6149,7 @@
         "oclcStanzaId": "Neurosurgical_Atlas",
         "oclcIncludeFile": "databases/neurosurgicalatlas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Neurosurgical_Atlas",
-        "lastUpdated": "2025-01-18"
+        "lastUpdated": "2025-03-03"
     },
     "NewsBank": {
         "name": "NewsBank",
