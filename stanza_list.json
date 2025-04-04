@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-02-27"
+        "lastUpdated": "2025-03-31"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -266,7 +266,6 @@
         "name": "Africa Commons",
         "stanza": "OCLC/Africa_Commons.txt",
         "oclcStanzaId": "Africa_Commons",
-        "oclcIncludeFile": "databases/africacommons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa_Commons",
         "lastUpdated": "2022-12-02"
     },
@@ -1017,7 +1016,7 @@
         "oclcStanzaId": "ASM_International",
         "oclcIncludeFile": "databases/asminternational.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASM_International",
-        "lastUpdated": "2022-06-21"
+        "lastUpdated": "2025-03-31"
     },
     "Aspen_Learning_Library": {
         "name": "Aspen Learning Library (formerly AspenLaw eBooks)",
@@ -1763,7 +1762,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2024-11-10"
+        "lastUpdated": "2025-03-31"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -1809,7 +1808,6 @@
         "name": "Canada Commons",
         "stanza": "OCLC/Canada_Commons.txt",
         "oclcStanzaId": "Canada_Commons",
-        "oclcIncludeFile": "databases/canadacommons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canada_Commons",
         "lastUpdated": "2022-01-06"
     },
@@ -2302,6 +2300,13 @@
         "oclcIncludeFile": "databases/nrc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Codes_Guide_NRC",
         "lastUpdated": "2021-05-11"
+    },
+    "Coherent_Digital_Resources": {
+        "name": "Coherent Digital Resources",
+        "stanza": "OCLC/Coherent_Digital_Resources.txt",
+        "oclcStanzaId": "Coherent_Digital_Resources",
+        "oclcIncludeFile": "databases/coherent_digital_resources.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Coherent_Digital_Resources"
     },
     "Cold_Spring_Harbor_Laboratory_Press": {
         "name": "Cold Spring Harbor Laboratory Press",
@@ -3655,6 +3660,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Financial_Times",
         "lastUpdated": "2021-04-12"
     },
+    "Findmypast": {
+        "name": "Findmypast",
+        "stanza": "OCLC/Findmypast.txt",
+        "oclcStanzaId": "Findmypast",
+        "oclcIncludeFile": "databases/find_my_past_1742323549110.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Findmypast",
+        "lastUpdated": "2025-03-31"
+    },
     "Fitch_Connect": {
         "name": "Fitch Connect",
         "stanza": "OCLC/Fitch_Connect.txt",
@@ -4063,7 +4076,7 @@
         "oclcStanzaId": "Heritage_Broadcasting_Service",
         "oclcIncludeFile": "databases/heritage_broadcasting_service_1708553191430.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Heritage_Broadcasting_Service",
-        "lastUpdated": "2024-02-21"
+        "lastUpdated": "2025-03-31"
     },
     "HighWire_Press": {
         "name": "HighWire Press",
@@ -4093,7 +4106,6 @@
         "name": "History Commons",
         "stanza": "OCLC/History_Commons.txt",
         "oclcStanzaId": "History_Commons",
-        "oclcIncludeFile": "databases/historycommons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/History_Commons",
         "lastUpdated": "2022-07-18"
     },
@@ -5073,7 +5085,7 @@
         "oclcStanzaId": "Knovel",
         "oclcIncludeFile": "databases/knovel.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Knovel",
-        "lastUpdated": "2022-05-09"
+        "lastUpdated": "2025-03-31"
     },
     "Kompass": {
         "name": "Kompass",
@@ -6966,7 +6978,6 @@
         "name": "Policy Commons",
         "stanza": "OCLC/Policy_Commons.txt",
         "oclcStanzaId": "Policy_Commons",
-        "oclcIncludeFile": "databases/policycommons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Policy_Commons",
         "lastUpdated": "2020-11-04"
     },
@@ -7123,7 +7134,7 @@
         "oclcStanzaId": "Proceedings_of_the_National_Academy_of_Sciences",
         "oclcIncludeFile": "databases/pnas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Proceedings_of_the_National_Academy_of_Sciences",
-        "lastUpdated": "2024-10-09"
+        "lastUpdated": "2025-03-31"
     },
     "Projectr_TV": {
         "name": "Projectr TV",
@@ -8158,7 +8169,6 @@
         "name": "South Asia Commons",
         "stanza": "OCLC/South_Asia_Commons.txt",
         "oclcStanzaId": "South_Asia_Commons",
-        "oclcIncludeFile": "databases/southasiacommons.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/South_Asia_Commons",
         "lastUpdated": "2022-08-03"
     },
@@ -8332,7 +8342,7 @@
         "oclcStanzaId": "S_and_P_Global",
         "oclcIncludeFile": "databases/s_and_p_global.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S_and_P_Global",
-        "lastUpdated": "2023-12-13"
+        "lastUpdated": "2025-03-31"
     },
     "Taxnet_Pro": {
         "name": "Taxnet Pro",
@@ -9092,7 +9102,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2025-03-03"
+        "lastUpdated": "2025-03-31"
     },
     "WisersOne": {
         "name": "WisersOne",
