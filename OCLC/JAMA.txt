@@ -1,7 +1,7 @@
 AnonymousURL +https://cdn.jamanetwork.com/*.ttf*
 AnonymousURL +https://cdn.jamanetwork.com/*.css*
 AnonymousURL +https://cdn.jamanetwork.com/*.woff*
-Title JAMA Network (OCLC IncludeFile updated 20240115)
+Title JAMA Network (updated 20240115)
 URL https://jamanetwork.com
 HJ amednews.com
 HJ archderm.jamanetwork.com

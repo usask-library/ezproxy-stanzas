@@ -2587,7 +2587,7 @@
         "oclcStanzaId": "Dalloz",
         "oclcIncludeFile": "databases/dalloz.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dalloz",
-        "lastUpdated": "2024-09-16"
+        "lastUpdated": "2025-04-03"
     },
     "Dalloz_Revues": {
         "name": "Dalloz Revues",
@@ -4526,7 +4526,7 @@
         "oclcStanzaId": "Intelex_Past_Masters",
         "oclcIncludeFile": "databases/nlxpm.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Intelex_Past_Masters",
-        "lastUpdated": "2016-07-27"
+        "lastUpdated": "2025-04-01"
     },
     "Intellect_Discover": {
         "name": "Intellect Discover",
@@ -7095,7 +7095,7 @@
         "oclcStanzaId": "PressReader",
         "oclcIncludeFile": "databases/pressreader.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PressReader",
-        "lastUpdated": "2023-04-25"
+        "lastUpdated": "2025-04-01"
     },
     "Primark": {
         "name": "Primark (including Global Access)",
