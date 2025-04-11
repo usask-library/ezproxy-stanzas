@@ -3666,7 +3666,7 @@
         "oclcStanzaId": "Findmypast",
         "oclcIncludeFile": "databases/find_my_past_1742323549110.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Findmypast",
-        "lastUpdated": "2025-03-31"
+        "lastUpdated": "2025-04-08"
     },
     "Fitch_Connect": {
         "name": "Fitch Connect",
@@ -3776,7 +3776,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2025-02-28"
+        "lastUpdated": "2025-04-07"
     },
     "Geofacets": {
         "name": "Geofacets",
