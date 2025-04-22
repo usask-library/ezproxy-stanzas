@@ -3155,7 +3155,7 @@
         "oclcStanzaId": "EIU_Viewpoint",
         "oclcIncludeFile": "databases/eiu_viewpoint.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EIU_Viewpoint",
-        "lastUpdated": "2021-06-17"
+        "lastUpdated": "2025-04-14"
     },
     "EIU_Viewswire": {
         "name": "EIU Viewswire",
@@ -4898,7 +4898,7 @@
         "oclcStanzaId": "JSTOR",
         "oclcIncludeFile": "databases/jstor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JSTOR",
-        "lastUpdated": "2022-10-13"
+        "lastUpdated": "2025-04-21"
     },
     "JUltra_Sound": {
         "name": "JUltra Sound",
@@ -8177,7 +8177,7 @@
         "stanza": "OCLC/SPIE_Digital_Library.txt",
         "oclcStanzaId": "SPIE_Digital_Library",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SPIE_Digital_Library",
-        "lastUpdated": "2017-08-15"
+        "lastUpdated": "2025-04-21"
     },
     "Sports_Business_Journal": {
         "name": "Sports Business Journal",
