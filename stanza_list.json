@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-04-23"
+        "lastUpdated": "2025-05-30"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -1596,7 +1596,7 @@
         "oclcStanzaId": "Brief.me",
         "oclcIncludeFile": "databases/briefme.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Brief.me",
-        "lastUpdated": "2023-01-24"
+        "lastUpdated": "2025-05-30"
     },
     "Brief.science": {
         "name": "Brief.science",
@@ -2059,6 +2059,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cell_Press",
         "lastUpdated": "2018-10-03"
     },
+    "Center_for_Research_Libraries": {
+        "name": "Center for Research Libraries",
+        "stanza": "OCLC/Center_for_Research_Libraries.txt",
+        "oclcStanzaId": "Center_for_Research_Libraries",
+        "oclcIncludeFile": "databases/center_for_research_libraries.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Center_for_Research_Libraries",
+        "lastUpdated": "2025-06-02"
+    },
     "Chadwyck_Databases": {
         "name": "Chadwyck Databases",
         "stanza": "OCLC/Chadwyck_Databases.txt",
@@ -2275,7 +2283,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2024-07-11"
+        "lastUpdated": "2025-05-30"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -3017,7 +3025,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2025-01-18"
+        "lastUpdated": "2025-05-30"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -3308,6 +3316,14 @@
         "oclcIncludeFile": "databases/emarketer.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EMarketer_Pro",
         "lastUpdated": "2021-05-11"
+    },
+    "Embase": {
+        "name": "Embase",
+        "stanza": "OCLC/Embase.txt",
+        "oclcStanzaId": "Embase",
+        "oclcIncludeFile": "databases/embase.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Embase",
+        "lastUpdated": "2025-05-30"
     },
     "Emerald_Insight": {
         "name": "Emerald Insight",
@@ -4410,6 +4426,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inderscience_Online",
         "lastUpdated": "2019-11-07"
     },
+    "IndexPresse_Business": {
+        "name": "IndexPresse Business",
+        "stanza": "OCLC/IndexPresse_Business.txt",
+        "oclcStanzaId": "IndexPresse_Business",
+        "oclcIncludeFile": "databases/indexpresse_business.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IndexPresse_Business",
+        "lastUpdated": "2025-05-30"
+    },
     "IndiaStat": {
         "name": "IndiaStat",
         "stanza": "OCLC/IndiaStat.txt",
@@ -4630,6 +4654,14 @@
         "oclcIncludeFile": "databases/ipolitics.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IPolitics",
         "lastUpdated": "2019-12-19"
+    },
+    "Irish_Medicines_Formulary": {
+        "name": "Irish Medicines Formulary",
+        "stanza": "OCLC/Irish_Medicines_Formulary.txt",
+        "oclcStanzaId": "Irish_Medicines_Formulary",
+        "oclcIncludeFile": "databases/irish_medicines_formulary_1748352136539.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Irish_Medicines_Formulary",
+        "lastUpdated": "2025-06-02"
     },
     "Iter_Gateway_to_the_Middle_Ages_and_Renaissance": {
         "name": "Iter: Gateway to the Middle Ages and Renaissance",
@@ -5469,7 +5501,7 @@
         "oclcStanzaId": "MarketLine_Advantage",
         "oclcIncludeFile": "databases/marketlineadvantage.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MarketLine_Advantage",
-        "lastUpdated": "2019-04-09"
+        "lastUpdated": "2025-06-02"
     },
     "MarketResearch.com_Academic": {
         "name": "MarketResearch.com Academic",
@@ -6050,7 +6082,7 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Naxos",
-        "lastUpdated": "2021-10-26"
+        "lastUpdated": "2025-05-30"
     },
     "Naxos_Music_Library_(Japanese_Version)": {
         "name": "Naxos Music Library (Japanese Version)",
@@ -6855,7 +6887,7 @@
         "oclcStanzaId": "Pharmaceutical_Press",
         "oclcIncludeFile": "databases/pharmaceuticalpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Pharmaceutical_Press",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-05-30"
     },
     "Pharmacy_Library": {
         "name": "Pharmacy Library",
@@ -7767,6 +7799,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sanford_Guide",
         "lastUpdated": "2024-06-18"
     },
+    "Scandinavian_University_Press": {
+        "name": "Scandinavian University Press",
+        "stanza": "OCLC/Scandinavian_University_Press.txt",
+        "oclcStanzaId": "Scandinavian_University_Press",
+        "oclcIncludeFile": "databases/scandinavian_university_press_1747691167180.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scandinavian_University_Press",
+        "lastUpdated": "2025-06-02"
+    },
     "Schattauer_Publishers": {
         "name": "Schattauer Publishers",
         "stanza": "OCLC/Schattauer_Publishers.txt",
@@ -8510,7 +8550,7 @@
         "oclcStanzaId": "The_Social_History_Archive",
         "oclcIncludeFile": "databases/the_social_history_archive_1722610743721.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Social_History_Archive",
-        "lastUpdated": "2024-10-27"
+        "lastUpdated": "2025-06-02"
     },
     "Thieme": {
         "name": "Thieme",
@@ -9005,7 +9045,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2023-10-23"
+        "lastUpdated": "2025-06-02"
     },
     "Wenxinge": {
         "name": "Wenxinge",
@@ -9126,7 +9166,7 @@
         "oclcStanzaId": "Wolters_Kluwer_Online_Deutschland",
         "oclcIncludeFile": "databases/wkdeutschland.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wolters_Kluwer_Online_Deutschland",
-        "lastUpdated": "2022-05-10"
+        "lastUpdated": "2025-06-02"
     },
     "Womens_Pregnancy_and_Breastfeeding_Medicines_Guide": {
         "name": "Women's Pregnancy and Breastfeeding Medicines Guide",
