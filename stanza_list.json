@@ -4441,6 +4441,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IndiaStat",
         "lastUpdated": "2010-11-08"
     },
+    "Indigo_Publications": {
+        "name": "Indigo Publications",
+        "stanza": "OCLC/Indigo_Publications.txt",
+        "oclcStanzaId": "Indigo_Publications",
+        "oclcIncludeFile": "databases/indigo_publications.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Indigo_Publications",
+        "lastUpdated": "2025-06-09"
+    },
     "Indo_European_Studies": {
         "name": "Indo-European Studies",
         "stanza": "OCLC/Indo_European_Studies.txt",
@@ -5297,6 +5305,14 @@
         "oclcIncludeFile": "databases/liebertpub.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Liebert",
         "lastUpdated": "2023-02-23"
+    },
+    "Lingopie": {
+        "name": "Lingopie",
+        "stanza": "OCLC/Lingopie.txt",
+        "oclcStanzaId": "Lingopie",
+        "oclcIncludeFile": "databases/lingopie_1748539818319.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lingopie",
+        "lastUpdated": "2025-06-09"
     },
     "Lingo_Lite": {
         "name": "Lingo Lite",
