@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-05-30"
+        "lastUpdated": "2025-06-12"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -4677,7 +4677,7 @@
         "oclcStanzaId": "Iter%3A_Gateway_to_the_Middle_Ages_and_Renaissance",
         "oclcIncludeFile": "databases/iter.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Iter%3A_Gateway_to_the_Middle_Ages_and_Renaissance",
-        "lastUpdated": "2022-06-27"
+        "lastUpdated": "2025-06-11"
     },
     "IWA_Publishing": {
         "name": "IWA Publishing",
@@ -5697,7 +5697,7 @@
         "stanza": "OCLC/Medici.tv_EDU.txt",
         "oclcStanzaId": "Medici.tv_EDU",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medici.tv_EDU",
-        "lastUpdated": "2024-06-02",
+        "lastUpdated": "2025-06-12",
         "oclcIncludeFile": [
             "databases/medicitv.txt"
         ]
@@ -8281,7 +8281,7 @@
         "oclcStanzaId": "Springer_Nature_Experiments_(formerly_Springer_Protocols)",
         "oclcIncludeFile": "databases/springerprotocols.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Nature_Experiments_(formerly_Springer_Protocols)",
-        "lastUpdated": "2019-05-31"
+        "lastUpdated": "2025-06-10"
     },
     "Springer_Publishing_Company_Connect": {
         "name": "Springer Publishing Company Connect",

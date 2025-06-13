@@ -1,5 +1,13 @@
-Title Springer Nature Experiments (updated 20190531)
+Title Springer Nature Experiments (updated 20250610)
 URL https://experiments.springernature.com
 HJ http://experiments.springernature.com
 HJ springernature.com
 DJ springernature.com
+Find name="redirectUri" value="https://
+Replace name="redirectUri" value="https://^A
+Find name="targetRedirectUri" value="https://
+Replace name="targetRedirectUri" value="https://^A
+Find <input type="hidden" id="registration-redirect-uri" name="redirectUri"
+Replace -state=registration-redirect-uri <input type="hidden" id="registration-redirect-uri" name="redirectUri"
+Find -state=registration-redirect-uri value="https://
+Replace -RemoveState=registration-redirect-uri value="https://^A
