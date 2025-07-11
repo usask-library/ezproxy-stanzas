@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-06-12"
+        "lastUpdated": "2025-07-10"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -844,6 +844,14 @@
         "oclcIncludeFile": "databases/apastylecentral.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academic_Writer_(formerly_APA_Style_CENTRAL)",
         "lastUpdated": "2021-10-26"
+    },
+    "APA_Style_Manual": {
+        "name": "APA Style Manual",
+        "stanza": "OCLC/APA_Style_Manual.txt",
+        "oclcStanzaId": "APA_Style_Manual",
+        "oclcIncludeFile": "databases/apa_style_manual.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_Style_Manual",
+        "lastUpdated": "2025-07-10"
     },
     "APS_Journals": {
         "name": "APS Journals",
@@ -2403,6 +2411,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Computing_Reviews",
         "lastUpdated": "2023-04-17"
     },
+    "Concurrences_-_Antitrust_Publications_%26_Events": {
+        "name": "Concurrences - Antitrust Publications & Events",
+        "stanza": "OCLC/Concurrences_-_Antitrust_Publications_%26_Events.txt",
+        "oclcStanzaId": "Concurrences_-_Antitrust_Publications_%26_Events",
+        "oclcIncludeFile": "databases/concurrences.txt",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Concurrences_-_Antitrust_Publications_%26_Events",
+        "lastUpdated": "2025-07-10"
+    },
     "Conference_Board": {
         "name": "Conference Board",
         "stanza": "OCLC/Conference_Board.txt",
@@ -3388,7 +3404,7 @@
         "oclcStanzaId": "Endnote_Online_and_InCites",
         "oclcIncludeFile": "databases/endnoteandincites.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Endnote_Online_and_InCites",
-        "lastUpdated": "2023-03-06"
+        "lastUpdated": "2025-07-10"
     },
     "Endocrine_Society": {
         "name": "Endocrine Society",
@@ -3674,7 +3690,7 @@
         "oclcStanzaId": "Finaeon",
         "oclcIncludeFile": "databases/finaeon.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Finaeon",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-07-10"
     },
     "Financial_Times": {
         "name": "Financial Times",
@@ -4654,6 +4670,14 @@
         "oclcIncludeFile": "databases/iospress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IOS_Press",
         "lastUpdated": "2018-11-09"
+    },
+    "IPA_Source": {
+        "name": "IPA Source",
+        "stanza": "OCLC/IPA_Source.txt",
+        "oclcStanzaId": "IPA_Source",
+        "oclcIncludeFile": "databases/ipasource.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IPA_Source",
+        "lastUpdated": "2025-07-10"
     },
     "iPolitics": {
         "name": "IPolitics",
