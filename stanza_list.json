@@ -3347,7 +3347,7 @@
         "oclcStanzaId": "Emerald_Insight",
         "oclcIncludeFile": "databases/emeraldinsight.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Emerald_Insight",
-        "lastUpdated": "2019-06-24"
+        "lastUpdated": "2025-07-18"
     },
     "EMIMS_Online_Medication_information": {
         "name": "EMIMS Online Medication information",
@@ -8224,6 +8224,14 @@
         "oclcIncludeFile": "databases/socresonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sociological_Research_Online",
         "lastUpdated": "2019-12-31"
+    },
+    "Solicitors'_Journal": {
+        "name": "Solicitors' Journal",
+        "stanza": "OCLC/Solicitors'_Journal.txt",
+        "oclcStanzaId": "Solicitors'_Journal",
+        "oclcIncludeFile": "databases/solicitors_journal.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Solicitors'_Journal",
+        "lastUpdated": "2025-07-21"
     },
     "Source_Magpies_Magazine": {
         "name": "Source Magpies Magazine, The",
