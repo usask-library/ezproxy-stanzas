@@ -9343,6 +9343,14 @@
         "url": "http://www.wwp.northeastern.edu/wwo/help/lib_help.html",
         "lastUpdated": "2023-10-26"
     },
+    "Yorescape": {
+        "name": "Yorescape",
+        "stanza": "OCLC/Yorescape.txt",
+        "oclcStanzaId": "Yorescape",
+        "oclcIncludeFile": "databases/yorescape_1744919476379.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_Y/Yorescape",
+        "lastUpdated": "2024-04-17"
+    },
     "Zephyr": {
         "name": "Zephyr",
         "stanza": "OCLC/Zephyr.txt",
