@@ -487,6 +487,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Botanical_Council",
         "lastUpdated": "2023-02-09"
     },
+    "American_Ceramic_Society_Bulletin_(ACerS)_The": {
+        "name": "American Ceramic Society Bulletin (ACerS), The",
+        "stanza": "OCLC/American_Ceramic_Society_Bulletin_(ACerS)_The.txt",
+        "oclcStanzaId": "American_Ceramic_Society_Bulletin_(ACerS)_The",
+        "oclcIncludeFile": "databases/american_ceramic_society_bulletin.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Ceramic_Society_Bulletin_(ACerS)_The",
+        "lastUpdated": "2025-07-31"
+    },
     "American_Chemical_Society": {
         "name": "American Chemical Society",
         "stanza": "OCLC/American_Chemical_Society.txt",
