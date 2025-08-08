@@ -1088,7 +1088,7 @@
         "oclcStanzaId": "AST_Publications",
         "oclcIncludeFile": "databases/ast.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AST_Publications",
-        "lastUpdated": "2020-12-11"
+        "lastUpdated": "2025-08-07"
     },
     "Atlantic_Monthly": {
         "name": "Atlantic Monthly, The",
@@ -2248,7 +2248,7 @@
         "oclcStanzaId": "Clinicalcontext",
         "oclcIncludeFile": "databases/clinicalcontext.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Clinicalcontext",
-        "lastUpdated": "2023-09-13"
+        "lastUpdated": "2025-08-07"
     },
     "ClinicalKey_and_Embase": {
         "name": "ClinicalKey and Embase",
@@ -3049,7 +3049,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2025-05-30"
+        "lastUpdated": "2025-08-05"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -3810,6 +3810,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fulcrum_(formerly_ACLS_Humanities_E-Book)",
         "oclcIncludeFile": "databases/acls.txt",
         "lastUpdated": "2022-07-04"
+    },
+    "Future_Snoops": {
+        "name": "Future Snoops",
+        "stanza": "OCLC/Future_Snoops.txt",
+        "oclcStanzaId": "Future_Snoops",
+        "oclcIncludeFile": "databases/future_snoops.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Future_Snoops",
+        "lastUpdated": "2025-08-07"
     },
     "Galaxie_Software": {
         "name": "Galaxie Software",
@@ -5963,7 +5971,7 @@
         "oclcStanzaId": "Modern_Language_Association",
         "oclcIncludeFile": "databases/mla.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Modern_Language_Association",
-        "lastUpdated": "2021-09-20"
+        "lastUpdated": "2025-08-07"
     },
     "Mohr_Siebeck": {
         "name": "Mohr Siebeck",
@@ -9357,7 +9365,7 @@
         "oclcStanzaId": "Yorescape",
         "oclcIncludeFile": "databases/yorescape_1744919476379.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_Y/Yorescape",
-        "lastUpdated": "2024-04-17"
+        "lastUpdated": "2025-08-07"
     },
     "Zephyr": {
         "name": "Zephyr",
