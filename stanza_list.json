@@ -6785,6 +6785,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove",
         "lastUpdated": "2019-04-10"
     },
+    "Oxford_Law_Trove_AI_Study_Assistant": {
+        "name": "Oxford Law Trove AI Study Assistant",
+        "stanza": "OCLC/Oxford_Law_Trove_AI_Study_Assistant.txt",
+        "oclcStanzaId": "Oxford_Law_Trove_AI_Study_Assistant",
+        "oclcIncludeFile": "databases/oxford_law_trove_ai_study_assistant.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove_AI_Study_Assistant",
+        "lastUpdated": "2025-08-14"
+    },
     "Oxford_Medicine_Online": {
         "name": "Oxford Medicine Online",
         "stanza": "OCLC/Oxford_Medicine_Online.txt",
