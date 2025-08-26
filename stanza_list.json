@@ -909,6 +909,14 @@
         "oclcIncludeFile": "databases/theaj.txt",
         "lastUpdated": "2022-06-13"
     },
+    "Architectural_Design": {
+        "name": "Architectural Design",
+        "stanza": "OCLC/Architectural_Design.txt",
+        "oclcStanzaId": "Architectural_Design",
+        "oclcIncludeFile": "databases/architectural_design.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Architectural_Design",
+        "lastUpdated": "2025-08-25"
+    },
     "Archivaria": {
         "name": "Archivaria",
         "stanza": "OCLC/Archivaria.txt",
@@ -3832,7 +3840,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2025-04-07"
+        "lastUpdated": "2025-08-25"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -5910,6 +5918,22 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mindscape_Commons",
         "lastUpdated": "2024-01-03"
     },
+    "Mind_Digital_Resources": {
+        "name": "Mind Digital Resources",
+        "stanza": "OCLC/Mind_Digital_Resources.txt",
+        "oclcStanzaId": "Mind_Digital_Resources",
+        "oclcIncludeFile": "databases/mind_digital_resources.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mind_Digital_Resources",
+        "lastUpdated": "2025-08-25"
+    },
+    "Mind_Media": {
+        "name": "Mind Media",
+        "stanza": "OCLC/Mind_Media.txt",
+        "oclcStanzaId": "Mind_Media",
+        "oclcIncludeFile": "databases/mind_media.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mind_Media",
+        "lastUpdated": "2025-08-25"
+    },
     "Mintel": {
         "name": "Mintel",
         "stanza": "OCLC/Mintel.txt",
@@ -6012,6 +6036,14 @@
         "oclcIncludeFile": "databases/musicid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MusicID_ARP_(formerly_Academic_Rights_Press)",
         "lastUpdated": "2020-08-26"
+    },
+    "MyHeritage": {
+        "name": "MyHeritage",
+        "stanza": "OCLC/MyHeritage.txt",
+        "oclcStanzaId": "MyHeritage",
+        "oclcIncludeFile": "databases/myheritage.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MyHeritage",
+        "lastUpdated": "2025-08-25"
     },
     "MyiLibrary": {
         "name": "MyiLibrary",
@@ -7991,7 +8023,9 @@
         "name": "Sciendo",
         "stanza": "OCLC/Sciendo.txt",
         "oclcStanzaId": "Sciendo",
-        "oclcIncludeFile": "databases/ sciendo_1722607698805.txt",
+        "oclcIncludeFile": [
+            "databases/sciendo_1722607698805.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciendo",
         "lastUpdated": "2024-08-27"
     },
