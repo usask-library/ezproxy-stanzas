@@ -1556,7 +1556,7 @@
         "oclcStanzaId": "Bouwkosten_Kompas",
         "oclcIncludeFile": "databases/bouwkosten_kompas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bouwkosten_Kompas",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2025-09-09"
     },
     "Brainfuse": {
         "name": "Brainfuse",
@@ -1770,7 +1770,7 @@
         "oclcStanzaId": "Cabells_Directories",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cabells_Directories",
         "oclcIncludeFile": "databases/cabells.txt",
-        "lastUpdated": "2025-02-17"
+        "lastUpdated": "2025-09-09"
     },
     "Cabinet_Magazine": {
         "name": "Cabinet Magazine",
