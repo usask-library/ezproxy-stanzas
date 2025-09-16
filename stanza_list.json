@@ -2521,7 +2521,7 @@
         "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
         "oclcIncludeFile": "databases/myrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
-        "lastUpdated": "2024-04-05"
+        "lastUpdated": "2025-09-15"
     },
     "CQ_Researcher": {
         "name": "CQ Researcher",
@@ -4382,7 +4382,7 @@
         "oclcStanzaId": "IG_Publishing_eBook",
         "oclcIncludeFile": "databases/igpub.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IG_Publishing_eBook",
-        "lastUpdated": "2020-12-15"
+        "lastUpdated": "2025-09-15"
     },
     "IHS_ESDU": {
         "name": "IHS ESDU",
