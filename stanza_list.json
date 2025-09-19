@@ -1262,6 +1262,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Babel_Scores",
         "lastUpdated": "2021-03-17"
     },
+    "BalkanInsight": {
+        "name": "BalkanInsight",
+        "stanza": "OCLC/BalkanInsight.txt",
+        "oclcStanzaId": "BalkanInsight",
+        "oclcIncludeFile": "databases/balkaninsight.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BalkanInsight",
+        "lastUpdated": "2025-09-17"
+    },
     "Bankscope": {
         "name": "Bankscope",
         "stanza": "OCLC/Bankscope.txt",
@@ -9083,7 +9091,7 @@
         "oclcStanzaId": "VitalSource_Resolver",
         "oclcIncludeFile": "databases/vitalsource.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/VitalSource_Resolver",
-        "lastUpdated": "2022-01-10"
+        "lastUpdated": "2025-09-17"
     },
     "vLex": {
         "name": "vLex",
