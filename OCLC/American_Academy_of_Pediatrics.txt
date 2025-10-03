@@ -1,4 +1,4 @@
-Title American Academy of Pediatrics (updated 20220609)
+Title American Academy of Pediatrics (20251001)
 URL https://publications.aap.org
 HJ https://publications.aap.org
 HJ https://publications.aap.org/aapgrandrounds/
@@ -31,6 +31,7 @@ HJ https://pediatriccareonline.org
 HJ https://aap.org
 HJ https://aapebooks.org
 HJ https://aappublications.org
+HJ https://pediatrics.aappublications.org
 DJ publications.aap.org
 DJ coding.aap.org
 DJ aapgrandrounds.org
