@@ -3083,10 +3083,10 @@
         "lastUpdated": "2015-11-18"
     },
     "EBSCO_LinkSource": {
-        "name": "EBSCO LinkSource",
+        "name": "Internal: EBSCO LinkSource",
         "stanza": "OCLC/EBSCO_LinkSource.txt",
-        "oclcStanzaId": "EBSCO_LinkSource",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_LinkSource",
+        "oclcStanzaId": "Internal%3A_EBSCO_LinkSource",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Internal%3A_EBSCO_LinkSource",
         "lastUpdated": "2024-04-10"
     },
     "EB_Medicine": {
