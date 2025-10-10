@@ -5020,21 +5020,13 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Justis",
         "lastUpdated": "2020-09-07"
     },
-    "Jus_Mundi_-_Academic_Research": {
-        "name": "Jus Mundi - Academic Research",
-        "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
-        "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
-        "oclcIncludeFile": "databases/jusmundi.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
-        "lastUpdated": "2024-11-10"
-    },
     "Jus_Mundi_Academic_Research": {
-        "name": "Jus Mundi - Academic Research",
-        "stanza": "OCLC/Jus_Mundi_Academic_Research.txt",
-        "oclcStanzaId": "Jus_Mundi_Academic_Research",
-        "oclcIncludeFile": "databases/jusmundi.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
-        "lastUpdated": "2024-11-10"
+      "name": "Jus Mundi - Academic Research",
+      "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
+      "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
+      "oclcIncludeFile": "databases/jusmundi.txt",
+      "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
+      "lastUpdated": "2024-11-10"
     },
     "Kaltura": {
         "name": "Kaltura",
