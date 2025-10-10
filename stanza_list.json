@@ -1842,6 +1842,7 @@
     "Canada_Commons": {
         "name": "Canada Commons",
         "stanza": "OCLC/Canada_Commons.txt",
+        "note": "This stanza is deprecated. It has been replaced with the Coherent Digital Resources stanza.",
         "oclcStanzaId": "Canada_Commons",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canada_Commons",
         "lastUpdated": "2022-01-06"
