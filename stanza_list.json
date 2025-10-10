@@ -1459,6 +1459,7 @@
     "BMJ_Learning": {
         "name": "BMJ Learning",
         "stanza": "OCLC/BMJ_Learning.txt",
+        "note": "BMJ Learning is now part of the BMJ stanza",
         "oclcStanzaId": "BMJ_Learning",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ_Learning",
         "lastUpdated": "2022-12-20"
