@@ -8004,13 +8004,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Science_Signaling",
         "lastUpdated": "2014-04-03"
     },
-    "Science_Translational_Medicine": {
-        "name": "Science Translational Medicine",
-        "stanza": "OCLC/Science_Translational_Medicine.txt",
-        "oclcStanzaId": "Science_Translational_Medicine",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Science_Translational_Medicine",
-        "lastUpdated": "2014-04-03"
-    },
     "Sciendo": {
         "name": "Sciendo",
         "stanza": "OCLC/Sciendo.txt",

@@ -1,4 +1,0 @@
-Title Science Translational Medicine
-URL http://stm.sciencemag.org/
-Host stm.sciencemag.org
-Domain sciencemag.org
