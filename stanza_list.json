@@ -1290,6 +1290,7 @@
     "Bates_Visual_Guide_to_Physical_Examination": {
         "name": "Bates' Visual Guide to Physical Examination",
         "stanza": "OCLC/Bates_Visual_Guide_to_Physical_Examination.txt",
+        "note": "Note: This website has moved. To access this site, update and use the ClinicalContext stanza",
         "oclcStanzaId": "Bates'_Visual_Guide_to_Physical_Examination",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bates'_Visual_Guide_to_Physical_Examination",
         "lastUpdated": "2022-08-26"
