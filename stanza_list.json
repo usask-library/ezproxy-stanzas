@@ -3399,14 +3399,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EMS_Press_(formerly_EMS_Publishing)",
         "lastUpdated": "2025-04-27"
     },
-    "EMS_Publishing": {
-        "name": "EMS Publishing",
-        "stanza": "OCLC/EMS_Publishing.txt",
-        "oclcStanzaId": "EMS_Publishing",
-        "oclcIncludeFile": "databases/emspublishing.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EMS_Publishing",
-        "lastUpdated": "2025-04-27"
-    },
     "Enclave_RAE": {
         "name": "Enclave RAE",
         "stanza": "OCLC/Enclave_RAE.txt",
