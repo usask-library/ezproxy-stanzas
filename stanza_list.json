@@ -5025,12 +5025,12 @@
         "lastUpdated": "2020-09-07"
     },
     "Jus_Mundi_Academic_Research": {
-      "name": "Jus Mundi - Academic Research",
-      "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
-      "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
-      "oclcIncludeFile": "databases/jusmundi.txt",
-      "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
-      "lastUpdated": "2024-11-10"
+        "name": "Jus Mundi - Academic Research",
+        "stanza": "OCLC/Jus_Mundi_-_Academic_Research.txt",
+        "oclcStanzaId": "Jus_Mundi_-_Academic_Research",
+        "oclcIncludeFile": "databases/jusmundi.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
+        "lastUpdated": "2024-11-10"
     },
     "Kaltura": {
         "name": "Kaltura",
@@ -6024,6 +6024,14 @@
         "oclcIncludeFile": "databases/motologic.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Motologic",
         "lastUpdated": "2021-05-11"
+    },
+    "MuniCode": {
+        "name": "MuniCode",
+        "stanza": "OCLC/MuniCode.txt",
+        "oclcStanzaId": "MuniCode",
+        "oclcIncludeFile": "databases/municode_1759509783393.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MuniCode",
+        "lastUpdated": "2025-10-13"
     },
     "MusicID_ARP": {
         "name": "MusicID ARP (formerly Academic Rights Press)",
