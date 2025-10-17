@@ -212,7 +212,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-07-10"
+        "lastUpdated": "2025-10-15"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -4427,6 +4427,14 @@
         "oclcIncludeFile": "databases/imagequest.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/ImageQuest",
         "lastUpdated": "2018-03-05"
+    },
+    "IMAIOS_Chinese_Website": {
+        "name": "IMAIOS Chinese Website",
+        "stanza": "OCLC/IMAIOS_Chinese_Website.txt",
+        "oclcStanzaId": "IMAIOS_Chinese_Website",
+        "oclcIncludeFile": "databases/imaios_chinese_website.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IMAIOS_Chinese_Website",
+        "lastUpdated": "2025-10-14"
     },
     "IMAIOS_e-Anatomy": {
         "name": "IMAIOS e-Anatomy",
