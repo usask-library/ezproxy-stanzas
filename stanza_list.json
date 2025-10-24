@@ -2667,6 +2667,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dapresy",
         "lastUpdated": "2021-05-11"
     },
+    "Dar_AlMandumah": {
+        "name": "Dar AlMandumah",
+        "stanza": "OCLC/Dar_AlMandumah.txt",
+        "oclcStanzaId": "Dar_AlMandumah",
+        "oclcIncludeFile": "databases/dar_almandumah.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dar_AlMandumah",
+        "lastUpdated": "2025-10-21"
+    },
     "Database_of_Recorded_American_Music": {
         "name": "Database of Recorded American Music (DRAM)",
         "stanza": "OCLC/Database_of_Recorded_American_Music.txt",
@@ -3069,7 +3077,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2025-08-05"
+        "lastUpdated": "2025-10-21"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -5325,6 +5333,14 @@
         "oclcIncludeFile": "databases/liblynx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LibLynx",
         "lastUpdated": "2019-06-24"
+    },
+    "LibraryPass": {
+        "name": "LibraryPass",
+        "stanza": "OCLC/LibraryPass.txt",
+        "oclcStanzaId": "LibraryPass",
+        "oclcIncludeFile": "databases/library_pass_1761061960545.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LibraryPass",
+        "lastUpdated": "2025-10-21"
     },
     "Library_Journal": {
         "name": "Library Journal",
@@ -8582,7 +8598,7 @@
         "oclcStanzaId": "Telos",
         "oclcIncludeFile": "databases/telospress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Telos",
-        "lastUpdated": "2019-12-31"
+        "lastUpdated": "2025-10-22"
     },
     "Theatre_Record": {
         "name": "Theatre Record",
