@@ -1471,7 +1471,7 @@
         "oclcStanzaId": "Boards_%26_Beyond",
         "oclcIncludeFile": "databases/boardsandbeyond.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boards_%26_Beyond",
-        "lastUpdated": "2025-07-22"
+        "lastUpdated": "2025-10-28"
     },
     "BoardVitals": {
         "name": "BoardVitals",
@@ -1686,6 +1686,13 @@
         "oclcIncludeFile": "databases/bhonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_History_Online",
         "lastUpdated": "2015-07-22"
+    },
+    "British_Newspaper_Archive": {
+        "name": "British Newspaper Archive",
+        "stanza": "OCLC/British_Newspaper_Archive.txt",
+        "oclcStanzaId": "British_Newspaper_Archive",
+        "oclcIncludeFile": "databases/british_newspaper_archive_1761169020175.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Newspaper_Archive"
     },
     "British_Online_Archives": {
         "name": "British Online Archives",
@@ -2618,6 +2625,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSIRO_Journals",
         "lastUpdated": "2022-06-27"
     },
+    "CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)": {
+        "name": "CSIRO Publishing Ebooks and Journals (formerly CSIRO Journals)",
+        "stanza": "OCLC/CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals).txt",
+        "oclcStanzaId": "CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
+        "oclcIncludeFile": "databases/csiro.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
+        "lastUpdated": "2025-10-28"
+    },
     "CultureGrams": {
         "name": "CultureGrams",
         "stanza": "OCLC/CultureGrams.txt",
@@ -2930,7 +2945,7 @@
         "oclcStanzaId": "Docuseek2",
         "oclcIncludeFile": "databases/docuseek2.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Docuseek2",
-        "lastUpdated": "2019-10-15"
+        "lastUpdated": "2025-10-28"
     },
     "DOI_System": {
         "name": "DOI System",
@@ -3622,7 +3637,6 @@
         "name": "Faculty Opinions (formerly F1000)",
         "stanza": "OCLC/Faculty_Opinions.txt",
         "oclcStanzaId": "Faculty_Opinions_(formerly_F1000)",
-        "oclcIncludeFile": "databases/facultyopinions.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Faculty_Opinions_(formerly_F1000)",
         "lastUpdated": "2022-05-13"
     },
@@ -5006,7 +5020,7 @@
         "oclcStanzaId": "JoVE",
         "oclcIncludeFile": "databases/jove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JoVE",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-10-28"
     },
     "JSTOR": {
         "name": "JSTOR",
@@ -8010,6 +8024,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_(formerly_F1000)",
         "lastUpdated": "2022-05-18"
     },
+    "Sciencenow_Faculty_Opinions_and_Sciwheel": {
+        "name": "Sciencenow Faculty Opinions and Sciwheel",
+        "stanza": "OCLC/Sciencenow_Faculty_Opinions_and_Sciwheel.txt",
+        "oclcStanzaId": "Sciencenow_Faculty_Opinions_and_Sciwheel",
+        "oclcIncludeFile": "databases/sciencenow_faculty_opinions_and_sciwheel.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_Faculty_Opinions_and_Sciwheel",
+        "lastUpdated": "2025-10-28"
+    },
     "ScienceXpress": {
         "name": "ScienceXpress",
         "stanza": "OCLC/ScienceXpress.txt",
@@ -8116,7 +8138,6 @@
         "name": "Sciwheel",
         "stanza": "OCLC/Sciwheel.txt",
         "oclcStanzaId": "Sciwheel",
-        "oclcIncludeFile": "databases/sciwheel.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciwheel",
         "lastUpdated": "2022-05-13"
     },
