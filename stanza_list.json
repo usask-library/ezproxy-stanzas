@@ -3,7 +3,6 @@
         "name": "5 Minute Consult (WoltersKluwer)",
         "stanza": "OCLC/5_Minute_Consult.txt",
         "oclcStanzaId": "5_Minute_Consult_(WoltersKluwer)",
-        "oclcIncludeFile": "databases/5_minconsult.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_Numbers/5_Minute_Consult_(WoltersKluwer)",
         "lastUpdated": "2019-12-12"
     },
@@ -2342,7 +2341,7 @@
         "oclcStanzaId": "Cochrane_Library",
         "oclcIncludeFile": "databases/cochrane.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cochrane_Library",
-        "lastUpdated": "2023-07-17"
+        "lastUpdated": "2025-11-03"
     },
     "Codes_Guide_NRC": {
         "name": "Codes Guide NRC",
@@ -3177,7 +3176,7 @@
         "oclcStanzaId": "Edinburgh_University_Press",
         "oclcIncludeFile": "databases/euppublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Edinburgh_University_Press",
-        "lastUpdated": "2024-10-07"
+        "lastUpdated": "2025-11-03"
     },
     "Editorial_Grao": {
         "name": "Editorial Grao",
@@ -5457,7 +5456,7 @@
         "oclcStanzaId": "LLMC_Digital",
         "oclcIncludeFile": "databases/llmcdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LLMC_Digital",
-        "lastUpdated": "2021-05-17"
+        "lastUpdated": "2025-10-31"
     },
     "Loeb_Classics": {
         "name": "Loeb Classics",
