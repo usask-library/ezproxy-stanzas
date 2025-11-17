@@ -1,9 +1,10 @@
-Title Science - AAAS (updated 20210831)
-URL https://www.sciencemag.org
+Title Science - AAAS (updated 20251113)
+URL https://www.science.org
+HJ https://www.sciencemag.org
 HJ aaas-prod.science.org
 HJ advances.sciencemag.org
 HJ classic.sciencemag.org
-HJ http://www.sciencemag.org
+HJ www.sciencemag.org
 HJ https://aaas-prod.science.org
 HJ https://advances.sciencemag.org
 HJ https://classic.sciencemag.org
@@ -16,10 +17,9 @@ HJ https://science.sciencemag.org
 HJ https://sciencecareers.sciencemag.org
 HJ https://sciencemag.org
 HJ https://search.sciencemag.org
+HJ https://spj.science.org
 HJ https://stke.sciencemag.org
 HJ https://stm.sciencemag.org
-HJ https://www.science.org
-HJ https://www.sciencemag.org
 HJ immunology.sciencemag.org
 HJ news.sciencemag.org
 HJ robotics.sciencemag.org
@@ -32,7 +32,7 @@ HJ search.sciencemag.org
 HJ stke.sciencemag.org
 HJ stm.sciencemag.org
 HJ www.science.org
-HJ www.sciencemag.org
+HJ spj.science.org
 DJ aaas-prod.science.org
 DJ literatumonline.com
 DJ science.org
