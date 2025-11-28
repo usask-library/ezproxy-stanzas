@@ -2556,7 +2556,7 @@
         "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
         "oclcIncludeFile": "databases/myrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
-        "lastUpdated": "2025-09-15"
+        "lastUpdated": "2025-11-25"
     },
     "CQ_Researcher": {
         "name": "CQ Researcher",
@@ -4522,7 +4522,7 @@
         "oclcStanzaId": "IndexPresse_Business",
         "oclcIncludeFile": "databases/indexpresse_business.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IndexPresse_Business",
-        "lastUpdated": "2025-05-30"
+        "lastUpdated": "2025-11-25"
     },
     "IndiaStat": {
         "name": "IndiaStat",
