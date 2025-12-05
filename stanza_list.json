@@ -1294,6 +1294,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bates'_Visual_Guide_to_Physical_Examination",
         "lastUpdated": "2022-08-26"
     },
+    "Beamafilm": {
+        "name": "Beamafilm",
+        "stanza": "OCLC/Beamafilm.txt",
+        "oclcStanzaId": "Beamafilm",
+        "oclcIncludeFile": "databases/beamafilm.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Beamafilm",
+        "lastUpdated": "2025-12-04"
+    },
     "Begell_Digital_Library": {
         "name": "Begell Digital Library",
         "stanza": "OCLC/Begell_Digital_Library.txt",
@@ -4602,6 +4610,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/INGENTAconnect",
         "lastUpdated": "2020-07-22"
     },
+    "Inlibra": {
+        "name": "Inlibra",
+        "stanza": "OCLC/Inlibra.txt",
+        "oclcStanzaId": "Inlibra",
+        "oclcIncludeFile": "databases/inlibra.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inlibra",
+        "lastUpdated": "2025-12-03"
+    },
     "Inovestor": {
         "name": "Inovestor",
         "stanza": "OCLC/Inovestor.txt",
@@ -6425,7 +6441,6 @@
         "name": "Nomos eLibrary",
         "stanza": "OCLC/Nomos_eLibrary.txt",
         "oclcStanzaId": "Nomos_eLibrary",
-        "oclcIncludeFile": "databases/nomoselibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nomos_eLibrary",
         "lastUpdated": "2019-01-28"
     },
@@ -9084,7 +9099,6 @@
         "name": "Verlag C.H.Beck",
         "stanza": "OCLC/Verlag_C.H.Beck.txt",
         "oclcStanzaId": "Verlag_C.H.Beck",
-        "oclcIncludeFile": "databases/beckonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Verlag_C.H.Beck",
         "lastUpdated": "2023-11-30"
     },
