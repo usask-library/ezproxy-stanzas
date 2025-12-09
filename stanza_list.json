@@ -330,7 +330,7 @@
         "oclcStanzaId": "Airiti_Library",
         "oclcIncludeFile": "databases/airiti_library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Airiti_Library",
-        "lastUpdated": "2022-05-24"
+        "lastUpdated": "2025-12-05"
     },
     "Akademiai_Kiado": {
         "name": "Akademiai Kiado",
@@ -4561,7 +4561,7 @@
         "oclcStanzaId": "Infobaselearning",
         "oclcIncludeFile": "databases/infobaselearning.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Infobaselearning",
-        "lastUpdated": "2022-01-28"
+        "lastUpdated": "2025-12-08"
     },
     "Informaworld": {
         "name": "Informaworld",
@@ -6324,7 +6324,7 @@
         "oclcStanzaId": "NEJM_Group",
         "oclcIncludeFile": "databases/nejm_group.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group",
-        "lastUpdated": "2023-12-11"
+        "lastUpdated": "2025-12-05"
     },
     "NEJM_Journal_Watch": {
         "name": "NEJM Journal Watch",
