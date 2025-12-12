@@ -597,7 +597,7 @@
         "oclcStanzaId": "American_National_Biography_Online",
         "oclcIncludeFile": "databases/americannationalbiography.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography_Online",
-        "lastUpdated": "2023-05-15"
+        "lastUpdated": "2025-12-11"
     },
     "American_Occupational_Therapy_Association": {
         "name": "American Occupational Therapy Association",
@@ -1430,7 +1430,7 @@
         "oclcStanzaId": "Blackstones_Police_Service",
         "oclcIncludeFile": "databases/blackstonepoliceservice.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackstones_Police_Service",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Blake_An_Illustrated_Quarterly": {
         "name": "Blake/An Illustrated Quarterly",
@@ -2600,7 +2600,6 @@
         "name": "Credo Reference (formerly Xreferplus)",
         "stanza": "OCLC/Credo_Reference.txt",
         "oclcStanzaId": "Credo_Reference_(formerly_Xreferplus)",
-        "oclcIncludeFile": "databases/credoref.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Credo_Reference_(formerly_Xreferplus)",
         "lastUpdated": "2018-07-17"
     },
@@ -2608,7 +2607,6 @@
         "name": "Criterion on Demand",
         "stanza": "OCLC/Criterion_on_Demand.txt",
         "oclcStanzaId": "Criterion_on_Demand",
-        "oclcIncludeFile": "databases/criterionondemand.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Criterion_on_Demand",
         "lastUpdated": "2021-02-09"
     },
@@ -3738,7 +3736,6 @@
         "name": "Films on Demand",
         "stanza": "OCLC/Films_on_Demand.txt",
         "oclcStanzaId": "Films_on_Demand",
-        "oclcIncludeFile": "databases/filmsondemand.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Films_on_Demand",
         "lastUpdated": "2025-07-31"
     },
@@ -6793,7 +6790,7 @@
         "oclcStanzaId": "Oxford_African_American_Studies_Center",
         "oclcIncludeFile": "databases/oxfordaasc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_African_American_Studies_Center",
-        "lastUpdated": "2024-03-18"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Art_Online": {
         "name": "Oxford Art Online",
@@ -6802,7 +6799,7 @@
         "oclcStanzaId": "Oxford_Art_Online",
         "oclcIncludeFile": "databases/oxfordartonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Art_Online",
-        "lastUpdated": "2020-02-05"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Bibliographies": {
         "name": "Oxford Bibliographies",
@@ -6810,7 +6807,7 @@
         "oclcStanzaId": "Oxford_Bibliographies",
         "oclcIncludeFile": "databases/oxfordbibliographies.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Bibliographies",
-        "lastUpdated": "2020-01-20"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Business_Trove": {
         "name": "Oxford Business Trove",
@@ -6818,7 +6815,7 @@
         "oclcStanzaId": "Oxford_Business_Trove",
         "oclcIncludeFile": "databases/oxfordbusinesstrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Business_Trove",
-        "lastUpdated": "2023-08-30"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Clinical_Psychology": {
         "name": "Oxford Clinical Psychology",
@@ -6834,7 +6831,7 @@
         "oclcStanzaId": "Oxford_Dictionaries",
         "oclcIncludeFile": "databases/oxforddictionaries.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Dictionaries",
-        "lastUpdated": "2016-10-05"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Dictionary_of_National_Biography": {
         "name": "Oxford Dictionary of National Biography",
@@ -6842,7 +6839,7 @@
         "oclcStanzaId": "Oxford_Dictionary_of_National_Biography",
         "oclcIncludeFile": "databases/oxforddnb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Dictionary_of_National_Biography",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_English_Dictionary_OED": {
         "name": "Oxford English Dictionary (OED)",
@@ -6888,7 +6885,7 @@
         "oclcStanzaId": "Oxford_Law_Trove",
         "oclcIncludeFile": "databases/oxfordlawtrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Law_Trove_AI_Study_Assistant": {
         "name": "Oxford Law Trove AI Study Assistant",
@@ -6913,7 +6910,7 @@
         "oclcStanzaId": "Oxford_Music_Online",
         "oclcIncludeFile": "databases/oxfordmusiconline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Music_Online",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Politics_Trove": {
         "name": "Oxford Politics Trove",
@@ -6921,7 +6918,7 @@
         "oclcStanzaId": "Oxford_Politics_Trove",
         "oclcIncludeFile": "databases/oxfordpoliticstrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Politics_Trove",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Reference": {
         "name": "Oxford Reference",
@@ -6929,7 +6926,7 @@
         "oclcStanzaId": "Oxford_Reference",
         "oclcIncludeFile": "databases/oxfordreference.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Reference",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Research_Encyclopedia": {
         "name": "Oxford Research Encyclopedia",
@@ -6937,7 +6934,7 @@
         "oclcStanzaId": "Oxford_Research_Encyclopedia",
         "oclcIncludeFile": "databases/oxfordre.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Research_Encyclopedia",
-        "lastUpdated": "2019-10-02"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Scholarly_Editions_Online": {
         "name": "Oxford Scholarly Editions Online",
@@ -6945,7 +6942,7 @@
         "oclcStanzaId": "Oxford_Scholarly_Editions_Online",
         "oclcIncludeFile": "databases/oxfordscholarlyeditions.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarly_Editions_Online",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Scholarship_Online": {
         "name": "Oxford Scholarship Online (OSO)",
@@ -6962,7 +6959,7 @@
         "oclcStanzaId": "Oxford_Science_Trove",
         "oclcIncludeFile": "databases/oxfordsciencetrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Science_Trove",
-        "lastUpdated": "2023-08-30"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Social_Work": {
         "name": "Oxford Social Work",
@@ -6978,7 +6975,7 @@
         "oclcStanzaId": "Oxford_University_Press_Law",
         "oclcIncludeFile": "databases/ouplaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_University_Press_Law",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Oxford_Worlds_Classics": {
         "name": "Oxford Worlds Classics",
@@ -6986,7 +6983,7 @@
         "oclcStanzaId": "Oxford_Worlds_Classics",
         "oclcIncludeFile": "databases/oxfordworldsclassics.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Worlds_Classics",
-        "lastUpdated": "2020-12-16"
+        "lastUpdated": "2025-12-11"
     },
     "Palgrave_Connect": {
         "name": "Palgrave Connect",
@@ -7871,7 +7868,6 @@
         "name": "RxTx French (CPhA)",
         "stanza": "OCLC/RxTx_French_CPhA.txt",
         "oclcStanzaId": "RxTx_French_(CPhA)",
-        "oclcIncludeFile": "databases/monrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RxTx_French_(CPhA)",
         "lastUpdated": "2021-05-11"
     },
@@ -9322,7 +9318,7 @@
         "oclcStanzaId": "What_Everyone_Needs_to_Know%C2%AE",
         "oclcIncludeFile": "databases/wenk.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/What_Everyone_Needs_to_Know%C2%AE",
-        "lastUpdated": "2020-11-12"
+        "lastUpdated": "2025-12-11"
     },
     "Whos_Who": {
         "name": "Who\u2019s Who",
@@ -9330,7 +9326,7 @@
         "oclcStanzaId": "Who%E2%80%99s_Who",
         "oclcIncludeFile": "databases/whoswho.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Who%E2%80%99s_Who",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2025-12-11"
     },
     "Wiley_Online_Library": {
         "name": "Wiley Online Library",
@@ -9441,7 +9437,7 @@
         "oclcStanzaId": "World_Shakespeare_Bibliography",
         "oclcIncludeFile": "databases/world_shakespeare.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Shakespeare_Bibliography",
-        "lastUpdated": "2019-10-14"
+        "lastUpdated": "2025-12-11"
     },
     "World_Tourism_Organization_WTO": {
         "name": "World Tourism Organization (WTO)",
