@@ -5973,14 +5973,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mind_Digital_Resources",
         "lastUpdated": "2025-08-25"
     },
-    "Mind_Media": {
-        "name": "Mind Media",
-        "stanza": "OCLC/Mind_Media.txt",
-        "oclcStanzaId": "Mind_Media",
-        "oclcIncludeFile": "databases/mind_media.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mind_Media",
-        "lastUpdated": "2025-08-25"
-    },
     "Mintel": {
         "name": "Mintel",
         "stanza": "OCLC/Mintel.txt",
