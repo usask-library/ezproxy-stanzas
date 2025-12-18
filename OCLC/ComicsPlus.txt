@@ -1,6 +1,1 @@
-Title iVerse Media-Comics Plus (updated 20190305)
-URL https://midcontinent.comicsplus.app
-HJ midcontinent.comicsplus.app
-HJ library.comicsplusapp.com
-DJ comicsplusapp.com
-DJ comicsplus.app
+#  Note:  This stanza has been deprecated. Please use the LibraryPass stanza instead.

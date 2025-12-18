@@ -2431,10 +2431,9 @@
         "lastUpdated": "2022-12-27"
     },
     "ComicsPlus": {
-        "name": "ComicsPlus",
+        "name": "Comics Plus",
         "stanza": "OCLC/ComicsPlus.txt",
-        "oclcStanzaId": "ComicsPlus",
-        "oclcIncludeFile": "databases/comicsplus.txt",
+        "oclcStanzaId": "Comics_Plus",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/ComicsPlus",
         "lastUpdated": "2019-03-05"
     },
