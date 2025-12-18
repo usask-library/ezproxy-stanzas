@@ -2639,16 +2639,8 @@
         "lastUpdated": "2006-03-22"
     },
     "CSIRO_Journals": {
-        "name": "CSIRO Journals",
-        "stanza": "OCLC/CSIRO_Journals.txt",
-        "oclcStanzaId": "CSIRO_Journals",
-        "oclcIncludeFile": "databases/csiro.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSIRO_Journals",
-        "lastUpdated": "2022-06-27"
-    },
-    "CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)": {
         "name": "CSIRO Publishing Ebooks and Journals (formerly CSIRO Journals)",
-        "stanza": "OCLC/CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals).txt",
+        "stanza": "OCLC/CSIRO_Journals.txt",
         "oclcStanzaId": "CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
         "oclcIncludeFile": "databases/csiro.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
