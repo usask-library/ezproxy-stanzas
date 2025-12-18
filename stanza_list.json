@@ -3722,15 +3722,8 @@
         "name": "Ferguson's Career Guidance Center",
         "stanza": "OCLC/Fergusons_Career_Guidance_Center.txt",
         "oclcStanzaId": "Ferguson's_Career_Guidance_Center",
-        "rules": [
-            {
-                "rule": "Replace",
-                "term": "#####",
-                "placeholder": "Your vendor supplied library ID"
-            }
-        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Ferguson's_Career_Guidance_Center",
-        "lastUpdated": "2011-11-28"
+        "lastUpdated": "2025-12-10"
     },
     "Films_on_Demand": {
         "name": "Films on Demand",
