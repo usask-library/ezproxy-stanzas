@@ -915,7 +915,7 @@
         "oclcStanzaId": "Architectural_Design",
         "oclcIncludeFile": "databases/architectural_design.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Architectural_Design",
-        "lastUpdated": "2025-08-25"
+        "lastUpdated": "2025-12-15"
     },
     "Archivaria": {
         "name": "Archivaria",
@@ -1096,7 +1096,7 @@
         "oclcStanzaId": "AST_Publications",
         "oclcIncludeFile": "databases/ast.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AST_Publications",
-        "lastUpdated": "2025-08-07"
+        "lastUpdated": "2025-12-17"
     },
     "Atlantic_Monthly": {
         "name": "Atlantic Monthly, The",
@@ -2434,7 +2434,7 @@
         "name": "Comics Plus",
         "stanza": "OCLC/ComicsPlus.txt",
         "oclcStanzaId": "Comics_Plus",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/ComicsPlus",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Comics_Plus",
         "lastUpdated": "2019-03-05"
     },
     "Common_Craft_Online_Videos": {
@@ -3731,6 +3731,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Film_Platform",
         "lastUpdated": "2017-10-25"
     },
+    "Film_Secession": {
+        "name": "Film Secession",
+        "stanza": "OCLC/Film_Secession.txt",
+        "oclcStanzaId": "Film_Secession",
+        "oclcIncludeFile": "databases/film_secession.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Film_Secession",
+        "lastUpdated": "2025-12-17"
+    },
     "Finaeon": {
         "name": "Finaeon",
         "stanza": "OCLC/Finaeon.txt",
@@ -4216,7 +4224,9 @@
         "name": "History of Economic Thought",
         "stanza": "OCLC/History_of_Economic_Thought.txt",
         "oclcStanzaId": "History_of_Economic_Thought",
-        "oclcIncludeFile": "databases//history_of_economic_thought.txt",
+        "oclcIncludeFile": [
+            "databases/history_of_economic_thought.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/History_of_Economic_Thought",
         "lastUpdated": "2022-09-12"
     },
@@ -5033,7 +5043,7 @@
         "oclcStanzaId": "JoVE",
         "oclcIncludeFile": "databases/jove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JoVE",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2025-12-16"
     },
     "JSTOR": {
         "name": "JSTOR",
@@ -9116,7 +9126,7 @@
         "stanza": "OCLC/Visual_History_Archive_(SHOAH).txt",
         "oclcStanzaId": "Visual_History_Archive_(SHOAH)",
         "oclcIncludeFile": [
-            "databases//VisualHistoryArchive(SHOAH).txt"
+            "databases/VisualHistoryArchive(SHOAH).txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Visual_History_Archive_(SHOAH)",
         "lastUpdated": "2023-01-04"
