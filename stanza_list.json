@@ -1308,7 +1308,7 @@
         "oclcStanzaId": "Begell_Digital_Library",
         "oclcIncludeFile": "databases/begellhouse.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Begell_Digital_Library",
-        "lastUpdated": "2020-01-22"
+        "lastUpdated": "2026-01-02"
     },
     "Benajmins_Online_Resource": {
         "name": "Benajmins Online Resource",
@@ -2109,6 +2109,14 @@
         "oclcIncludeFile": "databases/ccohs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCOHS",
         "lastUpdated": "2023-03-16"
+    },
+    "CEEOL": {
+        "name": "CEEOL",
+        "stanza": "OCLC/CEEOL.txt",
+        "oclcStanzaId": "CEEOL",
+        "oclcIncludeFile": "databases/ceeol.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CEEOL",
+        "lastUpdated": "2025-12-29"
     },
     "Cell_Press": {
         "name": "Cell Press",
@@ -7621,6 +7629,14 @@
         "oclcIncludeFile": "databases/referenceusa.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/ReferenceUSA",
         "lastUpdated": "2024-04-24"
+    },
+    "Reference_Global": {
+        "name": "Reference Global",
+        "stanza": "OCLC/Reference_Global.txt",
+        "oclcStanzaId": "Reference_Global",
+        "oclcIncludeFile": "databases/reference_global_1760736205576.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Reference_Global",
+        "lastUpdated": "2026-01-02"
     },
     "Reference_Universe": {
         "name": "Reference Universe",
