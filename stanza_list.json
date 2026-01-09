@@ -397,6 +397,14 @@
         "oclcIncludeFile": "databases/almanacfederalfiduciary.txt",
         "lastUpdated": "2021-07-26"
     },
+    "Altinget": {
+        "name": "Altinget",
+        "stanza": "OCLC/Altinget.txt",
+        "oclcStanzaId": "Altinget",
+        "oclcIncludeFile": "databases/altinget.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Altinget",
+        "lastUpdated": "2026-01-06"
+    },
     "Al_Manhal": {
         "name": "Al Manhal",
         "stanza": "OCLC/Al_Manhal.txt",
@@ -1355,6 +1363,13 @@
         "oclcIncludeFile": "databases/biblioscout.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BiblioScout",
         "lastUpdated": "2022-10-06"
+    },
+    "Bibliotele": {
+        "name": "Bibliotele",
+        "stanza": "OCLC/Bibliotele.txt",
+        "oclcStanzaId": "Bibliotele",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliotele",
+        "lastUpdated": "2026-01-05"
     },
     "BIHR": {
         "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
@@ -6221,7 +6236,7 @@
         "oclcStanzaId": "Nature_Publishing",
         "oclcIncludeFile": "databases/nature_publishing_group.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nature_Publishing",
-        "lastUpdated": "2021-11-16"
+        "lastUpdated": "2026-01-06"
     },
     "Naxos": {
         "name": "Naxos",
@@ -8886,6 +8901,14 @@
         "oclcIncludeFile": "databases/ucpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_California_Press",
         "lastUpdated": "2021-06-15"
+    },
+    "Uddannelsesmonitor": {
+        "name": "Uddannelsesmonitor",
+        "stanza": "OCLC/Uddannelsesmonitor.txt",
+        "oclcStanzaId": "Uddannelsesmonitor",
+        "oclcIncludeFile": "databases/uddannelsesmonitor.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/Uddannelsesmonitor",
+        "lastUpdated": "2026-01-06"
     },
     "UHM_Society_Journal": {
         "name": "UHM Society Journal",

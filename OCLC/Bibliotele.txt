@@ -1,0 +1,1 @@
+SSO -Secret=your-secret-key-here -HASH=SHA256 -URL=https://auth.bibliotele.com/auth/ezproxy/abc123xyz789 bibliotele
