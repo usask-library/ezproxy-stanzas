@@ -6966,7 +6966,9 @@
         "name": "Oxford Science Trove",
         "stanza": "OCLC/Oxford_Science_Trove.txt",
         "oclcStanzaId": "Oxford_Science_Trove",
-        "oclcIncludeFile": "databases/oxfordsciencetrove.txt",
+        "oclcIncludeFile": [
+            "databases/oxford_science_trove.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Science_Trove",
         "lastUpdated": "2025-12-11"
     },
