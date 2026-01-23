@@ -851,7 +851,7 @@
         "oclcStanzaId": "APA_PsycNET",
         "oclcIncludeFile": "databases/apa_psycnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-01-21"
     },
     "APA_Style_CENTRAL": {
         "name": "Academic Writer (formerly APA Style CENTRAL)",
@@ -1447,6 +1447,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackstones_Police_Service",
         "lastUpdated": "2025-12-11"
     },
+    "Blackwell-Synergy": {
+        "name": "Blackwell-Synergy",
+        "stanza": "OCLC/Blackwell-Synergy.txt",
+        "oclcStanzaId": "Blackwell-Synergy",
+        "oclcIncludeFile": "databases/blackwellsynergy.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackwell-Synergy",
+        "lastUpdated": "2026-01-21"
+    },
     "Blake_An_Illustrated_Quarterly": {
         "name": "Blake/An Illustrated Quarterly",
         "stanza": "OCLC/Blake_An_Illustrated_Quarterly.txt",
@@ -1589,7 +1597,7 @@
         "oclcStanzaId": "Bouwkosten_Kompas",
         "oclcIncludeFile": "databases/bouwkosten_kompas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bouwkosten_Kompas",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-01-19"
     },
     "Brainfuse": {
         "name": "Brainfuse",
@@ -4126,7 +4134,7 @@
         "oclcStanzaId": "Harvard_Education_Publishing_Group",
         "oclcIncludeFile": "databases/hepgjournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Harvard_Education_Publishing_Group",
-        "lastUpdated": "2019-04-10"
+        "lastUpdated": "2026-01-21"
     },
     "HathiTrust_Digital_Library": {
         "name": "HathiTrust Digital Library",
@@ -4391,7 +4399,7 @@
         "oclcStanzaId": "IEEE_Xplore",
         "oclcIncludeFile": "databases/ieee.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IEEE_Xplore",
-        "lastUpdated": "2022-09-09"
+        "lastUpdated": "2026-01-20"
     },
     "IET_Inspec_Analytics_in_EngineeringVillage": {
         "name": "IET Inspec Analytics in EngineeringVillage",
@@ -6401,7 +6409,10 @@
         "stanza": "OCLC/New_Left_Review.txt",
         "oclcStanzaId": "New_Left_Review",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_Left_Review",
-        "lastUpdated": "2015-06-18"
+        "lastUpdated": "2026-01-21",
+        "oclcIncludeFile": [
+            "databases/new_left_review.txt"
+        ]
     },
     "New_Play_Exchange": {
         "name": "New Play Exchange",
@@ -8510,6 +8521,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/STATdx",
         "lastUpdated": "2024-02-19"
     },
+    "Statesman's_Yearbook_Online": {
+        "name": "Statesman's Yearbook Online",
+        "stanza": "OCLC/Statesman's_Yearbook_Online.txt",
+        "oclcStanzaId": "Statesman's_Yearbook_Online",
+        "oclcIncludeFile": "databases/statesmansyearbook.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Statesman's_Yearbook_Online",
+        "lastUpdated": "2026-01-21"
+    },
     "Statista": {
         "name": "Statista",
         "stanza": "OCLC/Statista.txt",
@@ -8579,6 +8598,14 @@
         "oclcIncludeFile": "databases/swank.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Swank_Digital_Campus",
         "lastUpdated": "2020-05-15"
+    },
+    "Swetswise": {
+        "name": "Swetswise",
+        "stanza": "OCLC/Swetswise.txt",
+        "oclcStanzaId": "Swetswise",
+        "oclcIncludeFile": "databases/swetswise.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Swetswise",
+        "lastUpdated": "2026-01-21"
     },
     "Symptom_Media": {
         "name": "Symptom Media",
@@ -9361,7 +9388,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2025-03-31"
+        "lastUpdated": "2026-01-21"
     },
     "WisersOne": {
         "name": "WisersOne",
