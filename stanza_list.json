@@ -1485,7 +1485,7 @@
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ",
-        "lastUpdated": "2023-10-31"
+        "lastUpdated": "2026-02-10"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
@@ -2520,7 +2520,6 @@
         "name": "Conference Board of Canada",
         "stanza": "OCLC/Conference_Board_of_Canada.txt",
         "oclcStanzaId": "Conference_Board_of_Canada",
-        "oclcIncludeFile": "databases/conferenceboard.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Conference_Board_of_Canada",
         "lastUpdated": "2021-05-17"
     },
@@ -3074,7 +3073,7 @@
         "oclcStanzaId": "East_View_Information_Services_Inc",
         "oclcIncludeFile": "databases/eastview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/East_View_Information_Services_Inc",
-        "lastUpdated": "2024-11-25"
+        "lastUpdated": "2026-02-10"
     },
     "Ebook_Central_PatronLogin": {
         "name": "Ebook Central (Patron Login + EZproxy)",
@@ -4891,7 +4890,10 @@
         "stanza": "OCLC/Johns_Hopkins_Guide_to_Literary_Theory_and_Criticism.txt",
         "oclcStanzaId": "Johns_Hopkins_Guide_to_Literary_Theory_and_Criticism",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Johns_Hopkins_Guide_to_Literary_Theory_and_Criticism",
-        "lastUpdated": "2015-06-17"
+        "lastUpdated": "2026-02-11",
+        "oclcIncludeFile": [
+            "databases/jhguidetoliterary.txt"
+        ]
     },
     "John_Benjamins": {
         "name": "John Benjamins",
@@ -8284,6 +8286,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sheet_Music_Now",
         "lastUpdated": "2008-03-14"
     },
+    "Signal49_Research": {
+        "name": "Signal49 Research",
+        "stanza": "OCLC/Signal49_Research.txt",
+        "oclcStanzaId": "Signal49_Research",
+        "oclcIncludeFile": "databases/signal49_research.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Signal49_Research",
+        "lastUpdated": "2026-02-10"
+    },
     "Siku_Quanshu": {
         "name": "Siku Quanshu",
         "stanza": "OCLC/Siku_Quanshu.txt",
@@ -8396,7 +8406,7 @@
         "oclcStanzaId": "Solicitors'_Journal",
         "oclcIncludeFile": "databases/solicitors_journal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Solicitors'_Journal",
-        "lastUpdated": "2025-07-21"
+        "lastUpdated": "2026-02-10"
     },
     "Source_Magpies_Magazine": {
         "name": "Source Magpies Magazine, The",
