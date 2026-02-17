@@ -2397,7 +2397,7 @@
         "oclcStanzaId": "Cochrane_Library",
         "oclcIncludeFile": "databases/cochrane.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cochrane_Library",
-        "lastUpdated": "2025-11-03"
+        "lastUpdated": "2026-02-13"
     },
     "Codes_Guide_NRC": {
         "name": "Codes Guide NRC",
@@ -2593,7 +2593,7 @@
         "oclcStanzaId": "CPS_(formerly_RxTx_(CPhA))",
         "oclcIncludeFile": "databases/myrxtx.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CPS_(formerly_RxTx_(CPhA))",
-        "lastUpdated": "2025-11-25"
+        "lastUpdated": "2026-02-12"
     },
     "CQ_Researcher": {
         "name": "CQ Researcher",
