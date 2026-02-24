@@ -1331,7 +1331,7 @@
         "oclcStanzaId": "Bentham_Science_Publisher_(formerly_EurekaSelect)",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bentham_Science_Publisher_(formerly_EurekaSelect)",
         "oclcIncludeFile": "databases/eurekaselect.txt",
-        "lastUpdated": "2022-05-23"
+        "lastUpdated": "2026-02-23"
     },
     "Berghahn_Books": {
         "name": "Berghahn Books",
@@ -4421,6 +4421,14 @@
         "oclcStanzaId": "IET_Inspec_Direct_Platform",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Direct_Platform",
         "lastUpdated": "2022-06-27"
+    },
+    "IET_Inspec_Platform": {
+        "name": "IET Inspec Platform",
+        "stanza": "OCLC/IET_Inspec_Platform.txt",
+        "oclcStanzaId": "IET_Inspec_Platform",
+        "oclcIncludeFile": "databases/iet_ias.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Platform",
+        "lastUpdated": "2026-02-19"
     },
     "IGAKU-SHOIN_Library": {
         "name": "IGAKU-SHOIN Library",
