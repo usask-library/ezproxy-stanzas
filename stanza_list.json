@@ -387,7 +387,7 @@
         "oclcStanzaId": "All_That_Stats",
         "oclcIncludeFile": "databases/allthatstats.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/All_That_Stats",
-        "lastUpdated": "2015-03-20"
+        "lastUpdated": "2026-02-26"
     },
     "Almanac_Federal_Fiduciary": {
         "name": "Almanac of the Federal Fiduciary, The",
@@ -3943,6 +3943,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GeoScienceWorld",
         "lastUpdated": "2019-08-08"
     },
+    "GetFTR": {
+        "name": "GetFTR",
+        "stanza": "OCLC/GetFTR.txt",
+        "oclcStanzaId": "GetFTR",
+        "oclcIncludeFile": "databases/getftr.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GetFTR",
+        "lastUpdated": "2026-02-25"
+    },
     "GIBLIB": {
         "name": "GIBLIB",
         "stanza": "OCLC/GIBLIB.txt",
@@ -5292,7 +5300,7 @@
         "oclcStanzaId": "Kweli_TV",
         "oclcIncludeFile": "databases/kwelitv.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kweli_TV",
-        "lastUpdated": "2023-01-24"
+        "lastUpdated": "2026-02-26"
     },
     "Lamyline": {
         "name": "Lamyline",
@@ -5764,7 +5772,7 @@
         "oclcStanzaId": "McGraw-Hill_Medical",
         "oclcIncludeFile": "databases/mhmedical.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical",
-        "lastUpdated": "2024-10-27"
+        "lastUpdated": "2026-02-26"
     },
     "McIntyre_Media": {
         "name": "McIntyre Media",
@@ -7475,7 +7483,7 @@
         "oclcStanzaId": "Psychotherapy.net",
         "oclcIncludeFile": "databases/psychotherapy.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Psychotherapy.net",
-        "lastUpdated": "2020-09-29"
+        "lastUpdated": "2026-02-25"
     },
     "Public_Information_Online": {
         "name": "Public Information Online",
@@ -7498,7 +7506,7 @@
         "oclcStanzaId": "PubMed",
         "oclcIncludeFile": "databases/pubmed.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PubMed",
-        "lastUpdated": "2021-11-30"
+        "lastUpdated": "2026-02-24"
     },
     "Qinsight": {
         "name": "Qinsight",

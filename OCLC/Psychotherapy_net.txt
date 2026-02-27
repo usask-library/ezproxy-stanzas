@@ -1,7 +1,9 @@
-Title Psychotherapy.net (updated 20200929)
-URL https://www.psychotherapy.net/
-HJ https://www.psychotherapy.net
+Title Psychotherapy.net (updated 20260224)
+URL https://library.psychotherapy.net/
+HJ https://library.psychotherapy.net
+HJ https://www.psychotherapy.net/
 HJ www.psychotherapy.net
+HJ library.psychotherapy.net
 H https://p3.3playmedia.com
 DJ psychotherapy.net
 NeverProxy player.vimeo.com
