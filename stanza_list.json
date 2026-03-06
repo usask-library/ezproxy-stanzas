@@ -469,7 +469,7 @@
         "oclcStanzaId": "American_Association_for_Cancer_Research",
         "oclcIncludeFile": "databases/aacrjournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Association_for_Cancer_Research",
-        "lastUpdated": "2020-11-03"
+        "lastUpdated": "2026-03-02"
     },
     "American_Association_for_Clinical_Chemistry": {
         "name": "American Association for Clinical Chemistry",
@@ -1739,7 +1739,7 @@
         "oclcStanzaId": "British_Standards_Online",
         "oclcIncludeFile": "databases/british_standards_online.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Standards_Online",
-        "lastUpdated": "2015-07-13"
+        "lastUpdated": "2026-03-03"
     },
     "British_Universities_Film_Video_Council": {
         "name": "British Universities Film & Video Council",
@@ -4858,7 +4858,7 @@
         "oclcStanzaId": "Jane's_Online_Service",
         "oclcIncludeFile": "databases/janes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jane's_Online_Service",
-        "lastUpdated": "2024-09-27"
+        "lastUpdated": "2026-03-04"
     },
     "JapanKnowledge": {
         "name": "JapanKnowledge",
