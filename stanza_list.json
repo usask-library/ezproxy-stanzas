@@ -851,13 +851,12 @@
         "oclcStanzaId": "APA_PsycNET",
         "oclcIncludeFile": "databases/apa_psycnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET",
-        "lastUpdated": "2026-01-21"
+        "lastUpdated": "2026-03-10"
     },
     "APA_Style_CENTRAL": {
         "name": "Academic Writer (formerly APA Style CENTRAL)",
         "stanza": "OCLC/APA_Style_CENTRAL.txt",
         "oclcStanzaId": "Academic_Writer_(formerly_APA_Style_CENTRAL)",
-        "oclcIncludeFile": "databases/apastylecentral.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academic_Writer_(formerly_APA_Style_CENTRAL)",
         "lastUpdated": "2021-10-26"
     },
@@ -865,7 +864,6 @@
         "name": "APA Style Manual",
         "stanza": "OCLC/APA_Style_Manual.txt",
         "oclcStanzaId": "APA_Style_Manual",
-        "oclcIncludeFile": "databases/apa_style_manual.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_Style_Manual",
         "lastUpdated": "2025-07-10"
     },
@@ -5615,7 +5613,7 @@
         "oclcStanzaId": "Maisaku",
         "oclcIncludeFile": "databases/maisaku.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Maisaku",
-        "lastUpdated": "2022-09-20"
+        "lastUpdated": "2026-03-10"
     },
     "Malaysiakini": {
         "name": "Malaysiakini",
@@ -6636,7 +6634,7 @@
         "oclcStanzaId": "OECD_iLibrary",
         "oclcIncludeFile": "databases/oecdilibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OECD_iLibrary",
-        "lastUpdated": "2026-03-09"
+        "lastUpdated": "2026-03-12"
     },
     "Official_Museum_Directory": {
         "name": "Official Museum Directory",
@@ -9420,7 +9418,7 @@
         "oclcStanzaId": "WisersOne",
         "oclcIncludeFile": "databases/wisersone.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WisersOne",
-        "lastUpdated": "2020-09-17"
+        "lastUpdated": "2026-03-09"
     },
     "Wolters_Kluwer_Online_Deutschland": {
         "name": "Wolters Kluwer Online Deutschland",
