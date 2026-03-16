@@ -1,10 +1,10 @@
-Title GEOPlugin (OCLC IncludeFile updated 20200423)
+Title GEOPlugin (updated 20260219)
 URL https://ssl.geoplugin.net
 Host https://ssl.geoplugin.net
 HJ ssl.geoplugin.net
 DJ geoplugin.net
 
-Title Arcadian Library Online (OCLC IncludeFile updated 20200423)
+Title Arcadian Library Online (OCLC IncludeFile updated 20260219)
 URL https://www.arcadianlibraryonline.com/
 HJ www.arcadianlibraryonline.com
 HJ arcadianlibraryonline.com
@@ -12,7 +12,7 @@ HJ https://www.arcadianlibraryonline.com
 HJ https://arcadianlibraryonline.com
 DJ arcadianlibraryonline.com
 
-Title Bloomsbury Collections (OCLC IncludeFile updated 20200423)
+Title Bloomsbury Collections (updated 20260219)
 URL https://www.bloomsburycollections.com/
 HJ bloomsburycollections.com
 HJ https://bloomsburycollections.com
@@ -20,23 +20,7 @@ HJ https://www.bloomsburycollections.com
 HJ www.bloomsburycollections.com
 DJ bloomsburycollections.com
 
-Title Bloomsbury Cultural History (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburyculturalhistory.com/
-HJ bloomsburyculturalhistory.com
-HJ https://bloomsburyculturalhistory.com
-HJ https://www.bloomsburyculturalhistory.com
-HJ www.bloomsburyculturalhistory.com
-DJ bloomsburyculturalhistory.com
-
-Title Bloomsbury Design Library (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburydesignlibrary.com/
-HJ www.bloomsburydesignlibrary.com
-HJ bloomsburydesignlibrary.com
-HJ https://www.bloomsburydesignlibrary.com
-HJ https://bloomsburydesignlibrary.com
-DJ bloomsburydesignlibrary.com
-
-Title Bloomsbury Philosophy Library (OCLC IncludeFile updated 20210414)
+Title Bloomsbury Philosophy Library (updated 20260219)
 URL https://www.bloomsburyphilosophylibrary.com/
 HJ www.bloomsburyphilosophylibrary.com
 HJ bloomsburyphilosophylibrary.com
@@ -44,7 +28,7 @@ HJ https://www.bloomsburyphilosophylibrary.com
 HJ https://bloomsburyphilosophylibrary.com
 DJ bloomsburyphilosophylibrary.com
 
-Title Bloomsbury Fashion Central (OCLC IncludeFile updated 20210525)
+Title Bloomsbury Fashion Central (updated 20260219)
 URL https://www.bloomsburyfashioncentral.com
 HJ bergfashionlibrary.com
 HJ bloomsburyfashioncentral.com
@@ -56,7 +40,7 @@ HJ www.bloomsburyfashioncentral.com
 DJ bergfashionlibrary.com
 DJ bloomsburyfashioncentral.com
 
-Title Bloomsbury Food Library (OCLC IncludeFile updated 20200423)
+Title Bloomsbury Food Library (updated 20260219)
 URL https://www.bloomsburyfoodlibrary.com/
 HJ www.bloomsburyfoodlibrary.com
 HJ bloomsburyfoodlibrary.com
@@ -64,7 +48,7 @@ HJ https://www.bloomsburyfoodlibrary.com
 HJ https://bloomsburyfoodlibrary.com
 DJ bloomsburyfoodlibrary.com
 
-Title Bloomsbury Music and Sound (OCLC IncludeFile updated 20211214)
+Title Bloomsbury Music and Sound (updated 20260219)
 URL https://www.bloomsburymusicandsound.com/
 HJ bloomsburymusicandsound.com
 HJ bloomsburypopularmusic.com
@@ -77,8 +61,7 @@ HJ www.bloomsburypopularmusic.com
 DJ bloomsburymusicandsound.com
 DJ bloomsburypopularmusic.com
 
-Title Bloomsbury Professional Online (OCLC Includefile updated 20200807)
-HTTPHeader -request -process X-Requested-With
+Title Bloomsbury Professional Online (updated 20260219)
 URL https://bloomsburyprofessionalonline.com
 HJ http://bloomsburyprofessionalonline.com
 HJ https://www.bloomsburyprofessionalonline.com
@@ -94,7 +77,7 @@ HJ https://www.bloomsburyvisualarts.com
 HJ https://bloomsburyvisualarts.com
 DJ bloomsburyvisualarts.com
 
-Title Churchill Archive (OCLC IncludeFile updated 20230721)
+Title Churchill Archive (updated 20260219)
 URL http://www.churchillarchive.com/
 HJ https://churchillarchive.com
 HJ https://www.churchillarchive.com
@@ -102,7 +85,7 @@ HJ www.churchillarchive.com
 HJ churchillarchive.com
 DJ churchillarchive.com
 
-Title Drama Online (OCLC IncludeFile updated 20200709)
+Title Drama Online (updated 20260219)
 URL https://www.dramaonlinelibrary.com/
 HJ www.dramaonlinelibrary.com
 HJ dramaonlinelibrary.com
@@ -110,7 +93,7 @@ HJ https://www.dramaonlinelibrary.com
 HJ https://dramaonlinelibrary.com
 DJ dramaonlinelibrary.com
 
-Title Screen Studies (OCLC IncludeFile updated 20200423)
+Title Screen Studies (updated 20260219)
 URL https://www.screenstudies.com/
 HJ www.screenstudies.com
 HJ screenstudies.com
@@ -118,7 +101,7 @@ HJ https://www.screenstudies.com
 HJ https://screenstudies.com
 DJ screenstudies.com
 
-Title Bloomsbury Education and Childhood Studies (OCLC IncludeFile updated 20200423)
+Title Bloomsbury Education and Childhood Studies (updated 20260219)
 URL https://www.becs-bloomsbury.com/
 HJ www.becs-bloomsbury.com
 HJ becs-bloomsbury.com
@@ -126,23 +109,7 @@ HJ https://www.becs-bloomsbury.com
 HJ https://becs-bloomsbury.com
 DJ becs-bloomsbury.com
 
-Title Bloomsbury Applied Visual Arts (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburyappliedvisualarts.com/
-HJ www.bloomsburyappliedvisualarts.com
-HJ bloomsburyappliedvisualarts.com
-HJ https://www.bloomsburyappliedvisualarts.com
-HJ https://bloomsburyappliedvisualarts.com
-DJ bloomsburyappliedvisualarts.com
-
-Title Bloomsbury Architecture Library (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburyarchitecturelibrary.com/
-HJ www.bloomsburyarchitecturelibrary.com
-HJ bloomsburyarchitecturelibrary.com
-HJ https://www.bloomsburyarchitecturelibrary.com
-HJ https://bloomsburyarchitecturelibrary.com
-DJ bloomsburyarchitecturelibrary.com
-
-Title Theology & Religion Online (OCLC IncludeFile updated 20200423)
+Title Theology & Religion Online (updated 20260219)
 URL https://www.theologyandreligiononline.com/
 HJ www.theologyandreligiononline.com
 HJ theologyandreligiononline.com
@@ -150,7 +117,7 @@ HJ https://www.theologyandreligiononline.com
 HJ https://theologyandreligiononline.com
 DJ theologyandreligiononline.com
 
-Title Bloomsbury Early Years (OCLC IncludeFile updated 20200423)
+Title Bloomsbury Early Years (updated 20260219)
 URL https://www.bloomsburyearlyyears.com
 HJ www.bloomsburyearlyyears.com
 HJ bloomsburyearlyyears.com
@@ -158,31 +125,7 @@ HJ https://www.bloomsburyearlyyears.com
 HJ https://bloomsburyearlyyears.com
 DJ bloomsburyearlyyears.com
 
-Title Bloomsbury Fashion Video (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburyfashionvideo.com
-HJ www.bloomsburyfashionvideo.com
-HJ bloomsburyfashionvideo.com
-HJ https://www.bloomsburyfashionvideo.com
-HJ https://bloomsburyfashionvideo.com
-DJ bloomsburyfashionvideo.com
-
-Title Bloomsbury International Encyclopedia of Surrealism (OCLC IncludeFile updated 20200811)
-URL https://www.bloomsburysurrealism.com/
-HJ www.bloomsburysurrealism.com
-HJ bloomsburysurrealism.com
-HJ https://www.bloomsburysurrealism.com
-HJ https://bloomsburysurrealism.com
-DJ bloomsburysurrealism.com
-
-Title Bloomsbury Medieval Studies (OCLC IncludeFile updated 20200423)
-URL https://www.bloomsburymedievalstudies.com
-HJ www.bloomsburymedievalstudies.com
-HJ bloomsburymedievalstudies.com
-HJ https://www.bloomsburymedievalstudies.com
-HJ https://bloomsburymedievalstudies.com
-DJ bloomsburymedievalstudies.com
-
-Title Human Kinetics Library (OCLC IncludeFile updated 20200423)
+Title Human Kinetics Library (updated 20260219)
 URL https://www.humankineticslibrary.com
 HJ www.humankineticslibrary.com
 HJ humankineticslibrary.com
@@ -190,7 +133,7 @@ HJ https://www.humankineticslibrary.com
 HJ https://humankineticslibrary.com
 DJ humankineticslibrary.com
 
-Title Fairchild Books Interior Design Library (OCLC IncludeFile updated 20210520)
+Title Fairchild Books Interior Design Library (updated 20260219)
 URL https://www.fairchildbooksinteriordesign.com
 HJ www.fairchildbooksinteriordesign.com
 HJ fairchildbooksinteriordesign.com
@@ -198,15 +141,7 @@ HJ https://www.fairchildbooksinteriordesign.com
 HJ https://fairchildbooksinteriordesign.com
 DJ fairchildbooksinteriordesign.com
 
-Title Bloomsbury History Theory & Method (OCLC IncludeFile updated 20210922)
-URL https://www.bloomsburyhistorytheorymethod.com/
-HJ www.bloomsburyhistorytheorymethod.com
-HJ bloomsburyhistorytheorymethod.com
-HJ https://www.bloomsburyhistorytheorymethod.com
-HJ https://bloomsburyhistorytheorymethod.com
-DJ bloomsburyhistorytheorymethod.com
-
-Title Bloomsbury Video Library (OCLC IncludeFile updated 20221216)
+Title Bloomsbury Video Library (updated 20260219)
 URL https://www.bloomsburyvideolibrary.com/
 HJ www.bloomsburyvideolibrary.com
 HJ bloomsburyvideolibrary.com
@@ -214,18 +149,95 @@ HJ https://www.bloomsburyvideolibrary.com
 HJ https://bloomsburyvideolibrary.com
 DJ bloomsburyvideolibrary.com
 
-T Cite Them Right Online (Updated 20220602)
-U https://www.citethemrightonline.com/
+Title Cite Them Right Online (updated 20260219)
+URL https://www.citethemrightonline.com/
 HJ citethemrightonline.com
 HJ https://citethemrightonline.com
 HJ https://www.citethemrightonline.com
 HJ www.citethemrightonline.com
 DJ citethemrightonline.com
 
-Title Jessica Kingsley Publishers Library
+Title Jessica Kingsley Publishers Library (updated 20260219)
 URL https://www.jkplibrary.com/
 HJ https://jkplibrary.com
 HJ https://www.jkplibrary.com
 HJ jkplibrary.com
 HJ www.jkplibrary.com
 DJ jkplibrary.com
+
+Title Bloomsbury History (updated 20260219)
+U https://www.bloomsburyhistory.com
+HJ bloomsburyhistory.com
+HJ https://bloomsburyhistory.com
+HJ https://www.bloomsburyhistory.com
+HJ www.bloomsburyhistory.com
+DJ bloomsburyhistory.com
+
+###################################################################
+#The stanzas below have been removed by the publisher, but for continuity of access and to prevent "oops messages" you may want to keep them.
+#We would advise standalone (self hosted) customers to phase out these stanzas. Redirects have been put in place for all URLs.
+###################################################################
+
+Title Bloomsbury Design Library (updated 20260219)
+URL https://www.bloomsburydesignlibrary.com/
+HJ www.bloomsburydesignlibrary.com
+HJ bloomsburydesignlibrary.com
+HJ https://www.bloomsburydesignlibrary.com
+HJ https://bloomsburydesignlibrary.com
+DJ bloomsburydesignlibrary.com
+
+Title Bloomsbury Applied Visual Arts (updated 20260219)
+URL https://www.bloomsburyappliedvisualarts.com/
+HJ www.bloomsburyappliedvisualarts.com
+HJ bloomsburyappliedvisualarts.com
+HJ https://www.bloomsburyappliedvisualarts.com
+HJ https://bloomsburyappliedvisualarts.com
+DJ bloomsburyappliedvisualarts.com
+
+Title Bloomsbury Architecture Library (updated 20260219)
+URL https://www.bloomsburyarchitecturelibrary.com/
+HJ www.bloomsburyarchitecturelibrary.com
+HJ bloomsburyarchitecturelibrary.com
+HJ https://www.bloomsburyarchitecturelibrary.com
+HJ https://bloomsburyarchitecturelibrary.com
+DJ bloomsburyarchitecturelibrary.com
+
+Title Bloomsbury International Encyclopedia of Surrealism (updated 20260219)
+URL https://www.bloomsburysurrealism.com/
+HJ www.bloomsburysurrealism.com
+HJ bloomsburysurrealism.com
+HJ https://www.bloomsburysurrealism.com
+HJ https://bloomsburysurrealism.com
+DJ bloomsburysurrealism.com
+
+Title Bloomsbury Fashion Video (updated 20260219)
+URL https://www.bloomsburyfashionvideo.com
+HJ www.bloomsburyfashionvideo.com
+HJ bloomsburyfashionvideo.com
+HJ https://www.bloomsburyfashionvideo.com
+HJ https://bloomsburyfashionvideo.com
+DJ bloomsburyfashionvideo.com
+
+Title Bloomsbury Medieval Studies (updated 20260219)
+URL https://www.bloomsburymedievalstudies.com
+HJ www.bloomsburymedievalstudies.com
+HJ bloomsburymedievalstudies.com
+HJ https://www.bloomsburymedievalstudies.com
+HJ https://bloomsburymedievalstudies.com
+DJ bloomsburymedievalstudies.com
+
+Title Bloomsbury History Theory & Method (updated 20260219)
+URL https://www.bloomsburyhistorytheorymethod.com/
+HJ www.bloomsburyhistorytheorymethod.com
+HJ bloomsburyhistorytheorymethod.com
+HJ https://www.bloomsburyhistorytheorymethod.com
+HJ https://bloomsburyhistorytheorymethod.com
+DJ bloomsburyhistorytheorymethod.com
+
+Title Bloomsbury Cultural History (updated 20260219)
+URL https://www.bloomsburyculturalhistory.com/
+HJ bloomsburyculturalhistory.com
+HJ https://bloomsburyculturalhistory.com
+HJ https://www.bloomsburyculturalhistory.com
+HJ www.bloomsburyculturalhistory.com
+DJ bloomsburyculturalhistory.com
