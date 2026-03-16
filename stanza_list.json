@@ -858,14 +858,14 @@
         "stanza": "OCLC/APA_Style_CENTRAL.txt",
         "oclcStanzaId": "Academic_Writer_(formerly_APA_Style_CENTRAL)",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academic_Writer_(formerly_APA_Style_CENTRAL)",
-        "lastUpdated": "2021-10-26"
+        "lastUpdated": "2026-03-11"
     },
     "APA_Style_Manual": {
         "name": "APA Style Manual",
         "stanza": "OCLC/APA_Style_Manual.txt",
         "oclcStanzaId": "APA_Style_Manual",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_Style_Manual",
-        "lastUpdated": "2025-07-10"
+        "lastUpdated": "2026-03-11"
     },
     "APS_Journals": {
         "name": "APS Journals",
