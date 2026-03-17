@@ -851,7 +851,7 @@
         "oclcStanzaId": "APA_PsycNET",
         "oclcIncludeFile": "databases/apa_psycnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET",
-        "lastUpdated": "2026-03-10"
+        "lastUpdated": "2026-03-13"
     },
     "APA_Style_CENTRAL": {
         "name": "Academic Writer (formerly APA Style CENTRAL)",
@@ -4871,7 +4871,7 @@
         "oclcStanzaId": "Jaypee_Digital",
         "oclcIncludeFile": "databases/jaypeedigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jaypee_Digital",
-        "lastUpdated": "2016-01-19"
+        "lastUpdated": "2026-03-16"
     },
     "Jeugd_LiteRom": {
         "name": "Jeugd LiteRom",
