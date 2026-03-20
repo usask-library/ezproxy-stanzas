@@ -2379,7 +2379,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2025-05-30"
+        "lastUpdated": "2026-03-19"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -4404,7 +4404,7 @@
         "oclcStanzaId": "IEEE_Xplore",
         "oclcIncludeFile": "databases/ieee.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IEEE_Xplore",
-        "lastUpdated": "2026-01-20"
+        "lastUpdated": "2026-03-17"
     },
     "IET_Inspec_Analytics_in_EngineeringVillage": {
         "name": "IET Inspec Analytics in EngineeringVillage",
@@ -7733,6 +7733,14 @@
         "oclcIncludeFile": "databases/responsibleinvestor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Responsible_Investor",
         "lastUpdated": "2021-04-07"
+    },
+    "Retriever": {
+        "name": "Retriever",
+        "stanza": "OCLC/Retriever.txt",
+        "oclcStanzaId": "Retriever",
+        "oclcIncludeFile": "databases/retriever.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Retriever",
+        "lastUpdated": "2026-03-18"
     },
     "RetroNews": {
         "name": "RetroNews",
