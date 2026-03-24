@@ -4537,7 +4537,6 @@
         "name": "Inc",
         "stanza": "OCLC/Inc.txt",
         "oclcStanzaId": "Inc",
-        "oclcIncludeFile": "databases/inc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inc",
         "lastUpdated": "2021-05-11"
     },
@@ -9071,7 +9070,7 @@
         "oclcStanzaId": "University_of_Texas_Press_Journals",
         "oclcIncludeFile": "databases/utexaspress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Texas_Press_Journals",
-        "lastUpdated": "2018-04-04"
+        "lastUpdated": "2026-03-20"
     },
     "University_of_Toronto_Press_Journals": {
         "name": "University of Toronto Press Journals",
@@ -9275,7 +9274,7 @@
         "oclcStanzaId": "Warc",
         "oclcIncludeFile": "databases/warc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Warc",
-        "lastUpdated": "2016-12-16"
+        "lastUpdated": "2026-03-19"
     },
     "War_State_and_Society_WSS": {
         "name": "War State and Society (WSS)",
