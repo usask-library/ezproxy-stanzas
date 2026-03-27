@@ -4538,7 +4538,10 @@
         "stanza": "OCLC/Inc.txt",
         "oclcStanzaId": "Inc",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inc",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2021-05-11",
+        "oclcIncludeFile": [
+            "databases/inc.txt"
+        ]
     },
     "Incision": {
         "name": "Incision",
@@ -5564,7 +5567,7 @@
         "oclcStanzaId": "Love_the_Work",
         "oclcIncludeFile": "databases/lovethework.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Love_the_Work",
-        "lastUpdated": "2023-06-12"
+        "lastUpdated": "2023-06-24"
     },
     "LWW_Health_Library": {
         "name": "LWW Health Library",
