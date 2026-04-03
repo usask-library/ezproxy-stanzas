@@ -1,14 +1,17 @@
-Title Public Library of Science (updated 20151014)
+Title Public Library of Science (updated 20200825)
 URL http://www.plos.org
 HJ biology.plosjournals.org
 HJ compbiol.plosjournals.org
 HJ genetics.plosjournals.org
+HJ journals.plos.org
+HJ https://journals.plos.org
 HJ https://plos.org
 HJ https://www.plos.org
 HJ medicine.plosjournals.org
 HJ ntds.plosjournals.org
 HJ pathogens.plosjournals.org
 HJ plos.org
+HJ curents.plos.org
 HJ plosbiology.org
 HJ ploscompbiol.org
 HJ plosgenetics.org

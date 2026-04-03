@@ -3558,7 +3558,7 @@
         "oclcStanzaId": "ETG_Complete",
         "oclcIncludeFile": "databases/etg.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/ETG_Complete",
-        "lastUpdated": "2021-08-06"
+        "lastUpdated": "2026-03-31"
     },
     "Ethnologue": {
         "name": "Ethnologue",
@@ -5184,7 +5184,7 @@
         "oclcStanzaId": "KinoDen_eBook",
         "oclcIncludeFile": "databases/kinoden.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/KinoDen_eBook",
-        "lastUpdated": "2020-06-26"
+        "lastUpdated": "2026-03-30"
     },
     "Kiss_Bow_Shake_Hands": {
         "name": "Kiss, Bow, or Shake Hands",
@@ -7498,7 +7498,10 @@
         "stanza": "OCLC/Public_Library_of_Science.txt",
         "oclcStanzaId": "Public_Library_of_Science",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Public_Library_of_Science",
-        "lastUpdated": "2015-10-14"
+        "lastUpdated": "2020-08-25",
+        "oclcIncludeFile": [
+            "databases/plos.txt"
+        ]
     },
     "PubMed": {
         "name": "PubMed",
