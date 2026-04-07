@@ -5184,7 +5184,7 @@
         "oclcStanzaId": "KinoDen_eBook",
         "oclcIncludeFile": "databases/kinoden.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/KinoDen_eBook",
-        "lastUpdated": "2026-03-30"
+        "lastUpdated": "2026-04-01"
     },
     "Kiss_Bow_Shake_Hands": {
         "name": "Kiss, Bow, or Shake Hands",
@@ -8826,7 +8826,7 @@
             "databases/thieme.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2025-09-03"
+        "lastUpdated": "2026-04-03"
     },
     "Thinkmap_Visual_Thesaurus": {
         "name": "Thinkmap: Visual Thesaurus",
@@ -9318,7 +9318,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2025-06-02"
+        "lastUpdated": "2026-04-06"
     },
     "Wenxinge": {
         "name": "Wenxinge",
