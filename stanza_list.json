@@ -8745,6 +8745,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Theatre_Record",
         "lastUpdated": "2022-06-28"
     },
+    "Therapeutic_Guidelines_(formerly_ETG_Complete)": {
+        "name": "Therapeutic Guidelines (formerly ETG Complete)",
+        "stanza": "OCLC/Therapeutic_Guidelines_(formerly_ETG_Complete).txt",
+        "oclcStanzaId": "Therapeutic_Guidelines_(formerly_ETG_Complete)",
+        "oclcIncludeFile": "databases/etg.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Therapeutic_Guidelines_(formerly_ETG_Complete)",
+        "lastUpdated": "2026-03-31"
+    },
     "Thesaurus_Linguae_Graecae": {
         "name": "Thesaurus Linguae Graecae",
         "stanza": "OCLC/Thesaurus_Linguae_Graecae.txt",
