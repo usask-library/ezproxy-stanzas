@@ -4406,27 +4406,11 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Analytics_in_EngineeringVillage",
         "lastUpdated": "2026-02-19"
     },
-    "IET_Inspec_Analytics_Standalone": {
-        "name": "IET Inspec Analytics Standalone",
-        "stanza": "OCLC/IET_Inspec_Analytics_Standalone.txt",
-        "oclcStanzaId": "IET_Inspec_Analytics_Standalone",
-        "oclcIncludeFile": "databases/iet_ias.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Analytics_Standalone",
-        "lastUpdated": "2026-02-19"
-    },
     "IET_Inspec_Direct_Platform": {
         "name": "IET Inspec Direct Platform",
         "stanza": "OCLC/IET_Inspec_Direct_Platform.txt",
         "oclcStanzaId": "IET_Inspec_Direct_Platform",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Direct_Platform",
-        "lastUpdated": "2026-02-19"
-    },
-    "IET_Inspec_Platform": {
-        "name": "IET Inspec Platform",
-        "stanza": "OCLC/IET_Inspec_Platform.txt",
-        "oclcStanzaId": "IET_Inspec_Platform",
-        "oclcIncludeFile": "databases/iet_ias.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Platform",
         "lastUpdated": "2026-02-19"
     },
     "IGAKU-SHOIN_Library": {

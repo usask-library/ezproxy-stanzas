@@ -1,1 +1,1 @@
-# Note: This stanza is deprecated. Please use IET Inspec Analytics Standalone.
+# Note: This stanza is deprecated. Please use IET Inspec Platform.
