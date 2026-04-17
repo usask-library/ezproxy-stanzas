@@ -7560,21 +7560,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rarebookhub",
         "lastUpdated": "2021-06-07"
     },
-    "RBdigital": {
-        "name": "RBdigital Audiobooks and Ebooks",
-        "stanza": "OCLC/RBdigital.txt",
-        "rules": [
-            {
-                "rule": "Replace",
-                "term": "{yourlibraryname}",
-                "placeholder": "The unique site id that vendor gives you",
-                "enabled": true
-            }
-        ],
-        "oclcStanzaId": "RBdigital_Audiobooks_and_Ebooks",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RBdigital_Audiobooks_and_Ebooks",
-        "lastUpdated": "2019-07-24"
-    },
     "RCN_Publishing": {
         "name": "RCN Publishing",
         "stanza": "OCLC/RCN_Publishing.txt",
