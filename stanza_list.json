@@ -806,13 +806,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Animal_Science_and_Animal_Frontiers",
         "lastUpdated": "2016-07-13"
     },
-    "Annee_Philologique": {
-        "name": "L'Annee Philologique",
-        "stanza": "OCLC/Annee_Philologique.txt",
-        "oclcStanzaId": "L'Annee_Philologique",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/L'Annee_Philologique",
-        "lastUpdated": "2014-12-02"
-    },
     "Annual_Reviews": {
         "name": "Annual Reviews",
         "stanza": "OCLC/Annual_Reviews.txt",
