@@ -322,7 +322,7 @@
         "oclcStanzaId": "AIPP_Publishing_Platform_(formerly_Scitation)",
         "oclcIncludeFile": "databases/scitation.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AIPP_Publishing_Platform_(formerly_Scitation)",
-        "lastUpdated": "2023-04-19"
+        "lastUpdated": "2026-04-15"
     },
     "Airiti_Library": {
         "name": "Airiti Library",
@@ -1376,6 +1376,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
         "oclcIncludeFile": "databases/bihr.txt",
         "lastUpdated": "2022-10-12"
+    },
+    "Bioatlas_and_Bioatlas_Vet": {
+        "name": "Bioatlas and Bioatlas Vet",
+        "stanza": "OCLC/Bioatlas_and_Bioatlas_Vet.txt",
+        "oclcStanzaId": "Bioatlas_and_Bioatlas_Vet",
+        "oclcIncludeFile": "databases/bioatlas.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bioatlas_and_Bioatlas_Vet",
+        "lastUpdated": "2026-04-15"
     },
     "Biocentury": {
         "name": "Biocentury",
@@ -9326,7 +9334,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2026-04-06"
+        "lastUpdated": "2026-04-16"
     },
     "Wenxinge": {
         "name": "Wenxinge",
