@@ -8580,14 +8580,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Swank_Digital_Campus",
         "lastUpdated": "2020-05-15"
     },
-    "Swetswise": {
-        "name": "Swetswise",
-        "stanza": "OCLC/Swetswise.txt",
-        "oclcStanzaId": "Swetswise",
-        "oclcIncludeFile": "databases/swetswise.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Swetswise",
-        "lastUpdated": "2026-01-21"
-    },
     "Symptom_Media": {
         "name": "Symptom Media",
         "stanza": "OCLC/Symptom_Media.txt",
