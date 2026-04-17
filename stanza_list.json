@@ -3553,14 +3553,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/ESG_Manager",
         "lastUpdated": "2014-03-25"
     },
-    "ETG_Complete": {
-        "name": "ETG Complete",
-        "stanza": "OCLC/ETG_Complete.txt",
-        "oclcStanzaId": "ETG_Complete",
-        "oclcIncludeFile": "databases/etg.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/ETG_Complete",
-        "lastUpdated": "2026-03-31"
-    },
     "Ethnologue": {
         "name": "Ethnologue",
         "stanza": "contrib/Ethnologue.txt"
