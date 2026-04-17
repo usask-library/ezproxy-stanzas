@@ -1,6 +1,0 @@
-Title RAND State Statistics (updated 20200513)
-URL https://randstatestats.org
-HJ http://randstatestats.org
-HJ randstatestats.org
-DJ randstatestats.org
-HJ www.randstatestats.org

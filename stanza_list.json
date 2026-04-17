@@ -7536,14 +7536,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Radiological_Society_of_North_America",
         "lastUpdated": "2021-10-29"
     },
-    "RAND_State_Statistics": {
-        "name": "RAND State Statistics",
-        "stanza": "OCLC/RAND_State_Statistics.txt",
-        "oclcStanzaId": "RAND_State_Statistics",
-        "oclcIncludeFile": "databases/rand.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RAND_State_Statistics",
-        "lastUpdated": "2020-05-13"
-    },
     "RANENETWORK": {
         "name": "RANENETWORK",
         "stanza": "OCLC/RANENETWORK.txt",
