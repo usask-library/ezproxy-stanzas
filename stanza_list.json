@@ -2130,7 +2130,7 @@
         "oclcStanzaId": "CCOHS",
         "oclcIncludeFile": "databases/ccohs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCOHS",
-        "lastUpdated": "2023-03-16"
+        "lastUpdated": "2026-04-20"
     },
     "CEEOL": {
         "name": "CEEOL",
@@ -3134,7 +3134,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2026-03-16"
+        "lastUpdated": "2026-04-20"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -4397,7 +4397,7 @@
         "oclcStanzaId": "IEEE_Xplore",
         "oclcIncludeFile": "databases/ieee.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IEEE_Xplore",
-        "lastUpdated": "2026-03-17"
+        "lastUpdated": "2026-04-20"
     },
     "IET_Inspec_Analytics_in_EngineeringVillage": {
         "name": "IET Inspec Analytics in EngineeringVillage",
@@ -4411,6 +4411,14 @@
         "stanza": "OCLC/IET_Inspec_Direct_Platform.txt",
         "oclcStanzaId": "IET_Inspec_Direct_Platform",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Direct_Platform",
+        "lastUpdated": "2026-02-19"
+    },
+    "IET_Inspec_Platform": {
+        "name": "IET Inspec Platform",
+        "stanza": "OCLC/IET_Inspec_Platform.txt",
+        "oclcStanzaId": "IET_Inspec_Platform",
+        "oclcIncludeFile": "databases/iet_ias.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Platform",
         "lastUpdated": "2026-02-19"
     },
     "IGAKU-SHOIN_Library": {
@@ -4613,6 +4621,14 @@
         "oclcIncludeFile": "databases/informspubs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/INFORMS_PubsOnline",
         "lastUpdated": "2021-07-19"
+    },
+    "Infoteka": {
+        "name": "Infoteka",
+        "stanza": "OCLC/Infoteka.txt",
+        "oclcStanzaId": "Infoteka",
+        "oclcIncludeFile": "databases/infoteka.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Infoteka",
+        "lastUpdated": "2026-04-17"
     },
     "INGENTAconnect": {
         "name": "INGENTAconnect",
