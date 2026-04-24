@@ -211,7 +211,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2025-11-11"
+        "lastUpdated": "2026-04-21"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -8780,6 +8780,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Social_History_Archive",
         "lastUpdated": "2025-06-02"
     },
+    "The_Work": {
+        "name": "The Work",
+        "stanza": "OCLC/The_Work.txt",
+        "oclcStanzaId": "The_Work",
+        "oclcIncludeFile": "databases/lovethework.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/The_Work",
+        "lastUpdated": "2026-04-21"
+    },
     "Thieme": {
         "name": "Thieme",
         "stanza": "OCLC/Thieme.txt",
@@ -9242,7 +9250,7 @@
         "oclcStanzaId": "Warc",
         "oclcIncludeFile": "databases/warc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Warc",
-        "lastUpdated": "2026-03-19"
+        "lastUpdated": "2026-04-21"
     },
     "War_State_and_Society_WSS": {
         "name": "War State and Society (WSS)",
