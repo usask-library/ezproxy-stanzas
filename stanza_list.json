@@ -3072,7 +3072,7 @@
         "oclcStanzaId": "East_View_Information_Services_Inc",
         "oclcIncludeFile": "databases/eastview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/East_View_Information_Services_Inc",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-24"
     },
     "Ebook_Central_PatronLogin": {
         "name": "Ebook Central (Patron Login + EZproxy)",
@@ -4852,6 +4852,14 @@
         "oclcIncludeFile": "databases/janes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jane's_Online_Service",
         "lastUpdated": "2026-03-04"
+    },
+    "Japanese_Literature_Web_Library": {
+        "name": "Japanese Literature Web Library",
+        "stanza": "OCLC/Japanese_Literature_Web_Library.txt",
+        "oclcStanzaId": "Japanese_Literature_Web_Library",
+        "oclcIncludeFile": "databases/japanese_literature_web_library.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japanese_Literature_Web_Library",
+        "lastUpdated": "2026-04-24"
     },
     "JapanKnowledge": {
         "name": "JapanKnowledge",
@@ -7381,7 +7389,7 @@
         "oclcStanzaId": "Projectr_TV",
         "oclcIncludeFile": "databases/projectr_tv.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Projectr_TV",
-        "lastUpdated": "2022-02-09"
+        "lastUpdated": "2026-04-27"
     },
     "Project_Euclid": {
         "name": "Project Euclid",
@@ -9418,6 +9426,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "lastUpdated": "2018-10-11"
     },
+    "Work%2C_The": {
+        "name": "Work, The",
+        "stanza": "OCLC/Work%2C_The.txt",
+        "oclcStanzaId": "Work%2C_The",
+        "oclcIncludeFile": "databases/lovethework.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Work%2C_The",
+        "lastUpdated": "2026-04-21"
+    },
     "WorldShare_ILL_Form": {
         "name": "WorldShare ILL Form",
         "stanza": "OCLC/WorldShare_ILL_Form.txt",
@@ -9464,7 +9480,7 @@
         "oclcStanzaId": "World_Library",
         "oclcIncludeFile": "databases/worldlibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/World_Library",
-        "lastUpdated": "2021-07-19"
+        "lastUpdated": "2026-04-24"
     },
     "World_of_Learning": {
         "name": "World of Learning",
