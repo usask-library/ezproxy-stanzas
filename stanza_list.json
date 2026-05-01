@@ -1722,7 +1722,7 @@
         "oclcStanzaId": "British_Newspaper_Archive",
         "oclcIncludeFile": "databases/british_newspaper_archive_1761169020175.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Newspaper_Archive",
-        "lastUpdated": "2025-11-17"
+        "lastUpdated": "2026-04-29"
     },
     "British_Online_Archives": {
         "name": "British Online Archives",
@@ -2029,6 +2029,14 @@
         "oclcIncludeFile": "databases/nrcresearchpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canadian_Science_Publishing_(formerly_NRC_Research_Press)",
         "lastUpdated": "2020-11-02"
+    },
+    "Cancer_Letter_The": {
+        "name": "Cancer Letter, The",
+        "stanza": "OCLC/Cancer_Letter_The.txt",
+        "oclcStanzaId": "Cancer_Letter_The",
+        "oclcIncludeFile": "databases/cancerletter.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cancer_Letter_The",
+        "lastUpdated": "2026-04-29"
     },
     "Cap_Financials": {
         "name": "Cap Financials",
