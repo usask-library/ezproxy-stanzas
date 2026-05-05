@@ -5311,6 +5311,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kweli_TV",
         "lastUpdated": "2026-02-26"
     },
+    "L'Actualite": {
+        "name": "L'Actualite",
+        "stanza": "OCLC/L'Actualite.txt",
+        "oclcStanzaId": "L'Actualite",
+        "oclcIncludeFile": "databases/lactualite.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/L'Actualite",
+        "lastUpdated": "2026-04-30"
+    },
     "Lamyline": {
         "name": "Lamyline",
         "stanza": "OCLC/Lamyline.txt",
@@ -5418,6 +5426,14 @@
         "oclcIncludeFile": "databases/lextenso.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lextenso",
         "lastUpdated": "2025-06-18"
+    },
+    "Le_Devoir": {
+        "name": "Le Devoir",
+        "stanza": "OCLC/Le_Devoir.txt",
+        "oclcStanzaId": "Le_Devoir",
+        "oclcIncludeFile": "databases/le_devoir.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Le_Devoir",
+        "lastUpdated": "2026-04-30"
     },
     "LibLynx": {
         "name": "LibLynx",
@@ -7678,6 +7694,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Reference_Universe",
         "lastUpdated": "2018-04-02"
     },
+    "RefMedia": {
+        "name": "RefMedia",
+        "stanza": "OCLC/RefMedia.txt",
+        "oclcStanzaId": "RefMedia",
+        "oclcIncludeFile": "databases/refmedia_1777578662367.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RefMedia",
+        "lastUpdated": "2026-04-30"
+    },
     "RefWorks": {
         "name": "RefWorks",
         "stanza": "OCLC/RefWorks.txt",
@@ -9297,6 +9321,14 @@
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Webenglish.tv",
         "lastUpdated": "2021-08-09"
+    },
+    "Web_Library_of_Japanese_Literature": {
+        "name": "Web Library of Japanese Literature",
+        "stanza": "OCLC/Web_Library_of_Japanese_Literature.txt",
+        "oclcStanzaId": "Web_Library_of_Japanese_Literature",
+        "oclcIncludeFile": "databases/japanese_literature_web_library.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_Library_of_Japanese_Literature",
+        "lastUpdated": "2026-05-04"
     },
     "Web_of_Science": {
         "name": "Web of Science (formerly Web of Knowledge)",
