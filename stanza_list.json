@@ -1013,7 +1013,9 @@
         "name": "ASHP eBooks",
         "stanza": "OCLC/ASHP_eBooks.txt",
         "oclcStanzaId": "ASHP_eBooks",
-        "oclcIncludeFile": "databases/ashp.txt",
+        "oclcIncludeFile": [
+            "databases/ASHP_ebooks.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASHP_eBooks",
         "lastUpdated": "2023-08-29"
     },
@@ -1858,7 +1860,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2025-04-14"
+        "lastUpdated": "2026-05-18"
     },
     "Caixin_Global": {
         "name": "Caixin Global",

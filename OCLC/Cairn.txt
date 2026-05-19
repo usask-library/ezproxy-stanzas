@@ -1,7 +1,8 @@
 AnonymousURL +*.woff*
 AnonymousURL +https://shs.cairn.info/build/assets/*.js*
-Title Cairn (OCLC IncludeFile updated 20250414)
+Title Cairn (OCLC IncludeFile updated 20260518)
 HTTPHeader -request -process X-Livewire
+HTTPHeader -response -process accept-ch
 URL https://www.cairn.info/
 HJ cairn-int.info
 HJ cairn-mundo.info
