@@ -605,7 +605,7 @@
         "oclcStanzaId": "American_National_Biography_Online",
         "oclcIncludeFile": "databases/americannationalbiography.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography_Online",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-04"
     },
     "American_Occupational_Therapy_Association": {
         "name": "American Occupational Therapy Association",
@@ -1446,7 +1446,7 @@
         "oclcStanzaId": "Blackstones_Police_Service",
         "oclcIncludeFile": "databases/blackstonepoliceservice.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackstones_Police_Service",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-04"
     },
     "Blackwell-Synergy": {
         "name": "Blackwell-Synergy",
@@ -3832,7 +3832,7 @@
         "oclcStanzaId": "Foreign_Policy",
         "oclcIncludeFile": "databases/foreignpolicy.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Foreign_Policy",
-        "lastUpdated": "2020-04-09"
+        "lastUpdated": "2026-06-04"
     },
     "FORENSICnetBASE": {
         "name": "FORENSICnetBASE",
@@ -4188,7 +4188,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2024-04-17"
+        "lastUpdated": "2026-06-04"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
@@ -9292,7 +9292,7 @@
         "oclcStanzaId": "Warc",
         "oclcIncludeFile": "databases/warc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Warc",
-        "lastUpdated": "2026-04-21"
+        "lastUpdated": "2026-06-04"
     },
     "War_State_and_Society_WSS": {
         "name": "War State and Society (WSS)",
