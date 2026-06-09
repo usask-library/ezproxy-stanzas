@@ -3144,7 +3144,7 @@
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2026-04-20"
+        "lastUpdated": "2026-06-08"
     },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
@@ -4307,7 +4307,7 @@
         "oclcStanzaId": "Hogrefe_eLibrary",
         "oclcIncludeFile": "databases/hogrefe_elibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Hogrefe_eLibrary",
-        "lastUpdated": "2019-12-12"
+        "lastUpdated": "2026-06-05"
     },
     "HRdownloads": {
         "name": "HRdownloads",
@@ -6845,7 +6845,7 @@
         "oclcStanzaId": "Oxford_Academic_(formerly_Oxford_Journals)",
         "oclcIncludeFile": "databases/oxfordjournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Academic_(formerly_Oxford_Journals)",
-        "lastUpdated": "2023-01-06"
+        "lastUpdated": "2026-06-04"
     },
     "Oxford_African_American_Studies_Center": {
         "name": "Oxford African American Studies Center",
@@ -6853,7 +6853,7 @@
         "oclcStanzaId": "Oxford_African_American_Studies_Center",
         "oclcIncludeFile": "databases/oxfordaasc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_African_American_Studies_Center",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Art_Online": {
         "name": "Oxford Art Online",
@@ -6862,7 +6862,7 @@
         "oclcStanzaId": "Oxford_Art_Online",
         "oclcIncludeFile": "databases/oxfordartonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Art_Online",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Bibliographies": {
         "name": "Oxford Bibliographies",
@@ -6878,7 +6878,7 @@
         "oclcStanzaId": "Oxford_Business_Trove",
         "oclcIncludeFile": "databases/oxfordbusinesstrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Business_Trove",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Clinical_Psychology": {
         "name": "Oxford Clinical Psychology",
@@ -6902,7 +6902,7 @@
         "oclcStanzaId": "Oxford_Dictionary_of_National_Biography",
         "oclcIncludeFile": "databases/oxforddnb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Dictionary_of_National_Biography",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_English_Dictionary_OED": {
         "name": "Oxford English Dictionary (OED)",
@@ -6948,7 +6948,7 @@
         "oclcStanzaId": "Oxford_Law_Trove",
         "oclcIncludeFile": "databases/oxfordlawtrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Law_Trove_AI_Study_Assistant": {
         "name": "Oxford Law Trove AI Study Assistant",
@@ -6973,7 +6973,7 @@
         "oclcStanzaId": "Oxford_Music_Online",
         "oclcIncludeFile": "databases/oxfordmusiconline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Music_Online",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Politics_Trove": {
         "name": "Oxford Politics Trove",
@@ -6981,7 +6981,7 @@
         "oclcStanzaId": "Oxford_Politics_Trove",
         "oclcIncludeFile": "databases/oxfordpoliticstrove.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Politics_Trove",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Reference": {
         "name": "Oxford Reference",
@@ -6989,7 +6989,7 @@
         "oclcStanzaId": "Oxford_Reference",
         "oclcIncludeFile": "databases/oxfordreference.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Reference",
-        "lastUpdated": "2026-05-29"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Research_Encyclopedia": {
         "name": "Oxford Research Encyclopedia",
@@ -7005,7 +7005,7 @@
         "oclcStanzaId": "Oxford_Scholarly_Editions_Online",
         "oclcIncludeFile": "databases/oxfordscholarlyeditions.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarly_Editions_Online",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Scholarship_Online": {
         "name": "Oxford Scholarship Online (OSO)",
@@ -7024,7 +7024,7 @@
             "databases/oxford_science_trove.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Science_Trove",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Social_Work": {
         "name": "Oxford Social Work",
@@ -7040,7 +7040,7 @@
         "oclcStanzaId": "Oxford_University_Press_Law",
         "oclcIncludeFile": "databases/ouplaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_University_Press_Law",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Oxford_Worlds_Classics": {
         "name": "Oxford Worlds Classics",
@@ -7048,7 +7048,7 @@
         "oclcStanzaId": "Oxford_Worlds_Classics",
         "oclcIncludeFile": "databases/oxfordworldsclassics.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Worlds_Classics",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Palgrave_Connect": {
         "name": "Palgrave Connect",
@@ -9112,7 +9112,7 @@
         "oclcStanzaId": "University_of_Wisconsin_Press",
         "oclcIncludeFile": "databases/uwpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Wisconsin_Press",
-        "lastUpdated": "2024-01-11"
+        "lastUpdated": "2026-06-05"
     },
     "University_Press_Scholarship_Online": {
         "name": "University Press Scholarship Online",
@@ -9427,7 +9427,7 @@
         "oclcStanzaId": "What_Everyone_Needs_to_Know%C2%AE",
         "oclcIncludeFile": "databases/wenk.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/What_Everyone_Needs_to_Know%C2%AE",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Whos_Who": {
         "name": "Who\u2019s Who",
@@ -9435,7 +9435,7 @@
         "oclcStanzaId": "Who%E2%80%99s_Who",
         "oclcIncludeFile": "databases/whoswho.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Who%E2%80%99s_Who",
-        "lastUpdated": "2025-12-11"
+        "lastUpdated": "2026-06-08"
     },
     "Wiley_Online_Library": {
         "name": "Wiley Online Library",
