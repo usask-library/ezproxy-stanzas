@@ -1,6 +1,6 @@
-T American Speech-Language-Hearing Association (ASHA) (updated 20221209)
+Title American Speech-Language-Hearing Association (ASHA) (updated 20260609)
 HTTPHeader -request -process X-Requested-With
-U http://www.asha.org/publications/
+URL http://www.asha.org/publications/
 HJ https://www.asha.org/publications/
 HJ accperspectives.pubs.asha.org
 HJ aja.asha.org
@@ -12,7 +12,6 @@ HJ https://accperspectives.pubs.asha.org
 HJ https://aja.asha.org
 HJ https://ajslp.asha.org
 HJ https://asha.org
-HJ https://journals.ashs.org
 HJ https://jshd.asha.org
 HJ https://jshd.pubs.asha.org
 HJ https://jslhr.asha.org
@@ -23,7 +22,7 @@ HJ https://perspectives.pubs.asha.org
 HJ https://pubs.asha.org
 HJ https://www.pubs.asha.org
 HJ https://lshss.pubs.asha.org
-HJ http://lshss.pubs.asha.org
+HJ lshss.pubs.asha.org
 HJ journals.pubs.asha.org
 HJ jshd.asha.org
 HJ jshd.pubs.asha.org

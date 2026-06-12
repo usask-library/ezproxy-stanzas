@@ -211,7 +211,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2026-04-21"
+        "lastUpdated": "2026-06-11"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -605,7 +605,7 @@
         "oclcStanzaId": "American_National_Biography_Online",
         "oclcIncludeFile": "databases/americannationalbiography.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_National_Biography_Online",
-        "lastUpdated": "2026-06-04"
+        "lastUpdated": "2026-06-10"
     },
     "American_Occupational_Therapy_Association": {
         "name": "American Occupational Therapy Association",
@@ -749,7 +749,7 @@
         "oclcStanzaId": "American_Speech-Language-Hearing_Association_(ASHA)",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Speech-Language-Hearing_Association_(ASHA)",
         "oclcIncludeFile": "databases/asha.txt",
-        "lastUpdated": "2022-12-09"
+        "lastUpdated": "2026-06-08"
     },
     "American_Veterinary_Medical_Association": {
         "name": "American Veterinary Medical Association",
@@ -1446,7 +1446,7 @@
         "oclcStanzaId": "Blackstones_Police_Service",
         "oclcIncludeFile": "databases/blackstonepoliceservice.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackstones_Police_Service",
-        "lastUpdated": "2026-06-04"
+        "lastUpdated": "2026-06-10"
     },
     "Blackwell-Synergy": {
         "name": "Blackwell-Synergy",
@@ -1486,7 +1486,7 @@
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-06-11"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
@@ -2390,7 +2390,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-06-10"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -3324,6 +3324,13 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/ELibraryPlus",
         "lastUpdated": "2015-09-29"
     },
+    "eLibrary_Narr_Digital": {
+        "name": "eLibrary Narr Digital",
+        "stanza": "OCLC/eLibrary_Narr_Digital.txt",
+        "oclcStanzaId": "eLibrary_Narr_Digital",
+        "oclcIncludeFile": "databases/elibrary_narr_digital_1780668558459.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/eLibrary_Narr_Digital"
+    },
     "eLibro": {
         "name": "ELibro (IP Authentication)",
         "stanza": "OCLC/eLibro.txt",
@@ -3910,7 +3917,7 @@
         "oclcStanzaId": "Gale_Products",
         "oclcIncludeFile": "databases/gale.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Gale_Products",
-        "lastUpdated": "2025-08-25"
+        "lastUpdated": "2026-06-10"
     },
     "Geofacets": {
         "name": "Geofacets",
@@ -5760,7 +5767,7 @@
         "oclcStanzaId": "MathSciNet",
         "oclcIncludeFile": "databases/mathscinet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MathSciNet",
-        "lastUpdated": "2022-06-28"
+        "lastUpdated": "2026-06-11"
     },
     "Matthew_Bender_Online": {
         "name": "Matthew Bender Online",
@@ -7494,7 +7501,7 @@
         "oclcStanzaId": "PsychiatryOnline",
         "oclcIncludeFile": "databases/psychiatryonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PsychiatryOnline",
-        "lastUpdated": "2017-12-26"
+        "lastUpdated": "2026-06-09"
     },
     "Psychiatry_Legacy_Collection_Online_Journals_1844-1996": {
         "name": "Psychiatry Legacy Collection Online Journals 1844-1996",
@@ -9451,7 +9458,7 @@
         "oclcStanzaId": "WisersOne",
         "oclcIncludeFile": "databases/wisersone.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WisersOne",
-        "lastUpdated": "2026-03-09"
+        "lastUpdated": "2026-06-10"
     },
     "Wolters_Kluwer_Online_Deutschland": {
         "name": "Wolters Kluwer Online Deutschland",
