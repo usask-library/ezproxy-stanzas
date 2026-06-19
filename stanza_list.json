@@ -2122,9 +2122,11 @@
         "name": "CCH IknowConnect",
         "stanza": "OCLC/CCH_IknowConnect.txt",
         "oclcStanzaId": "CCH_IknowConnect",
-        "oclcIncludeFile": "databases/iknowconnect.txt",
+        "oclcIncludeFile": [
+            "databases/CCHIknowConnect.txt"
+        ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_IknowConnect",
-        "lastUpdated": "2023-08-08"
+        "lastUpdated": "2026-06-17"
     },
     "CCH_Intelliconnect": {
         "name": "CCH Intelliconnect",
@@ -3082,7 +3084,7 @@
         "oclcStanzaId": "East_View_Information_Services_Inc",
         "oclcIncludeFile": "databases/eastview.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/East_View_Information_Services_Inc",
-        "lastUpdated": "2026-06-15"
+        "lastUpdated": "2026-06-16"
     },
     "Ebook_Central_PatronLogin": {
         "name": "Ebook Central (Patron Login + EZproxy)",
