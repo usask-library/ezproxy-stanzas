@@ -4197,7 +4197,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2026-06-04"
+        "lastUpdated": "2026-06-23"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
@@ -5689,7 +5689,7 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mango_Languages",
-        "lastUpdated": "2016-04-26"
+        "lastUpdated": "2026-06-22"
     },
     "Marketing_Week": {
         "name": "Marketing Week",
