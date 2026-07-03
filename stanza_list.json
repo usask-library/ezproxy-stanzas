@@ -6390,7 +6390,7 @@
         "oclcStanzaId": "NEJM_Group",
         "oclcIncludeFile": "databases/nejm_group.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NEJM_Group",
-        "lastUpdated": "2025-12-05"
+        "lastUpdated": "2026-06-30"
     },
     "NEJM_Journal_Watch": {
         "name": "NEJM Journal Watch",
@@ -8073,7 +8073,10 @@
         "stanza": "OCLC/Scholarly_Digital_Editions.txt",
         "oclcStanzaId": "Scholarly_Digital_Editions",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scholarly_Digital_Editions",
-        "lastUpdated": "2018-01-10"
+        "lastUpdated": "2026-06-30",
+        "oclcIncludeFile": [
+            "databases/sd_editions.txt"
+        ]
     },
     "Scholarly_Publishing_Collective": {
         "name": "Scholarly Publishing Collective",
