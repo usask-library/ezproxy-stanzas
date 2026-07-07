@@ -177,7 +177,6 @@
         "name": "Acland's Video Atlas of Human Anatomy",
         "stanza": "OCLC/AclandAnatomy.txt",
         "oclcStanzaId": "Acland's_Video_Atlas_of_Human_Anatomy",
-        "oclcIncludeFile": "databases/acland.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Acland's_Video_Atlas_of_Human_Anatomy",
         "lastUpdated": "2019-06-05"
     },
@@ -2708,7 +2707,7 @@
         "oclcStanzaId": "Dalloz",
         "oclcIncludeFile": "databases/dalloz.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dalloz",
-        "lastUpdated": "2025-04-03"
+        "lastUpdated": "2026-07-06"
     },
     "Dalloz_Revues": {
         "name": "Dalloz Revues",
