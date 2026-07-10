@@ -1421,7 +1421,7 @@
         "oclcStanzaId": "Bioscientifica",
         "oclcIncludeFile": "databases/bioscientifica.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bioscientifica",
-        "lastUpdated": "2022-06-24"
+        "lastUpdated": "2026-07-07"
     },
     "Birds_of_the_World": {
         "name": "Birds of the World (formerly Birds of North America)",
@@ -4307,7 +4307,7 @@
         "oclcStanzaId": "Hogrefe_eContent",
         "oclcIncludeFile": "databases/hogrefe.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Hogrefe_eContent",
-        "lastUpdated": "2020-11-09"
+        "lastUpdated": "2026-07-08"
     },
     "Hogrefe_eLibrary": {
         "name": "Hogrefe eLibrary",
@@ -4315,7 +4315,7 @@
         "oclcStanzaId": "Hogrefe_eLibrary",
         "oclcIncludeFile": "databases/hogrefe_elibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/Hogrefe_eLibrary",
-        "lastUpdated": "2026-06-05"
+        "lastUpdated": "2026-07-07"
     },
     "HRdownloads": {
         "name": "HRdownloads",
@@ -5343,6 +5343,14 @@
         "oclcIncludeFile": "databases/latinamericanstudies.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Latin-American_Studies",
         "lastUpdated": "2019-05-16"
+    },
+    "LAW": {
+        "name": "LAW",
+        "stanza": "OCLC/LAW.txt",
+        "oclcStanzaId": "LAW",
+        "oclcIncludeFile": "databases/law_1783356604852.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LAW",
+        "lastUpdated": "2026-07-06"
     },
     "Lawsnote": {
         "name": "Lawsnote",
@@ -8601,7 +8609,7 @@
         "oclcStanzaId": "Strada_Lex",
         "oclcIncludeFile": "databases/stradalex.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Strada_Lex",
-        "lastUpdated": "2024-07-29"
+        "lastUpdated": "2026-07-09"
     },
     "STRATFOR": {
         "name": "STRATFOR",
@@ -9349,7 +9357,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2026-04-16"
+        "lastUpdated": "2026-07-08"
     },
     "Wenxinge": {
         "name": "Wenxinge",
