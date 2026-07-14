@@ -2039,6 +2039,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cancer_Letter_The",
         "lastUpdated": "2026-04-29"
     },
+    "Candid": {
+        "name": "Candid",
+        "stanza": "OCLC/Candid.txt",
+        "oclcStanzaId": "Candid",
+        "oclcIncludeFile": "databases/candid.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Candid",
+        "lastUpdated": "2026-07-10"
+    },
     "Cap_Financials": {
         "name": "Cap Financials",
         "stanza": "OCLC/Cap_Financials.txt",
@@ -2462,6 +2470,14 @@
         "oclcStanzaId": "Columbia_Earthscape",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_Earthscape",
         "lastUpdated": "2004-10-21"
+    },
+    "Columbia_Gazetteer_of_the_World_The": {
+        "name": "Columbia Gazetteer of the World, The",
+        "stanza": "OCLC/Columbia_Gazetteer_of_the_World_The.txt",
+        "oclcStanzaId": "Columbia_Gazetteer_of_the_World_The",
+        "oclcIncludeFile": "databases/the_columbia_gazetteer_of_the_world_1781538006073.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_Gazetteer_of_the_World_The",
+        "lastUpdated": "2026-06-15"
     },
     "Columbia_International_Affairs_Online": {
         "name": "Columbia International Affairs Online (CIAO)",

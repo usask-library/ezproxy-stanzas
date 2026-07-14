@@ -1,0 +1,7 @@
+Title The Columbia Gazetteer of the World (updated 20260611)
+URL https://www.columbiagazetteer.org
+HJ https://www.columbiagazetteer.org
+HJ http://www.columbiagazetteer.org
+HJ https://columbiagazetteer.org
+HJ http://columbiagazetteer.org
+DJ columbiagazetteer.org
