@@ -4887,14 +4887,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jane's_Online_Service",
         "lastUpdated": "2026-03-04"
     },
-    "Japanese_Literature_Web_Library": {
-        "name": "Japanese Literature Web Library",
-        "stanza": "OCLC/Japanese_Literature_Web_Library.txt",
-        "oclcStanzaId": "Japanese_Literature_Web_Library",
-        "oclcIncludeFile": "databases/japanese_literature_web_library.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japanese_Literature_Web_Library",
-        "lastUpdated": "2026-04-24"
-    },
     "JapanKnowledge": {
         "name": "JapanKnowledge",
         "stanza": "OCLC/JapanKnowledge.txt",
