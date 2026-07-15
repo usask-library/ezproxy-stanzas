@@ -5612,14 +5612,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Longwoods_Publishing_Journals",
         "lastUpdated": "2024-08-27"
     },
-    "Love_the_Work": {
-        "name": "Love the Work",
-        "stanza": "OCLC/Love_the_Work.txt",
-        "oclcStanzaId": "Love_the_Work",
-        "oclcIncludeFile": "databases/lovethework.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Love_the_Work",
-        "lastUpdated": "2023-06-24"
-    },
     "LWW_Health_Library": {
         "name": "LWW Health Library",
         "stanza": "OCLC/LWW_Health_Library.txt",
@@ -8848,14 +8840,6 @@
         "oclcIncludeFile": "databases/the_social_history_archive_1722610743721.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/The_Social_History_Archive",
         "lastUpdated": "2025-06-02"
-    },
-    "The_Work": {
-        "name": "The Work",
-        "stanza": "OCLC/The_Work.txt",
-        "oclcStanzaId": "The_Work",
-        "oclcIncludeFile": "databases/lovethework.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/The_Work",
-        "lastUpdated": "2026-04-21"
     },
     "Thieme": {
         "name": "Thieme",
