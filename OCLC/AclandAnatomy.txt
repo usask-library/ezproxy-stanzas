@@ -1,7 +1,1 @@
-Title Acland Anatomy (updated 20190605)
-URL http://www.aclandanatomy.com
-HJ aclandanatomy.com
-HJ www.aclandanatomy.com
-HJ https://aclandanatomy.com
-HJ https://www.aclandanatomy.com
-DJ aclandanatomy.com
+# Note: This website has moved. To access this site, update and use the ClinicalContext stanza.
