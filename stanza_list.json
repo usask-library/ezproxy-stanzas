@@ -6972,7 +6972,7 @@
         "oclcStanzaId": "Oxford_Law_Trove_AI_Study_Assistant",
         "oclcIncludeFile": "databases/oxford_law_trove_ai_study_assistant.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Law_Trove_AI_Study_Assistant",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2026-07-20"
     },
     "Oxford_Medicine_Online": {
         "name": "Oxford Medicine Online",
@@ -8841,7 +8841,7 @@
             "databases/thieme.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thieme",
-        "lastUpdated": "2026-04-03"
+        "lastUpdated": "2026-07-17"
     },
     "Thinkmap_Visual_Thesaurus": {
         "name": "Thinkmap: Visual Thesaurus",
