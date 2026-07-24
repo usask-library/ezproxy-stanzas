@@ -2,12 +2,17 @@ Option DomainCookieOnly
 AnonymousURL +https://ccmsfiles.tg.org.au/s*
 AnonymousURL +https://drtcccmsfiles.tg.org.au/*
 AnonymousURL +https://obesityccmsfiles.tg.org.au/*
-Title Therapeutic Guidelines (updated 20260331)
+AnonymousURL +https://aidhccmsfiles.tg.org.au/*
+Title Therapeutic Guidelines (updated 20260721)
 URL https://app.tg.org.au/
 HJ https://app.tg.org.au
+HJ https://aidh.tg.org.au   
+HJ https://aidhccmsfiles.tg.org.au
 HJ https://tgldcdp.tg.org.au
 HJ tgldcdp.tg.org.au
 HJ app.tg.org.au
+HJ aidh.tg.org.au
+HJ aidhccmsfiles.tg.org.au
 HJ https://dontrushtocrush.tg.org.au
 HJ dontrushtocrush.tg.org.au
 HJ https://drtcccmsfiles.tg.org.au

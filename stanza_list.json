@@ -4894,6 +4894,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
         "lastUpdated": "2014-05-07"
     },
+    "Japan_Times_Digital_Archives%2C_The": {
+        "name": "Japan Times Digital Archives, The",
+        "stanza": "OCLC/Japan_Times_Digital_Archives%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Digital_Archives%2C_The",
+        "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Japan_Times_Digital_Archives%2C_The",
+        "lastUpdated": "2026-07-22"
+    },
     "Jaypee_Digital": {
         "name": "Jaypee Digital",
         "stanza": "OCLC/Jaypee_Digital.txt",
@@ -6855,6 +6863,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OvidFrancais",
         "lastUpdated": "2020-07-21"
     },
+    "Ovid_Discovery": {
+        "name": "Ovid Discovery",
+        "stanza": "OCLC/Ovid_Discovery.txt",
+        "oclcStanzaId": "Ovid_Discovery",
+        "oclcIncludeFile": "databases/ovid_discovery.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Ovid_Discovery",
+        "lastUpdated": "2026-07-22"
+    },
     "Oxford_Academic": {
         "name": "Oxford Academic (formerly Oxford Journals)",
         "stanza": "OCLC/Oxford_Academic.txt",
@@ -8432,6 +8448,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Social_Explorer",
         "lastUpdated": "2019-12-13"
     },
+    "Social_Law_Library": {
+        "name": "Social Law Library",
+        "stanza": "OCLC/Social_Law_Library.txt",
+        "oclcStanzaId": "Social_Law_Library",
+        "oclcIncludeFile": "databases/social_law_library.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Social_Law_Library",
+        "lastUpdated": "2026-07-21"
+    },
     "Society_for_Industrial_and_Applied_Mathematics": {
         "name": "Society for Industrial and Applied Mathematics",
         "stanza": "OCLC/Society_for_Industrial_and_Applied_Mathematics.txt",
@@ -8758,7 +8782,7 @@
         "oclcStanzaId": "Therapeutic_Guidelines_(formerly_ETG_Complete)",
         "oclcIncludeFile": "databases/etg.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Therapeutic_Guidelines_(formerly_ETG_Complete)",
-        "lastUpdated": "2026-03-31"
+        "lastUpdated": "2026-07-21"
     },
     "Thesaurus_Linguae_Graecae": {
         "name": "Thesaurus Linguae Graecae",
