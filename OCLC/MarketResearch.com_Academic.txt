@@ -1,6 +1,5 @@
-Title MarketResearch.com Academic (updated 20210624)
+Title MarketResearch.com Academic (updated 20260803)
 URL https://www.marketresearch.com
-HJ http://www.marketresearch.com
-HJ https://academic.marketresearch.com
-HJ http://academic.marketresearch.com
+HJ https://www.marketresearch.com
+HJ www.marketresearch.com
 DJ marketresearch.com

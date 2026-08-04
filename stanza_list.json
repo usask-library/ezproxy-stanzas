@@ -1501,7 +1501,7 @@
         "oclcStanzaId": "Boards_%26_Beyond",
         "oclcIncludeFile": "databases/boardsandbeyond.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boards_%26_Beyond",
-        "lastUpdated": "2026-01-29"
+        "lastUpdated": "2026-08-03"
     },
     "BoardVitals": {
         "name": "BoardVitals",
@@ -2399,7 +2399,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2026-06-10"
+        "lastUpdated": "2026-07-31"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -4688,6 +4688,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inovestor",
         "lastUpdated": "2020-06-19"
     },
+    "Inside_Higher_Ed": {
+        "name": "Inside Higher Ed",
+        "stanza": "OCLC/Inside_Higher_Ed.txt",
+        "oclcStanzaId": "Inside_Higher_Ed",
+        "oclcIncludeFile": "databases/inside_higher_ed_1785786651476.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inside_Higher_Ed",
+        "lastUpdated": "2026-08-03"
+    },
     "Institute_of_Arts_and_Ideas": {
         "name": "Institute of Arts and Ideas",
         "stanza": "OCLC/Institute_of_Arts_and_Ideas.txt",
@@ -5728,7 +5736,7 @@
         "oclcStanzaId": "MarketResearch.com_Academic",
         "oclcIncludeFile": "databases/marketresearch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MarketResearch.com_Academic",
-        "lastUpdated": "2021-06-24"
+        "lastUpdated": "2026-08-03"
     },
     "Marketscope_Advisor_CFRA": {
         "name": "Marketscope Advisor - CFRA",
