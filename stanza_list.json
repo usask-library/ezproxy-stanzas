@@ -9515,7 +9515,6 @@
         "name": "WorldShare ILL Form",
         "stanza": "OCLC/WorldShare_ILL_Form.txt",
         "oclcStanzaId": "WorldShare_ILL_Form",
-        "oclcIncludeFile": "databases/worldshare_ill_form.txt",
         "rules": [
             {
                 "rule": "Replace",
@@ -9525,7 +9524,7 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WorldShare_ILL_Form",
-        "lastUpdated": "2023-08-14"
+        "lastUpdated": "2023-08-13"
     },
     "WorldTradeLaw": {
         "name": "WorldTradeLaw",
