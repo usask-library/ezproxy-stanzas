@@ -4112,6 +4112,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GSE_Research",
         "lastUpdated": "2019-11-26"
     },
+    "Guanzhen_Cloud_Jane_Archives_Search_Database": {
+        "name": "Guanzhen Cloud Jane Archives Search Database",
+        "stanza": "OCLC/Guanzhen_Cloud_Jane_Archives_Search_Database.txt",
+        "oclcStanzaId": "Guanzhen_Cloud_Jane_Archives_Search_Database",
+        "oclcIncludeFile": "databases/guanzhen_cloud_jane_archives_search_database.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Guanzhen_Cloud_Jane_Archives_Search_Database",
+        "lastUpdated": "2026-08-17"
+    },
     "Guilford_Publications": {
         "name": "Guilford Publications",
         "stanza": "OCLC/Guilford_Publications.txt",
@@ -4902,12 +4910,28 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
         "lastUpdated": "2014-05-07"
     },
+    "Japan_Times_Alpha_Digital_Viewer%2C_The": {
+        "name": "Japan Times Alpha Digital Viewer, The",
+        "stanza": "OCLC/Japan_Times_Alpha_Digital_Viewer%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "lastUpdated": "2023-10-25"
+    },
+    "Japan_Times_Digital%2C_The": {
+        "name": "Japan Times Digital, The",
+        "stanza": "OCLC/Japan_Times_Digital%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Digital%2C_The",
+        "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital%2C_The",
+        "lastUpdated": "2023-07-06"
+    },
     "Japan_Times_Digital_Archives%2C_The": {
         "name": "Japan Times Digital Archives, The",
         "stanza": "OCLC/Japan_Times_Digital_Archives%2C_The.txt",
         "oclcStanzaId": "Japan_Times_Digital_Archives%2C_The",
         "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Japan_Times_Digital_Archives%2C_The",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital_Archives%2C_The",
         "lastUpdated": "2026-07-22"
     },
     "Jaypee_Digital": {
