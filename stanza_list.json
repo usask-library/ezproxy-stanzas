@@ -186,7 +186,7 @@
         "oclcStanzaId": "ACM_Digital_Library",
         "oclcIncludeFile": "databases/acm.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ACM_Digital_Library",
-        "lastUpdated": "2021-10-19"
+        "lastUpdated": "2026-08-04"
     },
     "Acoustical_Society_of_America": {
         "name": "Acoustical Society of America",
@@ -508,7 +508,7 @@
         "oclcStanzaId": "American_Chemical_Society",
         "oclcIncludeFile": "databases/acs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Chemical_Society",
-        "lastUpdated": "2017-01-04"
+        "lastUpdated": "2026-08-05"
     },
     "American_College_of_Physicians": {
         "name": "American College of Physicians",
@@ -1501,7 +1501,7 @@
         "oclcStanzaId": "Boards_%26_Beyond",
         "oclcIncludeFile": "databases/boardsandbeyond.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boards_%26_Beyond",
-        "lastUpdated": "2026-01-29"
+        "lastUpdated": "2026-08-03"
     },
     "BoardVitals": {
         "name": "BoardVitals",
@@ -2399,7 +2399,7 @@
         "oclcStanzaId": "CNKI",
         "oclcIncludeFile": "databases/cnki.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CNKI",
-        "lastUpdated": "2026-06-10"
+        "lastUpdated": "2026-07-31"
     },
     "Cobouw": {
         "name": "Cobouw",
@@ -3738,7 +3738,7 @@
         "oclcStanzaId": "Fanyunc",
         "oclcIncludeFile": "databases/fanyunc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fanyunc",
-        "lastUpdated": "2022-08-02"
+        "lastUpdated": "2026-08-12"
     },
     "Fashion_Snoops": {
         "name": "Fashion Snoops",
@@ -4112,6 +4112,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GSE_Research",
         "lastUpdated": "2019-11-26"
     },
+    "Guanzhen_Cloud_Jane_Archives_Search_Database": {
+        "name": "Guanzhen Cloud Jane Archives Search Database",
+        "stanza": "OCLC/Guanzhen_Cloud_Jane_Archives_Search_Database.txt",
+        "oclcStanzaId": "Guanzhen_Cloud_Jane_Archives_Search_Database",
+        "oclcIncludeFile": "databases/guanzhen_cloud_jane_archives_search_database.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Guanzhen_Cloud_Jane_Archives_Search_Database",
+        "lastUpdated": "2026-08-17"
+    },
     "Guilford_Publications": {
         "name": "Guilford Publications",
         "stanza": "OCLC/Guilford_Publications.txt",
@@ -4484,7 +4492,7 @@
         "oclcStanzaId": "IG_Publishing_eBook",
         "oclcIncludeFile": "databases/igpub.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IG_Publishing_eBook",
-        "lastUpdated": "2025-12-12"
+        "lastUpdated": "2026-07-27"
     },
     "IHS_ESDU": {
         "name": "IHS ESDU",
@@ -4687,6 +4695,14 @@
         "oclcIncludeFile": "databases/inovestor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inovestor",
         "lastUpdated": "2020-06-19"
+    },
+    "Inside_Higher_Ed": {
+        "name": "Inside Higher Ed",
+        "stanza": "OCLC/Inside_Higher_Ed.txt",
+        "oclcStanzaId": "Inside_Higher_Ed",
+        "oclcIncludeFile": "databases/inside_higher_ed_1785786651476.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inside_Higher_Ed",
+        "lastUpdated": "2026-08-03"
     },
     "Institute_of_Arts_and_Ideas": {
         "name": "Institute of Arts and Ideas",
@@ -4893,6 +4909,30 @@
         "oclcStanzaId": "JapanKnowledge",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
         "lastUpdated": "2014-05-07"
+    },
+    "Japan_Times_Alpha_Digital_Viewer%2C_The": {
+        "name": "Japan Times Alpha Digital Viewer, The",
+        "stanza": "OCLC/Japan_Times_Alpha_Digital_Viewer%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "lastUpdated": "2023-10-25"
+    },
+    "Japan_Times_Digital%2C_The": {
+        "name": "Japan Times Digital, The",
+        "stanza": "OCLC/Japan_Times_Digital%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Digital%2C_The",
+        "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital%2C_The",
+        "lastUpdated": "2023-07-06"
+    },
+    "Japan_Times_Digital_Archives%2C_The": {
+        "name": "Japan Times Digital Archives, The",
+        "stanza": "OCLC/Japan_Times_Digital_Archives%2C_The.txt",
+        "oclcStanzaId": "Japan_Times_Digital_Archives%2C_The",
+        "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital_Archives%2C_The",
+        "lastUpdated": "2026-07-22"
     },
     "Jaypee_Digital": {
         "name": "Jaypee Digital",
@@ -5720,7 +5760,7 @@
         "oclcStanzaId": "MarketResearch.com_Academic",
         "oclcIncludeFile": "databases/marketresearch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MarketResearch.com_Academic",
-        "lastUpdated": "2021-06-24"
+        "lastUpdated": "2026-08-03"
     },
     "Marketscope_Advisor_CFRA": {
         "name": "Marketscope Advisor - CFRA",
@@ -8802,28 +8842,28 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_China_Project",
         "lastUpdated": "2022-09-12"
     },
-    "Japan_Times_Alpha_Digital_Viewer": {
-        "name": "Japan Times Alpha Digital Viewer, The",
-        "stanza": "OCLC/Japan_Times_Alpha_Digital_Viewer_The.txt",
-        "oclcStanzaId": "Japan_Times_Alpha_Digital_Viewer%2C_The",
+    "The_Japan_Times_Alpha_Digital_Viewer": {
+        "name": "The Japan Times Alpha Digital Viewer",
+        "stanza": "OCLC/The_Japan_Times_Alpha_Digital_Viewer.txt",
+        "oclcStanzaId": "The_Japan_Times_Alpha_Digital_Viewer",
         "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Alpha_Digital_Viewer",
         "lastUpdated": "2023-10-25"
     },
-    "Japan_Times_Digital": {
-        "name": "Japan Times Digital, The",
-        "stanza": "OCLC/Japan_Times_Digital_The.txt",
-        "oclcStanzaId": "Japan_Times_Digital%2C_The",
+    "The_Japan_Times_Digital": {
+        "name": "The Japan Times Digital",
+        "stanza": "OCLC/The_Japan_Times_Digital.txt",
+        "oclcStanzaId": "The_Japan_Times_Digital",
         "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital%2C_The",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Digital",
         "lastUpdated": "2023-07-06"
     },
-    "Japan_Times_Digital_Archives": {
-        "name": "Japan Times Digital Archives, The",
-        "stanza": "OCLC/Japan_Times_Digital_Archives_The.txt",
-        "oclcStanzaId": "Japan_Times_Digital_Archives%2C_The",
+    "The_Japan_Times_Digital_Archives": {
+        "name": "The Japan Times Digital Archives",
+        "stanza": "OCLC/The_Japan_Times_Digital_Archives.txt",
+        "oclcStanzaId": "The_Japan_Times_Digital_Archives",
         "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital_Archives%2C_The",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Japan_Times_Digital_Archives",
         "lastUpdated": "2023-06-26"
     },
     "The_Oklahoman": {
@@ -9462,7 +9502,7 @@
         "oclcStanzaId": "Wiley_Online_Library",
         "oclcIncludeFile": "databases/wileyonlinelibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Wiley_Online_Library",
-        "lastUpdated": "2026-02-03"
+        "lastUpdated": "2026-07-28"
     },
     "WisersOne": {
         "name": "WisersOne",
@@ -9499,7 +9539,6 @@
         "name": "WorldShare ILL Form",
         "stanza": "OCLC/WorldShare_ILL_Form.txt",
         "oclcStanzaId": "WorldShare_ILL_Form",
-        "oclcIncludeFile": "databases/worldshare_ill_form.txt",
         "rules": [
             {
                 "rule": "Replace",
@@ -9509,7 +9548,7 @@
             }
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/WorldShare_ILL_Form",
-        "lastUpdated": "2023-08-14"
+        "lastUpdated": "2023-08-13"
     },
     "WorldTradeLaw": {
         "name": "WorldTradeLaw",
