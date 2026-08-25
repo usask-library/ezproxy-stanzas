@@ -4112,6 +4112,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GSE_Research",
         "lastUpdated": "2019-11-26"
     },
+    "Guangxi_Normal_University_Press": {
+        "name": "Guangxi Normal University Press",
+        "stanza": "OCLC/Guangxi_Normal_University_Press.txt",
+        "oclcStanzaId": "Guangxi_Normal_University_Press",
+        "oclcIncludeFile": "databases/guangxi_normal_university_press_1787591914831.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Guangxi_Normal_University_Press",
+        "lastUpdated": "2026-08-24"
+    },
     "Guanzhen_Cloud_Jane_Archives_Search_Database": {
         "name": "Guanzhen Cloud Jane Archives Search Database",
         "stanza": "OCLC/Guanzhen_Cloud_Jane_Archives_Search_Database.txt",
@@ -8531,7 +8539,6 @@
         "name": "Sourcing Journal",
         "stanza": "OCLC/Sourcing_Journal.txt",
         "oclcStanzaId": "Sourcing_Journal",
-        "oclcIncludeFile": "databases/sourcingjournal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sourcing_Journal",
         "lastUpdated": "2022-09-08"
     },
@@ -9397,7 +9404,7 @@
         "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
-        "lastUpdated": "2026-07-08"
+        "lastUpdated": "2026-08-21"
     },
     "Wenxinge": {
         "name": "Wenxinge",
