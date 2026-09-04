@@ -958,7 +958,7 @@
         "oclcStanzaId": "Artists_Information_Group",
         "oclcIncludeFile": "databases/artinfo.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Artists_Information_Group",
-        "lastUpdated": "2015-12-01"
+        "lastUpdated": "2026-09-03"
     },
     "Artnet": {
         "name": "Artnet",
@@ -3354,7 +3354,8 @@
         "stanza": "OCLC/eLibrary_Narr_Digital.txt",
         "oclcStanzaId": "eLibrary_Narr_Digital",
         "oclcIncludeFile": "databases/elibrary_narr_digital_1780668558459.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/eLibrary_Narr_Digital"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/eLibrary_Narr_Digital",
+        "lastUpdated": "2026-06-09"
     },
     "eLibro": {
         "name": "ELibro (IP Authentication)",
