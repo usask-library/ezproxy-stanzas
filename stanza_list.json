@@ -1835,7 +1835,7 @@
         "oclcStanzaId": "CABI_Resources",
         "oclcIncludeFile": "databases/cabiresources.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CABI_Resources",
-        "lastUpdated": "2025-03-31"
+        "lastUpdated": "2026-09-21"
     },
     "CAB_Direct": {
         "name": "CAB Direct",
@@ -2532,7 +2532,7 @@
         "oclcStanzaId": "Concurrences_-_Antitrust_Publications_%26_Events",
         "oclcIncludeFile": "databases/concurrences.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Concurrences_-_Antitrust_Publications_%26_Events",
-        "lastUpdated": "2025-07-10"
+        "lastUpdated": "2026-09-18"
     },
     "Conference_Board": {
         "name": "Conference Board",
@@ -4237,7 +4237,7 @@
         "oclcStanzaId": "HeinOnline",
         "oclcIncludeFile": "databases/heinonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_H/HeinOnline",
-        "lastUpdated": "2026-06-23"
+        "lastUpdated": "2026-09-18"
     },
     "Heldermann_Verlag": {
         "name": "Heldermann Verlag",
