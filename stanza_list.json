@@ -1383,7 +1383,6 @@
         "name": "Biocentury",
         "stanza": "OCLC/Biocentury.txt",
         "oclcStanzaId": "Biocentury",
-        "oclcIncludeFile": "databases/biocentury.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Biocentury",
         "lastUpdated": "2021-11-23"
     },
@@ -2826,6 +2825,14 @@
         "oclcIncludeFile": "databases/desLibris.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DesLibris",
         "lastUpdated": "2018-06-19"
+    },
+    "DETAIL_Digital_(formerly_DETAIL_Inspiration)": {
+        "name": "DETAIL Digital (formerly DETAIL Inspiration)",
+        "stanza": "OCLC/DETAIL_Digital_(formerly_DETAIL_Inspiration).txt",
+        "oclcStanzaId": "DETAIL_Digital_(formerly_DETAIL_Inspiration)",
+        "oclcIncludeFile": "databases/detailonline.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DETAIL_Digital_(formerly_DETAIL_Inspiration)",
+        "lastUpdated": "2026-09-23"
     },
     "DETAIL_Inspiration": {
         "name": "DETAIL Inspiration",
