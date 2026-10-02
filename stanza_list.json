@@ -2810,6 +2810,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DawsonEra",
         "lastUpdated": "2019-11-15"
     },
+    "DBpia": {
+        "name": "DBpia",
+        "stanza": "OCLC/DBpia.txt",
+        "oclcStanzaId": "DBpia",
+        "oclcIncludeFile": "databases/dbpia_1790858098280.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DBpia",
+        "lastUpdated": "2026-10-01"
+    },
     "Den_Hollander": {
         "name": "Den Hollander",
         "stanza": "OCLC/Den_Hollander.txt",
@@ -4932,7 +4940,7 @@
         "stanza": "OCLC/JapanKnowledge.txt",
         "oclcStanzaId": "JapanKnowledge",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
-        "lastUpdated": "2014-05-07"
+        "lastUpdated": "2026-09-30"
     },
     "Japan_Times_Alpha_Digital_Viewer%2C_The": {
         "name": "Japan Times Alpha Digital Viewer, The",
@@ -7200,7 +7208,7 @@
         "oclcStanzaId": "PEP_Web",
         "oclcIncludeFile": "databases/pepweb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PEP_Web",
-        "lastUpdated": "2022-07-15"
+        "lastUpdated": "2026-09-29"
     },
     "Pharmaceutical_Press": {
         "name": "Pharmaceutical Press",
@@ -7241,6 +7249,14 @@
         "oclcIncludeFile": "databases/philosophynow.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Philosophy_Now",
         "lastUpdated": "2019-10-15"
+    },
+    "PhilPapers": {
+        "name": "PhilPapers",
+        "stanza": "OCLC/PhilPapers.txt",
+        "oclcStanzaId": "PhilPapers",
+        "oclcIncludeFile": "databases/philpapers.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PhilPapers",
+        "lastUpdated": "2026-09-30"
     },
     "Physical_Society_of_Japan": {
         "name": "Physical Society of Japan",
