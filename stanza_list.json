@@ -3474,7 +3474,7 @@
         "oclcStanzaId": "El_Croquis_Digital_Library",
         "oclcIncludeFile": "databases/el_croquis_digital_library.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/El_Croquis_Digital_Library",
-        "lastUpdated": "2024-10-17"
+        "lastUpdated": "2026-10-02"
     },
     "EMarketer_Pro": {
         "name": "EMarketer Pro",
@@ -4758,7 +4758,7 @@
         "oclcStanzaId": "Institute_of_Physics",
         "oclcIncludeFile": "databases/iop.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Institute_of_Physics",
-        "lastUpdated": "2021-07-20"
+        "lastUpdated": "2026-10-02"
     },
     "Institution_of_Engineering_and_Technology": {
         "name": "Institution of Engineering and Technology, The",
@@ -6518,7 +6518,7 @@
         "oclcStanzaId": "NewsBank",
         "oclcIncludeFile": "databases/newsbank.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NewsBank",
-        "lastUpdated": "2022-06-28"
+        "lastUpdated": "2026-10-02"
     },
     "Newspaper_Archive": {
         "name": "Newspaper Archive",
@@ -8191,7 +8191,7 @@
         "oclcStanzaId": "Scholastic",
         "oclcIncludeFile": "databases/scholastic_1727710943952.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scholastic",
-        "lastUpdated": "2024-09-19"
+        "lastUpdated": "2026-10-05"
     },
     "Scholastic_Learning_Zone": {
         "name": "Scholastic Learning Zone",
