@@ -5378,6 +5378,22 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kompass",
         "lastUpdated": "2014-07-18"
     },
+    "Kortext_IP": {
+        "name": "Kortext (IP Authentication)",
+        "stanza": "OCLC/Kortext_IP.txt",
+        "oclcStanzaId": "Kortext",
+        "oclcIncludeFile": "databases/kortext_ip.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kortext",
+        "lastUpdated": "2026-10-06"
+    },
+    "Kortext_SSO": {
+        "name": "Kortext (Single Sign-On (SSO))",
+        "stanza": "OCLC/Kortext_SSO.txt",
+        "oclcStanzaId": "Kortext",
+        "oclcIncludeFile": "databases/kortext_sso.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kortext",
+        "lastUpdated": "2026-10-06"
+    },
     "Kotar_Library": {
         "name": "Kotar Library",
         "stanza": "OCLC/Kotar_Library.txt",
