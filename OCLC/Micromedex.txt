@@ -1,11 +1,14 @@
-ProxyHostnameEdit www.thomsonhc.com$ www-thomsonhc-com
+ProxyHostnameEdit [http://www.thomsonhc.com$]www.thomsonhc.com$ www-thomsonhc-com
 Option DomainCookieOnly
 Title Micromedex
 URL http://www.micromedexsolutions.com/
+HJ https://www.micromedexsolutions.com/
+HJ neofax.micromedexsolutions.com
 DJ thomsonhc.com
 DJ micromedex.com
 DJ micromedexsolutions.com
 HJ www.micromedexsolutions.com
+HJ micromedexsolutions.com
 HJ micromedex.com
 HJ www.thomsonhc.com
 HJ uspdi.micromedex.com

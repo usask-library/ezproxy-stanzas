@@ -6106,21 +6106,21 @@
         "stanza": "OCLC/Micromedex.txt",
         "oclcStanzaId": "Micromedex",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Micromedex",
-        "lastUpdated": "2011-06-10"
+        "lastUpdated": "2026-02-09"
     },
     "Micromedex1": {
         "name": "Micromedex 1.0",
         "stanza": "OCLC/Micromedex1.txt",
         "oclcStanzaId": "Micromedex",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Micromedex",
-        "lastUpdated": "2011-06-10"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Micromedex",
+        "lastUpdated": "2026-02-09"
     },
     "Micromedex2": {
         "name": "Micromedex 2.0",
         "stanza": "OCLC/Micromedex2.txt",
         "oclcStanzaId": "Micromedex",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Micromedex",
-        "lastUpdated": "2011-06-10"
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Micromedex",
+        "lastUpdated": "2026-02-09"
     },
     "Migras_Canadian_Export_Guide": {
         "name": "Migra's Canadian Export Guide",
