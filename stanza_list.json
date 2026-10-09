@@ -8588,8 +8588,9 @@
         "name": "Sourcing Journal",
         "stanza": "OCLC/Sourcing_Journal.txt",
         "oclcStanzaId": "Sourcing_Journal",
+        "note": "This stanza is deprecated.",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sourcing_Journal",
-        "lastUpdated": "2022-09-08"
+        "lastUpdated": "2026-08-24"
     },
     "Southern_Medical_Association": {
         "name": "Southern Medical Association",
