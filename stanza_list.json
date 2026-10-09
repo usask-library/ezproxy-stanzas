@@ -1383,8 +1383,9 @@
         "name": "Biocentury",
         "stanza": "OCLC/Biocentury.txt",
         "oclcStanzaId": "Biocentury",
+        "note": "Biocentury no longer supports EZproxy.",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Biocentury",
-        "lastUpdated": "2021-11-23"
+        "lastUpdated": "2026-09-23"
     },
     "BioCyc": {
         "name": "BioCyc",
