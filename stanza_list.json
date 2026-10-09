@@ -3382,7 +3382,7 @@
         "lastUpdated": "2026-06-09"
     },
     "eLibro": {
-        "name": "ELibro (IP Authentication)",
+        "name": "ELibro",
         "stanza": "OCLC/eLibro.txt",
         "oclcStanzaId": "ELibro",
         "oclcIncludeFile": "databases/elibro.txt",
