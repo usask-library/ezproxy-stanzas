@@ -1317,10 +1317,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Benajmins_Online_Resource",
         "lastUpdated": "2016-07-19"
     },
-    "Bentham_Science_Publisher": {
+    "Bentham_Science_Publisher_formerly_EurekaSelect": {
         "name": "Bentham Science Publisher (formerly EurekaSelect)",
-        "stanza": "OCLC/Bentham_Science_Publisher.txt",
-        "oclcStanzaId": "Bentham_Science_Publisher_(formerly_EurekaSelect)",
+        "stanza": "OCLC/Bentham_Science_Publisher_formerly_EurekaSelect.txt",
+        "oclcStanzaId": "Bentham_Science_Publisher_formerly_EurekaSelect",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bentham_Science_Publisher_(formerly_EurekaSelect)",
         "oclcIncludeFile": "databases/eurekaselect.txt",
         "lastUpdated": "2026-02-23"
