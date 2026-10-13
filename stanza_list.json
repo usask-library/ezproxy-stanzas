@@ -236,10 +236,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ad_Fontes_Media",
         "lastUpdated": "2025-02-17"
     },
-    "Aesthetic_and_Cosmetology_Video_Source": {
+    "Aesthetic_Cosmetology_Video_Source": {
         "name": "Aesthetic & Cosmetology Video Source",
-        "stanza": "OCLC/Aesthetic_and_Cosmetology_Video_Source.txt",
-        "oclcStanzaId": "Aesthetic_%26_Cosmetology_Video_Source",
+        "stanza": "OCLC/Aesthetic_Cosmetology_Video_Source.txt",
+        "oclcStanzaId": "Aesthetic_Cosmetology_Video_Source",
         "oclcIncludeFile": "databases/videoshelf.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Aesthetic_%26_Cosmetology_Video_Source",
         "lastUpdated": "2021-05-11"
