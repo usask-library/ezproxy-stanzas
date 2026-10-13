@@ -1000,10 +1000,10 @@
         "oclcIncludeFile": "databases/arts-search.txt",
         "lastUpdated": "2020-05-04"
     },
-    "Asahi_Shimbun_Cross-Search": {
+    "Asahi_Shimbun_Cross_Search": {
         "name": "Asahi Shimbun Cross-Search",
-        "stanza": "OCLC/Asahi_Shimbun_Cross-Search.txt",
-        "oclcStanzaId": "Asahi_Shimbun_Cross-Search",
+        "stanza": "OCLC/Asahi_Shimbun_Cross_Search.txt",
+        "oclcStanzaId": "Asahi_Shimbun_Cross_Search",
         "oclcIncludeFile": "databases/asahi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Asahi_Shimbun_Cross-Search",
         "lastUpdated": "2022-07-12"
