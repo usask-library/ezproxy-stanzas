@@ -1423,10 +1423,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bioscientifica",
         "lastUpdated": "2026-07-07"
     },
-    "Birds_of_the_World": {
+    "Birds_of_the_World_formerly_Birds_of_North_America": {
         "name": "Birds of the World (formerly Birds of North America)",
-        "stanza": "OCLC/Birds_of_the_World.txt",
-        "oclcStanzaId": "Birds_of_the_World_(formerly_Birds_of_North_America)",
+        "stanza": "OCLC/Birds_of_the_World_formerly_Birds_of_North_America.txt",
+        "oclcStanzaId": "Birds_of_the_World_formerly_Birds_of_North_America",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Birds_of_the_World_(formerly_Birds_of_North_America)",
         "oclcIncludeFile": "databases/birdsna.txt",
         "lastUpdated": "2020-05-18"
