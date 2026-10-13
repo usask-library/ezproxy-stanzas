@@ -1199,10 +1199,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Australian_Financial_Review",
         "lastUpdated": "2021-07-07"
     },
-    "Autopsy_Online": {
+    "AutopsyOnline": {
         "name": "Autopsy.Online",
-        "stanza": "OCLC/Autopsy_Online.txt",
-        "oclcStanzaId": "Autopsy.Online",
+        "stanza": "OCLC/AutopsyOnline.txt",
+        "oclcStanzaId": "AutopsyOnline",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Autopsy.Online",
         "oclcIncludeFile": "databases/autopsycenterofchicago.txt",
         "lastUpdated": "2021-03-17"
