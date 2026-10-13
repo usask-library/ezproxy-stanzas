@@ -388,10 +388,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/All_That_Stats",
         "lastUpdated": "2026-02-26"
     },
-    "Almanac_Federal_Fiduciary": {
+    "Almanac_of_the_Federal_Fiduciary": {
         "name": "Almanac of the Federal Fiduciary, The",
-        "stanza": "OCLC/Almanac_Federal_Fiduciary.txt",
-        "oclcStanzaId": "Almanac_of_the_Federal_Fiduciary%2C_The",
+        "stanza": "OCLC/Almanac_of_the_Federal_Fiduciary.txt",
+        "oclcStanzaId": "Almanac_of_the_Federal_Fiduciary",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Almanac_of_the_Federal_Fiduciary%2C_The",
         "oclcIncludeFile": "databases/almanacfederalfiduciary.txt",
         "lastUpdated": "2021-07-26"
