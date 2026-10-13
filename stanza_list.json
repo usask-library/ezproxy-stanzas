@@ -824,7 +824,7 @@
     "AnthroSource2": {
         "name": "AnthroSource 2.0",
         "stanza": "OCLC/AnthroSource2.txt",
-        "oclcStanzaId": "AnthroSource_2.0",
+        "oclcStanzaId": "AnthroSource_20",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AnthroSource_2.0",
         "oclcIncludeFile": "databases/anthrosource2.txt",
         "lastUpdated": "2015-07-23"
