@@ -774,10 +774,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Anatomedia_Online",
         "lastUpdated": "2019-06-21"
     },
-    "Anatomy_TV": {
+    "AnatomyTV": {
         "name": "Anatomy.TV",
-        "stanza": "OCLC/Anatomy_TV.txt",
-        "oclcStanzaId": "Anatomy.TV",
+        "stanza": "OCLC/AnatomyTV.txt",
+        "oclcStanzaId": "AnatomyTV",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Anatomy.TV",
         "oclcIncludeFile": "databases/anatomytv.txt",
         "lastUpdated": "2022-02-24"
