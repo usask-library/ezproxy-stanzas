@@ -478,10 +478,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Association_for_Clinical_Chemistry",
         "lastUpdated": "2019-08-22"
     },
-    "American_Association_for_the_Advancement_of_Science_(AAAS)": {
+    "American_Association_for_the_Advancement_of_Science_AAAS": {
         "name": "American Association for the Advancement of Science (AAAS)",
-        "stanza": "OCLC/American_Association_for_the_Advancement_of_Science_(AAAS).txt",
-        "oclcStanzaId": "American_Association_for_the_Advancement_of_Science_(AAAS)",
+        "stanza": "OCLC/American_Association_for_the_Advancement_of_Science_AAAS.txt",
+        "oclcStanzaId": "American_Association_for_the_Advancement_of_Science_AAAS",
         "oclcIncludeFile": "databases/aaas.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Association_for_the_Advancement_of_Science_(AAAS)",
         "lastUpdated": "2024-03-13"
