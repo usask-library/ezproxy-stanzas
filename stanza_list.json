@@ -798,9 +798,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ancient_Books",
         "lastUpdated": "2024-04-11"
     },
-    "Animal_Science_Publications": {
+    "Journal_of_Animal_Science_and_Animal_Frontiers": {
         "name": "Journal of Animal Science and Animal Frontiers",
-        "stanza": "OCLC/Animal_Science_Publications.txt",
+        "stanza": "OCLC/Journal_of_Animal_Science_and_Animal_Frontiers.txt",
         "oclcStanzaId": "Journal_of_Animal_Science_and_Animal_Frontiers",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Animal_Science_and_Animal_Frontiers",
         "lastUpdated": "2016-07-13"
