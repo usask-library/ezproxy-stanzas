@@ -1695,10 +1695,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Britannica_Academic",
         "lastUpdated": "2025-12-01"
     },
-    "Britannica_E-Stax": {
+    "Britannica_E_Stax": {
         "name": "Britannica E-Stax",
-        "stanza": "OCLC/Britannica_E-Stax.txt",
-        "oclcStanzaId": "Britannica_E-Stax",
+        "stanza": "OCLC/Britannica_E_Stax.txt",
+        "oclcStanzaId": "Britannica_E_Stax",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Britannica_E-Stax",
         "lastUpdated": "2015-09-25"
     },
