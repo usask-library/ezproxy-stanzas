@@ -315,10 +315,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ainosco_Search",
         "lastUpdated": "2022-06-02"
     },
-    "AIPP_Publishing_Platform_(formerly_Scitation)": {
+    "AIPP_Publishing_Platform_formerly_Scitation": {
         "name": "AIPP Publishing Platform (formerly Scitation)",
-        "stanza": "OCLC/AIPP_Publishing_Platform_(formerly_Scitation).txt",
-        "oclcStanzaId": "AIPP_Publishing_Platform_(formerly_Scitation)",
+        "stanza": "OCLC/AIPP_Publishing_Platform_formerly_Scitation.txt",
+        "oclcStanzaId": "AIPP_Publishing_Platform_formerly_Scitation",
         "oclcIncludeFile": "databases/scitation.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AIPP_Publishing_Platform_(formerly_Scitation)",
         "lastUpdated": "2026-04-15"
