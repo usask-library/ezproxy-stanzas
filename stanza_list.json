@@ -1,8 +1,8 @@
 {
-    "5_Minute_Consult": {
+    "5_Minute_Consult_WoltersKluwer": {
         "name": "5 Minute Consult (WoltersKluwer)",
         "stanza": "OCLC/5_Minute_Consult.txt",
-        "oclcStanzaId": "5_Minute_Consult_(WoltersKluwer)",
+        "oclcStanzaId": "5_Minute_Consult_WoltersKluwer",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_Numbers/5_Minute_Consult_(WoltersKluwer)",
         "lastUpdated": "2019-12-12"
     },
