@@ -1447,10 +1447,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackstones_Police_Service",
         "lastUpdated": "2026-06-10"
     },
-    "Blackwell-Synergy": {
+    "Blackwell_Synergy": {
         "name": "Blackwell-Synergy",
-        "stanza": "OCLC/Blackwell-Synergy.txt",
-        "oclcStanzaId": "Blackwell-Synergy",
+        "stanza": "OCLC/Blackwell_Synergy.txt",
+        "oclcStanzaId": "Blackwell_Synergy",
         "oclcIncludeFile": "databases/blackwellsynergy.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blackwell-Synergy",
         "lastUpdated": "2026-01-21"
