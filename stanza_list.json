@@ -1458,7 +1458,7 @@
     "Blake_An_Illustrated_Quarterly": {
         "name": "Blake/An Illustrated Quarterly",
         "stanza": "OCLC/Blake_An_Illustrated_Quarterly.txt",
-        "oclcStanzaId": "Blake%2F%2FAn_Illustrated_Quarterly",
+        "oclcStanzaId": "BlakeAn_Illustrated_Quarterly",
         "oclcIncludeFile": "databases/blake.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Blake%2F%2FAn_Illustrated_Quarterly",
         "lastUpdated": "2020-04-20"
