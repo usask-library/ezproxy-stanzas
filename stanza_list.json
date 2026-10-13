@@ -1085,7 +1085,7 @@
     "ASTM_Compass": {
         "name": "ASTM Compass 2.0",
         "stanza": "OCLC/ASTM_Compass.txt",
-        "oclcStanzaId": "ASTM_Compass_2.0",
+        "oclcStanzaId": "ASTM_Compass_20",
         "oclcIncludeFile": "databases/astm.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASTM_Compass_2.0",
         "lastUpdated": "2026-07-09"
