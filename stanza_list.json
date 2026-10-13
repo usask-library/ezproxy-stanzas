@@ -1246,10 +1246,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Axis360",
         "lastUpdated": "2015-11-05"
     },
-    "A_R_Music_Anthology": {
+    "A_R_Music_Anthology_formerly_Online_Music_Anthology": {
         "name": "A-R Music Anthology (formerly Online Music Anthology)",
-        "stanza": "OCLC/A_R_Music_Anthology.txt",
-        "oclcStanzaId": "A-R_Music_Anthology_(formerly_Online_Music_Anthology)",
+        "stanza": "OCLC/A_R_Music_Anthology_formerly_Online_Music_Anthology.txt",
+        "oclcStanzaId": "A_R_Music_Anthology_formerly_Online_Music_Anthology",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/A-R_Music_Anthology_(formerly_Online_Music_Anthology)",
         "oclcIncludeFile": "databases/onlinemusicanthology.txt",
         "lastUpdated": "2020-09-30"
