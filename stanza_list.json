@@ -702,10 +702,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Society_of_Civil_Engineers",
         "lastUpdated": "2020-06-19"
     },
-    "American_Society_of_Clinical_Oncology": {
+    "American_Society_of_Clinical_Oncology_ASCO": {
         "name": "American Society of Clinical Oncology (ASCO)",
-        "stanza": "OCLC/American_Society_of_Clinical_Oncology.txt",
-        "oclcStanzaId": "American_Society_of_Clinical_Oncology_(ASCO)",
+        "stanza": "OCLC/American_Society_of_Clinical_Oncology_ASCO.txt",
+        "oclcStanzaId": "American_Society_of_Clinical_Oncology_ASCO",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Society_of_Clinical_Oncology_(ASCO)",
         "oclcIncludeFile": "databases/asco.txt",
         "lastUpdated": "2020-05-02"
