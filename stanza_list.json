@@ -1765,10 +1765,10 @@
         "oclcIncludeFile": "databases/browzine.txt",
         "lastUpdated": "2024-04-17"
     },
-    "Buddhist_Digital_Resource_Center_(BUDA)": {
+    "Buddhist_Digital_Resource_Center_BUDA": {
         "name": "Buddhist Digital Resource Center (BUDA)",
-        "stanza": "OCLC/Buddhist_Digital_Resource_Center_(BUDA).txt",
-        "oclcStanzaId": "Buddhist_Digital_Resource_Center_(BUDA)",
+        "stanza": "OCLC/Buddhist_Digital_Resource_Center_BUDA.txt",
+        "oclcStanzaId": "Buddhist_Digital_Resource_Center_BUDA",
         "oclcIncludeFile": "databases/buddhist_digital_resource_center_1717017711846.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Buddhist_Digital_Resource_Center_(BUDA)",
         "lastUpdated": "2024-06-02"
