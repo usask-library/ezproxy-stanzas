@@ -1042,10 +1042,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASM_International",
         "lastUpdated": "2025-03-31"
     },
-    "Aspen_Learning_Library": {
+    "Aspen_Learning_Library_formerly_AspenLaw_eBooks": {
         "name": "Aspen Learning Library (formerly AspenLaw eBooks)",
-        "stanza": "OCLC/Aspen_Learning_Library.txt",
-        "oclcStanzaId": "Aspen_Learning_Library_(formerly_AspenLaw_eBooks)",
+        "stanza": "OCLC/Aspen_Learning_Library_formerly_AspenLaw_eBooks.txt",
+        "oclcStanzaId": "Aspen_Learning_Library_formerly_AspenLaw_eBooks",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Aspen_Learning_Library_(formerly_AspenLaw_eBooks)",
         "oclcIncludeFile": "databases/aspenlaw.txt",
         "lastUpdated": "2021-12-21"
