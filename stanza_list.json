@@ -1813,7 +1813,7 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Businessweek",
         "lastUpdated": "2021-05-11"
     },
-    "Cabells": {
+    "Cabells_Directories": {
         "name": "Cabells Directories",
         "stanza": "OCLC/Cabells_Directories.txt",
         "oclcStanzaId": "Cabells_Directories",
