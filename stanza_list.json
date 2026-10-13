@@ -1789,10 +1789,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Building_Cost_and_Information_Service",
         "lastUpdated": "2023-04-19"
     },
-    "Bureau_of_National_Affairs": {
+    "Bureau_of_National_Affairs_BNA": {
         "name": "Bureau of National Affairs (BNA)",
-        "stanza": "OCLC/Bureau_of_National_Affairs.txt",
-        "oclcStanzaId": "Bureau_of_National_Affairs_(BNA)",
+        "stanza": "OCLC/Bureau_of_National_Affairs_BNA.txt",
+        "oclcStanzaId": "Bureau_of_National_Affairs_BNA",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bureau_of_National_Affairs_(BNA)",
         "oclcIncludeFile": "databases/bna.txt",
         "lastUpdated": "2017-09-27"
