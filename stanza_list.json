@@ -718,10 +718,10 @@
         "oclcIncludeFile": "databases/hematology.txt",
         "lastUpdated": "2022-06-27"
     },
-    "American_Society_of_Neuroradiology_and_AJNR": {
+    "American_Society_of_Neuroradiology_AJNR": {
         "name": "American Society of Neuroradiology & AJNR",
-        "stanza": "OCLC/American_Society_of_Neuroradiology_and_AJNR.txt",
-        "oclcStanzaId": "American_Society_of_Neuroradiology_%26_AJNR",
+        "stanza": "OCLC/American_Society_of_Neuroradiology_AJNR.txt",
+        "oclcStanzaId": "American_Society_of_Neuroradiology_AJNR",
         "oclcIncludeFile": "databases/ajnr.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Society_of_Neuroradiology_%26_AJNR",
         "lastUpdated": "2022-06-21"
