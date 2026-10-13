@@ -2031,10 +2031,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canadian_Science_Publishing_(formerly_NRC_Research_Press)",
         "lastUpdated": "2020-11-02"
     },
-    "Cancer_Letter_The": {
+    "Cancer_Letter": {
         "name": "Cancer Letter, The",
-        "stanza": "OCLC/Cancer_Letter_The.txt",
-        "oclcStanzaId": "Cancer_Letter_The",
+        "stanza": "OCLC/Cancer_Letter.txt",
+        "oclcStanzaId": "Cancer_Letter",
         "oclcIncludeFile": "databases/cancerletter.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cancer_Letter_The",
         "lastUpdated": "2026-04-29"
