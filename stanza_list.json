@@ -1650,7 +1650,7 @@
     "Brief.eco": {
         "name": "Brief.eco",
         "stanza": "OCLC/Brief.eco.txt",
-        "oclcStanzaId": "Brief.eco",
+        "oclcStanzaId": "Briefeco",
         "oclcIncludeFile": "databases/briefeco.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Brief.eco",
         "lastUpdated": "2025-03-20"
@@ -1658,7 +1658,7 @@
     "Brief.me": {
         "name": "Brief.me",
         "stanza": "OCLC/Brief.me.txt",
-        "oclcStanzaId": "Brief.me",
+        "oclcStanzaId": "Briefme",
         "oclcIncludeFile": "databases/briefme.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Brief.me",
         "lastUpdated": "2025-05-30"
@@ -1666,7 +1666,7 @@
     "Brief.science": {
         "name": "Brief.science",
         "stanza": "OCLC/Brief.science.txt",
-        "oclcStanzaId": "Brief.science",
+        "oclcStanzaId": "Briefscience",
         "oclcIncludeFile": "databases/briefscience.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Brief.science",
         "lastUpdated": "2025-01-23"
