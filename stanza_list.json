@@ -558,10 +558,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Geophysical_Union",
         "lastUpdated": "2016-01-19"
     },
-    "American_Institute_of_Aeronautics_Astronautics": {
+    "American_Institute_of_Aeronautics_and_Astronautics_AIAA": {
         "name": "American Institute of Aeronautics and Astronautics (AIAA)",
-        "stanza": "OCLC/American_Institute_of_Aeronautics_Astronautics.txt",
-        "oclcStanzaId": "American_Institute_of_Aeronautics_and_Astronautics_(AIAA)",
+        "stanza": "OCLC/American_Institute_of_Aeronautics_and_Astronautics_AIAA.txt",
+        "oclcStanzaId": "American_Institute_of_Aeronautics_and_Astronautics_AIAA",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/American_Institute_of_Aeronautics_and_Astronautics_(AIAA)",
         "oclcIncludeFile": "databases/aiaa.txt",
         "lastUpdated": "2016-07-04"
