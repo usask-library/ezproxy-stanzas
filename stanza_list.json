@@ -1363,10 +1363,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliotele",
         "lastUpdated": "2026-01-05"
     },
-    "BIHR": {
+    "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance": {
         "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
-        "stanza": "OCLC/BIHR.txt",
-        "oclcStanzaId": "Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
+        "stanza": "OCLC/Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance.txt",
+        "oclcStanzaId": "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
         "oclcIncludeFile": "databases/bihr.txt",
         "lastUpdated": "2022-10-12"
