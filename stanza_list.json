@@ -1498,7 +1498,7 @@
     "Boards_and_Beyond": {
         "name": "Boards & Beyond",
         "stanza": "OCLC/Boards_and_Beyond.txt",
-        "oclcStanzaId": "Boards_%26_Beyond",
+        "oclcStanzaId": "Boards_Beyond",
         "oclcIncludeFile": "databases/boardsandbeyond.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Boards_%26_Beyond",
         "lastUpdated": "2026-08-03"
