@@ -244,10 +244,10 @@
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Aesthetic_%26_Cosmetology_Video_Source",
         "lastUpdated": "2021-05-11"
     },
-    "Africa-Confidential": {
+    "Africa_Confidential": {
         "name": "Africa-Confidential",
-        "stanza": "OCLC/Africa-Confidential.txt",
-        "oclcStanzaId": "Africa-Confidential",
+        "stanza": "OCLC/Africa_Confidential.txt",
+        "oclcStanzaId": "Africa_Confidential",
         "oclcIncludeFile": "databases/africaconfidential.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa-Confidential",
         "lastUpdated": "2024-03-12"
