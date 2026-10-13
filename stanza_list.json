@@ -2023,10 +2023,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canadian_Pharmacists_Association",
         "lastUpdated": "2008-10-31"
     },
-    "Canadian_Science_Publishing": {
+    "Canadian_Science_Publishing_formerly_NRC_Research_Press": {
         "name": "Canadian Science Publishing (formerly NRC Research Press)",
-        "stanza": "OCLC/Canadian_Science_Publishing.txt",
-        "oclcStanzaId": "Canadian_Science_Publishing_(formerly_NRC_Research_Press)",
+        "stanza": "OCLC/Canadian_Science_Publishing_formerly_NRC_Research_Press.txt",
+        "oclcStanzaId": "Canadian_Science_Publishing_formerly_NRC_Research_Press",
         "oclcIncludeFile": "databases/nrcresearchpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Canadian_Science_Publishing_(formerly_NRC_Research_Press)",
         "lastUpdated": "2020-11-02"
