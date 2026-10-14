@@ -5007,10 +5007,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/John_Benjamins",
         "lastUpdated": "2015-10-14"
     },
-    "John_Benjamins_ePlatform": {
+    "John_Benjamins_e_Platform": {
         "name": "John Benjamins e-Platform",
-        "stanza": "OCLC/John_Benjamins_ePlatform.txt",
-        "oclcStanzaId": "John_Benjamins_e-Platform",
+        "stanza": "OCLC/John_Benjamins_e_Platform.txt",
+        "oclcStanzaId": "John_Benjamins_e_Platform",
         "oclcIncludeFile": "databases/jbeplatform.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/John_Benjamins_e-Platform",
         "lastUpdated": "2019-08-29"
