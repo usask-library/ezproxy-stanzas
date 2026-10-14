@@ -2526,10 +2526,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Computing_Reviews",
         "lastUpdated": "2023-04-17"
     },
-    "Concurrences_-_Antitrust_Publications_%26_Events": {
+    "Concurrences_Antitrust_Publications_Events": {
         "name": "Concurrences - Antitrust Publications & Events",
-        "stanza": "OCLC/Concurrences_-_Antitrust_Publications_%26_Events.txt",
-        "oclcStanzaId": "Concurrences_-_Antitrust_Publications_%26_Events",
+        "stanza": "OCLC/Concurrences_Antitrust_Publications_Events.txt",
+        "oclcStanzaId": "Concurrences_Antitrust_Publications_Events",
         "oclcIncludeFile": "databases/concurrences.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Concurrences_-_Antitrust_Publications_%26_Events",
         "lastUpdated": "2026-09-18"
