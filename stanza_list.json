@@ -3925,7 +3925,7 @@
     "Fulcrum": {
         "name": "Fulcrum (formerly ACLS Humanities E-Book)",
         "stanza": "OCLC/Fulcrum.txt",
-        "oclcStanzaId": "Fulcrum_(formerly_ACLS_Humanities_E-Book)",
+        "oclcStanzaId": "Fulcrum_formerly_ACLS_Humanities_E_Book",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Fulcrum_(formerly_ACLS_Humanities_E-Book)",
         "oclcIncludeFile": "databases/acls.txt",
         "lastUpdated": "2022-07-04"
