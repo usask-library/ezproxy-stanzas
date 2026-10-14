@@ -2502,10 +2502,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Common_Craft_Online_Videos",
         "lastUpdated": "2021-05-11"
     },
-    "Communication_Institute_for_Online_Scholarship": {
+    "Communication_Institute_for_Online_Scholarship_CIOS": {
         "name": "Communication Institute for Online Scholarship (CIOS)",
-        "stanza": "OCLC/Communication_Institute_for_Online_Scholarship.txt",
-        "oclcStanzaId": "Communication_Institute_for_Online_Scholarship_(CIOS)",
+        "stanza": "OCLC/Communication_Institute_for_Online_Scholarship_CIOS.txt",
+        "oclcStanzaId": "Communication_Institute_for_Online_Scholarship_CIOS",
         "oclcIncludeFile": "databases/cios.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Communication_Institute_for_Online_Scholarship_(CIOS)",
         "lastUpdated": "2022-02-16"
