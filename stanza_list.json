@@ -8654,7 +8654,7 @@
     "Springer_Nature_Experiments": {
         "name": "Springer Nature Experiments (formerly Springer Protocols)",
         "stanza": "OCLC/Springer_Nature_Experiments.txt",
-        "oclcStanzaId": "Springer_Nature_Experiments_(formerly_Springer_Protocols)",
+        "oclcStanzaId": "Springer_Nature_Experiments_formerly_Springer_Protocols",
         "oclcIncludeFile": "databases/springerprotocols.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Nature_Experiments_(formerly_Springer_Protocols)",
         "lastUpdated": "2025-06-10"
