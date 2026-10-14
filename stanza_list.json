@@ -2117,10 +2117,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_Accounting_Research_Manager",
         "lastUpdated": "2021-01-21"
     },
-    "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0": {
+    "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3": {
         "name": "CCH AnswerConnect and CCH Account Research Manager 3.0",
-        "stanza": "OCLC/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0.txt",
-        "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
+        "stanza": "OCLC/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.txt",
+        "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_30",
         "oclcIncludeFile": "databases/cch_answerconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
         "lastUpdated": "2024-04-05"
