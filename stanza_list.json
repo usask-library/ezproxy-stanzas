@@ -5966,10 +5966,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medical_Online",
         "lastUpdated": "2024-12-23"
     },
-    "Medici.tv_EDU": {
+    "Medici_tv_EDU": {
         "name": "Medici.tv EDU",
-        "stanza": "OCLC/Medici.tv_EDU.txt",
-        "oclcStanzaId": "Medici.tv_EDU",
+        "stanza": "OCLC/Medici_tv_EDU.txt",
+        "oclcStanzaId": "Medici_tv_EDU",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Medici.tv_EDU",
         "lastUpdated": "2025-06-12",
         "oclcIncludeFile": [
