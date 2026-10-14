@@ -5276,10 +5276,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/KinoDen_eBook",
         "lastUpdated": "2026-05-07"
     },
-    "Kiss_Bow_Shake_Hands": {
+    "Kiss_Bow_or_Shake_Hands": {
         "name": "Kiss, Bow, or Shake Hands",
-        "stanza": "OCLC/Kiss_Bow_Shake_Hands.txt",
-        "oclcStanzaId": "Kiss%2C_Bow%2C_or_Shake_Hands",
+        "stanza": "OCLC/Kiss_Bow_or_Shake_Hands.txt",
+        "oclcStanzaId": "Kiss_Bow_or_Shake_Hands",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kiss%2C_Bow%2C_or_Shake_Hands",
         "lastUpdated": "2016-08-15"
     },
