@@ -8028,10 +8028,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Royal_Society_of_Chemistry",
         "lastUpdated": "2024-08-27"
     },
-    "Royal_Society_Publishing_The": {
+    "Royal_Society_Publishing": {
         "name": "Royal Society Publishing, The",
         "stanza": "OCLC/Royal_Society_Publishing.txt",
-        "oclcStanzaId": "Royal_Society_Publishing%2C_The",
+        "oclcStanzaId": "Royal_Society_Publishing",
         "oclcIncludeFile": "databases/royalsocietypublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Royal_Society_Publishing%2C_The",
         "lastUpdated": "2023-03-03"
