@@ -4902,10 +4902,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IWA_Publishing",
         "lastUpdated": "2021-10-28"
     },
-    "J-STAGE": {
+    "J_STAGE": {
         "name": "J-STAGE",
-        "stanza": "OCLC/J-STAGE.txt",
-        "oclcStanzaId": "J-STAGE",
+        "stanza": "OCLC/J_STAGE.txt",
+        "oclcStanzaId": "J_STAGE",
         "oclcIncludeFile": "databases/jstage.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/J-STAGE",
         "lastUpdated": "2020-05-01"
