@@ -3070,9 +3070,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duke_Journals",
         "lastUpdated": "2023-04-18"
     },
-    "Duke_University_Press": {
+    "Duke_University_Press_Books_and_Journals": {
         "name": "Duke University Press Books and Journals",
-        "stanza": "OCLC/Duke_University_Press.txt",
+        "stanza": "OCLC/Duke_University_Press_Books_and_Journals.txt",
         "oclcStanzaId": "Duke_University_Press_Books_and_Journals",
         "oclcIncludeFile": "databases/dukepress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duke_University_Press_Books_and_Journals",
