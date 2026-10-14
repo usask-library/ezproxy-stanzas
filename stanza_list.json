@@ -8492,7 +8492,7 @@
     },
     "Skillsoft_Skillport": {
         "name": "Skillsoft - Skillport",
-        "stanza": "OCLC/Skillsoft-Skillport.txt",
+        "stanza": "OCLC/Skillsoft_Skillport.txt",
         "rules": [
             {
                 "rule": "Replace",
@@ -8507,7 +8507,7 @@
                 "enabled": true
             }
         ],
-        "oclcStanzaId": "Skillsoft_-_Skillport",
+        "oclcStanzaId": "Skillsoft_Skillport",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Skillsoft_-_Skillport",
         "lastUpdated": "2018-04-23"
     },
