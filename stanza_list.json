@@ -6334,10 +6334,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_Film_Board_of_Canada",
         "lastUpdated": "2016-01-27"
     },
-    "National_History_Database_of_PRC%2C_The": {
+    "National_History_Database_of_PRC": {
         "name": "National History Database of PRC, The",
-        "stanza": "OCLC/National_History_Database_of_PRC%2C_The.txt",
-        "oclcStanzaId": "National_History_Database_of_PRC%2C_The",
+        "stanza": "OCLC/National_History_Database_of_PRC.txt",
+        "oclcStanzaId": "National_History_Database_of_PRC",
         "oclcIncludeFile": "databases/he_national_history_database_of_prc.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/National_History_Database_of_PRC%2C_The",
         "lastUpdated": "2024-06-02"
