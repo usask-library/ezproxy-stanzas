@@ -4488,10 +4488,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IET_Inspec_Platform",
         "lastUpdated": "2026-02-19"
     },
-    "IGAKU-SHOIN_Library": {
+    "IGAKU_SHOIN_Library": {
         "name": "IGAKU-SHOIN Library",
-        "stanza": "OCLC/IGAKU-SHOIN_Library.txt",
-        "oclcStanzaId": "IGAKU-SHOIN_Library",
+        "stanza": "OCLC/IGAKU_SHOIN_Library.txt",
+        "oclcStanzaId": "IGAKU_SHOIN_Library",
         "rules": [
             {
                 "rule": "Replace",
