@@ -8130,10 +8130,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Salem_Press",
         "lastUpdated": "2021-06-02"
     },
-    "SAM.gov": {
-        "name": "SAM.gov (beta)",
-        "stanza": "OCLC/SAM.gov.txt",
-        "oclcStanzaId": "SAM.gov_(beta)",
+    "SAM_gov": {
+        "name": "SAM_gov (beta)",
+        "stanza": "OCLC/SAM_gov.txt",
+        "oclcStanzaId": "SAM_gov_beta",
         "oclcIncludeFile": "databases/sam_gov.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAM.gov_(beta)",
         "lastUpdated": "2019-12-03"
