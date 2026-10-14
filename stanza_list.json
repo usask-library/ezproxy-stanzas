@@ -9092,10 +9092,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/Ulrichsweb",
         "lastUpdated": "2017-06-27"
     },
-    "UN-iLibrary": {
+    "UN_iLibrary": {
         "name": "UN-iLibrary",
-        "stanza": "OCLC/UN-iLibrary.txt",
-        "oclcStanzaId": "UN-iLibrary",
+        "stanza": "OCLC/UN_iLibrary.txt",
+        "oclcStanzaId": "UN_iLibrary",
         "oclcIncludeFile": "databases/unilibrary.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/UN-iLibrary",
         "lastUpdated": "2022-02-23"
