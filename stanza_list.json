@@ -8265,10 +8265,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Science_-_AAAS",
         "lastUpdated": "2025-11-13"
     },
-    "Science_and_Medicine": {
+    "Science_Medicine": {
         "name": "Science & Medicine",
-        "stanza": "OCLC/Science_and_Medicine.txt",
-        "oclcStanzaId": "Science_%26_Medicine",
+        "stanza": "OCLC/Science_Medicine.txt",
+        "oclcStanzaId": "Science_Medicine",
         "oclcIncludeFile": "databases/sciandmed.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Science_%26_Medicine",
         "lastUpdated": "2021-12-14"
