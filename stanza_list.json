@@ -9060,9 +9060,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Turnitin",
         "lastUpdated": "2011-01-11"
     },
-    "UCPress": {
+    "University_of_California_Press": {
         "name": "University of California Press",
-        "stanza": "OCLC/UCPress.txt",
+        "stanza": "OCLC/University_of_California_Press.txt",
         "oclcStanzaId": "University_of_California_Press",
         "oclcIncludeFile": "databases/ucpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_California_Press",
