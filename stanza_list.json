@@ -2702,10 +2702,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSA_Illumina",
         "lastUpdated": "2006-03-22"
     },
-    "CSIRO_Journals": {
+    "CSIRO_Publishing_Ebooks_and_Journals": {
         "name": "CSIRO Publishing Ebooks and Journals (formerly CSIRO Journals)",
-        "stanza": "OCLC/CSIRO_Journals.txt",
-        "oclcStanzaId": "CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
+        "stanza": "OCLC/CSIRO_Publishing_Ebooks_and_Journals.txt",
+        "oclcStanzaId": "CSIRO_Publishing_Ebooks_and_Journals_formerly_CSIRO_Journals",
         "oclcIncludeFile": "databases/csiro.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CSIRO_Publishing_Ebooks_and_Journals_(formerly_CSIRO_Journals)",
         "lastUpdated": "2025-10-28"
