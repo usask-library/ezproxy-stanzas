@@ -2231,10 +2231,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Childlink",
         "lastUpdated": "2022-12-19"
     },
-    "Childrens_Literature_Comprehensive_Database": {
+    "Childrens_Literature_Comprehensive_Database_CLCD": {
         "name": "Children's Literature Comprehensive Database (CLCD)",
-        "stanza": "OCLC/Childrens_Literature_Comprehensive_Database.txt",
-        "oclcStanzaId": "Children's_Literature_Comprehensive_Database_(CLCD)",
+        "stanza": "OCLC/Childrens_Literature_Comprehensive_Database_CLCD.txt",
+        "oclcStanzaId": "Children'Childrens_Literature_Comprehensive_Database_CLCD",
         "oclcIncludeFile": "databases/clcd.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Children's_Literature_Comprehensive_Database_(CLCD)",
         "lastUpdated": "2014-07-07"
