@@ -4567,13 +4567,11 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IMAIOS_Chinese_Website",
         "lastUpdated": "2025-10-14"
     },
-    "IMAIOS_e-Anatomy": {
+    "IMAIOS_e_Anatomy": {
         "name": "IMAIOS e-Anatomy",
-        "stanza": "OCLC/IMAIOS_e-Anatomy.txt",
-        "oclcStanzaId": "IMAIOS_e-Anatomy",
-        "oclcIncludeFile": [
-            "databases/_IMAIOS_e-Anatomy.txt"
-        ],
+        "stanza": "OCLC/IMAIOS_e_Anatomy.txt",
+        "oclcStanzaId": "IMAIOS_e_Anatomy",
+        "oclcIncludeFile": "databases/_IMAIOS_e-Anatomy.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IMAIOS_e-Anatomy",
         "lastUpdated": "2024-09-06"
     },
