@@ -8114,10 +8114,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Saishin_Kango_Sakuin_Web",
         "lastUpdated": "2019-02-21"
     },
-    "SAI_Global": {
+    "SAI_Global_Australian_Standards_Online": {
         "name": "SAI Global (Australian Standards Online)",
-        "stanza": "OCLC/SAI_Global.txt",
-        "oclcStanzaId": "SAI_Global_(Australian_Standards_Online)",
+        "stanza": "OCLC/SAI_Global_Australian_Standards_Online.txt",
+        "oclcStanzaId": "SAI_Global_Australian_Standards_Online",
         "oclcIncludeFile": "databases/saiglobal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAI_Global_(Australian_Standards_Online)",
         "lastUpdated": "2023-03-14"
