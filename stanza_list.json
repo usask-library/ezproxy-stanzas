@@ -8208,10 +8208,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scholastic_Learning_Zone",
         "lastUpdated": "2019-07-16"
     },
-    "Schulz-Kirchner_Verlag": {
+    "Schulz_Kirchner_Verlag": {
         "name": "Schulz-Kirchner Verlag",
-        "stanza": "OCLC/Schulz-Kirchner_Verlag.txt",
-        "oclcStanzaId": "Schulz-Kirchner_Verlag",
+        "stanza": "OCLC/Schulz_Kirchner_Verlag.txt",
+        "oclcStanzaId": "Schulz_Kirchner_Verlag",
         "oclcIncludeFile": "databases/schulzkirchner.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Schulz-Kirchner_Verlag",
         "lastUpdated": "2020-01-13"
