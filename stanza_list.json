@@ -8290,10 +8290,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciendo",
         "lastUpdated": "2024-08-27"
     },
-    "Scientific.NET_Trans_Tech_Publications": {
+    "Scientific_NET_Trans_Tech_Publications": {
         "name": "Scientific.NET - Trans Tech Publications",
-        "stanza": "OCLC/Scientific.NET_Trans_Tech_Publications.txt",
-        "oclcStanzaId": "Scientific.NET_-_Trans_Tech_Publications",
+        "stanza": "OCLC/Scientific_NET_Trans_Tech_Publications.txt",
+        "oclcStanzaId": "Scientific_NET_Trans_Tech_Publications",
         "oclcIncludeFile": "databases/scientific.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scientific.NET_-_Trans_Tech_Publications",
         "lastUpdated": "2023-02-03"
