@@ -7607,10 +7607,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PsychiatryOnline",
         "lastUpdated": "2026-06-09"
     },
-    "Psychiatry_Legacy_Collection_Online_Journals_1844-1996": {
+    "Psychiatry_Legacy_Collection_Online_Journals_1844_1996": {
         "name": "Psychiatry Legacy Collection Online Journals 1844-1996",
-        "stanza": "OCLC/Psychiatry_Legacy_Collection_Online_Journals_1844-1996.txt",
-        "oclcStanzaId": "Psychiatry_Legacy_Collection_Online_Journals_1844-1996",
+        "stanza": "OCLC/Psychiatry_Legacy_Collection_Online_Journals_1844_1996.txt",
+        "oclcStanzaId": "Psychiatry_Legacy_Collection_Online_Journals_1844_1996",
         "oclcIncludeFile": "databases/appi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Psychiatry_Legacy_Collection_Online_Journals_1844-1996",
         "lastUpdated": "2023-08-29"
