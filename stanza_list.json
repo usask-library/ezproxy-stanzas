@@ -2487,9 +2487,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_International_Affairs_Online_(CIAO)",
         "lastUpdated": "2022-12-27"
     },
-    "ComicsPlus": {
+    "Comics_Plus": {
         "name": "Comics Plus",
-        "stanza": "OCLC/ComicsPlus.txt",
+        "stanza": "OCLC/Comics_Plus.txt",
         "oclcStanzaId": "Comics_Plus",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Comics_Plus",
         "lastUpdated": "2019-03-05"
