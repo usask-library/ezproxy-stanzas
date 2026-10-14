@@ -4783,10 +4783,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Intellect_Discover",
         "lastUpdated": "2023-02-27"
     },
-    "Inter-Research_Science_Publisher": {
+    "Inter_Research_Science_Publisher": {
         "name": "Inter-Research Science Publisher",
-        "stanza": "OCLC/Inter-Research_Science_Publisher.txt",
-        "oclcStanzaId": "Inter-Research_Science_Publisher",
+        "stanza": "OCLC/Inter_Research_Science_Publisher.txt",
+        "oclcStanzaId": "Inter_Research_Science_Publisher",
         "oclcIncludeFile": "databases/inter-research_science_publisher.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inter-Research_Science_Publisher",
         "lastUpdated": "2019-10-29"
