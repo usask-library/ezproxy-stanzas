@@ -4791,10 +4791,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inter-Research_Science_Publisher",
         "lastUpdated": "2019-10-29"
     },
-    "International_Association_for_Energy_Economics": {
+    "International_Association_for_Energy_Economics_IAEE": {
         "name": "International Association for Energy Economics (IAEE)",
-        "stanza": "OCLC/International_Association_for_Energy_Economics.txt",
-        "oclcStanzaId": "International_Association_for_Energy_Economics_(IAEE)",
+        "stanza": "OCLC/International_Association_for_Energy_Economics_IAEE.txt",
+        "oclcStanzaId": "International_Association_for_Energy_Economics_IAEE",
         "oclcIncludeFile": "databases/iaee.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Association_for_Energy_Economics_(IAEE)",
         "lastUpdated": "2018-09-18"
