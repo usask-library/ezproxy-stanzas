@@ -4830,10 +4830,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_journal_of_human_sciences",
         "lastUpdated": "2021-05-11"
     },
-    "International_Monetary_Fund": {
+    "International_Monetary_Fund_IMF": {
         "name": "International Monetary Fund (IMF)",
-        "stanza": "OCLC/International_Monetary_Fund.txt",
-        "oclcStanzaId": "International_Monetary_Fund_(IMF)",
+        "stanza": "OCLC/International_Monetary_Fund_IMF.txt",
+        "oclcStanzaId": "International_Monetary_Fund_IMF",
         "oclcIncludeFile": "databases/imf.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Monetary_Fund_(IMF)",
         "lastUpdated": "2022-06-27"
