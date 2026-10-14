@@ -8083,10 +8083,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
         "lastUpdated": "2024-10-27"
     },
-    "Safari_Books_Online": {
+    "OReilly_Learning": {
         "name": "O'Reilly Learning (formerly Safari Books Online)",
-        "stanza": "OCLC/Safari_Books_Online.txt",
-        "oclcStanzaId": "OReilly_Learning_(formerly_Safari_Books_Online)",
+        "stanza": "OCLC/OReilly_Learning.txt",
+        "oclcStanzaId": "OReilly_Learning_formerly_Safari_Books_Online",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OReilly_Learning_(formerly_Safari_Books_Online)",
         "lastUpdated": "2020-05-26"
     },
