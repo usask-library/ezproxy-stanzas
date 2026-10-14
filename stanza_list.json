@@ -5038,10 +5038,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JOMI_Surgical_Video_Journal",
         "lastUpdated": "2020-05-20"
     },
-    "Journal_of_Bone_Joint_Surgery": {
+    "Journal_of_Bone_and_Joint_Surgery_American_Volume": {
         "name": "Journal of Bone and Joint Surgery, American Volume, The",
-        "stanza": "OCLC/Journal_of_Bone_Joint_Surgery.txt",
-        "oclcStanzaId": "Journal_of_Bone_and_Joint_Surgery%2C_American_Volume%2C_The",
+        "stanza": "OCLC/Journal_of_Bone_and_Joint_Surgery_American_Volume.txt",
+        "oclcStanzaId": "Journal_of_Bone_and_Joint_Surgery_American_Volume",
         "oclcIncludeFile": "databases/jbjs.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Bone_and_Joint_Surgery%2C_American_Volume%2C_The",
         "lastUpdated": "2020-02-07"
