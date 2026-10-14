@@ -8535,10 +8535,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Social_Law_Library",
         "lastUpdated": "2026-07-21"
     },
-    "Social_Sciences_Academic_Press_(SSAP)": {
+    "Social_Sciences_Academic_Press_SSAP": {
         "name": "Social Sciences Academic Press (SSAP)",
-        "stanza": "OCLC/Social_Sciences_Academic_Press_(SSAP).txt",
-        "oclcStanzaId": "Social_Sciences_Academic_Press_(SSAP)",
+        "stanza": "OCLC/Social_Sciences_Academic_Press_SSAP.txt",
+        "oclcStanzaId": "Social_Sciences_Academic_Press_SSAP",
         "oclcIncludeFile": "databases/social_sciences_academic_press_1787863624586.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Social_Sciences_Academic_Press_(SSAP)",
         "lastUpdated": "2026-08-27"
