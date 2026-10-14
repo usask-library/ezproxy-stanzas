@@ -8803,14 +8803,14 @@
     "Taylor_Francis_eBooks": {
         "name": "Taylor & Francis eBooks",
         "stanza": "OCLC/Taylor_Francis_eBooks.txt",
-        "oclcStanzaId": "Taylor_%26_Francis_eBooks",
+        "oclcStanzaId": "Taylor_Francis_eBooks",
         "oclcIncludeFile": "databases/tandfebooks.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Taylor_%26_Francis_eBooks",
         "lastUpdated": "2021-07-02"
     },
-    "Taylor_Francis_Online": {
+    "Taylor_and_Francis_Online": {
         "name": "Taylor and Francis Online",
-        "stanza": "OCLC/Taylor_Francis_Online.txt",
+        "stanza": "OCLC/Taylor_and_Francis_Online.txt",
         "oclcStanzaId": "Taylor_and_Francis_Online",
         "oclcIncludeFile": "databases/tandfonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Taylor_and_Francis_Online",
