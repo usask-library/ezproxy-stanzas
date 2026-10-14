@@ -6295,10 +6295,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NAACE",
         "lastUpdated": "2021-11-25"
     },
-    "NachschlageNET": {
+    "Nachschlage_NET": {
         "name": "Nachschlage.NET",
-        "stanza": "OCLC/NachschlageNET.txt",
-        "oclcStanzaId": "Nachschlage.NET",
+        "stanza": "OCLC/Nachschlage_NET.txt",
+        "oclcStanzaId": "Nachschlage_NET",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nachschlage.NET",
         "lastUpdated": "2010-05-28"
     },
