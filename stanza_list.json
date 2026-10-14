@@ -6811,7 +6811,7 @@
     "OnePetro": {
         "name": "OnePetro (formerly Society of Petroleum Engineers)",
         "stanza": "OCLC/OnePetro.txt",
-        "oclcStanzaId": "OnePetro_(formerly_Society_of_Petroleum_Engineers)",
+        "oclcStanzaId": "OnePetro_formerly_Society_of_Petroleum_Engineers",
         "oclcIncludeFile": "databases/onepetro.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OnePetro_(formerly_Society_of_Petroleum_Engineers)",
         "lastUpdated": "2015-05-13"
