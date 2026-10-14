@@ -5481,7 +5481,7 @@
     "LearningExpress_Library3": {
         "name": "LearningExpress Library 3.0",
         "stanza": "OCLC/LearningExpress_Library3.txt",
-        "oclcStanzaId": "LearningExpress_Library_3.0",
+        "oclcStanzaId": "LearningExpress_Library_30",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LearningExpress_Library_3.0",
         "lastUpdated": "2015-10-01"
     },
