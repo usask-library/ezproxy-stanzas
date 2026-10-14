@@ -3101,10 +3101,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DynaMed",
         "lastUpdated": "2021-12-06"
     },
-    "e-Marefa": {
-        "name": "E-Marefa",
-        "stanza": "OCLC/e-Marefa.txt",
-        "oclcStanzaId": "E-Marefa",
+    "e_Marefa": {
+        "name": "e-Marefa",
+        "stanza": "OCLC/e_Marefa.txt",
+        "oclcStanzaId": "E_Marefa",
         "oclcIncludeFile": "databases/e-marefa.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/E-Marefa",
         "lastUpdated": "2018-05-16"
