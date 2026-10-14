@@ -7705,10 +7705,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RANENETWORK",
         "lastUpdated": "2025-11-06"
     },
-    "Rangefindr.ca": {
+    "Rangefindr_ca": {
         "name": "Rangefindr.ca",
-        "stanza": "OCLC/Rangefindr.ca.txt",
-        "oclcStanzaId": "Rangefindr.ca",
+        "stanza": "OCLC/Rangefindr_ca.txt",
+        "oclcStanzaId": "Rangefindr_ca",
         "oclcIncludeFile": "databases/rangefindr.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Rangefindr.ca",
         "lastUpdated": "2024-09-30"
