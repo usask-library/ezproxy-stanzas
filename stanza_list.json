@@ -6599,9 +6599,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Nomos_eLibrary",
         "lastUpdated": "2019-01-28"
     },
-    "Noodletools": {
+    "NoodleTools": {
         "name": "NoodleTools",
-        "stanza": "OCLC/Noodletools.txt",
+        "stanza": "OCLC/NoodleTools.txt",
         "oclcStanzaId": "NoodleTools",
         "oclcIncludeFile": "databases/noodletools.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/NoodleTools",
