@@ -5408,10 +5408,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_K/Kweli_TV",
         "lastUpdated": "2026-02-26"
     },
-    "L'Actualite": {
+    "LActualite": {
         "name": "L'Actualite",
-        "stanza": "OCLC/L'Actualite.txt",
-        "oclcStanzaId": "L'Actualite",
+        "stanza": "OCLC/LActualite.txt",
+        "oclcStanzaId": "LActualite",
         "oclcIncludeFile": "databases/lactualite.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/L'Actualite",
         "lastUpdated": "2026-04-30"
