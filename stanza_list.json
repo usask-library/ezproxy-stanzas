@@ -4814,10 +4814,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_journal_of_communication",
         "lastUpdated": "2021-05-11"
     },
-    "International_Journal_of_E-Learning_and_Distance_Education": {
+    "International_Journal_of_E_Learning_Distance_Education": {
         "name": "International Journal of E-Learning & Distance Education",
-        "stanza": "OCLC/International_Journal_of_E-Learning_and_Distance_Education.txt",
-        "oclcStanzaId": "International_Journal_of_E-Learning_%26_Distance_Education",
+        "stanza": "OCLC/International_Journal_of_E_Learning_Distance_Education.txt",
+        "oclcStanzaId": "International_Journal_of_E_Learning_Distance_Education",
         "oclcIncludeFile": "databases/ijede.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Journal_of_E-Learning_%26_Distance_Education",
         "lastUpdated": "2025-02-06"
