@@ -9558,10 +9558,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Women's_Pregnancy_and_Breastfeeding_Medicines_Guide",
         "lastUpdated": "2018-10-11"
     },
-    "Work%2C_The": {
+    "Work": {
         "name": "Work, The",
-        "stanza": "OCLC/Work%2C_The.txt",
-        "oclcStanzaId": "Work%2C_The",
+        "stanza": "OCLC/Work.txt",
+        "oclcStanzaId": "Work",
         "oclcIncludeFile": "databases/lovethework.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Work%2C_The",
         "lastUpdated": "2026-04-21"
