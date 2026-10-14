@@ -1,5 +1,0 @@
-T The Japan Times Digital Archives (updated 20230626)
-U https://jt-archives.jp
-HJ https://jt-archives.jp
-HJ http://jt-archives.jp
-DJ jt-archives.jp

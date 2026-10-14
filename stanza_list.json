@@ -4933,26 +4933,26 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
         "lastUpdated": "2026-09-30"
     },
-    "Japan_Times_Alpha_Digital_Viewer%2C_The": {
+    "Japan_Times_Alpha_Digital_Viewer": {
         "name": "Japan Times Alpha Digital Viewer, The",
-        "stanza": "OCLC/Japan_Times_Alpha_Digital_Viewer%2C_The.txt",
-        "oclcStanzaId": "Japan_Times_Alpha_Digital_Viewer%2C_The",
+        "stanza": "OCLC/Japan_Times_Alpha_Digital_Viewer.txt",
+        "oclcStanzaId": "Japan_Times_Alpha_Digital_Viewer",
         "oclcIncludeFile": "databases/the_japan_times_alpha_digital_viewer.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Alpha_Digital_Viewer%2C_The",
         "lastUpdated": "2023-10-25"
     },
-    "Japan_Times_Digital%2C_The": {
+    "Japan_Times_Digital": {
         "name": "Japan Times Digital, The",
-        "stanza": "OCLC/Japan_Times_Digital%2C_The.txt",
-        "oclcStanzaId": "Japan_Times_Digital%2C_The",
+        "stanza": "OCLC/Japan_Times_Digital.txt",
+        "oclcStanzaId": "Japan_Times_Digital",
         "oclcIncludeFile": "databases/TheJapanTimesDigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital%2C_The",
         "lastUpdated": "2023-07-06"
     },
-    "Japan_Times_Digital_Archives%2C_The": {
+    "Japan_Times_Digital_Archives": {
         "name": "Japan Times Digital Archives, The",
-        "stanza": "OCLC/Japan_Times_Digital_Archives%2C_The.txt",
-        "oclcStanzaId": "Japan_Times_Digital_Archives%2C_The",
+        "stanza": "OCLC/Japan_Times_Digital_Archives.txt",
+        "oclcStanzaId": "Japan_Times_Digital_Archives",
         "oclcIncludeFile": "databases/TheJapanTimesDigitalArchives.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Japan_Times_Digital_Archives%2C_The",
         "lastUpdated": "2026-07-22"
