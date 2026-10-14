@@ -8234,7 +8234,7 @@
     "Sciencenow": {
         "name": "Sciencenow (Formerly F1000)",
         "stanza": "OCLC/Sciencenow.txt",
-        "oclcStanzaId": "Sciencenow_(Formerly_F1000)",
+        "oclcStanzaId": "Sciencenow_Formerly_F1000",
         "oclcIncludeFile": [
             "databases/sciwheel.txt",
             "databases/facultyopinions.txt"
