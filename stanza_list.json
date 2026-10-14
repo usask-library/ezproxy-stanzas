@@ -5423,10 +5423,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lamyline",
         "lastUpdated": "2010-11-08"
     },
-    "Latin-American_Studies": {
+    "Latin_American_Studies": {
         "name": "Latin-American Studies",
-        "stanza": "OCLC/Latin-American_Studies.txt",
-        "oclcStanzaId": "Latin-American_Studies",
+        "stanza": "OCLC/Latin_American_Studies.txt",
+        "oclcStanzaId": "Latin_American_Studies",
         "oclcIncludeFile": "databases/latinamericanstudies.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Latin-American_Studies",
         "lastUpdated": "2019-05-16"
