@@ -3243,7 +3243,7 @@
     "Economist_com": {
         "name": "Economist.com",
         "stanza": "OCLC/Economist_com.txt",
-        "oclcStanzaId": "Economist.com",
+        "oclcStanzaId": "Economist_com",
         "oclcIncludeFile": "databases/economist.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Economist.com",
         "lastUpdated": "2021-03-12"
