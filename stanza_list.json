@@ -2767,10 +2767,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Dar_AlMandumah",
         "lastUpdated": "2025-10-21"
     },
-    "Database_of_Recorded_American_Music": {
+    "Database_of_Recorded_American_Music_DRAM": {
         "name": "Database of Recorded American Music (DRAM)",
-        "stanza": "OCLC/Database_of_Recorded_American_Music.txt",
-        "oclcStanzaId": "Database_of_Recorded_American_Music_(DRAM)",
+        "stanza": "OCLC/Database_of_Recorded_American_Music_DRAM.txt",
+        "oclcStanzaId": "Database_of_Recorded_American_Music_DRAM",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Database_of_Recorded_American_Music_(DRAM)",
         "lastUpdated": "2015-07-31"
     },
