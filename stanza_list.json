@@ -5872,26 +5872,26 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Max_Planck_Encyclopedia_of_Public_International_Law",
         "lastUpdated": "2015-10-08"
     },
-    "McGraw-Hill_eBook_Library": {
+    "McGraw_Hill_eBook_Library": {
         "name": "McGraw-Hill eBook Library",
-        "stanza": "OCLC/McGraw-Hill_eBook_Library.txt",
-        "oclcStanzaId": "McGraw-Hill_eBook_Library",
+        "stanza": "OCLC/McGraw_Hill_eBook_Library.txt",
+        "oclcStanzaId": "McGraw_Hill_eBook_Library",
         "oclcIncludeFile": "databases/mcgrawhillebook.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_eBook_Library",
         "lastUpdated": "2019-07-11"
     },
-    "McGraw-Hill_Education": {
+    "McGraw_Hill_Education": {
         "name": "McGraw-Hill Education",
-        "stanza": "OCLC/McGraw-Hill_Education.txt",
-        "oclcStanzaId": "McGraw-Hill_Education",
+        "stanza": "OCLC/McGraw_Hill_Education.txt",
+        "oclcStanzaId": "McGraw_Hill_Education",
         "oclcIncludeFile": "databases/mheducation.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Education",
         "lastUpdated": "2021-10-01"
     },
-    "McGraw-Hill_Medical": {
+    "McGraw_Hill_Medical": {
         "name": "McGraw-Hill Medical",
-        "stanza": "OCLC/McGraw-Hill_Medical.txt",
-        "oclcStanzaId": "McGraw-Hill_Medical",
+        "stanza": "OCLC/McGraw_Hill_Medical.txt",
+        "oclcStanzaId": "McGraw_Hill_Medical",
         "oclcIncludeFile": "databases/mhmedical.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/McGraw-Hill_Medical",
         "lastUpdated": "2026-02-26"
