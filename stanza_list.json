@@ -2471,10 +2471,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_Earthscape",
         "lastUpdated": "2004-10-21"
     },
-    "Columbia_Gazetteer_of_the_World_The": {
+    "Columbia_Gazetteer_of_the_World": {
         "name": "Columbia Gazetteer of the World, The",
-        "stanza": "OCLC/Columbia_Gazetteer_of_the_World_The.txt",
-        "oclcStanzaId": "Columbia_Gazetteer_of_the_World_The",
+        "stanza": "OCLC/Columbia_Gazetteer_of_the_World.txt",
+        "oclcStanzaId": "Columbia_Gazetteer_of_the_World",
         "oclcIncludeFile": "databases/the_columbia_gazetteer_of_the_world_1781538006073.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_Gazetteer_of_the_World_The",
         "lastUpdated": "2026-06-15"
