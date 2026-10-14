@@ -5934,10 +5934,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Media_Education_Foundation_Films",
         "lastUpdated": "2025-01-18"
     },
-    "Media_Names_and_Numbers": {
+    "Media_Names_Numbers": {
         "name": "Media Names & Numbers",
-        "stanza": "OCLC/Media_Names_and_Numbers.txt",
-        "oclcStanzaId": "Media_Names_%26_Numbers",
+        "stanza": "OCLC/Media_Names_Numbers.txt",
+        "oclcStanzaId": "Media_Names_Numbers",
         "oclcIncludeFile": "databases/sources.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Media_Names_%26_Numbers",
         "lastUpdated": "2021-05-11"
