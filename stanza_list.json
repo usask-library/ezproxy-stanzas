@@ -9512,9 +9512,9 @@
         "lastUpdated": "2023-08-18"
     },
     "What_Everyone_Needs_to_Know": {
-        "name": "What Everyone Needs to Know\u00ae",
+        "name": "What Everyone Needs to Know®",
         "stanza": "OCLC/What_Everyone_Needs_to_Know.txt",
-        "oclcStanzaId": "What_Everyone_Needs_to_Know%C2%AE",
+        "oclcStanzaId": "What_Everyone_Needs_to_KnowR",
         "oclcIncludeFile": "databases/wenk.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/What_Everyone_Needs_to_Know%C2%AE",
         "lastUpdated": "2026-06-08"
