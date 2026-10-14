@@ -9282,10 +9282,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Veritrade",
         "lastUpdated": "2019-03-26"
     },
-    "Verlag_C.H.Beck": {
+    "Verlag_C_H_Beck": {
         "name": "Verlag C.H.Beck",
-        "stanza": "OCLC/Verlag_C.H.Beck.txt",
-        "oclcStanzaId": "Verlag_C.H.Beck",
+        "stanza": "OCLC/Verlag_C_H_Beck.txt",
+        "oclcStanzaId": "Verlag_C_H_Beck",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_V/Verlag_C.H.Beck",
         "lastUpdated": "2023-11-30"
     },
