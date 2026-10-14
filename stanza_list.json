@@ -7496,9 +7496,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PrimateLit",
         "lastUpdated": "2016-12-16"
     },
-    "Privco": {
+    "PrivCo": {
         "name": "PrivCo",
-        "stanza": "OCLC/Privco.txt",
+        "stanza": "OCLC/PrivCo.txt",
         "oclcStanzaId": "PrivCo",
         "oclcIncludeFile": "databases/privco.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PrivCo",
