@@ -4546,7 +4546,7 @@
     "iLaw": {
         "name": "i-Law",
         "stanza": "OCLC/iLaw.txt",
-        "oclcStanzaId": "i-Law",
+        "oclcStanzaId": "i_Law",
         "oclcIncludeFile": "databases/ilaw.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/i-Law",
         "lastUpdated": "2016-09-26"
