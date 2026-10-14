@@ -2835,10 +2835,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DesLibris",
         "lastUpdated": "2018-06-19"
     },
-    "Detail_(formerly_DETAIL_Inspiration)": {
+    "Detail": {
         "name": "Detail (formerly DETAIL Inspiration)",
-        "stanza": "OCLC/Detail_formerly_DETAIL_Inspiration.txt",
-        "oclcStanzaId": "Detail_(formerly_DETAIL_Inspiration)",
+        "stanza": "OCLC/Detail.txt",
+        "oclcStanzaId": "Detail_formerly_DETAIL_Inspiration",
         "oclcIncludeFile": "databases/detailonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Detail_(formerly_DETAIL_Inspiration)",
         "lastUpdated": "2026-09-23"
