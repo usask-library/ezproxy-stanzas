@@ -3078,10 +3078,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duke_University_Press_Books_and_Journals",
         "lastUpdated": "2024-06-03"
     },
-    "Duncker_and_Humblot_eLibrary": {
+    "Duncker_Humblot_eLibrary": {
         "name": "Duncker & Humblot eLibrary",
-        "stanza": "OCLC/Duncker_and_Humblot_eLibrary.txt",
-        "oclcStanzaId": "Duncker_%26_Humblot_eLibrary",
+        "stanza": "OCLC/Duncker_Humblot_eLibrary.txt",
+        "oclcStanzaId": "Duncker_Humblot_eLibrary",
         "oclcIncludeFile": "databases/dunckerhumblot.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/Duncker_%26_Humblot_eLibrary",
         "lastUpdated": "2022-06-10"
