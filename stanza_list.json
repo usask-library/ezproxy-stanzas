@@ -7110,11 +7110,11 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarly_Editions_Online",
         "lastUpdated": "2026-06-08"
     },
-    "Oxford_Scholarship_Online": {
+    "Oxford_Scholarship_Online_OSO": {
         "name": "Oxford Scholarship Online (OSO)",
-        "stanza": "OCLC/Oxford_Scholarship_Online.txt",
+        "stanza": "OCLC/Oxford_Scholarship_Online_OSO.txt",
         "note": "This resource also requires the Oxford Reference stanza",
-        "oclcStanzaId": "Oxford_Scholarship_Online_(OSO)",
+        "oclcStanzaId": "Oxford_Scholarship_Online_OSO",
         "oclcIncludeFile": "databases/oxfordscholarship.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Scholarship_Online_(OSO)",
         "lastUpdated": "2021-07-14"
