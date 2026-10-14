@@ -8567,10 +8567,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sociological_Research_Online",
         "lastUpdated": "2019-12-31"
     },
-    "Solicitors'_Journal": {
+    "Solicitors_Journal": {
         "name": "Solicitors' Journal",
-        "stanza": "OCLC/Solicitors'_Journal.txt",
-        "oclcStanzaId": "Solicitors'_Journal",
+        "stanza": "OCLC/Solicitors_Journal.txt",
+        "oclcStanzaId": "Solicitors_Journal",
         "oclcIncludeFile": "databases/solicitors_journal.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Solicitors'_Journal",
         "lastUpdated": "2026-02-10"
