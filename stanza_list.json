@@ -6568,10 +6568,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Review_of_Books",
         "lastUpdated": "2018-07-25"
     },
-    "New_York_Times": {
+    "New_York_Times_NYT": {
         "name": "New York Times (NYT)",
-        "stanza": "OCLC/New_York_Times.txt",
-        "oclcStanzaId": "New_York_Times_(NYT)",
+        "stanza": "OCLC/New_York_Times_NYT.txt",
+        "oclcStanzaId": "New_York_Times_NYT",
         "oclcIncludeFile": "databases/nytimes.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/New_York_Times_(NYT)",
         "lastUpdated": "2023-02-22"
