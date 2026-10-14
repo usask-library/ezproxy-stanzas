@@ -3197,7 +3197,7 @@
     "EBSCO_LinkSource": {
         "name": "Internal: EBSCO LinkSource",
         "stanza": "OCLC/EBSCO_LinkSource.txt",
-        "oclcStanzaId": "Internal%3A_EBSCO_LinkSource",
+        "oclcStanzaId": "Internal_EBSCO_LinkSource",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Internal%3A_EBSCO_LinkSource",
         "lastUpdated": "2024-04-10"
     },
