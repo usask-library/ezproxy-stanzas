@@ -8881,10 +8881,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Thesaurus_Linguae_Graecae",
         "lastUpdated": "2024-01-16"
     },
-    "The_Age": {
+    "The_Age_Digital_Edition": {
         "name": "The Age (Digital Edition)",
-        "stanza": "OCLC/The_Age.txt",
-        "oclcStanzaId": "The_Age_(Digital_Edition)",
+        "stanza": "OCLC/The_Age_Digital_Edition.txt",
+        "oclcStanzaId": "The_Age_Digital_Edition",
         "oclcIncludeFile": "databases/theage.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/The_Age_(Digital_Edition)",
         "lastUpdated": "2019-02-14"
