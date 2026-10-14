@@ -7591,10 +7591,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/PsycCRITIQUES",
         "lastUpdated": "2006-06-12"
     },
-    "Psychiatrist": {
+    "Psychiatrist_com": {
         "name": "Psychiatrist.com",
-        "stanza": "OCLC/Psychiatrist.txt",
-        "oclcStanzaId": "Psychiatrist.com",
+        "stanza": "OCLC/Psychiatrist_com.txt",
+        "oclcStanzaId": "Psychiatrist_com",
         "oclcIncludeFile": "databases/psychiatrist.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_P/Psychiatrist.com",
         "lastUpdated": "2022-07-15"
