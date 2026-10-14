@@ -5793,10 +5793,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MarketLine_Advantage",
         "lastUpdated": "2025-06-02"
     },
-    "MarketResearch.com_Academic": {
+    "MarketResearch_com_Academic": {
         "name": "MarketResearch.com Academic",
-        "stanza": "OCLC/MarketResearch.com_Academic.txt",
-        "oclcStanzaId": "MarketResearch.com_Academic",
+        "stanza": "OCLC/MarketResearch_com_Academic.txt",
+        "oclcStanzaId": "MarketResearch_com_Academic",
         "oclcIncludeFile": "databases/marketresearch.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MarketResearch.com_Academic",
         "lastUpdated": "2026-08-03"
