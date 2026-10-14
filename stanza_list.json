@@ -6398,10 +6398,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_N/Naxos",
         "lastUpdated": "2025-05-30"
     },
-    "Naxos_Music_Library_(Japanese_Version)": {
+    "Naxos_Music_Library_Japanese_Version": {
         "name": "Naxos Music Library (Japanese Version)",
-        "stanza": "OCLC/Naxos_Music_Library_(Japanese_Version).txt",
-        "oclcStanzaId": "Naxos_Music_Library_(Japanese_Version)",
+        "stanza": "OCLC/Naxos_Music_Library_Japanese_Version.txt",
+        "oclcStanzaId": "Naxos_Music_Library_Japanese_Version",
         "oclcIncludeFile": "databases/naxos_japan.txt",
         "rules": [
             {
