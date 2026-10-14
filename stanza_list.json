@@ -4001,10 +4001,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GIBLIB",
         "lastUpdated": "2021-04-22"
     },
-    "GIDEON": {
+    "GIDEON_Global_Infectious_Diseases_and_Epidemiology_Online_Network": {
         "name": "GIDEON (Global Infectious Diseases and Epidemiology Online Network)",
-        "stanza": "OCLC/GIDEON.txt",
-        "oclcStanzaId": "GIDEON_(Global_Infectious_Diseases_and_Epidemiology_Online_Network)",
+        "stanza": "OCLC/GIDEON_Global_Infectious_Diseases_and_Epidemiology_Online_Network.txt",
+        "oclcStanzaId": "GIDEON_Global_Infectious_Diseases_and_Epidemiology_Online_Network",
         "oclcIncludeFile": "databases/gideononline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GIDEON_(Global_Infectious_Diseases_and_Epidemiology_Online_Network)",
         "lastUpdated": "2022-06-21"
