@@ -3171,9 +3171,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebrary",
         "lastUpdated": "2023-08-29"
     },
-    "EBSCOhost": {
+    "EBSCO_Information_Services": {
         "name": "EBSCO Information Services",
-        "stanza": "OCLC/EBSCOhost.txt",
+        "stanza": "OCLC/EBSCO_Information_Services.txt",
         "oclcStanzaId": "EBSCO_Information_Services",
         "oclcIncludeFile": "databases/ebscohost.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
