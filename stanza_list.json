@@ -3285,18 +3285,18 @@
         "stanza": "contrib/EHD_Online.txt",
         "url": "https://www.englishhistoricaldocuments.com/help-and-information/faqs#access"
     },
-    "eHRAF_Archaeology": {
+    "EHRAF_Archaeology_Human_Relations_Area_Files_at_Yale": {
         "name": "EHRAF Archaeology (Human Relations Area Files at Yale)",
-        "stanza": "OCLC/eHRAF_Archaeology.txt",
-        "oclcStanzaId": "EHRAF_Archaeology_(Human_Relations_Area_Files_at_Yale)",
+        "stanza": "OCLC/EHRAF_Archaeology_Human_Relations_Area_Files_at_Yale.txt",
+        "oclcStanzaId": "EHRAF_Archaeology_Human_Relations_Area_Files_at_Yale",
         "oclcIncludeFile": "databases/ehrafarchaeology.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EHRAF_Archaeology_(Human_Relations_Area_Files_at_Yale)",
         "lastUpdated": "2021-02-18"
     },
-    "eHRAF_World_Cultures": {
+    "EHRAF_World_Cultures_Human_Relations_Area_Files_at_Yale": {
         "name": "EHRAF World Cultures (Human Relations Area Files at Yale)",
-        "stanza": "OCLC/eHRAF_World_Cultures.txt",
-        "oclcStanzaId": "EHRAF_World_Cultures_(Human_Relations_Area_Files_at_Yale)",
+        "stanza": "OCLC/EHRAF_World_Cultures_Human_Relations_Area_Files_at_Yale.txt",
+        "oclcStanzaId": "EHRAF_World_Cultures_Human_Relations_Area_Files_at_Yale",
         "oclcIncludeFile": "databases/ehrafworldcultures.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EHRAF_World_Cultures_(Human_Relations_Area_Files_at_Yale)",
         "lastUpdated": "2021-02-18"
