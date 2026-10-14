@@ -9223,7 +9223,7 @@
     "US_Documents_Masterfile": {
         "name": "U.S. Documents Masterfile",
         "stanza": "OCLC/US_Documents_Masterfile.txt",
-        "oclcStanzaId": "U.S._Documents_Masterfile",
+        "oclcStanzaId": "U_S_Documents_Masterfile",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/U.S._Documents_Masterfile",
         "lastUpdated": "2018-04-02"
     },
