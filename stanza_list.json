@@ -2479,10 +2479,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_Gazetteer_of_the_World_The",
         "lastUpdated": "2026-06-15"
     },
-    "Columbia_International_Affairs_Online": {
+    "Columbia_International_Affairs_Online_CIAO": {
         "name": "Columbia International Affairs Online (CIAO)",
-        "stanza": "OCLC/Columbia_International_Affairs_Online.txt",
-        "oclcStanzaId": "Columbia_International_Affairs_Online_(CIAO)",
+        "stanza": "OCLC/Columbia_International_Affairs_Online_CIAO.txt",
+        "oclcStanzaId": "Columbia_International_Affairs_Online_CIAO",
         "oclcIncludeFile": "databases/ciao.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Columbia_International_Affairs_Online_(CIAO)",
         "lastUpdated": "2022-12-27"
