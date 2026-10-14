@@ -9007,10 +9007,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Transparent_Language",
         "lastUpdated": "2023-04-14"
     },
-    "Travel-42": {
+    "Travel_42": {
         "name": "Travel-42",
-        "stanza": "OCLC/Travel-42.txt",
-        "oclcStanzaId": "Travel-42",
+        "stanza": "OCLC/Travel_42.txt",
+        "oclcStanzaId": "Travel_42",
         "oclcIncludeFile": "databases/travel-42.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Travel-42",
         "lastUpdated": "2021-05-11"
