@@ -3721,7 +3721,7 @@
     "Faculty_Opinions": {
         "name": "Faculty Opinions (formerly F1000)",
         "stanza": "OCLC/Faculty_Opinions.txt",
-        "oclcStanzaId": "Faculty_Opinions_(formerly_F1000)",
+        "oclcStanzaId": "Faculty_Opinions_formerly_F1000",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Faculty_Opinions_(formerly_F1000)",
         "lastUpdated": "2022-05-13"
     },
