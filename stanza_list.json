@@ -6872,7 +6872,7 @@
     "Optica_Publishing_Group": {
         "name": "Optica Publishing Group (formerly OSA)",
         "stanza": "OCLC/Optica_Publishing_Group.txt",
-        "oclcStanzaId": "Optica_Publishing_Group_(formerly_OSA)",
+        "oclcStanzaId": "Optica_Publishing_Group_formerly_OSA",
         "oclcIncludeFile": "databases/osapublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Optica_Publishing_Group_(formerly_OSA)",
         "lastUpdated": "2025-02-17"
