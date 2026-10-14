@@ -7737,10 +7737,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/RDA_Tool_Kit",
         "lastUpdated": "2023-04-18"
     },
-    "Reach-Bureau_van_Dijk": {
+    "Reach_Bureau_van_Dijk": {
         "name": "Reach - Bureau van Dijk",
-        "stanza": "OCLC/Reach-Bureau_van_Dijk.txt",
-        "oclcStanzaId": "Reach_-_Bureau_van_Dijk",
+        "stanza": "OCLC/Reach_Bureau_van_Dijk.txt",
+        "oclcStanzaId": "Reach_Bureau_van_Dijk",
         "oclcIncludeFile": "databases/reach.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_R/Reach_-_Bureau_van_Dijk",
         "lastUpdated": "2022-07-28"
