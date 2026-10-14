@@ -9425,7 +9425,7 @@
     "Web_of_Science": {
         "name": "Web of Science (formerly Web of Knowledge)",
         "stanza": "OCLC/Web_of_Science.txt",
-        "oclcStanzaId": "Web_of_Science_(formerly_Web_of_Knowledge)",
+        "oclcStanzaId": "Web_of_Science_formerly_Web_of_Knowledge",
         "oclcIncludeFile": "databases/webofknowledge.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_W/Web_of_Science_(formerly_Web_of_Knowledge)",
         "lastUpdated": "2026-08-21"
