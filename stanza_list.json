@@ -2215,9 +2215,9 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CHEST_Publications",
         "lastUpdated": "2020-11-27"
     },
-    "Chicago_Manual_of_Style": {
+    "Chicago_Manual_of_Style_Online": {
         "name": "Chicago Manual of Style Online",
-        "stanza": "OCLC/Chicago_Manual_of_Style.txt",
+        "stanza": "OCLC/Chicago_Manual_of_Style_Online.txt",
         "oclcStanzaId": "Chicago_Manual_of_Style_Online",
         "oclcIncludeFile": "databases/chicagomanual.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Chicago_Manual_of_Style_Online",
