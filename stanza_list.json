@@ -6258,7 +6258,7 @@
     "MusicID_ARP": {
         "name": "MusicID ARP (formerly Academic Rights Press)",
         "stanza": "OCLC/MusicID_ARP.txt",
-        "oclcStanzaId": "MusicID_ARP_(formerly_Academic_Rights_Press)",
+        "oclcStanzaId": "MusicID_ARP_formerly_Academic_Rights_Press",
         "oclcIncludeFile": "databases/musicid.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/MusicID_ARP_(formerly_Academic_Rights_Press)",
         "lastUpdated": "2020-08-26"
