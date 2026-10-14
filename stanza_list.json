@@ -4429,10 +4429,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/ICE_Virtual_Library",
         "lastUpdated": "2014-12-01"
     },
-    "Ichushi-Web": {
+    "Ichushi_Web": {
         "name": "Ichushi-Web",
-        "stanza": "OCLC/Ichushi-Web.txt",
-        "oclcStanzaId": "Ichushi-Web",
+        "stanza": "OCLC/Ichushi_Web.txt",
+        "oclcStanzaId": "Ichushi_Web",
         "oclcIncludeFile": "databases/ichushi_web.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Ichushi-Web",
         "lastUpdated": "2022-06-22"
