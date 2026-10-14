@@ -3914,10 +3914,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Free_Medical",
         "lastUpdated": "2023-04-19"
     },
-    "Frost_and_Sullivan": {
+    "Frost_Sullivan": {
         "name": "Frost & Sullivan",
-        "stanza": "OCLC/Frost_and_Sullivan.txt",
-        "oclcStanzaId": "Frost_%26_Sullivan",
+        "stanza": "OCLC/Frost_Sullivan.txt",
+        "oclcStanzaId": "Frost_Sullivan",
         "oclcIncludeFile": "databases/frost.txt",
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_F/Frost_%26_Sullivan",
         "lastUpdated": "2023-08-28"
