@@ -8824,10 +8824,10 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Teaching_Times",
         "lastUpdated": "2023-04-25"
     },
-    "Techniques-Ingenieur": {
-        "name": "Techniques de l'Ing\u00e9nieur",
-        "stanza": "OCLC/Techniques-Ingenieur.txt",
-        "oclcStanzaId": "Techniques_de_l'Ing%C3%A9nieur",
+    "Techniques_de_lIngenieur": {
+        "name": "Techniques de l'Ingénieur",
+        "stanza": "OCLC/Techniques_de_lIngenieur.txt",
+        "oclcStanzaId": "Techniques_de_lIngenieur",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Techniques_de_l'Ing%C3%A9nieur",
         "lastUpdated": "2007-12-11"
     },
