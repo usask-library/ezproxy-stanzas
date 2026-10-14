@@ -6945,7 +6945,7 @@
     "Oxford_Academic": {
         "name": "Oxford Academic (formerly Oxford Journals)",
         "stanza": "OCLC/Oxford_Academic.txt",
-        "oclcStanzaId": "Oxford_Academic_(formerly_Oxford_Journals)",
+        "oclcStanzaId": "Oxford_Academic_formerly_Oxford_Journals",
         "oclcIncludeFile": "databases/oxfordjournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Oxford_Academic_(formerly_Oxford_Journals)",
         "lastUpdated": "2026-06-04"
