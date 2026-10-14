@@ -5710,7 +5710,7 @@
     "Lynda": {
         "name": "Lynda.com",
         "stanza": "OCLC/Lynda.txt",
-        "oclcStanzaId": "Lynda.com",
+        "oclcStanzaId": "Lynda_com",
         "oclcIncludeFile": "databases/lynda.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/Lynda.com",
         "lastUpdated": "2017-03-23"
