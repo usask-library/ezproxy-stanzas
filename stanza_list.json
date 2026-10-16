@@ -110,6 +110,13 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academia",
         "lastUpdated": "2019-09-13"
     },
+    "Academic_Writer": {
+        "name": "Academic Writer (formerly APA Style CENTRAL)",
+        "stanza": "OCLC/Academic_Writer.txt",
+        "oclcStanzaId": "Academic_Writer_formerly_APA_Style_CENTRAL",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academic_Writer_(formerly_APA_Style_CENTRAL)",
+        "lastUpdated": "2026-03-11"
+    },
     "Academy_of_Management": {
         "name": "Academy of Management",
         "stanza": "OCLC/Academy_of_Management.txt",
@@ -210,7 +217,7 @@
         "oclcStanzaId": "Adam_Matthew_Digital",
         "oclcIncludeFile": "databases/amdigital.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Adam_Matthew_Digital",
-        "lastUpdated": "2026-06-11"
+        "lastUpdated": "2026-10-16"
     },
     "Advanced_Intros": {
         "name": "Advanced Intros",
@@ -244,14 +251,6 @@
         "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Aesthetic_%26_Cosmetology_Video_Source",
         "lastUpdated": "2021-05-11"
     },
-    "Africa_Confidential": {
-        "name": "Africa-Confidential",
-        "stanza": "OCLC/Africa_Confidential.txt",
-        "oclcStanzaId": "Africa_Confidential",
-        "oclcIncludeFile": "databases/africaconfidential.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa-Confidential",
-        "lastUpdated": "2024-03-12"
-    },
     "African_Journals_Online": {
         "name": "African Journals Online",
         "stanza": "OCLC/African_Journals_Online.txt",
@@ -267,6 +266,14 @@
         "oclcStanzaId": "Africa_Commons",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa_Commons",
         "lastUpdated": "2022-12-02"
+    },
+    "Africa_Confidential": {
+        "name": "Africa-Confidential",
+        "stanza": "OCLC/Africa_Confidential.txt",
+        "oclcStanzaId": "Africa_Confidential",
+        "oclcIncludeFile": "databases/africaconfidential.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Africa-Confidential",
+        "lastUpdated": "2024-03-12"
     },
     "Africa_Knowledge_Project": {
         "name": "Africa Knowledge Project",
@@ -777,7 +784,7 @@
     "AnatomyTV": {
         "name": "Anatomy.TV",
         "stanza": "OCLC/AnatomyTV.txt",
-        "oclcStanzaId": "AnatomyTV",
+        "oclcStanzaId": "Anatomy_TV",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Anatomy.TV",
         "oclcIncludeFile": "databases/anatomytv.txt",
         "lastUpdated": "2022-02-24"
@@ -798,13 +805,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Ancient_Books",
         "lastUpdated": "2024-04-11"
     },
-    "Journal_of_Animal_Science_and_Animal_Frontiers": {
-        "name": "Journal of Animal Science and Animal Frontiers",
-        "stanza": "OCLC/Journal_of_Animal_Science_and_Animal_Frontiers.txt",
-        "oclcStanzaId": "Journal_of_Animal_Science_and_Animal_Frontiers",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Animal_Science_and_Animal_Frontiers",
-        "lastUpdated": "2016-07-13"
-    },
     "Annual_Reviews": {
         "name": "Annual Reviews",
         "stanza": "OCLC/Annual_Reviews.txt",
@@ -824,7 +824,7 @@
     "AnthroSource2": {
         "name": "AnthroSource 2.0",
         "stanza": "OCLC/AnthroSource2.txt",
-        "oclcStanzaId": "AnthroSource_20",
+        "oclcStanzaId": "AnthroSource_2_0",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/AnthroSource_2.0",
         "oclcIncludeFile": "databases/anthrosource2.txt",
         "lastUpdated": "2015-07-23"
@@ -844,13 +844,6 @@
         "oclcIncludeFile": "databases/apa_psycnet.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/APA_PsycNET",
         "lastUpdated": "2026-03-13"
-    },
-    "Academic_Writer": {
-        "name": "Academic Writer (formerly APA Style CENTRAL)",
-        "stanza": "OCLC/Academic_Writer.txt",
-        "oclcStanzaId": "Academic_Writer_formerly_APA_Style_CENTRAL",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Academic_Writer_(formerly_APA_Style_CENTRAL)",
-        "lastUpdated": "2026-03-11"
     },
     "APA_Style_Manual": {
         "name": "APA Style Manual",
@@ -1085,7 +1078,7 @@
     "ASTM_Compass": {
         "name": "ASTM Compass 2.0",
         "stanza": "OCLC/ASTM_Compass.txt",
-        "oclcStanzaId": "ASTM_Compass_20",
+        "oclcStanzaId": "ASTM_Compass_2_0",
         "oclcIncludeFile": "databases/astm.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/ASTM_Compass_2.0",
         "lastUpdated": "2026-07-09"
@@ -1202,7 +1195,7 @@
     "AutopsyOnline": {
         "name": "Autopsy.Online",
         "stanza": "OCLC/AutopsyOnline.txt",
-        "oclcStanzaId": "AutopsyOnline",
+        "oclcStanzaId": "Autopsy_Online",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_A/Autopsy.Online",
         "oclcIncludeFile": "databases/autopsycenterofchicago.txt",
         "lastUpdated": "2021-03-17"
@@ -1341,6 +1334,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BiblioBoard",
         "lastUpdated": "2015-12-03"
     },
+    "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance": {
+        "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
+        "stanza": "OCLC/Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance.txt",
+        "oclcStanzaId": "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
+        "oclcIncludeFile": "databases/bihr.txt",
+        "lastUpdated": "2022-10-12"
+    },
     "BiblioLine": {
         "name": "BiblioLine",
         "stanza": "OCLC/BiblioLine.txt",
@@ -1362,14 +1363,6 @@
         "oclcStanzaId": "Bibliotele",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliotele",
         "lastUpdated": "2026-01-05"
-    },
-    "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance": {
-        "name": "Bibliographie Internationale de l'Humanisme et de la Renaissance",
-        "stanza": "OCLC/Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance.txt",
-        "oclcStanzaId": "Bibliographie_Internationale_de_lHumanisme_et_de_la_Renaissance",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/Bibliographie_Internationale_de_l'Humanisme_et_de_la_Renaissance",
-        "oclcIncludeFile": "databases/bihr.txt",
-        "lastUpdated": "2022-10-12"
     },
     "Bioatlas_and_Bioatlas_Vet": {
         "name": "Bioatlas and Bioatlas Vet",
@@ -1859,7 +1852,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2026-05-18"
+        "lastUpdated": "2026-10-15"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -2120,7 +2113,7 @@
     "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3": {
         "name": "CCH AnswerConnect and CCH Account Research Manager 3.0",
         "stanza": "OCLC/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.txt",
-        "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_30",
+        "oclcStanzaId": "CCH_AnswerConnect_and_CCH_Account_Research_Manager_3_0",
         "oclcIncludeFile": "databases/cch_answerconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/CCH_AnswerConnect_and_CCH_Account_Research_Manager_3.0",
         "lastUpdated": "2024-04-05"
@@ -3101,14 +3094,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_D/DynaMed",
         "lastUpdated": "2021-12-06"
     },
-    "e_Marefa": {
-        "name": "e-Marefa",
-        "stanza": "OCLC/e_Marefa.txt",
-        "oclcStanzaId": "E_Marefa",
-        "oclcIncludeFile": "databases/e-marefa.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/E-Marefa",
-        "lastUpdated": "2018-05-16"
-    },
     "East_View_Information_Services_Inc": {
         "name": "East View Information Services Inc",
         "stanza": "OCLC/East_View_Information_Services_Inc.txt",
@@ -3171,14 +3156,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Ebrary",
         "lastUpdated": "2023-08-29"
     },
-    "EBSCO_Information_Services": {
-        "name": "EBSCO Information Services",
-        "stanza": "OCLC/EBSCO_Information_Services.txt",
-        "oclcStanzaId": "EBSCO_Information_Services",
-        "oclcIncludeFile": "databases/ebscohost.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
-        "lastUpdated": "2026-06-08"
-    },
     "EBSCO_A_to_Z": {
         "name": "EBSCO A-to-Z",
         "stanza": "OCLC/EBSCO_A_to_Z.txt",
@@ -3193,6 +3170,14 @@
         "oclcStanzaId": "EBSCO_Electronic_Journals_Service",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Electronic_Journals_Service",
         "lastUpdated": "2015-11-18"
+    },
+    "EBSCO_Information_Services": {
+        "name": "EBSCO Information Services",
+        "stanza": "OCLC/EBSCO_Information_Services.txt",
+        "oclcStanzaId": "EBSCO_Information_Services",
+        "oclcIncludeFile": "databases/ebscohost.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EBSCO_Information_Services",
+        "lastUpdated": "2026-06-08"
     },
     "EBSCO_LinkSource": {
         "name": "Internal: EBSCO LinkSource",
@@ -3679,6 +3664,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/Explorer_for_Institutions",
         "lastUpdated": "2023-09-07"
     },
+    "e_Marefa": {
+        "name": "e-Marefa",
+        "stanza": "OCLC/e_Marefa.txt",
+        "oclcStanzaId": "E_Marefa",
+        "oclcIncludeFile": "databases/e-marefa.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/E-Marefa",
+        "lastUpdated": "2018-05-16"
+    },
     "Factiva": {
         "name": "Factiva",
         "stanza": "OCLC/Factiva.txt",
@@ -4087,7 +4080,7 @@
         "oclcStanzaId": "Grant_Connect",
         "oclcIncludeFile": "databases/grantconnect.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/Grant_Connect",
-        "lastUpdated": "2021-05-11"
+        "lastUpdated": "2026-10-09"
     },
     "Grant_Connect_Fr": {
         "name": "Grant Connect (Fr)",
@@ -4783,14 +4776,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Intellect_Discover",
         "lastUpdated": "2023-02-27"
     },
-    "Inter_Research_Science_Publisher": {
-        "name": "Inter-Research Science Publisher",
-        "stanza": "OCLC/Inter_Research_Science_Publisher.txt",
-        "oclcStanzaId": "Inter_Research_Science_Publisher",
-        "oclcIncludeFile": "databases/inter-research_science_publisher.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inter-Research_Science_Publisher",
-        "lastUpdated": "2019-10-29"
-    },
     "International_Association_for_Energy_Economics_IAEE": {
         "name": "International Association for Energy Economics (IAEE)",
         "stanza": "OCLC/International_Association_for_Energy_Economics_IAEE.txt",
@@ -4845,6 +4830,14 @@
         "oclcIncludeFile": "databases/internationalpress.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/International_Press",
         "lastUpdated": "2019-10-02"
+    },
+    "Inter_Research_Science_Publisher": {
+        "name": "Inter-Research Science Publisher",
+        "stanza": "OCLC/Inter_Research_Science_Publisher.txt",
+        "oclcStanzaId": "Inter_Research_Science_Publisher",
+        "oclcIncludeFile": "databases/inter-research_science_publisher.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/Inter-Research_Science_Publisher",
+        "lastUpdated": "2019-10-29"
     },
     "Invert": {
         "name": "Invert",
@@ -4901,14 +4894,6 @@
         "oclcIncludeFile": "databases/iwapublishing.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_I/IWA_Publishing",
         "lastUpdated": "2021-10-28"
-    },
-    "J_STAGE": {
-        "name": "J-STAGE",
-        "stanza": "OCLC/J_STAGE.txt",
-        "oclcStanzaId": "J_STAGE",
-        "oclcIncludeFile": "databases/jstage.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/J-STAGE",
-        "lastUpdated": "2020-05-01"
     },
     "JAMA": {
         "name": "JAMA",
@@ -5037,6 +5022,13 @@
         "oclcIncludeFile": "databases/jomi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JOMI_Surgical_Video_Journal",
         "lastUpdated": "2020-05-20"
+    },
+    "Journal_of_Animal_Science_and_Animal_Frontiers": {
+        "name": "Journal of Animal Science and Animal Frontiers",
+        "stanza": "OCLC/Journal_of_Animal_Science_and_Animal_Frontiers.txt",
+        "oclcStanzaId": "Journal_of_Animal_Science_and_Animal_Frontiers",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Animal_Science_and_Animal_Frontiers",
+        "lastUpdated": "2016-07-13"
     },
     "Journal_of_Bone_and_Joint_Surgery_American_Volume": {
         "name": "Journal of Bone and Joint Surgery, American Volume, The",
@@ -5221,6 +5213,14 @@
         "oclcIncludeFile": "databases/jusmundi.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Jus_Mundi_-_Academic_Research",
         "lastUpdated": "2024-11-10"
+    },
+    "J_STAGE": {
+        "name": "J-STAGE",
+        "stanza": "OCLC/J_STAGE.txt",
+        "oclcStanzaId": "J_STAGE",
+        "oclcIncludeFile": "databases/jstage.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/J-STAGE",
+        "lastUpdated": "2020-05-01"
     },
     "Kaltura": {
         "name": "Kaltura",
@@ -5481,7 +5481,7 @@
     "LearningExpress_Library_3": {
         "name": "LearningExpress Library 3.0",
         "stanza": "OCLC/LearningExpress_Library_3.txt",
-        "oclcStanzaId": "LearningExpress_Library_30",
+        "oclcStanzaId": "LearningExpress_Library_3_0",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LearningExpress_Library_3.0",
         "lastUpdated": "2015-10-01"
     },
@@ -5847,7 +5847,7 @@
         "oclcStanzaId": "Mathematical_Sciences_Publishers",
         "oclcIncludeFile": "databases/msp.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Mathematical_Sciences_Publishers",
-        "lastUpdated": "2018-02-09"
+        "lastUpdated": "2026-10-09"
     },
     "MathSciNet": {
         "name": "MathSciNet",
@@ -6081,7 +6081,7 @@
         "oclcStanzaId": "Metropolitan_Opera_on_Demand",
         "oclcIncludeFile": "databases/metopera.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_M/Metropolitan_Opera_on_Demand",
-        "lastUpdated": "2023-11-07"
+        "lastUpdated": "2024-02-09"
     },
     "MGG_Online": {
         "name": "MGG Online",
@@ -6884,6 +6884,13 @@
         "oclcIncludeFile": "databases/orbis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/Orbis",
         "lastUpdated": "2022-07-28"
+    },
+    "OReilly_Learning": {
+        "name": "O'Reilly Learning (formerly Safari Books Online)",
+        "stanza": "OCLC/OReilly_Learning.txt",
+        "oclcStanzaId": "OReilly_Learning_formerly_Safari_Books_Online",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OReilly_Learning_(formerly_Safari_Books_Online)",
+        "lastUpdated": "2020-05-26"
     },
     "Origins_Online": {
         "name": "Origins Online",
@@ -8083,13 +8090,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAE_MOBILUS",
         "lastUpdated": "2024-10-27"
     },
-    "OReilly_Learning": {
-        "name": "O'Reilly Learning (formerly Safari Books Online)",
-        "stanza": "OCLC/OReilly_Learning.txt",
-        "oclcStanzaId": "OReilly_Learning_formerly_Safari_Books_Online",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_O/OReilly_Learning_(formerly_Safari_Books_Online)",
-        "lastUpdated": "2020-05-26"
-    },
     "Sagamore_Publishing": {
         "name": "Sagamore Publishing",
         "stanza": "OCLC/Sagamore_Publishing.txt",
@@ -8130,14 +8130,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Salem_Press",
         "lastUpdated": "2021-06-02"
     },
-    "SAM_gov": {
-        "name": "SAM_gov (beta)",
-        "stanza": "OCLC/SAM_gov.txt",
-        "oclcStanzaId": "SAM_gov_beta",
-        "oclcIncludeFile": "databases/sam_gov.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAM.gov_(beta)",
-        "lastUpdated": "2019-12-03"
-    },
     "Sampling_Theory_and_Image_Processing": {
         "name": "Sampling Theory and Image Processing",
         "stanza": "OCLC/Sampling_Theory_and_Image_Processing.txt",
@@ -8145,6 +8137,14 @@
         "oclcIncludeFile": "databases/stsip.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sampling_Theory_and_Image_Processing",
         "lastUpdated": "2019-12-31"
+    },
+    "SAM_gov": {
+        "name": "SAM_gov (beta)",
+        "stanza": "OCLC/SAM_gov.txt",
+        "oclcStanzaId": "SAM_gov_beta",
+        "oclcIncludeFile": "databases/sam_gov.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/SAM.gov_(beta)",
+        "lastUpdated": "2019-12-03"
     },
     "Sanford_Guide": {
         "name": "Sanford Guide",
@@ -8290,14 +8290,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciendo",
         "lastUpdated": "2024-08-27"
     },
-    "Scientific_NET_Trans_Tech_Publications": {
-        "name": "Scientific.NET - Trans Tech Publications",
-        "stanza": "OCLC/Scientific_NET_Trans_Tech_Publications.txt",
-        "oclcStanzaId": "Scientific_NET_Trans_Tech_Publications",
-        "oclcIncludeFile": "databases/scientific.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scientific.NET_-_Trans_Tech_Publications",
-        "lastUpdated": "2023-02-03"
-    },
     "Scientific_American": {
         "name": "Scientific American",
         "stanza": "OCLC/Scientific_American.txt",
@@ -8319,6 +8311,14 @@
         "oclcStanzaId": "Scientific_American_Surgery",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scientific_American_Surgery",
         "lastUpdated": "2014-11-05"
+    },
+    "Scientific_NET_Trans_Tech_Publications": {
+        "name": "Scientific.NET - Trans Tech Publications",
+        "stanza": "OCLC/Scientific_NET_Trans_Tech_Publications.txt",
+        "oclcStanzaId": "Scientific_NET_Trans_Tech_Publications",
+        "oclcIncludeFile": "databases/scientific.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Scientific.NET_-_Trans_Tech_Publications",
+        "lastUpdated": "2023-02-03"
     },
     "SciFinder": {
         "name": "SciFinder",
@@ -8667,6 +8667,14 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Springer_Publishing_Company_Connect",
         "lastUpdated": "2022-06-28"
     },
+    "SP_Global": {
+        "name": "S&P Global",
+        "stanza": "OCLC/SP_Global.txt",
+        "oclcStanzaId": "SP_Global",
+        "oclcIncludeFile": "databases/s_and_p_global.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S_and_P_Global",
+        "lastUpdated": "2025-03-31"
+    },
     "SRDS": {
         "name": "SRDS",
         "stanza": "OCLC/SRDS.txt",
@@ -8768,14 +8776,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Symptom_Media",
         "lastUpdated": "2024-01-11"
     },
-    "SP_Global": {
-        "name": "S&P Global",
-        "stanza": "OCLC/SP_Global.txt",
-        "oclcStanzaId": "SP_Global",
-        "oclcIncludeFile": "databases/s_and_p_global.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/S_and_P_Global",
-        "lastUpdated": "2025-03-31"
-    },
     "Taxnet_Pro": {
         "name": "Taxnet Pro",
         "stanza": "OCLC/Taxnet_Pro.txt",
@@ -8800,14 +8800,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/TaxWin",
         "lastUpdated": "2021-01-22"
     },
-    "Taylor_Francis_eBooks": {
-        "name": "Taylor & Francis eBooks",
-        "stanza": "OCLC/Taylor_Francis_eBooks.txt",
-        "oclcStanzaId": "Taylor_Francis_eBooks",
-        "oclcIncludeFile": "databases/tandfebooks.txt",
-        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Taylor_%26_Francis_eBooks",
-        "lastUpdated": "2021-07-02"
-    },
     "Taylor_and_Francis_Online": {
         "name": "Taylor and Francis Online",
         "stanza": "OCLC/Taylor_and_Francis_Online.txt",
@@ -8815,6 +8807,14 @@
         "oclcIncludeFile": "databases/tandfonline.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Taylor_and_Francis_Online",
         "lastUpdated": "2019-03-18"
+    },
+    "Taylor_Francis_eBooks": {
+        "name": "Taylor & Francis eBooks",
+        "stanza": "OCLC/Taylor_Francis_eBooks.txt",
+        "oclcStanzaId": "Taylor_Francis_eBooks",
+        "oclcIncludeFile": "databases/tandfebooks.txt",
+        "url": "https://help.oclc.org/?title=Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Taylor_%26_Francis_eBooks",
+        "lastUpdated": "2021-07-02"
     },
     "Teaching_Times": {
         "name": "Teaching Times",
@@ -8825,7 +8825,7 @@
         "lastUpdated": "2023-04-25"
     },
     "Techniques_de_lIngenieur": {
-        "name": "Techniques de l'Ingénieur",
+        "name": "Techniques de l'Ing\u00e9nieur",
         "stanza": "OCLC/Techniques_de_lIngenieur.txt",
         "oclcStanzaId": "Techniques_de_lIngenieur",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Techniques_de_l'Ing%C3%A9nieur",
@@ -9060,14 +9060,6 @@
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_T/Turnitin",
         "lastUpdated": "2011-01-11"
     },
-    "University_of_California_Press": {
-        "name": "University of California Press",
-        "stanza": "OCLC/University_of_California_Press.txt",
-        "oclcStanzaId": "University_of_California_Press",
-        "oclcIncludeFile": "databases/ucpress.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_California_Press",
-        "lastUpdated": "2021-06-15"
-    },
     "Uddannelsesmonitor": {
         "name": "Uddannelsesmonitor",
         "stanza": "OCLC/Uddannelsesmonitor.txt",
@@ -9091,14 +9083,6 @@
         "oclcIncludeFile": "databases/ulrichsweb.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/Ulrichsweb",
         "lastUpdated": "2017-06-27"
-    },
-    "UN_iLibrary": {
-        "name": "UN-iLibrary",
-        "stanza": "OCLC/UN_iLibrary.txt",
-        "oclcStanzaId": "UN_iLibrary",
-        "oclcIncludeFile": "databases/unilibrary.txt",
-        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/UN-iLibrary",
-        "lastUpdated": "2022-02-23"
     },
     "Underline_io": {
         "name": "Underline.io",
@@ -9139,6 +9123,14 @@
         "oclcIncludeFile": "databases/ubplj.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_Buckingham_Press",
         "lastUpdated": "2024-05-23"
+    },
+    "University_of_California_Press": {
+        "name": "University of California Press",
+        "stanza": "OCLC/University_of_California_Press.txt",
+        "oclcStanzaId": "University_of_California_Press",
+        "oclcIncludeFile": "databases/ucpress.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_of_California_Press",
+        "lastUpdated": "2021-06-15"
     },
     "University_of_Chicago_Press": {
         "name": "University of Chicago Press",
@@ -9211,6 +9203,14 @@
         "oclcIncludeFile": "databases/universitypressscholarship.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/University_Press_Scholarship_Online",
         "lastUpdated": "2021-11-24"
+    },
+    "UN_iLibrary": {
+        "name": "UN-iLibrary",
+        "stanza": "OCLC/UN_iLibrary.txt",
+        "oclcStanzaId": "UN_iLibrary",
+        "oclcIncludeFile": "databases/unilibrary.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_U/UN-iLibrary",
+        "lastUpdated": "2022-02-23"
     },
     "urbanNet_Lexicon": {
         "name": "urbanNet Lexicon",
@@ -9512,7 +9512,7 @@
         "lastUpdated": "2023-08-18"
     },
     "What_Everyone_Needs_to_Know": {
-        "name": "What Everyone Needs to Know®",
+        "name": "What Everyone Needs to Know\u00ae",
         "stanza": "OCLC/What_Everyone_Needs_to_Know.txt",
         "oclcStanzaId": "What_Everyone_Needs_to_KnowR",
         "oclcIncludeFile": "databases/wenk.txt",
