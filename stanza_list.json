@@ -1478,7 +1478,7 @@
         "oclcStanzaId": "BMJ",
         "oclcIncludeFile": "databases/bmjJournals.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/BMJ",
-        "lastUpdated": "2026-06-11"
+        "lastUpdated": "2026-10-19"
     },
     "BMJ_Learning": {
         "name": "BMJ Learning",
@@ -8236,8 +8236,7 @@
         "stanza": "OCLC/Sciencenow.txt",
         "oclcStanzaId": "Sciencenow_formerly_F1000",
         "oclcIncludeFile": [
-            "databases/sciwheel.txt",
-            "databases/facultyopinions.txt"
+            "databases/sciwheel.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_S/Sciencenow_(formerly_F1000)",
         "lastUpdated": "2022-05-18"
