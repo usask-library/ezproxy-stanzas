@@ -1,5 +1,14 @@
-T British Standards Online (Updated 20260303)
-U https://bsol.bsigroup.com/
+Title British Standards Online (updated 20261023)
+ByteServe https://knowledge\.bsigroup\.com/products/.*
+HTTPHeader -Request -Process Baggage
+HTTPHeader -Request -Process Next-Action
+HTTPHeader -Request -Process Next-Router-Prefetch
+HTTPHeader -Request -Process Next-Router-State-Tree
+HTTPHeader -Request -Process Next-Url
+HTTPHeader -Request -Process Rsc
+HTTPHeader -Request -Process Sentry-Trace
+HTTPHeader -Request -Process X-CSRF-Token
+URL https://bsol.bsigroup.com/
 HJ bsigroup.com
 HJ bsol.bsigroup.com
 HJ https://bsigroup.com

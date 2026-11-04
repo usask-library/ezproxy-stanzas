@@ -1732,7 +1732,7 @@
         "oclcStanzaId": "British_Standards_Online",
         "oclcIncludeFile": "databases/british_standards_online.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_B/British_Standards_Online",
-        "lastUpdated": "2026-03-03"
+        "lastUpdated": "2026-10-23"
     },
     "British_Universities_Film_Video_Council": {
         "name": "British Universities Film & Video Council",
@@ -1852,7 +1852,7 @@
         "oclcStanzaId": "Cairn",
         "oclcIncludeFile": "databases/cairn.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_C/Cairn",
-        "lastUpdated": "2026-10-15"
+        "lastUpdated": "2026-10-27"
     },
     "Caixin_Global": {
         "name": "Caixin Global",
@@ -3494,7 +3494,7 @@
             "databases/emerging_markets_research.txt"
         ],
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_E/EMIS",
-        "lastUpdated": "2017-05-23"
+        "lastUpdated": "2026-10-21"
     },
     "EMS_Press": {
         "name": "EMS Press (formerly EMS Publishing)",
@@ -4016,7 +4016,7 @@
         "oclcStanzaId": "GlobalData",
         "oclcIncludeFile": "databases/globaldatadisruptor.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_G/GlobalData",
-        "lastUpdated": "2025-03-14"
+        "lastUpdated": "2026-11-02"
     },
     "Global_Business_Traveler": {
         "name": "Global Business Traveler",
@@ -4916,7 +4916,7 @@
         "stanza": "OCLC/JapanKnowledge.txt",
         "oclcStanzaId": "JapanKnowledge",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/JapanKnowledge",
-        "lastUpdated": "2026-09-30"
+        "lastUpdated": "2026-10-27"
     },
     "Japan_Times_Alpha_Digital_Viewer": {
         "name": "Japan Times Alpha Digital Viewer, The",
@@ -5045,6 +5045,14 @@
         "oclcIncludeFile": "databases/jcm.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Chinese_Medicine",
         "lastUpdated": "2022-04-29"
+    },
+    "Journal_of_Drugs_in_Dermatology_JDD": {
+        "name": "Journal of Drugs in Dermatology JDD",
+        "stanza": "OCLC/Journal_of_Drugs_in_Dermatology_JDD.txt",
+        "oclcStanzaId": "Journal_of_Drugs_in_Dermatology_JDD",
+        "oclcIncludeFile": "databases/journal_of_drugs_in_dermatology_jdd_1793108686374.txt",
+        "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_J/Journal_of_Drugs_in_Dermatology_JDD",
+        "lastUpdated": "2026-10-27"
     },
     "Journal_of_Emergency_Medical_Services": {
         "name": "Journal of Emergency Medical Services",
@@ -5515,7 +5523,7 @@
         "oclcStanzaId": "LexisNexis",
         "oclcIncludeFile": "databases/lexisnexis.txt",
         "url": "https://help.oclc.org/Library_Management/EZproxy/EZproxy_database_stanzas/Database_stanzas_L/LexisNexis",
-        "lastUpdated": "2025-08-21"
+        "lastUpdated": "2026-11-02"
     },
     "LexisNexis_Legal_AU": {
         "name": "LexisNexis Legal AU",
